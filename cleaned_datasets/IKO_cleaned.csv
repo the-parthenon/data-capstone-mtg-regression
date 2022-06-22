@@ -1,0 +1,507 @@
+,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
+0,Adaptive Shimmerer,,5.0,{5},0.0,0.0,,"Flash
+Adaptive Shimmerer enters the battlefield with three +1/+1 counters on it.",common,Flash,,Creature
+1,Farfinder,,3.0,{3},1.0,1.0,,"Vigilance
+When Farfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,Vigilance,,Creature
+2,Mysterious Egg,,1.0,{1},0.0,2.0,,"Whenever this creature mutates, put a +1/+1 counter on it.",common,,,Creature
+3,Blade Banish,W,4.0,{3}{W},,,,Exile target creature with power 4 or greater.,common,,,Instant
+4,Checkpoint Officer,W,2.0,{1}{W},1.0,2.0,,"{1}{W}, {T}: Tap target creature.",common,,,Creature
+5,Coordinated Charge,W,5.0,{4}{W},,,,"Creatures you control get +2/+1 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant
+6,Cubwarden,W,4.0,{3}{W},3.0,5.0,,"Mutate {2}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Lifelink
+Whenever this creature mutates, create two 1/1 white Cat creature tokens with lifelink.",rare,"Lifelink, Mutate",,Creature
+7,Daysquad Marshal,W,4.0,{3}{W},3.0,3.0,,"When Daysquad Marshal enters the battlefield, create a 1/1 white Human Soldier creature token.",common,,,Creature
+8,Divine Arrow,W,2.0,{1}{W},,,,Divine Arrow deals 4 damage to target attacking or blocking creature.,common,,,Instant
+9,Drannith Healer,W,2.0,{1}{W},2.0,2.0,,"Whenever you cycle another card, you gain 1 life.
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,Cycling,,Creature
+10,Drannith Magistrate,W,2.0,{1}{W},1.0,3.0,,Your opponents can't cast spells from anywhere other than their hands.,rare,,,Creature
+11,Fight as One,W,1.0,{W},,,,"Choose one or both —
+• Target Human creature you control gets +1/+1 and gains indestructible until end of turn.
+• Target non-Human creature you control gets +1/+1 and gains indestructible until end of turn.",uncommon,,,Instant
+12,Flourishing Fox,W,1.0,{W},1.0,1.0,,"Whenever you cycle another card, put a +1/+1 counter on Flourishing Fox.
+Cycling {1} ({1}, Discard this card: Draw a card.)",uncommon,Cycling,,Creature
+13,Garrison Cat,W,1.0,{W},1.0,1.0,,"When Garrison Cat dies, create a 1/1 white Human Soldier creature token.",common,,,Creature
+14,Helica Glider,W,3.0,{2}{W},2.0,2.0,,Helica Glider enters the battlefield with your choice of a flying counter or a first strike counter on it.,common,,,Creature
+15,Huntmaster Liger,W,4.0,{3}{W},3.0,4.0,,"Mutate {2}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, other creatures you control get +X/+X until end of turn, where X is the number of times this creature has mutated.",uncommon,Mutate,,Creature
+16,Imposing Vantasaur,W,6.0,{5}{W},3.0,6.0,,"Vigilance
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,"Cycling, Vigilance",,Creature
+17,Keensight Mentor,W,3.0,{2}{W},1.0,4.0,,"When Keensight Mentor enters the battlefield, put a vigilance counter on target non-Human creature you control.
+{1}{W}, {T}: Put a +1/+1 counter on each creature you control with vigilance.",uncommon,,,Creature
+18,Lavabrink Venturer,W,3.0,{2}{W},3.0,3.0,,"As Lavabrink Venturer enters the battlefield, choose odd or even. (Zero is even.)
+Lavabrink Venturer has protection from each mana value of the chosen quality.",rare,,,Creature
+19,Light of Hope,W,1.0,{W},,,,"Choose one —
+• You gain 4 life.
+• Destroy target enchantment.
+• Put a +1/+1 counter on target creature.",common,,,Instant
+20,Luminous Broodmoth,W,4.0,{2}{W}{W},3.0,4.0,,"Flying
+Whenever a creature you control without flying dies, return it to the battlefield under its owner's control with a flying counter on it.",mythic,Flying,,Creature
+21,Majestic Auricorn,W,5.0,{4}{W},4.0,4.0,,"Mutate {3}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Vigilance
+Whenever this creature mutates, you gain 4 life.",uncommon,"Mutate, Vigilance",,Creature
+22,Maned Serval,W,2.0,{1}{W},1.0,4.0,,Vigilance,common,Vigilance,,Creature
+23,Mythos of Snapdax,W,4.0,{2}{W}{W},,,,"Each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest. If {B}{R} was spent to cast this spell, you choose the permanents for each player instead.",rare,,,Sorcery
+24,Pacifism,W,2.0,{1}{W},,,,"Enchant creature
+Enchanted creature can't attack or block.",common,Enchant,,Enchantment
+25,Patagia Tiger,W,5.0,{4}{W},3.0,4.0,,"Flying
+When Patagia Tiger enters the battlefield, target Human you control gets +2/+2 until end of turn.",common,Flying,,Creature
+26,Perimeter Sergeant,W,3.0,{2}{W},3.0,2.0,,"Whenever Perimeter Sergeant attacks, other Humans you control get +1/+0 until end of turn.",common,,,Creature
+27,Sanctuary Lockdown,W,3.0,{2}{W},,,,"Humans you control get +1/+1.
+{2}, Tap two untapped Humans you control: Tap target creature an opponent controls.",uncommon,,,Enchantment
+28,Savai Sabertooth,W,2.0,{1}{W},3.0,1.0,,,common,,,Creature
+29,Snare Tactician,W,3.0,{2}{W},2.0,3.0,,"Whenever you cycle a card, tap target creature an opponent controls.",common,,,Creature
+30,Solid Footing,W,1.0,{W},,,,"Flash
+Enchant creature
+Enchanted creature gets +1/+1.
+As long as enchanted creature has vigilance, it assigns combat damage equal to its toughness rather than its power.",common,"Enchant, Flash",,Enchantment
+31,Splendor Mare,W,3.0,{2}{W},3.0,3.0,,"Lifelink
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Splendor Mare, put a lifelink counter on target creature you control.",uncommon,"Cycling, Lifelink",,Creature
+32,Spontaneous Flight,W,3.0,{2}{W},,,,Target creature gets +2/+2 until end of turn. Put a flying counter on it.,common,,,Instant
+33,Stormwild Capridor,W,3.0,{2}{W},1.0,3.0,,"Flying
+If noncombat damage would be dealt to Stormwild Capridor, prevent that damage. Put a +1/+1 counter on Stormwild Capridor for each 1 damage prevented this way.",uncommon,Flying,,Creature
+34,Swallow Whole,W,1.0,{W},,,,"As an additional cost to cast this spell, tap an untapped creature you control.
+Exile target tapped creature. Put a +1/+1 counter on the creature tapped to pay this spell's additional cost.",uncommon,,,Sorcery
+35,Valiant Rescuer,W,2.0,{1}{W},3.0,1.0,,"Whenever you cycle another card for the first time each turn, create a 1/1 white Human Soldier creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Creature
+36,Vulpikeet,W,4.0,{3}{W},2.0,3.0,,"Mutate {2}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, put a +1/+1 counter on it.",common,"Flying, Mutate",,Creature
+37,Will of the All-Hunter,W,2.0,{1}{W},,,,"Target creature gets +2/+2 until end of turn. If it's blocking, instead put two +1/+1 counters on it.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Instant
+38,Aegis Turtle,U,1.0,{U},0.0,5.0,,,common,,,Creature
+39,Anticipate,U,2.0,{1}{U},,,,Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,common,,,Instant
+40,Archipelagore,U,7.0,{5}{U}{U},7.0,7.0,,"Mutate {5}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, tap up to X target creatures, where X is the number of times this creature has mutated. Those creatures don't untap during their controller's next untap step.",uncommon,Mutate,,Creature
+41,Avian Oddity,U,4.0,{3}{U},2.0,4.0,,"Flying
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle Avian Oddity, put a flying counter on target creature you control.",uncommon,"Cycling, Flying",,Creature
+42,Boon of the Wish-Giver,U,6.0,{4}{U}{U},,,,"Draw four cards.
+Cycling {1} ({1}, Discard this card: Draw a card.)",uncommon,Cycling,,Sorcery
+43,Capture Sphere,U,4.0,{3}{U},,,,"Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+When Capture Sphere enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",common,"Enchant, Flash",,Enchantment
+44,Convolute,U,3.0,{2}{U},,,,Counter target spell unless its controller pays {4}.,common,,,Instant
+45,Crystacean,U,4.0,{3}{U},1.0,6.0,,Flash,common,Flash,,Creature
+46,Dreamtail Heron,U,5.0,{4}{U},3.0,4.0,,"Mutate {3}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, draw a card.",common,"Flying, Mutate",,Creature
+47,Escape Protocol,U,2.0,{1}{U},,,,"Whenever you cycle a card, you may pay {1}. When you do, exile target artifact or creature you control, then return it to the battlefield under its owner's control.",uncommon,,,Enchantment
+48,Essence Scatter,U,2.0,{1}{U},,,,Counter target creature spell.,common,,,Instant
+49,Facet Reader,U,2.0,{1}{U},1.0,2.0,,"{1}, {T}: Draw a card, then discard a card.",common,,,Creature
+50,Frost Lynx,U,3.0,{2}{U},2.0,2.0,,"When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",common,,,Creature
+51,Frostveil Ambush,U,5.0,{3}{U}{U},,,,"Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,Cycling,,Instant
+52,Glimmerbell,U,2.0,{1}{U},1.0,3.0,,"Flying
+{1}{U}: Untap Glimmerbell.",common,Flying,,Creature
+53,Gust of Wind,U,4.0,{3}{U},,,,"This spell costs {2} less to cast if you control a creature with flying.
+Return target nonland permanent you don't control to its owner's hand.
+Draw a card.",common,,,Sorcery
+54,Hampering Snare,U,2.0,{1}{U},,,,"Creatures your opponents control get -2/-0 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant
+55,Keep Safe,U,2.0,{1}{U},,,,"Counter target spell that targets a permanent you control.
+Draw a card.",common,,,Instant
+56,Mystic Subdual,U,2.0,{1}{U},,,,"Flash
+Enchant creature
+Enchanted creature gets -2/-0 and loses all abilities. (Mutating onto the creature won't give it new abilities. It can gain abilities in other ways.)",uncommon,"Enchant, Flash",,Enchantment
+57,Mythos of Illuna,U,4.0,{2}{U}{U},,,,"Create a token that's a copy of target permanent. If {R}{G} was spent to cast this spell, instead create a token that's a copy of that permanent, except the token has ""When this permanent enters the battlefield, if it's a creature, it fights up to one target creature you don't control.""",rare,Fight,,Sorcery
+58,Neutralize,U,3.0,{1}{U}{U},,,,"Counter target spell.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Instant
+59,Of One Mind,U,3.0,{2}{U},,,,"This spell costs {2} less to cast if you control a Human creature and a non-Human creature.
+Draw two cards.",common,,,Sorcery
+60,Ominous Seas,U,2.0,{1}{U},,,,"Whenever you draw a card, put a foreshadow counter on Ominous Seas.
+Remove eight foreshadow counters from Ominous Seas: Create an 8/8 blue Kraken creature token.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Enchantment
+61,Phase Dolphin,U,3.0,{2}{U},1.0,4.0,,"Whenever Phase Dolphin attacks, another target attacking creature can't be blocked this turn.",common,,,Creature
+62,Pollywog Symbiote,U,2.0,{1}{U},1.0,3.0,,"Each creature spell you cast costs {1} less to cast if it has mutate.
+Whenever you cast a creature spell, if it has mutate, draw a card, then discard a card.",uncommon,,,Creature
+63,Pouncing Shoreshark,U,5.0,{4}{U},4.0,3.0,,"Mutate {3}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Whenever this creature mutates, you may return target creature an opponent controls to its owner's hand.",uncommon,"Flash, Mutate",,Creature
+64,Reconnaissance Mission,U,4.0,{2}{U}{U},,,,"Whenever a creature you control deals combat damage to a player, you may draw a card.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Enchantment
+65,Sea-Dasher Octopus,U,3.0,{1}{U}{U},2.0,2.0,,"Mutate {1}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Whenever this creature deals combat damage to a player, draw a card.",rare,"Flash, Mutate",,Creature
+66,Shark Typhoon,U,6.0,{5}{U},,,,"Whenever you cast a noncreature spell, create an X/X blue Shark creature token with flying, where X is that spell's mana value.
+Cycling {X}{1}{U} ({X}{1}{U}, Discard this card: Draw a card.)
+When you cycle Shark Typhoon, create an X/X blue Shark creature token with flying.",rare,Cycling,,Enchantment
+67,Startling Development,U,2.0,{1}{U},,,,"Until end of turn, target creature becomes a blue Serpent with base power and toughness 4/4.
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,Cycling,,Instant
+68,Thieving Otter,U,3.0,{2}{U},2.0,2.0,,"Whenever Thieving Otter deals damage to an opponent, draw a card.",common,,,Creature
+69,Voracious Greatshark,U,5.0,{3}{U}{U},5.0,4.0,,"Flash
+When Voracious Greatshark enters the battlefield, counter target artifact or creature spell.",rare,Flash,,Creature
+70,Wingfold Pteron,U,6.0,{5}{U},3.0,6.0,,Wingfold Pteron enters the battlefield with your choice of a flying counter or a hexproof counter on it. (A creature with hexproof can't be the target of spells or abilities your opponents control.),common,,,Creature
+71,Wingspan Mentor,U,3.0,{2}{U},1.0,3.0,,"When Wingspan Mentor enters the battlefield, put a flying counter on target non-Human creature you control.
+{2}{U}, {T}: Put a +1/+1 counter on each creature you control with flying.",uncommon,,,Creature
+72,Bastion of Remembrance,B,3.0,{2}{B},,,,"When Bastion of Remembrance enters the battlefield, create a 1/1 white Human Soldier creature token.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",uncommon,,,Enchantment
+73,Blitz Leech,B,6.0,{5}{B},5.0,2.0,,"Flash
+When Blitz Leech enters the battlefield, target creature an opponent controls gets -2/-2 until end of turn. Remove all counters from that creature.",common,Flash,,Creature
+74,Blood Curdle,B,4.0,{3}{B},,,,Destroy target creature. Put a menace counter on a creature you control. (It can't be blocked except by two or more creatures.),common,,,Instant
+75,Boot Nipper,B,2.0,{1}{B},2.0,1.0,,Boot Nipper enters the battlefield with your choice of a deathtouch counter or a lifelink counter on it.,common,,,Creature
+76,Bushmeat Poacher,B,4.0,{3}{B},2.0,4.0,,"{1}, {T}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness. Draw a card.",common,,,Creature
+77,Call of the Death-Dweller,B,3.0,{2}{B},,,,Return up to two target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a deathtouch counter on either of them. Then put a menace counter on either of them.,uncommon,,,Sorcery
+78,Cavern Whisperer,B,5.0,{4}{B},4.0,4.0,,"Mutate {3}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever this creature mutates, each opponent discards a card.",common,"Menace, Mutate",,Creature
+79,Chittering Harvester,B,6.0,{5}{B},4.0,6.0,,"Mutate {4}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, each opponent sacrifices a creature.",uncommon,Mutate,,Creature
+80,Corpse Churn,B,2.0,{1}{B},,,,"Mill three cards, then you may return a creature card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)",common,Mill,,Instant
+81,Dark Bargain,B,4.0,{3}{B},,,,Look at the top three cards of your library. Put two of them into your hand and the other into your graveyard. Dark Bargain deals 2 damage to you.,common,,,Instant
+82,Dead Weight,B,1.0,{B},,,,"Enchant creature
+Enchanted creature gets -2/-2.",common,Enchant,,Enchantment
+83,Dirge Bat,B,4.0,{2}{B}{B},3.0,3.0,,"Mutate {4}{B}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flash
+Flying
+Whenever this creature mutates, destroy target creature or planeswalker an opponent controls.",rare,"Flash, Flying, Mutate",,Creature
+84,Durable Coilbug,B,2.0,{1}{B},2.0,2.0,,{4}{B}: Return Durable Coilbug from your graveyard to your hand.,common,,,Creature
+85,Duskfang Mentor,B,3.0,{2}{B},1.0,3.0,,"When Duskfang Mentor enters the battlefield, put a lifelink counter on target non-Human creature you control.
+{1}{B}, {T}: Put a +1/+1 counter on each creature you control with lifelink.",uncommon,,,Creature
+86,Easy Prey,B,2.0,{1}{B},,,,"Destroy target creature with mana value 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Instant
+87,Extinction Event,B,4.0,{3}{B},,,,Choose odd or even. Exile each creature with mana value of the chosen quality. (Zero is even.),rare,,,Sorcery
+88,Gloom Pangolin,B,3.0,{2}{B},1.0,5.0,,,common,,,Creature
+89,Grimdancer,B,3.0,{1}{B}{B},3.0,3.0,,"Grimdancer enters the battlefield with your choice of two different counters on it from among menace, deathtouch, and lifelink.",uncommon,,,Creature
+90,Heartless Act,B,2.0,{1}{B},,,,"Choose one —
+• Destroy target creature with no counters on it.
+• Remove up to three counters from target creature.",uncommon,,,Instant
+91,Hunted Nightmare,B,3.0,{1}{B}{B},4.0,5.0,,"Menace
+When Hunted Nightmare enters the battlefield, target opponent puts a deathtouch counter on a creature they control.",rare,Menace,,Creature
+92,Insatiable Hemophage,B,4.0,{3}{B},3.0,3.0,,"Mutate {2}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Deathtouch
+Whenever this creature mutates, each opponent loses X life and you gain X life, where X is the number of times this creature has mutated.",uncommon,"Deathtouch, Mutate",,Creature
+93,Lurking Deadeye,B,4.0,{3}{B},4.0,2.0,,"Flash
+When Lurking Deadeye enters the battlefield, destroy target creature that was dealt damage this turn.",common,Flash,,Creature
+94,Memory Leak,B,3.0,{2}{B},,,,"Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it.
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,Cycling,,Sorcery
+95,Mutual Destruction,B,1.0,{B},,,,"This spell has flash as long as you control a permanent with flash.
+As an additional cost to cast this spell, sacrifice a creature.
+Destroy target creature.",common,,,Sorcery
+96,Mythos of Nethroi,B,3.0,{2}{B},,,,Destroy target nonland permanent if it's a creature or if {G}{W} was spent to cast this spell.,rare,,,Instant
+97,Nightsquad Commando,B,3.0,{2}{B},2.0,3.0,,"When Nightsquad Commando enters the battlefield, if you attacked this turn, create a 1/1 white Human Soldier creature token.",common,,,Creature
+98,Serrated Scorpion,B,1.0,{B},1.0,2.0,,"When Serrated Scorpion dies, it deals 2 damage to each opponent and you gain 2 life.",common,,,Creature
+99,Suffocating Fumes,B,3.0,{2}{B},,,,"Creatures your opponents control get -1/-1 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant
+100,Unbreakable Bond,B,5.0,{4}{B},,,,Return target creature card from your graveyard to the battlefield with a lifelink counter on it.,uncommon,,,Sorcery
+101,Unexpected Fangs,B,2.0,{1}{B},,,,Put a +1/+1 counter and a lifelink counter on target creature.,common,,,Instant
+102,Unlikely Aid,B,2.0,{1}{B},,,,"Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant
+103,Void Beckoner,B,8.0,{6}{B}{B},8.0,8.0,,"Deathtouch
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)
+When you cycle Void Beckoner, put a deathtouch counter on target creature you control.",uncommon,"Cycling, Deathtouch",,Creature
+104,Whisper Squad,B,1.0,{B},1.0,1.0,,"{1}{B}: Search your library for a card named Whisper Squad, put it onto the battlefield tapped, then shuffle.",common,,,Creature
+105,Zagoth Mamba,B,1.0,{B},1.0,1.0,,"Whenever this creature mutates, target creature an opponent controls gets -2/-2 until end of turn.",uncommon,,,Creature
+106,Blazing Volley,R,1.0,{R},,,,Blazing Volley deals 1 damage to each creature your opponents control.,common,,,Sorcery
+107,Blisterspit Gremlin,R,1.0,{R},1.0,1.0,,"{1}, {T}: Blisterspit Gremlin deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap Blisterspit Gremlin.",common,,,Creature
+108,Blitz of the Thunder-Raptor,R,2.0,{1}{R},,,,"Blitz of the Thunder-Raptor deals damage to target creature or planeswalker equal to the number of instant and sorcery cards in your graveyard. If that creature or planeswalker would die this turn, exile it instead.",uncommon,,,Instant
+109,Cathartic Reunion,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard two cards.
+Draw three cards.",common,,,Sorcery
+110,Clash of Titans,R,5.0,{3}{R}{R},,,,Target creature fights another target creature. (Each deals damage equal to its power to the other.),uncommon,Fight,,Instant
+111,Cloudpiercer,R,5.0,{4}{R},5.0,4.0,,"Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, you may discard a card. If you do, draw a card.",common,"Mutate, Reach",,Creature
+112,Drannith Stinger,R,2.0,{1}{R},2.0,2.0,,"Whenever you cycle another card, Drannith Stinger deals 1 damage to each opponent.
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,Cycling,,Creature
+113,Everquill Phoenix,R,4.0,{2}{R}{R},4.0,4.0,,"Mutate {3}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying
+Whenever this creature mutates, create a red artifact token named Feather with ""{1}, Sacrifice Feather: Return target Phoenix card from your graveyard to the battlefield tapped.""",rare,"Flying, Mutate",,Creature
+114,Ferocious Tigorilla,R,4.0,{3}{R},4.0,3.0,,Ferocious Tigorilla enters the battlefield with your choice of a trample counter or a menace counter on it. (A creature with menace can't be blocked except by two or more creatures.),common,,,Creature
+115,Fire Prophecy,R,2.0,{1}{R},,,,"Fire Prophecy deals 3 damage to target creature. You may put a card from your hand on the bottom of your library. If you do, draw a card.",common,,,Instant
+116,Flame Spill,R,3.0,{2}{R},,,,Flame Spill deals 4 damage to target creature. Excess damage is dealt to that creature's controller instead.,uncommon,,,Instant
+117,Footfall Crater,R,1.0,{R},,,,"Enchant land
+Enchanted land has ""{T}: Target creature gains trample and haste until end of turn.""
+Cycling {1} ({1}, Discard this card: Draw a card.)",uncommon,"Cycling, Enchant",,Enchantment
+118,Forbidden Friendship,R,2.0,{1}{R},,,,Create a 1/1 red Dinosaur creature token with haste and a 1/1 white Human Soldier creature token.,common,,,Sorcery
+119,Frenzied Raptor,R,3.0,{2}{R},4.0,2.0,,,common,,,Creature
+120,Frillscare Mentor,R,3.0,{2}{R},3.0,2.0,,"When Frillscare Mentor enters the battlefield, put a menace counter on target non-Human creature you control. (It can't be blocked except by two or more creatures.)
+{2}{R}, {T}: Put a +1/+1 counter on each creature you control with menace.",uncommon,,,Creature
+121,Go for Blood,R,2.0,{1}{R},,,,"Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Cycling {1} ({1}, Discard this card: Draw a card.)",common,"Cycling, Fight",,Sorcery
+122,Heightened Reflexes,R,1.0,{R},,,,Target creature gets +1/+0 until end of turn. Put a first strike counter on it.,common,,,Instant
+123,Lava Serpent,R,6.0,{5}{R},5.0,5.0,,"Haste
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,"Cycling, Haste",,Creature
+124,"Lukka, Coppercoat Outcast",R,5.0,{3}{R}{R},,,5.0,"[+1]: Exile the top three cards of your library. Creature cards exiled this way gain ""You may cast this card from exile as long as you control a Lukka planeswalker.""
+[−2]: Exile target creature you control, then reveal cards from the top of your library until you reveal a creature card with higher mana value. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+[−7]: Each creature you control deals damage equal to its power to each opponent.",mythic,,Legendary,Planeswalker
+125,Momentum Rumbler,R,4.0,{3}{R},3.0,3.0,,"Whenever Momentum Rumbler attacks, if it doesn't have first strike, put a first strike counter on it.
+Whenever Momentum Rumbler attacks, if it has first strike, it gains double strike until end of turn.",uncommon,,,Creature
+126,Mythos of Vadrok,R,4.0,{2}{R}{R},,,,"Mythos of Vadrok deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers. If {W}{U} was spent to cast this spell, until your next turn, those permanents can't attack or block and their activated abilities can't be activated.",rare,,,Sorcery
+127,Porcuparrot,R,4.0,{3}{R},3.0,4.0,,"Mutate {2}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+{T}: This creature deals X damage to any target, where X is the number of times this creature has mutated.",uncommon,Mutate,,Creature
+128,Prickly Marmoset,R,3.0,{2}{R},2.0,3.0,,"First strike
+Whenever you cycle a card, Prickly Marmoset gets +2/+0 until end of turn.",common,First strike,,Creature
+129,Pyroceratops,R,4.0,{3}{R},2.0,3.0,,"Trample
+Whenever you cast a noncreature spell, put a +1/+1 counter on Pyroceratops.",common,Trample,,Creature
+130,Raking Claws,R,2.0,{1}{R},,,,"Target creature gains double strike until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant
+131,Reptilian Reflection,R,3.0,{2}{R},,,,"Whenever you cycle a card, you may have Reptilian Reflection become a 5/4 Dinosaur creature with trample and haste in addition to its other types until end of turn.",uncommon,,,Enchantment
+132,Rooting Moloch,R,5.0,{4}{R},4.0,4.0,,"When Rooting Moloch enters the battlefield, exile target card with a cycling ability from your graveyard. Until the end of your next turn, you may play that card.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Creature
+133,Rumbling Rockslide,R,4.0,{3}{R},,,,Rumbling Rockslide deals damage to target creature equal to the number of lands you control.,common,,,Sorcery
+134,Sanctuary Smasher,R,6.0,{4}{R}{R},6.0,4.0,,"First strike
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Sanctuary Smasher, put a first strike counter on target creature you control.",uncommon,"Cycling, First strike",,Creature
+135,Shredded Sails,R,2.0,{1}{R},,,,"Choose one —
+• Destroy target artifact.
+• Shredded Sails deals 4 damage to target creature with flying.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant
+136,Spelleater Wolverine,R,3.0,{2}{R},3.0,2.0,,Spelleater Wolverine has double strike as long as there are three or more instant and/or sorcery cards in your graveyard.,common,,,Creature
+137,Tentative Connection,R,4.0,{3}{R},,,,"This spell costs {3} less to cast if you control a creature with menace.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",common,,,Sorcery
+138,Unpredictable Cyclone,R,5.0,{3}{R}{R},,,,"If a cycling ability of another nonland card would cause you to draw a card, instead exile cards from the top of your library until you exile a card that shares a card type with the cycled card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of your library in a random order.
+Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Enchantment
+139,Weaponize the Monsters,R,1.0,{R},,,,"{2}, Sacrifice a creature: Weaponize the Monsters deals 2 damage to any target.",uncommon,,,Enchantment
+140,"Yidaro, Wandering Monster",R,7.0,{5}{R}{R},8.0,8.0,,"Trample, haste
+Cycling {1}{R}
+When you cycle Yidaro, Wandering Monster, shuffle it into your library from your graveyard. If you've cycled a card named Yidaro, Wandering Monster four or more times this game, put it onto the battlefield from your graveyard instead. (Do this before you draw.)",rare,"Cycling, Haste, Trample",Legendary,Creature
+141,Adventurous Impulse,G,1.0,{G},,,,Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,common,,,Sorcery
+142,Almighty Brushwagg,G,1.0,{G},1.0,1.0,,"Trample
+{3}{G}: Almighty Brushwagg gets +3/+3 until end of turn.",common,Trample,,Creature
+143,Auspicious Starrix,G,5.0,{4}{G},6.0,6.0,,"Mutate {5}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, exile cards from the top of your library until you exile X permanent cards, where X is the number of times this creature has mutated. Put those permanent cards onto the battlefield.",uncommon,Mutate,,Creature
+144,Barrier Breach,G,3.0,{2}{G},,,,"Exile up to three target enchantments.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Instant
+145,Bristling Boar,G,4.0,{3}{G},4.0,3.0,,Bristling Boar can't be blocked by more than one creature.,common,,,Creature
+146,Charge of the Forever-Beast,G,3.0,{2}{G},,,,"As an additional cost to cast this spell, reveal a creature card from your hand.
+Charge of the Forever-Beast deals damage to target creature or planeswalker equal to the revealed card's power.",uncommon,,,Sorcery
+147,Colossification,G,7.0,{5}{G}{G},,,,"Enchant creature
+When Colossification enters the battlefield, tap enchanted creature.
+Enchanted creature gets +20/+20.",rare,Enchant,,Enchantment
+148,Essence Symbiote,G,2.0,{1}{G},2.0,2.0,,"Whenever a creature you control mutates, put a +1/+1 counter on that creature and you gain 2 life.",common,,,Creature
+149,Excavation Mole,G,3.0,{2}{G},3.0,3.0,,"Trample
+When Excavation Mole enters the battlefield, mill three cards.",common,"Mill, Trample",,Creature
+150,Exuberant Wolfbear,G,4.0,{3}{G},4.0,4.0,,"Whenever Exuberant Wolfbear attacks, you may change the base power and toughness of target Human you control to Exuberant Wolfbear's power and toughness until end of turn.",uncommon,,,Creature
+151,Fertilid,G,3.0,{2}{G},0.0,0.0,,"Fertilid enters the battlefield with two +1/+1 counters on it.
+{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.",common,,,Creature
+152,Flycatcher Giraffid,G,5.0,{4}{G},3.0,5.0,,Flycatcher Giraffid enters the battlefield with your choice of a vigilance counter or a reach counter on it.,common,,,Creature
+153,Fully Grown,G,3.0,{2}{G},,,,Target creature gets +3/+3 until end of turn. Put a trample counter on it.,common,,,Instant
+154,Gemrazer,G,4.0,{3}{G},4.0,4.0,,"Mutate {1}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach, trample
+Whenever this creature mutates, destroy target artifact or enchantment an opponent controls.",rare,"Mutate, Reach, Trample",,Creature
+155,Glowstone Recluse,G,3.0,{2}{G},2.0,3.0,,"Mutate {3}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Reach
+Whenever this creature mutates, put two +1/+1 counters on it.",uncommon,"Mutate, Reach",,Creature
+156,Greater Sandwurm,G,7.0,{5}{G}{G},7.0,7.0,,"Greater Sandwurm can't be blocked by creatures with power 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Creature
+157,Honey Mammoth,G,6.0,{4}{G}{G},6.0,6.0,,"When Honey Mammoth enters the battlefield, you gain 4 life.",common,,,Creature
+158,Hornbash Mentor,G,3.0,{2}{G},3.0,3.0,,"When Hornbash Mentor enters the battlefield, put a trample counter on target non-Human creature you control.
+{2}{G}, {T}: Put a +1/+1 counter on each creature you control with trample.",uncommon,,,Creature
+159,Humble Naturalist,G,2.0,{1}{G},1.0,3.0,,{T}: Add one mana of any color. Spend this mana only to cast a creature spell.,common,,,Creature
+160,Ivy Elemental,G,1.0,{X}{G},0.0,0.0,,Ivy Elemental enters the battlefield with X +1/+1 counters on it.,uncommon,,,Creature
+161,"Kogla, the Titan Ape",G,6.0,{3}{G}{G}{G},7.0,6.0,,"When Kogla, the Titan Ape enters the battlefield, it fights up to one target creature you don't control.
+Whenever Kogla attacks, destroy target artifact or enchantment defending player controls.
+{1}{G}: Return target Human you control to its owner's hand. Kogla gains indestructible until end of turn.",rare,Fight,Legendary,Creature
+162,Lead the Stampede,G,3.0,{2}{G},,,,Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.,uncommon,,,Sorcery
+163,Migration Path,G,4.0,{3}{G},,,,"Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Sorcery
+164,Migratory Greathorn,G,4.0,{3}{G},3.0,4.0,,"Mutate {2}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,Mutate,,Creature
+165,Monstrous Step,G,5.0,{4}{G},,,,"Target creature gets +7/+7 until end of turn. Up to one other target creature blocks it this turn if able.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Sorcery
+166,Mosscoat Goriak,G,3.0,{2}{G},2.0,4.0,,Vigilance,common,Vigilance,,Creature
+167,Mythos of Brokkos,G,4.0,{2}{G}{G},,,,"If {U}{B} was spent to cast this spell, search your library for a card, put that card into your graveyard, then shuffle.
+Return up to two permanent cards from your graveyard to your hand.",rare,,,Sorcery
+168,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant
+169,Ram Through,G,2.0,{1}{G},,,,"Target creature you control deals damage equal to its power to target creature you don't control. If the creature you control has trample, excess damage is dealt to that creature's controller instead.",common,,,Instant
+170,Sudden Spinnerets,G,1.0,{G},,,,Target creature gets +1/+3 until end of turn. Put a reach counter on it. Untap it.,common,,,Instant
+171,Survivors' Bond,G,2.0,{1}{G},,,,"Choose one or both —
+• Return target Human creature card from your graveyard to your hand.
+• Return target non-Human creature card from your graveyard to your hand.",common,,,Sorcery
+172,Thwart the Enemy,G,3.0,{2}{G},,,,Prevent all damage that would be dealt this turn by creatures your opponents control.,common,,,Instant
+173,Titanoth Rex,G,9.0,{7}{G}{G},11.0,11.0,,"Trample
+Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)
+When you cycle Titanoth Rex, put a trample counter on target creature you control.",uncommon,"Cycling, Trample",,Creature
+174,"Vivien, Monsters' Advocate",G,5.0,{3}{G}{G},,,3.0,"You may look at the top card of your library any time.
+You may cast creature spells from the top of your library.
+[+1]: Create a 3/3 green Beast creature token. Put your choice of a vigilance counter, a reach counter, or a trample counter on it.
+[−2]: When you cast your next creature spell this turn, search your library for a creature card with lesser mana value, put it onto the battlefield, then shuffle.",mythic,,Legendary,Planeswalker
+175,Wilt,G,2.0,{1}{G},,,,"Destroy target artifact or enchantment.
+Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant
+176,Back for More,"B, G",6.0,{4}{B}{G},,,,"Return target creature card from your graveyard to the battlefield. When you do, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",uncommon,Fight,,Instant
+177,Boneyard Lurker,"B, G",4.0,{2}{B}{G},4.0,4.0,,"Mutate {2}{B/G}{B/G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target permanent card from your graveyard to your hand.",uncommon,Mutate,,Creature
+178,"Brokkos, Apex of Forever","B, G, U",5.0,{2}{B}{G}{U},6.0,6.0,,"Mutate {2}{U/B}{G}{G} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Trample
+You may cast Brokkos, Apex of Forever from your graveyard using its mutate ability.",mythic,"Mutate, Trample",Legendary,Creature
+179,Channeled Force,"R, U",4.0,{2}{U}{R},,,,"As an additional cost to cast this spell, discard X cards.
+Target player draws X cards. Channeled Force deals X damage to up to one target creature or planeswalker.",uncommon,,,Instant
+180,"Chevill, Bane of Monsters","B, G",2.0,{B}{G},1.0,3.0,,"Deathtouch
+At the beginning of your upkeep, if your opponents control no permanents with bounty counters on them, put a bounty counter on target creature or planeswalker an opponent controls.
+Whenever a permanent an opponent controls with a bounty counter on it dies, you gain 3 life and draw a card.",mythic,Deathtouch,Legendary,Creature
+181,Death's Oasis,"B, G, W",3.0,{W}{B}{G},,,,"Whenever a nontoken creature you control dies, mill two cards. Then return a creature card with lesser mana value than the creature that died from your graveyard to your hand.
+{1}, Sacrifice Death's Oasis: You gain life equal to the highest mana value among creatures you control.",rare,Mill,,Enchantment
+182,Dire Tactics,"B, W",2.0,{W}{B},,,,"Exile target creature. If you don't control a Human, you lose life equal to that creature's toughness.",uncommon,,,Instant
+183,Eerie Ultimatum,"B, G, W",7.0,{W}{W}{B}{B}{B}{G}{G},,,,Return any number of permanent cards with different names from your graveyard to the battlefield.,rare,,,Sorcery
+184,Emergent Ultimatum,"B, G, U",7.0,{B}{B}{G}{G}{G}{U}{U},,,,Search your library for up to three monocolored cards with different names and exile them. An opponent chooses one of those cards. Shuffle that card into your library. You may cast the other cards without paying their mana costs. Exile Emergent Ultimatum.,rare,,,Sorcery
+185,Frondland Felidar,"G, W",4.0,{2}{G}{W},3.0,5.0,,"Vigilance
+Creatures you control with vigilance have ""{1}, {T}: Tap target creature.""",rare,Vigilance,,Creature
+186,General Kudro of Drannith,"B, W",3.0,{1}{W}{B},3.0,3.0,,"Other Humans you control get +1/+1.
+Whenever General Kudro of Drannith or another Human enters the battlefield under your control, exile target card from an opponent's graveyard.
+{2}, Sacrifice two Humans: Destroy target creature with power 4 or greater.",mythic,,Legendary,Creature
+187,General's Enforcer,"B, W",2.0,{W}{B},2.0,3.0,,"Legendary Humans you control have indestructible.
+{2}{W}{B}: Exile target card from a graveyard. If it was a creature card, create a 1/1 white Human Soldier creature token.",uncommon,,,Creature
+188,Genesis Ultimatum,"G, R, U",7.0,{G}{G}{U}{U}{U}{R}{R},,,,Look at the top five cards of your library. Put any number of permanent cards from among them onto the battlefield and the rest into your hand. Exile Genesis Ultimatum.,rare,,,Sorcery
+189,"Illuna, Apex of Wishes","G, R, U",5.0,{2}{G}{U}{R},6.0,6.0,,"Mutate {3}{R/G}{U}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying, trample
+Whenever this creature mutates, exile cards from the top of your library until you exile a nonland permanent card. Put that card onto the battlefield or into your hand.",mythic,"Flying, Mutate, Trample",Legendary,Creature
+190,Inspired Ultimatum,"R, U, W",7.0,{U}{U}{R}{R}{R}{W}{W},,,,"Target player gains 5 life, Inspired Ultimatum deals 5 damage to any target, then you draw five cards.",rare,,,Sorcery
+191,"Kinnan, Bonder Prodigy","G, U",2.0,{G}{U},2.0,2.0,,"Whenever you tap a nonland permanent for mana, add one mana of any type that permanent produced.
+{5}{G}{U}: Look at the top five cards of your library. You may put a non-Human creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",mythic,,Legendary,Creature
+192,Labyrinth Raptor,"B, R",2.0,{B}{R},2.0,2.0,,"Menace
+Whenever a creature you control with menace becomes blocked, defending player sacrifices a creature blocking it.
+{B}{R}: Creatures you control with menace get +1/+0 until end of turn.",rare,Menace,,Creature
+193,Lore Drakkis,"R, U",3.0,{1}{U}{R},2.0,3.0,,"Mutate {U/R}{U/R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target instant or sorcery card from your graveyard to your hand.",uncommon,Mutate,,Creature
+194,Narset of the Ancient Way,"R, U, W",4.0,{1}{U}{R}{W},,,4.0,"[+1]: You gain 2 life. Add {U}, {R}, or {W}. Spend this mana only to cast a noncreature spell.
+[−2]: Draw a card, then you may discard a card. When you discard a nonland card this way, Narset of the Ancient Way deals damage equal to that card's mana value to target creature or planeswalker.
+[−6]: You get an emblem with ""Whenever you cast a noncreature spell, this emblem deals 2 damage to any target.""",mythic,,Legendary,Planeswalker
+195,Necropanther,"B, W",3.0,{1}{W}{B},3.0,3.0,,"Mutate {2}{W/B}{W/B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target creature card with mana value 3 or less from your graveyard to the battlefield.",uncommon,Mutate,,Creature
+196,"Nethroi, Apex of Death","B, G, W",5.0,{2}{W}{B}{G},5.0,5.0,,"Mutate {4}{G/W}{B}{B} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Deathtouch, lifelink
+Whenever this creature mutates, return any number of target creature cards with total power 10 or less from your graveyard to the battlefield.",mythic,"Deathtouch, Lifelink, Mutate",Legendary,Creature
+197,Offspring's Revenge,"B, R, W",5.0,{2}{R}{W}{B},,,,"At the beginning of combat on your turn, exile target red, white, or black creature card from your graveyard. Create a token that's a copy of that card, except it's 1/1. It gains haste until your next turn.",rare,,,Enchantment
+198,Parcelbeast,"G, U",4.0,{2}{G}{U},2.0,4.0,,"Mutate {G}{U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+{1}, {T}: Look at the top card of your library. If it's a land card, you may put it onto the battlefield. If you don't put the card onto the battlefield, put it into your hand.",uncommon,Mutate,,Creature
+199,Primal Empathy,"G, U",3.0,{1}{G}{U},,,,"At the beginning of your upkeep, draw a card if you control a creature with the greatest power among creatures on the battlefield. Otherwise, put a +1/+1 counter on a creature you control.",uncommon,,,Enchantment
+200,Quartzwood Crasher,"G, R",5.0,{2}{R}{R}{G},6.0,6.0,,"Trample
+Whenever one or more creatures you control with trample deal combat damage to a player, create an X/X green Dinosaur Beast creature token with trample, where X is the amount of damage those creatures dealt to that player.",rare,Trample,,Creature
+201,Regal Leosaur,"R, W",2.0,{R}{W},2.0,2.0,,"Mutate {1}{R/W}{R/W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, other creatures you control get +2/+1 until end of turn.",uncommon,Mutate,,Creature
+202,"Rielle, the Everwise","R, U",3.0,{1}{U}{R},0.0,3.0,,"Rielle, the Everwise gets +1/+0 for each instant and sorcery card in your graveyard.
+Whenever you discard one or more cards for the first time each turn, draw that many cards.",mythic,,Legendary,Creature
+203,Ruinous Ultimatum,"B, R, W",7.0,{R}{R}{W}{W}{W}{B}{B},,,,Destroy all nonland permanents your opponents control.,rare,,,Sorcery
+204,Savai Thundermane,"R, W",2.0,{R}{W},3.0,2.0,,"Whenever you cycle a card, you may pay {2}. When you do, Savai Thundermane deals 2 damage to target creature and you gain 2 life.",uncommon,,,Creature
+205,Skull Prophet,"B, G",2.0,{B}{G},3.0,1.0,,"{T}: Add {B} or {G}.
+{T}: Mill two cards.",uncommon,Mill,,Creature
+206,Skycat Sovereign,"U, W",2.0,{W}{U},1.0,1.0,,"Flying
+Skycat Sovereign gets +1/+1 for each other creature you control with flying.
+{2}{W}{U}: Create a 1/1 white Cat Bird creature token with flying.",rare,Flying,,Creature
+207,Slitherwisp,"B, U",3.0,{U}{B}{B},3.0,2.0,,"Flash
+Whenever you cast another spell that has flash, you draw a card and each opponent loses 1 life.",rare,Flash,,Creature
+208,"Snapdax, Apex of the Hunt","B, R, W",4.0,{1}{R}{W}{B},3.0,5.0,,"Mutate {2}{B/R}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Double strike
+Whenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life.",mythic,"Double strike, Mutate",Legendary,Creature
+209,Song of Creation,"G, R, U",4.0,{1}{G}{U}{R},,,,"You may play an additional land on each of your turns.
+Whenever you cast a spell, draw two cards.
+At the beginning of your end step, discard your hand.",rare,,,Enchantment
+210,Sprite Dragon,"R, U",2.0,{U}{R},1.0,1.0,,"Flying, haste
+Whenever you cast a noncreature spell, put a +1/+1 counter on Sprite Dragon.",uncommon,"Flying, Haste",,Creature
+211,Titans' Nest,"B, G, U",4.0,{1}{B}{G}{U},,,,"At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.
+Exile a card from your graveyard: Add {C}. Spend this mana only to cast a spell that's one or more colors without {X} in its mana cost.",rare,,,Enchantment
+212,Trumpeting Gnarr,"G, U",3.0,{1}{G}{U},3.0,3.0,,"Mutate {3}{G/U}{G/U} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, create a 3/3 green Beast creature token.",uncommon,Mutate,,Creature
+213,"Vadrok, Apex of Thunder","R, U, W",3.0,{U}{R}{W},3.0,3.0,,"Mutate {1}{W/U}{R}{R} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Flying, first strike
+Whenever this creature mutates, you may cast target noncreature card with mana value 3 or less from your graveyard without paying its mana cost.",mythic,"First strike, Flying, Mutate",Legendary,Creature
+214,Whirlwind of Thought,"R, U, W",4.0,{1}{U}{R}{W},,,,"Whenever you cast a noncreature spell, draw a card.",rare,,,Enchantment
+215,"Winota, Joiner of Forces","R, W",4.0,{2}{R}{W},4.0,4.0,,"Whenever a non-Human creature you control attacks, look at the top six cards of your library. You may put a Human creature card from among them onto the battlefield tapped and attacking. It gains indestructible until end of turn. Put the rest of the cards on the bottom of your library in a random order.",mythic,,Legendary,Creature
+216,Zenith Flare,"R, W",4.0,{2}{R}{W},,,,"Zenith Flare deals X damage to any target and you gain X life, where X is the number of cards with a cycling ability in your graveyard.",uncommon,,,Instant
+217,Alert Heedbonder,"G, W",3.0,{1}{G/W}{G/W},2.0,4.0,,"Vigilance
+At the beginning of your end step, you gain 1 life for each creature you control with vigilance.",uncommon,Vigilance,,Creature
+218,Cunning Nightbonder,"B, U",2.0,{U/B}{U/B},2.0,2.0,,"Flash
+Spells with flash you cast cost {1} less to cast and can't be countered.",uncommon,Flash,,Creature
+219,Fiend Artisan,"B, G",2.0,{B/G}{B/G},1.0,1.0,,"Fiend Artisan gets +1/+1 for each creature card in your graveyard.
+{X}{B/G}, {T}, Sacrifice another creature: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery.",mythic,,,Creature
+220,"Gyruda, Doom of Depths","B, U",6.0,{4}{U/B}{U/B},6.0,6.0,,"Companion — Your starting deck contains only cards with even mana values. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+When Gyruda enters the battlefield, each player mills four cards. Put a creature card with an even mana value from among the milled cards onto the battlefield under your control.",rare,"Companion, Mill",Legendary,Creature
+221,"Jegantha, the Wellspring","G, R",5.0,{4}{R/G},5.0,5.0,,"Companion — No card in your starting deck has more than one of the same mana symbol in its mana cost. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+{T}: Add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.",rare,Companion,Legendary,Creature
+222,Jubilant Skybonder,"U, W",3.0,{1}{W/U}{W/U},2.0,2.0,,"Flying
+Creatures you control with flying have ""Spells your opponents cast that target this creature cost {2} more to cast.""",uncommon,Flying,,Creature
+223,"Kaheera, the Orphanguard","G, W",3.0,{1}{G/W}{G/W},3.0,2.0,,"Companion — Each creature card in your starting deck is a Cat, Elemental, Nightmare, Dinosaur, or Beast card. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+Vigilance
+Each other creature you control that's a Cat, Elemental, Nightmare, Dinosaur, or Beast gets +1/+1 and has vigilance.",rare,"Companion, Vigilance",Legendary,Creature
+224,"Keruga, the Macrosage","G, U",5.0,{3}{G/U}{G/U},5.0,4.0,,"Companion — Your starting deck contains only cards with mana value 3 or greater and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+When Keruga, the Macrosage enters the battlefield, draw a card for each other permanent you control with mana value 3 or greater.",rare,Companion,Legendary,Creature
+225,Lurrus of the Dream-Den,"B, W",3.0,{1}{W/B}{W/B},3.0,2.0,,"Companion — Each permanent card in your starting deck has mana value 2 or less. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+Lifelink
+During each of your turns, you may cast one permanent spell with mana value 2 or less from your graveyard.",rare,"Companion, Lifelink",Legendary,Creature
+226,"Lutri, the Spellchaser","R, U",3.0,{1}{U/R}{U/R},3.0,2.0,,"Companion — Each nonland card in your starting deck has a different name. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+Flash
+When Lutri, the Spellchaser enters the battlefield, if you cast it, copy target instant or sorcery spell you control. You may choose new targets for the copy.",rare,"Companion, Flash",Legendary,Creature
+227,"Obosh, the Preypiercer","B, R",5.0,{3}{B/R}{B/R},3.0,5.0,,"Companion — Your starting deck contains only cards with odd mana values and land cards. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+If a source you control with an odd mana value would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",rare,Companion,Legendary,Creature
+228,Proud Wildbonder,"G, R",4.0,{2}{R/G}{R/G},4.0,3.0,,"Trample
+Creatures you control with trample have ""You may have this creature assign its combat damage as though it weren't blocked.""",uncommon,Trample,,Creature
+229,Sonorous Howlbonder,"B, R",3.0,{1}{B/R}{B/R},2.0,2.0,,"Menace
+Each creature you control with menace can't be blocked except by three or more creatures.",uncommon,Menace,,Creature
+230,"Umori, the Collector","B, G",4.0,{2}{B/G}{B/G},4.0,5.0,,"Companion — Each nonland card in your starting deck shares a card type. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+As Umori, the Collector enters the battlefield, choose a card type.
+Spells you cast of the chosen type cost {1} less to cast.",rare,Companion,Legendary,Creature
+231,"Yorion, Sky Nomad","U, W",5.0,{3}{W/U}{W/U},4.0,5.0,,"Companion — Your starting deck contains at least twenty cards more than the minimum deck size. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+Flying
+When Yorion enters the battlefield, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.",rare,"Companion, Flying",Legendary,Creature
+232,"Zirda, the Dawnwaker","R, W",3.0,{1}{R/W}{R/W},3.0,3.0,,"Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
+Abilities you activate that aren't mana abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{1}, {T}: Target creature can't block this turn.",rare,Companion,Legendary,Creature
+233,Crystalline Giant,,3.0,{3},3.0,3.0,,"At the beginning of combat on your turn, choose a kind of counter at random that Crystalline Giant doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on Crystalline Giant.",rare,,,"Artifact, Creature"
+234,Indatha Crystal,,3.0,{3},,,,"{T}: Add {W}, {B}, or {G}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
+235,Ketria Crystal,,3.0,{3},,,,"{T}: Add {G}, {U}, or {R}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
+236,The Ozolith,,1.0,{1},,,,"Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The Ozolith.
+At the beginning of combat on your turn, if The Ozolith has counters on it, you may move all counters from The Ozolith onto target creature.",rare,,Legendary,Artifact
+237,Raugrin Crystal,,3.0,{3},,,,"{T}: Add {U}, {R}, or {W}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
+238,Savai Crystal,,3.0,{3},,,,"{T}: Add {R}, {W}, or {B}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
+239,Sleeper Dart,,2.0,{2},,,,"When Sleeper Dart enters the battlefield, draw a card.
+{T}, Sacrifice Sleeper Dart: Target creature doesn't untap during its controller's next untap step.",common,,,Artifact
+240,Springjaw Trap,,1.0,{1},,,,"Flash
+{4}, {T}, Sacrifice Springjaw Trap: It deals 3 damage to any target.",common,Flash,,Artifact
+241,Zagoth Crystal,,3.0,{3},,,,"{T}: Add {B}, {G}, or {U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
+242,Bloodfell Caves,,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+When Bloodfell Caves enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R}.",common,,,Land
+243,Blossoming Sands,,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+When Blossoming Sands enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W}.",common,,,Land
+244,Bonders' Enclave,,0.0,,,,,"{T}: Add {C}.
+{3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.",rare,,,Land
+245,Dismal Backwater,,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+When Dismal Backwater enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B}.",common,,,Land
+246,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+247,Indatha Triome,,0.0,,,,,"({T}: Add {W}, {B}, or {G}.)
+Indatha Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
+248,Jungle Hollow,,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+When Jungle Hollow enters the battlefield, you gain 1 life.
+{T}: Add {B} or {G}.",common,,,Land
+249,Ketria Triome,,0.0,,,,,"({T}: Add {G}, {U}, or {R}.)
+Ketria Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
+250,Raugrin Triome,,0.0,,,,,"({T}: Add {U}, {R}, or {W}.)
+Raugrin Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
+251,Rugged Highlands,,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+When Rugged Highlands enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G}.",common,,,Land
+252,Savai Triome,,0.0,,,,,"({T}: Add {R}, {W}, or {B}.)
+Savai Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
+253,Scoured Barrens,,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+When Scoured Barrens enters the battlefield, you gain 1 life.
+{T}: Add {W} or {B}.",common,,,Land
+254,Swiftwater Cliffs,,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+When Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R}.",common,,,Land
+255,Thornwood Falls,,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+When Thornwood Falls enters the battlefield, you gain 1 life.
+{T}: Add {G} or {U}.",common,,,Land
+256,Tranquil Cove,,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+When Tranquil Cove enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U}.",common,,,Land
+257,Wind-Scarred Crag,,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+When Wind-Scarred Crag enters the battlefield, you gain 1 life.
+{T}: Add {R} or {W}.",common,,,Land
+258,Zagoth Triome,,0.0,,,,,"({T}: Add {B}, {G}, or {U}.)
+Zagoth Triome enters the battlefield tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
+259,"Zilortha, Strength Incarnate","G, R",5.0,{3}{R}{G},7.0,3.0,,"Trample
+Lethal damage dealt to creatures you control is determined by their power rather than their toughness.",mythic,Trample,Legendary,Creature
