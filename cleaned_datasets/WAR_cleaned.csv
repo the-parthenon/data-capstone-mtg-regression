@@ -1,0 +1,457 @@
+,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
+0,"Karn, the Great Creator",,4.0,{4},,,5.0,"Activated abilities of artifacts your opponents control can't be activated.
+[+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
+[−2]: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.",rare,,Legendary,Planeswalker
+1,"Ugin, the Ineffable",,6.0,{6},,,4.0,"Colorless spells you cast cost {2} less to cast.
+[+1]: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
+[−3]: Destroy target permanent that's one or more colors.",rare,,Legendary,Planeswalker
+2,Ugin's Conjurant,,0.0,{X},0.0,0.0,,"Ugin's Conjurant enters the battlefield with X +1/+1 counters on it.
+If damage would be dealt to Ugin's Conjurant while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from Ugin's Conjurant.",uncommon,,,Creature
+3,Ajani's Pridemate,W,2.0,{1}{W},2.0,2.0,,"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",uncommon,,,Creature
+4,Battlefield Promotion,W,2.0,{1}{W},,,,Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life.,common,,,Instant
+5,Bond of Discipline,W,5.0,{4}{W},,,,Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.,uncommon,,,Sorcery
+6,Bulwark Giant,W,6.0,{5}{W},3.0,6.0,,"When Bulwark Giant enters the battlefield, you gain 5 life.",common,,,Creature
+7,Charmed Stray,W,1.0,{W},1.0,1.0,,"Lifelink
+When Charmed Stray enters the battlefield, put a +1/+1 counter on each other creature you control named Charmed Stray.",common,Lifelink,,Creature
+8,Defiant Strike,W,1.0,{W},,,,"Target creature gets +1/+0 until end of turn.
+Draw a card.",common,,,Instant
+9,Divine Arrow,W,2.0,{1}{W},,,,Divine Arrow deals 4 damage to target attacking or blocking creature.,common,,,Instant
+10,Enforcer Griffin,W,5.0,{4}{W},3.0,4.0,,Flying,common,Flying,,Creature
+11,Finale of Glory,W,2.0,{X}{W}{W},,,,"Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance.",mythic,,,Sorcery
+12,Gideon Blackblade,W,3.0,{1}{W}{W},,,4.0,"As long as it's your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that's still a planeswalker.
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
+[+1]: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn.
+[−6]: Exile target nonland permanent.",mythic,,Legendary,Planeswalker
+13,Gideon's Sacrifice,W,1.0,{W},,,,Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it's still on the battlefield).,common,,,Instant
+14,Gideon's Triumph,W,2.0,{1}{W},,,,"Target opponent sacrifices a creature that attacked or blocked this turn. If you control a Gideon planeswalker, that player sacrifices two of those creatures instead.",uncommon,,,Instant
+15,God-Eternal Oketra,W,5.0,{3}{W}{W},3.0,6.0,,"Double strike
+Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.
+When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,Double strike,Legendary,Creature
+16,Grateful Apparition,W,2.0,{1}{W},1.0,1.0,,"Flying
+Whenever Grateful Apparition deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,"Flying, Proliferate",,Creature
+17,Ignite the Beacon,W,5.0,{4}{W},,,,"Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle.",rare,,,Instant
+18,Ironclad Krovod,W,4.0,{3}{W},2.0,5.0,,,common,,,Creature
+19,Law-Rune Enforcer,W,1.0,{W},1.0,2.0,,"{1}, {T}: Tap target creature with mana value 2 or greater.",common,,,Creature
+20,Loxodon Sergeant,W,4.0,{3}{W},3.0,3.0,,"Vigilance
+When Loxodon Sergeant enters the battlefield, other creatures you control gain vigilance until end of turn.",common,Vigilance,,Creature
+21,Makeshift Battalion,W,3.0,{2}{W},3.0,2.0,,"Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion.",common,,,Creature
+22,Martyr for the Cause,W,2.0,{1}{W},2.0,2.0,,"When Martyr for the Cause dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,Proliferate,,Creature
+23,Parhelion II,W,8.0,{6}{W}{W},5.0,5.0,,"Flying, first strike, vigilance
+Whenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, First strike, Flying, Vigilance",Legendary,Artifact
+24,Pouncing Lynx,W,2.0,{1}{W},2.0,1.0,,"As long as it's your turn, Pouncing Lynx has first strike.",common,,,Creature
+25,Prison Realm,W,3.0,{2}{W},,,,"When Prison Realm enters the battlefield, exile target creature or planeswalker an opponent controls until Prison Realm leaves the battlefield.
+When Prison Realm enters the battlefield, scry 1.",uncommon,Scry,,Enchantment
+26,Rally of Wings,W,2.0,{1}{W},,,,Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.,uncommon,,,Instant
+27,Ravnica at War,W,4.0,{3}{W},,,,Exile all multicolored permanents.,rare,,,Sorcery
+28,Rising Populace,W,3.0,{2}{W},2.0,2.0,,"Whenever another creature or planeswalker you control dies, put a +1/+1 counter on Rising Populace.",common,,,Creature
+29,Single Combat,W,5.0,{3}{W}{W},,,,"Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can't cast creature or planeswalker spells until the end of your next turn.",rare,,,Sorcery
+30,Sunblade Angel,W,6.0,{5}{W},3.0,3.0,,"Flying, first strike, vigilance, lifelink",uncommon,"First strike, Flying, Lifelink, Vigilance",,Creature
+31,"Teyo, the Shieldmage",W,3.0,{2}{W},,,5.0,"You have hexproof. (You can't be the target of spells or abilities your opponents control.)
+[−2]: Create a 0/3 white Wall creature token with defender.",uncommon,,Legendary,Planeswalker
+32,Teyo's Lightshield,W,3.0,{2}{W},0.0,3.0,,"When Teyo's Lightshield enters the battlefield, put a +1/+1 counter on target creature you control.",common,,,Creature
+33,"Tomik, Distinguished Advokist",W,2.0,{W}{W},2.0,3.0,,"Flying
+Lands on the battlefield and land cards in graveyards can't be the targets of spells or abilities your opponents control.
+Your opponents can't play land cards from graveyards.",rare,Flying,Legendary,Creature
+34,Topple the Statue,W,3.0,{2}{W},,,,"Tap target permanent. If it's an artifact, destroy it.
+Draw a card.",common,,,Instant
+35,Trusted Pegasus,W,3.0,{2}{W},2.0,2.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.",common,Flying,,Creature
+36,The Wanderer,W,4.0,{3}{W},,,5.0,"Prevent all noncombat damage that would be dealt to you and other permanents you control.
+[−2]: Exile target creature with power 4 or greater.",uncommon,,Legendary,Planeswalker
+37,Wanderer's Strike,W,5.0,{4}{W},,,,"Exile target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,Proliferate,,Sorcery
+38,War Screecher,W,2.0,{1}{W},1.0,3.0,,"Flying
+{5}{W}, {T}: Other creatures you control get +1/+1 until end of turn.",common,Flying,,Creature
+39,Ashiok's Skulker,U,5.0,{4}{U},3.0,5.0,,{3}{U}: Ashiok's Skulker can't be blocked this turn.,common,,,Creature
+40,Augur of Bolas,U,2.0,{1}{U},1.0,3.0,,"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",uncommon,,,Creature
+41,Aven Eternal,U,3.0,{2}{U},2.0,2.0,,"Flying
+When Aven Eternal enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,"Amass, Flying",,Creature
+42,Bond of Insight,U,4.0,{3}{U},,,,Each player mills four cards. Return up to two instant and/or sorcery cards from your graveyard to your hand. Exile Bond of Insight.,uncommon,Mill,,Sorcery
+43,Callous Dismissal,U,2.0,{1}{U},,,,"Return target nonland permanent to its owner's hand.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Sorcery
+44,Commence the Endgame,U,6.0,{4}{U}{U},,,,"This spell can't be countered.
+Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",rare,Amass,,Instant
+45,Contentious Plan,U,2.0,{1}{U},,,,"Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+Draw a card.",common,Proliferate,,Sorcery
+46,Crush Dissent,U,4.0,{3}{U},,,,"Counter target spell unless its controller pays {2}.
+Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Instant
+47,Erratic Visionary,U,2.0,{1}{U},1.0,3.0,,"{1}{U}, {T}: Draw a card, then discard a card.",common,,,Creature
+48,Eternal Skylord,U,5.0,{4}{U},3.0,3.0,,"When Eternal Skylord enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have flying.",uncommon,Amass,,Creature
+49,"Fblthp, the Lost",U,2.0,{1}{U},1.0,1.0,,"When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead.
+When Fblthp becomes the target of a spell, shuffle Fblthp into its owner's library.",rare,,Legendary,Creature
+50,Finale of Revelation,U,2.0,{X}{U}{U},,,,"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.
+Exile Finale of Revelation.",mythic,,,Sorcery
+51,Flux Channeler,U,3.0,{2}{U},2.0,2.0,,"Whenever you cast a noncreature spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,Proliferate,,Creature
+52,God-Eternal Kefnet,U,4.0,{2}{U}{U},4.0,5.0,,"Flying
+You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.
+When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,Flying,Legendary,Creature
+53,"Jace, Wielder of Mysteries",U,4.0,{1}{U}{U}{U},,,4.0,"If you would draw a card while your library has no cards in it, you win the game instead.
+[+1]: Target player mills two cards. Draw a card.
+[−8]: Draw seven cards. Then if your library has no cards in it, you win the game.",rare,Mill,Legendary,Planeswalker
+54,Jace's Triumph,U,3.0,{2}{U},,,,"Draw two cards. If you control a Jace planeswalker, draw three cards instead.",uncommon,,,Sorcery
+55,"Kasmina, Enigmatic Mentor",U,4.0,{3}{U},,,5.0,"Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+[−2]: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card.",uncommon,,Legendary,Planeswalker
+56,Kasmina's Transmutation,U,2.0,{1}{U},,,,"Enchant creature
+Enchanted creature loses all abilities and has base power and toughness 1/1.",common,Enchant,,Enchantment
+57,Kiora's Dambreaker,U,6.0,{5}{U},5.0,6.0,,"When Kiora's Dambreaker enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,Proliferate,,Creature
+58,Lazotep Plating,U,2.0,{1}{U},,,,"Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+You and permanents you control gain hexproof until end of turn. (You and they can't be the targets of spells or abilities your opponents control.)",uncommon,Amass,,Instant
+59,Naga Eternal,U,3.0,{2}{U},3.0,2.0,,,common,,,Creature
+60,"Narset, Parter of Veils",U,3.0,{1}{U}{U},,,5.0,"Each opponent can't draw more than one card each turn.
+[−2]: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",uncommon,,Legendary,Planeswalker
+61,Narset's Reversal,U,2.0,{U}{U},,,,"Copy target instant or sorcery spell, then return it to its owner's hand. You may choose new targets for the copy.",rare,,,Instant
+62,No Escape,U,3.0,{2}{U},,,,"Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Scry 1.",common,Scry,,Instant
+63,Relentless Advance,U,4.0,{3}{U},,,,"Amass 3. (Put three +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Sorcery
+64,Rescuer Sphinx,U,4.0,{2}{U}{U},3.0,2.0,,"Flying
+As Rescuer Sphinx enters the battlefield, you may return a nonland permanent you control to its owner's hand. If you do, Rescuer Sphinx enters the battlefield with a +1/+1 counter on it.",uncommon,Flying,,Creature
+65,Silent Submersible,U,2.0,{U}{U},2.0,3.0,,"Whenever Silent Submersible deals combat damage to a player or planeswalker, draw a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact
+66,Sky Theater Strix,U,2.0,{1}{U},1.0,2.0,,"Flying
+Whenever you cast a noncreature spell, Sky Theater Strix gets +1/+0 until end of turn.",common,Flying,,Creature
+67,Spark Double,U,4.0,{3}{U},0.0,0.0,,"You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it's a creature, it enters with an additional loyalty counter on it if it's a planeswalker, and it isn't legendary if that permanent is legendary.",rare,,,Creature
+68,Spellkeeper Weird,U,3.0,{2}{U},1.0,4.0,,"{2}, {T}, Sacrifice Spellkeeper Weird: Return target instant or sorcery card from your graveyard to your hand.",common,,,Creature
+69,Stealth Mission,U,3.0,{2}{U},,,,Put two +1/+1 counters on target creature you control. That creature can't be blocked this turn.,common,,,Sorcery
+70,Tamiyo's Epiphany,U,4.0,{3}{U},,,,"Scry 4, then draw two cards.",common,Scry,,Sorcery
+71,Teferi's Time Twist,U,2.0,{1}{U},,,,"Exile target permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. If it enters the battlefield as a creature, it enters with an additional +1/+1 counter on it.",common,,,Instant
+72,Thunder Drake,U,4.0,{3}{U},2.0,3.0,,"Flying
+Whenever you cast your second spell each turn, put a +1/+1 counter on Thunder Drake.",common,Flying,,Creature
+73,Totally Lost,U,5.0,{4}{U},,,,Put target nonland permanent on top of its owner's library.,common,,,Instant
+74,Wall of Runes,U,1.0,{U},0.0,4.0,,"Defender (This creature can't attack.)
+When Wall of Runes enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",common,"Defender, Scry",,Creature
+75,Aid the Fallen,B,2.0,{1}{B},,,,"Choose one or both —
+• Return target creature card from your graveyard to your hand.
+• Return target planeswalker card from your graveyard to your hand.",common,,,Sorcery
+76,Banehound,B,1.0,{B},1.0,1.0,,"Lifelink, haste",common,"Haste, Lifelink",,Creature
+77,Bleeding Edge,B,3.0,{1}{B}{B},,,,"Up to one target creature gets -2/-2 until end of turn. Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",uncommon,Amass,,Sorcery
+78,Bolas's Citadel,B,6.0,{3}{B}{B}{B},,,,"You may look at the top card of your library any time.
+You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
+{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life.",rare,,Legendary,Artifact
+79,Bond of Revival,B,5.0,{4}{B},,,,Return target creature card from your graveyard to the battlefield. It gains haste until your next turn.,uncommon,,,Sorcery
+80,Charity Extractor,B,4.0,{3}{B},1.0,5.0,,Lifelink,common,Lifelink,,Creature
+81,Command the Dreadhorde,B,6.0,{4}{B}{B},,,,Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total mana value of those cards. Put them onto the battlefield under your control.,rare,,,Sorcery
+82,"Davriel, Rogue Shadowmage",B,3.0,{2}{B},,,3.0,"At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them.
+[−1]: Target player discards a card.",uncommon,,Legendary,Planeswalker
+83,Davriel's Shadowfugue,B,4.0,{3}{B},,,,Target player discards two cards and loses 2 life.,common,,,Sorcery
+84,Deliver Unto Evil,B,3.0,{2}{B},,,,"Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand.
+Exile Deliver Unto Evil.",rare,,,Sorcery
+85,Dreadhorde Invasion,B,2.0,{1}{B},,,,"At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn.",rare,Amass,,Enchantment
+86,Dreadmalkin,B,1.0,{B},1.0,1.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+{2}{B}, Sacrifice another creature or planeswalker: Put two +1/+1 counters on Dreadmalkin.",uncommon,Menace,,Creature
+87,Duskmantle Operative,B,2.0,{1}{B},2.0,2.0,,Duskmantle Operative can't be blocked by creatures with power 4 or greater.,common,,,Creature
+88,The Elderspell,B,2.0,{B}{B},,,,Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way.,rare,,,Sorcery
+89,Eternal Taskmaster,B,2.0,{1}{B},2.0,3.0,,"Eternal Taskmaster enters the battlefield tapped.
+Whenever Eternal Taskmaster attacks, you may pay {2}{B}. If you do, return target creature card from your graveyard to your hand.",uncommon,,,Creature
+90,Finale of Eternity,B,2.0,{X}{B}{B},,,,"Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.",mythic,,,Sorcery
+91,God-Eternal Bontu,B,5.0,{3}{B}{B},5.0,6.0,,"Menace
+When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards.
+When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,Menace,Legendary,Creature
+92,Herald of the Dreadhorde,B,4.0,{3}{B},3.0,2.0,,"When Herald of the Dreadhorde dies, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Creature
+93,Kaya's Ghostform,B,1.0,{B},,,,"Enchant creature or planeswalker you control
+When enchanted permanent dies or is put into exile, return that card to the battlefield under your control.",common,Enchant,,Enchantment
+94,Lazotep Behemoth,B,5.0,{4}{B},5.0,4.0,,,common,,,Creature
+95,Lazotep Reaver,B,2.0,{1}{B},1.0,2.0,,"When Lazotep Reaver enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Creature
+96,"Liliana, Dreadhorde General",B,6.0,{4}{B}{B},,,6.0,"Whenever a creature you control dies, draw a card.
+[+1]: Create a 2/2 black Zombie creature token.
+[−4]: Each player sacrifices two creatures.
+[−9]: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.",mythic,,Legendary,Planeswalker
+97,Liliana's Triumph,B,2.0,{1}{B},,,,"Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card.",uncommon,,,Instant
+98,Massacre Girl,B,5.0,{3}{B}{B},4.0,4.0,,"Menace
+When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn.",rare,Menace,Legendary,Creature
+99,"Ob Nixilis, the Hate-Twisted",B,5.0,{3}{B}{B},,,5.0,"Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player.
+[−2]: Destroy target creature. Its controller draws two cards.",uncommon,,Legendary,Planeswalker
+100,Ob Nixilis's Cruelty,B,3.0,{2}{B},,,,"Target creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.",common,,,Instant
+101,Price of Betrayal,B,1.0,{B},,,,"Remove up to five counters from target artifact, creature, planeswalker, or opponent.",uncommon,,,Sorcery
+102,Shriekdiver,B,3.0,{2}{B},2.0,1.0,,"Flying
+{1}: Shriekdiver gains haste until end of turn.",common,Flying,,Creature
+103,Sorin's Thirst,B,2.0,{B}{B},,,,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,common,,,Instant
+104,Spark Harvest,B,1.0,{B},,,,"As an additional cost to cast this spell, sacrifice a creature or pay {3}{B}.
+Destroy target creature or planeswalker.",common,,,Sorcery
+105,Spark Reaper,B,3.0,{2}{B},2.0,3.0,,"{3}, Sacrifice a creature or planeswalker: You gain 1 life and draw a card.",common,,,Creature
+106,Tithebearer Giant,B,6.0,{5}{B},4.0,5.0,,"When Tithebearer Giant enters the battlefield, you draw a card and you lose 1 life.",common,,,Creature
+107,Toll of the Invasion,B,3.0,{2}{B},,,,"Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Sorcery
+108,Unlikely Aid,B,2.0,{1}{B},,,,"Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant
+109,Vampire Opportunist,B,2.0,{1}{B},2.0,1.0,,{6}{B}: Each opponent loses 2 life and you gain 2 life.,common,,,Creature
+110,Vizier of the Scorpion,B,3.0,{2}{B},1.0,1.0,,"When Vizier of the Scorpion enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have deathtouch.",uncommon,Amass,,Creature
+111,Vraska's Finisher,B,3.0,{2}{B},3.0,2.0,,"When Vraska's Finisher enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.",common,,,Creature
+112,Ahn-Crop Invader,R,3.0,{2}{R},2.0,2.0,,"As long as it's your turn, Ahn-Crop Invader has first strike.
+{1}, Sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end of turn.",common,,,Creature
+113,Blindblast,R,3.0,{2}{R},,,,"Blindblast deals 1 damage to target creature. That creature can't block this turn.
+Draw a card.",common,,,Instant
+114,Bolt Bend,R,4.0,{3}{R},,,,"This spell costs {3} less to cast if you control a creature with power 4 or greater.
+Change the target of target spell or ability with a single target.",uncommon,,,Instant
+115,Bond of Passion,R,6.0,{4}{R}{R},,,,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Bond of Passion deals 2 damage to any other target.,uncommon,,,Sorcery
+116,Burning Prophet,R,2.0,{1}{R},1.0,3.0,,"Whenever you cast a noncreature spell, Burning Prophet gets +1/+0 until end of turn, then scry 1.",common,Scry,,Creature
+117,Chainwhip Cyclops,R,5.0,{4}{R},4.0,4.0,,{3}{R}: Target creature can't block this turn.,common,,,Creature
+118,"Chandra, Fire Artisan",R,4.0,{2}{R}{R},,,4.0,"Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker.
+[+1]: Exile the top card of your library. You may play it this turn.
+[−7]: Exile the top seven cards of your library. You may play them this turn.",rare,,Legendary,Planeswalker
+119,Chandra's Pyrohelix,R,2.0,{1}{R},,,,Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.,common,,,Instant
+120,Chandra's Triumph,R,2.0,{1}{R},,,,Chandra's Triumph deals 3 damage to target creature or planeswalker an opponent controls. Chandra's Triumph deals 5 damage instead if you control a Chandra planeswalker.,uncommon,,,Instant
+121,Cyclops Electromancer,R,5.0,{4}{R},4.0,2.0,,"When Cyclops Electromancer enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of instant and sorcery cards in your graveyard.",uncommon,,,Creature
+122,Demolish,R,4.0,{3}{R},,,,Destroy target artifact or land.,common,,,Sorcery
+123,Devouring Hellion,R,3.0,{2}{R},2.0,2.0,,"As Devouring Hellion enters the battlefield, you may sacrifice any number of creatures and/or planeswalkers. If you do, it enters with twice that many +1/+1 counters on it.",uncommon,,,Creature
+124,Dreadhorde Arcanist,R,2.0,{1}{R},1.0,3.0,,"Trample
+Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with mana value less than or equal to Dreadhorde Arcanist's power from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",rare,Trample,,Creature
+125,Dreadhorde Twins,R,4.0,{3}{R},2.0,2.0,,"When Dreadhorde Twins enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have trample.",uncommon,Amass,,Creature
+126,Finale of Promise,R,2.0,{X}{R}{R},,,,"You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.",mythic,,,Sorcery
+127,Goblin Assailant,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature
+128,Goblin Assault Team,R,4.0,{3}{R},4.0,1.0,,"Haste
+When Goblin Assault Team dies, put a +1/+1 counter on target creature you control.",common,Haste,,Creature
+129,Grim Initiate,R,1.0,{R},1.0,1.0,,"First strike
+When Grim Initiate dies, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,"Amass, First strike",,Creature
+130,Heartfire,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+Heartfire deals 4 damage to any target.",common,,,Instant
+131,Honor the God-Pharaoh,R,3.0,{2}{R},,,,"As an additional cost to cast this spell, discard a card.
+Draw two cards. Amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Sorcery
+132,"Ilharg, the Raze-Boar",R,5.0,{3}{R}{R},6.0,6.0,,"Trample
+Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step.
+When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,Trample,Legendary,Creature
+133,Invading Manticore,R,6.0,{5}{R},4.0,5.0,,"When Invading Manticore enters the battlefield, amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",common,Amass,,Creature
+134,"Jaya, Venerated Firemage",R,5.0,{4}{R},,,5.0,"If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.
+[−2]: Jaya, Venerated Firemage deals 2 damage to any target.",uncommon,,Legendary,Planeswalker
+135,Jaya's Greeting,R,2.0,{1}{R},,,,Jaya's Greeting deals 3 damage to target creature. Scry 1.,common,Scry,,Instant
+136,"Krenko, Tin Street Kingpin",R,3.0,{2}{R},1.0,2.0,,"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko's power.",rare,,Legendary,Creature
+137,Mizzium Tank,R,3.0,{1}{R}{R},3.0,2.0,,"Trample
+Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, Trample",,Artifact
+138,Nahiri's Stoneblades,R,2.0,{1}{R},,,,Up to two target creatures each get +2/+0 until end of turn.,common,,,Instant
+139,"Neheb, Dreadhorde Champion",R,4.0,{2}{R}{R},5.0,4.0,,"Trample
+Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",rare,Trample,Legendary,Creature
+140,Raging Kronch,R,3.0,{2}{R},4.0,3.0,,Raging Kronch can't attack alone.,common,,,Creature
+141,Samut's Sprint,R,1.0,{R},,,,Target creature gets +2/+1 and gains haste until end of turn. Scry 1.,common,Scry,,Instant
+142,Sarkhan the Masterless,R,5.0,{3}{R}{R},,,5.0,"Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature.
+[+1]: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying.
+[−3]: Create a 4/4 red Dragon creature token with flying.",rare,,Legendary,Planeswalker
+143,Sarkhan's Catharsis,R,5.0,{4}{R},,,,Sarkhan's Catharsis deals 5 damage to target player or planeswalker.,common,,,Instant
+144,Spellgorger Weird,R,3.0,{2}{R},2.0,2.0,,"Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger Weird.",common,,,Creature
+145,"Tibalt, Rakish Instigator",R,3.0,{2}{R},,,5.0,"Your opponents can't gain life.
+[−2]: Create a 1/1 red Devil creature token with ""When this creature dies, it deals 1 damage to any target.""",uncommon,,Legendary,Planeswalker
+146,Tibalt's Rager,R,2.0,{1}{R},1.0,2.0,,"When Tibalt's Rager dies, it deals 1 damage to any target.
+{1}{R}: Tibalt's Rager gets +2/+0 until end of turn.",uncommon,,,Creature
+147,Turret Ogre,R,4.0,{3}{R},4.0,3.0,,"Reach (This creature can block creatures with flying.)
+When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent.",common,Reach,,Creature
+148,Arboreal Grazer,G,1.0,{G},0.0,3.0,,"Reach
+When Arboreal Grazer enters the battlefield, you may put a land card from your hand onto the battlefield tapped.",common,Reach,,Creature
+149,"Arlinn, Voice of the Pack",G,6.0,{4}{G}{G},,,7.0,"Each creature you control that's a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+[−2]: Create a 2/2 green Wolf creature token.",uncommon,,Legendary,Planeswalker
+150,Arlinn's Wolf,G,3.0,{2}{G},3.0,2.0,,Arlinn's Wolf can't be blocked by creatures with power 2 or less.,common,,,Creature
+151,Awakening of Vitu-Ghazi,G,5.0,{3}{G}{G},,,,Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It's still a land.,rare,,,Instant
+152,Band Together,G,3.0,{2}{G},,,,Up to two target creatures you control each deal damage equal to their power to another target creature.,common,,,Instant
+153,Bloom Hulk,G,4.0,{3}{G},4.0,4.0,,"When Bloom Hulk enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,Proliferate,,Creature
+154,Bond of Flourishing,G,2.0,{1}{G},,,,Look at the top three cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. You gain 3 life.,uncommon,,,Sorcery
+155,Centaur Nurturer,G,4.0,{3}{G},2.0,4.0,,"When Centaur Nurturer enters the battlefield, you gain 3 life.
+{T}: Add one mana of any color.",common,,,Creature
+156,Challenger Troll,G,5.0,{4}{G},6.0,5.0,,Each creature you control with power 4 or greater can't be blocked by more than one creature.,uncommon,,,Creature
+157,Courage in Crisis,G,3.0,{2}{G},,,,"Put a +1/+1 counter on target creature, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,Proliferate,,Sorcery
+158,Evolution Sage,G,3.0,{2}{G},3.0,2.0,,"Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,Proliferate,,Creature
+159,Finale of Devastation,G,2.0,{X}{G}{G},,,,"Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn.",mythic,,,Sorcery
+160,Forced Landing,G,2.0,{1}{G},,,,Put target creature with flying on the bottom of its owner's library.,common,,,Instant
+161,Giant Growth,G,1.0,{G},,,,Target creature gets +3/+3 until end of turn.,common,,,Instant
+162,God-Eternal Rhonas,G,5.0,{3}{G}{G},5.0,5.0,,"Deathtouch
+When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.
+When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner's library third from the top.",mythic,Deathtouch,Legendary,Creature
+163,"Jiang Yanggu, Wildcrafter",G,3.0,{2}{G},,,3.0,"Each creature you control with a +1/+1 counter on it has ""{T}: Add one mana of any color.""
+[−1]: Put a +1/+1 counter on target creature.",uncommon,,Legendary,Planeswalker
+164,Kraul Stinger,G,3.0,{2}{G},2.0,2.0,,Deathtouch,common,Deathtouch,,Creature
+165,Kronch Wrangler,G,2.0,{1}{G},2.0,1.0,,"Trample
+Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Kronch Wrangler.",common,Trample,,Creature
+166,"Mowu, Loyal Companion",G,4.0,{3}{G},3.0,3.0,,"Vigilance, trample
+If one or more +1/+1 counters would be put on Mowu, Loyal Companion, that many plus one +1/+1 counters are put on it instead.",uncommon,"Trample, Vigilance",Legendary,Creature
+167,New Horizons,G,3.0,{2}{G},,,,"Enchant land
+When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control.
+Enchanted land has ""{T}: Add two mana of any one color.""",common,Enchant,,Enchantment
+168,"Nissa, Who Shakes the World",G,5.0,{3}{G}{G},,,5.0,"Whenever you tap a Forest for mana, add an additional {G}.
+[+1]: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that's still a land.
+[−8]: You get an emblem with ""Lands you control have indestructible."" Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle.",rare,,Legendary,Planeswalker
+169,Nissa's Triumph,G,2.0,{G}{G},,,,"Search your library for up to two basic Forest cards. If you control a Nissa planeswalker, instead search your library for up to three land cards. Reveal those cards, put them into your hand, then shuffle.",uncommon,,,Sorcery
+170,Paradise Druid,G,2.0,{1}{G},2.0,1.0,,"Paradise Druid has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)
+{T}: Add one mana of any color.",uncommon,,,Creature
+171,Planewide Celebration,G,7.0,{5}{G}{G},,,,"Choose four. You may choose the same mode more than once.
+• Create a 2/2 Citizen creature token that's all colors.
+• Return target permanent card from your graveyard to your hand.
+• Proliferate.
+• You gain 4 life.",rare,Proliferate,,Sorcery
+172,Pollenbright Druid,G,2.0,{1}{G},1.0,1.0,,"When Pollenbright Druid enters the battlefield, choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,Proliferate,,Creature
+173,Primordial Wurm,G,6.0,{4}{G}{G},7.0,6.0,,,common,,,Creature
+174,Return to Nature,G,2.0,{1}{G},,,,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.",common,,,Instant
+175,Snarespinner,G,2.0,{1}{G},1.0,3.0,,"Reach (This creature can block creatures with flying.)
+Whenever Snarespinner blocks a creature with flying, Snarespinner gets +2/+0 until end of turn.",common,Reach,,Creature
+176,Steady Aim,G,2.0,{1}{G},,,,Untap target creature. It gets +1/+4 and gains reach until end of turn.,common,,,Instant
+177,Storm the Citadel,G,5.0,{4}{G},,,,"Until end of turn, creatures you control get +2/+2 and gain ""Whenever this creature deals combat damage to a player or planeswalker, destroy target artifact or enchantment defending player controls.""",uncommon,,,Sorcery
+178,Thundering Ceratok,G,5.0,{4}{G},4.0,5.0,,"Trample
+When Thundering Ceratok enters the battlefield, other creatures you control gain trample until end of turn.",common,Trample,,Creature
+179,"Vivien, Champion of the Wilds",G,3.0,{2}{G},,,4.0,"You may cast creature spells as though they had flash.
+[+1]: Until your next turn, up to one target creature gains vigilance and reach.
+[−2]: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it's a creature spell.",rare,,Legendary,Planeswalker
+180,Vivien's Arkbow,G,2.0,{1}{G},,,,"{X}, {T}, Discard a card: Look at the top X cards of your library. You may put a creature card with mana value X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",rare,,Legendary,Artifact
+181,Vivien's Grizzly,G,3.0,{2}{G},2.0,3.0,,"{3}{G}: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library.",common,,,Creature
+182,Wardscale Crocodile,G,5.0,{4}{G},5.0,3.0,,Hexproof (This creature can't be the target of spells or abilities your opponents control.),common,Hexproof,,Creature
+183,"Ajani, the Greathearted","G, W",4.0,{2}{G}{W},,,5.0,"Creatures you control have vigilance.
+[+1]: You gain 3 life.
+[−2]: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.",rare,,Legendary,Planeswalker
+184,Angrath's Rampage,"B, R",2.0,{B}{R},,,,"Choose one —
+• Target player sacrifices an artifact.
+• Target player sacrifices a creature.
+• Target player sacrifices a planeswalker.",uncommon,,,Sorcery
+185,Bioessence Hydra,"G, U",5.0,{3}{G}{U},4.0,4.0,,"Trample
+Bioessence Hydra enters the battlefield with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.
+Whenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on Bioessence Hydra.",rare,Trample,,Creature
+186,Casualties of War,"B, G",6.0,{2}{B}{B}{G}{G},,,,"Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.",rare,,,Sorcery
+187,Cruel Celebrant,"B, W",2.0,{W}{B},1.0,2.0,,"Whenever Cruel Celebrant or another creature or planeswalker you control dies, each opponent loses 1 life and you gain 1 life.",uncommon,,,Creature
+188,Deathsprout,"B, G",4.0,{1}{B}{B}{G},,,,"Destroy target creature. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",uncommon,,,Instant
+189,Despark,"B, W",2.0,{W}{B},,,,Exile target permanent with mana value 4 or greater.,uncommon,,,Instant
+190,"Domri, Anarch of Bolas","G, R",3.0,{1}{R}{G},,,3.0,"Creatures you control get +1/+0.
+[+1]: Add {R} or {G}. Creature spells you cast this turn can't be countered.
+[−2]: Target creature you control fights target creature you don't control.",rare,Fight,Legendary,Planeswalker
+191,Domri's Ambush,"G, R",2.0,{R}{G},,,,Put a +1/+1 counter on target creature you control. Then that creature deals damage equal to its power to target creature or planeswalker you don't control.,uncommon,,,Sorcery
+192,Dovin's Veto,"U, W",2.0,{W}{U},,,,"This spell can't be countered.
+Counter target noncreature spell.",uncommon,,,Instant
+193,Dreadhorde Butcher,"B, R",2.0,{B}{R},1.0,1.0,,"Haste
+Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher.
+When Dreadhorde Butcher dies, it deals damage equal to its power to any target.",rare,Haste,,Creature
+194,Elite Guardmage,"U, W",4.0,{2}{W}{U},2.0,3.0,,"Flying
+When Elite Guardmage enters the battlefield, you gain 3 life and draw a card.",uncommon,Flying,,Creature
+195,Enter the God-Eternals,"B, U",5.0,{2}{U}{U}{B},,,,"Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player mills four cards. Amass 4. (Put four +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",rare,"Amass, Mill",,Sorcery
+196,"Feather, the Redeemed","R, W",3.0,{R}{W}{W},3.0,4.0,,"Flying
+Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.",rare,Flying,Legendary,Creature
+197,Gleaming Overseer,"B, U",3.0,{1}{U}{B},1.0,4.0,,"When Gleaming Overseer enters the battlefield, amass 1. (Put a +1/+1 counter on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)
+Zombie tokens you control have hexproof and menace.",uncommon,Amass,,Creature
+198,Heartwarming Redemption,"R, W",4.0,{2}{R}{W},,,,"Discard all the cards in your hand, then draw that many cards plus one. You gain life equal to the number of cards in your hand.",uncommon,,,Instant
+199,Huatli's Raptor,"G, W",2.0,{G}{W},2.0,3.0,,"Vigilance
+When Huatli's Raptor enters the battlefield, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,"Proliferate, Vigilance",,Creature
+200,Invade the City,"R, U",3.0,{1}{U}{R},,,,"Amass X, where X is the number of instant and sorcery cards in your graveyard. (Put X +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",uncommon,Amass,,Sorcery
+201,Leyline Prowler,"B, G",3.0,{1}{B}{G},2.0,3.0,,"Deathtouch, lifelink
+{T}: Add one mana of any color.",uncommon,"Deathtouch, Lifelink",,Creature
+202,Living Twister,"G, R",3.0,{R}{R}{G},2.0,5.0,,"{1}{R}, Discard a land card: Living Twister deals 2 damage to any target.
+{G}: Return a tapped land you control to its owner's hand.",rare,,,Creature
+203,Mayhem Devil,"B, R",3.0,{1}{B}{R},3.0,3.0,,"Whenever a player sacrifices a permanent, Mayhem Devil deals 1 damage to any target.",uncommon,,,Creature
+204,Merfolk Skydiver,"G, U",2.0,{G}{U},1.0,1.0,,"Flying
+When Merfolk Skydiver enters the battlefield, put a +1/+1 counter on target creature you control.
+{3}{G}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",uncommon,"Flying, Proliferate",,Creature
+205,Neoform,"G, U",2.0,{G}{U},,,,"As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to 1 plus the sacrificed creature's mana value, put that card onto the battlefield with an additional +1/+1 counter on it, then shuffle.",uncommon,,,Sorcery
+206,"Nicol Bolas, Dragon-God","B, R, U",5.0,{U}{B}{B}{B}{R},,,4.0,"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.
+[+1]: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+[−3]: Destroy target creature or planeswalker.
+[−8]: Each opponent who doesn't control a legendary creature or planeswalker loses the game.",mythic,,Legendary,Planeswalker
+207,Niv-Mizzet Reborn,"B, G, R, U, W",5.0,{W}{U}{B}{R}{G},6.0,6.0,,"Flying
+When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that's exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.",mythic,Flying,Legendary,Creature
+208,Oath of Kaya,"B, W",3.0,{1}{W}{B},,,,"When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life.
+Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life.",rare,,Legendary,Enchantment
+209,Pledge of Unity,"G, W",3.0,{1}{G}{W},,,,Put a +1/+1 counter on each creature you control. You gain 1 life for each creature you control.,uncommon,,,Instant
+210,"Ral, Storm Conduit","R, U",4.0,{2}{U}{R},,,4.0,"Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker.
+[+2]: Scry 1.
+[−2]: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",rare,Scry,Legendary,Planeswalker
+211,Ral's Outburst,"R, U",4.0,{2}{U}{R},,,,Ral's Outburst deals 3 damage to any target. Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.,uncommon,,,Instant
+212,"Roalesk, Apex Hybrid","G, U",5.0,{2}{G}{G}{U},4.0,5.0,,"Flying, trample
+When Roalesk, Apex Hybrid enters the battlefield, put two +1/+1 counters on another target creature you control.
+When Roalesk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)",mythic,"Flying, Proliferate, Trample",Legendary,Creature
+213,Role Reversal,"R, U",3.0,{U}{U}{R},,,,Exchange control of two target permanents that share a permanent type.,rare,,,Sorcery
+214,Rubblebelt Rioters,"G, R",3.0,{1}{R}{G},0.0,4.0,,"Haste
+Whenever Rubblebelt Rioters attacks, it gets +X/+0 until end of turn, where X is the greatest power among creatures you control.",uncommon,Haste,,Creature
+215,Solar Blaze,"R, W",4.0,{2}{R}{W},,,,Each creature deals damage to itself equal to its power.,rare,,,Sorcery
+216,"Sorin, Vengeful Bloodlord","B, W",4.0,{2}{W}{B},,,4.0,"As long as it's your turn, creatures and planeswalkers you control have lifelink.
+[+2]: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker.
+[−X]: Return target creature card with mana value X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.",rare,,Legendary,Planeswalker
+217,Soul Diviner,"B, U",2.0,{U}{B},2.0,3.0,,"{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card.",rare,,,Creature
+218,"Storrev, Devkarin Lich","B, G",4.0,{1}{B}{B}{G},5.0,4.0,,"Trample
+Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn't put there this combat.",rare,Trample,Legendary,Creature
+219,"Tamiyo, Collector of Tales","G, U",4.0,{2}{G}{U},,,5.0,"Spells and abilities your opponents control can't cause you to discard cards or sacrifice permanents.
+[+1]: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard.
+[−3]: Return target card from your graveyard to your hand.",rare,,Legendary,Planeswalker
+220,"Teferi, Time Raveler","U, W",3.0,{1}{W}{U},,,4.0,"Each opponent can cast spells only any time they could cast a sorcery.
+[+1]: Until your next turn, you may cast sorcery spells as though they had flash.
+[−3]: Return up to one target artifact, creature, or enchantment to its owner's hand. Draw a card.",rare,,Legendary,Planeswalker
+221,Tenth District Legionnaire,"R, W",2.0,{R}{W},2.0,2.0,,"Haste
+Whenever you cast a spell that targets Tenth District Legionnaire, put a +1/+1 counter on Tenth District Legionnaire, then scry 1.",uncommon,"Haste, Scry",,Creature
+222,Time Wipe,"U, W",5.0,{2}{W}{W}{U},,,,"Return a creature you control to its owner's hand, then destroy all creatures.",rare,,,Sorcery
+223,"Tolsimir, Friend to Wolves","G, W",5.0,{2}{G}{G}{W},3.0,3.0,,"When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token.
+Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature you don't control.",rare,Fight,Legendary,Creature
+224,Tyrant's Scorn,"B, U",2.0,{U}{B},,,,"Choose one —
+• Destroy target creature with mana value 3 or less.
+• Return target creature to its owner's hand.",uncommon,,,Instant
+225,Widespread Brutality,"B, R",4.0,{1}{B}{R}{R},,,,"Amass 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass 2, put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",rare,Amass,,Sorcery
+226,"Angrath, Captain of Chaos","B, R",4.0,{2}{B/R}{B/R},,,5.0,"Creatures you control have menace.
+[−2]: Amass 2. (Put two +1/+1 counters on an Army you control. If you don't control one, create a 0/0 black Zombie Army creature token first.)",uncommon,Amass,Legendary,Planeswalker
+227,"Ashiok, Dream Render","B, U",3.0,{1}{U/B}{U/B},,,5.0,"Spells and abilities your opponents control can't cause their controller to search their library.
+[−1]: Target player mills four cards. Then exile each opponent's graveyard.",uncommon,Mill,Legendary,Planeswalker
+228,"Dovin, Hand of Control","U, W",3.0,{2}{W/U},,,5.0,"Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast.
+[−1]: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.",uncommon,,Legendary,Planeswalker
+229,"Huatli, the Sun's Heart","G, W",3.0,{2}{G/W},,,7.0,"Each creature you control assigns combat damage equal to its toughness rather than its power.
+[−3]: You gain life equal to the greatest toughness among creatures you control.",uncommon,,Legendary,Planeswalker
+230,"Kaya, Bane of the Dead","B, W",6.0,{3}{W/B}{W/B}{W/B},,,7.0,"Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
+[−3]: Exile target creature.",uncommon,,Legendary,Planeswalker
+231,"Kiora, Behemoth Beckoner","G, U",3.0,{2}{G/U},,,7.0,"Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card.
+[−1]: Untap target permanent.",uncommon,,Legendary,Planeswalker
+232,"Nahiri, Storm of Stone","R, W",4.0,{2}{R/W}{R/W},,,6.0,"As long as it's your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate.
+[−X]: Nahiri, Storm of Stone deals X damage to target tapped creature.",uncommon,,Legendary,Planeswalker
+233,"Saheeli, Sublime Artificer","R, U",3.0,{1}{U/R}{U/R},,,5.0,"Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token.
+[−2]: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it's an artifact in addition to its other types.",uncommon,,Legendary,Planeswalker
+234,"Samut, Tyrant Smasher","G, R",4.0,{2}{R/G}{R/G},,,5.0,"Creatures you control have haste.
+[−1]: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",uncommon,Scry,Legendary,Planeswalker
+235,"Vraska, Swarm's Eminence","B, G",4.0,{2}{B/G}{B/G},,,5.0,"Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
+[−2]: Create a 1/1 black Assassin creature token with deathtouch and ""Whenever this creature deals damage to a planeswalker, destroy that planeswalker.""",uncommon,,Legendary,Planeswalker
+236,Firemind Vessel,,4.0,{4},,,,"Firemind Vessel enters the battlefield tapped.
+{T}: Add two mana of different colors.",uncommon,,,Artifact
+237,God-Pharaoh's Statue,,6.0,{6},,,,"Spells your opponents cast cost {2} more to cast.
+At the beginning of your end step, each opponent loses 1 life.",uncommon,,Legendary,Artifact
+238,Guild Globe,,2.0,{2},,,,"When Guild Globe enters the battlefield, draw a card.
+{2}, {T}, Sacrifice Guild Globe: Add two mana of different colors.",common,,,Artifact
+239,Iron Bully,,3.0,{3},1.0,1.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.",common,Menace,,"Artifact, Creature"
+240,Mana Geode,,3.0,{3},,,,"When Mana Geode enters the battlefield, scry 1.
+{T}: Add one mana of any color.",common,Scry,,Artifact
+241,Prismite,,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
+242,Saheeli's Silverwing,,4.0,{4},2.0,3.0,,"Flying
+When Saheeli's Silverwing enters the battlefield, look at the top card of target opponent's library.",common,Flying,,"Artifact, Creature"
+243,Blast Zone,,0.0,,,,,"Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+{X}{X}, {T}: Put X charge counters on Blast Zone.
+{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with mana value equal to the number of charge counters on Blast Zone.",rare,,,Land
+244,Emergence Zone,,0.0,,,,,"{T}: Add {C}.
+{1}, {T}, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash.",uncommon,,,Land
+245,Gateway Plaza,,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
+When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.",common,,,Land
+246,Interplanar Beacon,,0.0,,,,,"Whenever you cast a planeswalker spell, you gain 1 life.
+{T}: Add {C}.
+{1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells.",uncommon,,,Land
+247,Karn's Bastion,,0.0,,,,,"{T}: Add {C}.
+{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",rare,Proliferate,,Land
+248,Mobilized District,,0.0,,,,,"{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.",rare,,,Land
+249,"Gideon, the Oathsworn",W,6.0,{4}{W}{W},,,4.0,"Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
+[+2]: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
+[−9]: Exile Gideon, the Oathsworn and each creature your opponents control.",mythic,,Legendary,Planeswalker
+250,Desperate Lunge,W,2.0,{1}{W},,,,Target creature gets +2/+2 and gains flying until end of turn. You gain 2 life.,common,,,Instant
+251,Gideon's Battle Cry,W,4.0,{2}{W}{W},,,,"Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
+252,Gideon's Company,W,4.0,{3}{W},3.0,3.0,,"Whenever you gain life, put two +1/+1 counters on Gideon's Company.
+{3}{W}: Put a loyalty counter on target Gideon planeswalker.",uncommon,,,Creature
+253,Orzhov Guildgate,,0.0,,,,,"Orzhov Guildgate enters the battlefield tapped.
+{T}: Add {W} or {B}.",common,,,Land
+254,"Jace, Arcane Strategist",U,6.0,{4}{U}{U},,,4.0,"Whenever you draw your second card each turn, put a +1/+1 counter on target creature you control.
+[+1]: Draw a card.
+[−7]: Creatures you control can't be blocked this turn.",mythic,,Legendary,Planeswalker
+255,Guildpact Informant,U,3.0,{2}{U},1.0,1.0,,"Flying
+Whenever Guildpact Informant deals combat damage to a player or planeswalker, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",common,"Flying, Proliferate",,Creature
+256,Jace's Projection,U,4.0,{2}{U}{U},2.0,2.0,,"Whenever you draw a card, put a +1/+1 counter on Jace's Projection.
+{3}{U}: Put a loyalty counter on target Jace planeswalker.",uncommon,,,Creature
+257,Jace's Ruse,U,5.0,{3}{U}{U},,,,"Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
+258,Simic Guildgate,,0.0,,,,,"Simic Guildgate enters the battlefield tapped.
+{T}: Add {G} or {U}.",common,,,Land

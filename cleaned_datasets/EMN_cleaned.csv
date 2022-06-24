@@ -1,0 +1,413 @@
+,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
+0,Abundant Maw,,8.0,{8},6.0,4.0,,"Emerge {6}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, target opponent loses 3 life and you gain 3 life.",uncommon,Emerge,,Creature
+1,Decimator of the Provinces,,10.0,{10},7.0,7.0,,"Emerge {6}{G}{G}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, creatures you control get +2/+2 and gain trample until end of turn.
+Trample, haste",mythic,"Emerge, Haste, Trample",,Creature
+2,Distended Mindbender,,8.0,{8},5.0,5.0,,"Emerge {5}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with mana value 3 or less and a card with mana value 4 or greater. That player discards those cards.",rare,Emerge,,Creature
+3,Drownyard Behemoth,,9.0,{9},5.0,7.0,,"Flash (You may cast this spell any time you could cast an instant.)
+Emerge {7}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+Drownyard Behemoth has hexproof as long as it entered the battlefield this turn.",uncommon,"Emerge, Flash",,Creature
+4,Elder Deep-Fiend,,8.0,{8},5.0,6.0,,"Flash
+Emerge {5}{U}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, tap up to four target permanents.",rare,"Emerge, Flash",,Creature
+5,"Emrakul, the Promised End",,13.0,{13},13.0,13.0,,"This spell costs {1} less to cast for each card type among cards in your graveyard.
+When you cast this spell, you gain control of target opponent during that player's next turn. After that turn, that player takes an extra turn.
+Flying, trample, protection from instants",mythic,"Flying, Protection, Trample",Legendary,Creature
+6,Eternal Scourge,,3.0,{3},3.0,3.0,,"You may cast Eternal Scourge from exile.
+When Eternal Scourge becomes the target of a spell or ability an opponent controls, exile Eternal Scourge.",rare,,,Creature
+7,It of the Horrid Swarm,,8.0,{8},4.0,4.0,,"Emerge {6}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, create two 1/1 green Insect creature tokens.",common,Emerge,,Creature
+8,Lashweed Lurker,,8.0,{8},5.0,4.0,,"Emerge {5}{G}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, you may put target nonland permanent on top of its owner's library.",uncommon,Emerge,,Creature
+9,Mockery of Nature,,9.0,{9},6.0,5.0,,"Emerge {7}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, you may destroy target artifact or enchantment.",uncommon,Emerge,,Creature
+10,Vexing Scuttler,,8.0,{8},4.0,5.0,,"Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, you may return target instant or sorcery card from your graveyard to your hand.",uncommon,Emerge,,Creature
+11,Wretched Gryff,,7.0,{7},3.0,4.0,,"Emerge {5}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When you cast this spell, draw a card.
+Flying",common,"Emerge, Flying",,Creature
+12,Blessed Alliance,W,2.0,{1}{W},,,,"Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target player gains 4 life.
+• Untap up to two target creatures.
+• Target opponent sacrifices an attacking creature.",uncommon,Escalate,,Instant
+13,Borrowed Grace,W,3.0,{2}{W},,,,"Escalate {1}{W} (Pay this cost for each mode chosen beyond the first.)
+Choose one or both —
+• Creatures you control get +2/+0 until end of turn.
+• Creatures you control get +0/+2 until end of turn.",common,Escalate,,Instant
+14,"Bruna, the Fading Light",W,7.0,{5}{W}{W},5.0,7.0,,"When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.
+Flying, vigilance
+(Melds with Gisela, the Broken Blade.)",rare,"Flying, Vigilance",Legendary,Creature
+15,"Brisela, Voice of Nightmares",,11.0,,9.0,10.0,,"Flying, first strike, vigilance, lifelink
+Your opponents can't cast spells with mana value 3 or less.",mythic,"First strike, Flying, Lifelink, Vigilance",Legendary,Creature
+16,Choking Restraints,W,3.0,{2}{W},,,,"Enchant creature
+Enchanted creature can't attack or block.
+{3}{W}{W}, Sacrifice Choking Restraints: Exile enchanted creature.",common,Enchant,,Enchantment
+17,Collective Effort,W,3.0,{1}{W}{W},,,,"Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target creature with power 4 or greater.
+• Destroy target enchantment.
+• Put a +1/+1 counter on each creature target player controls.",rare,Escalate,,Sorcery
+18,Courageous Outrider,W,4.0,{3}{W},3.0,4.0,,"When Courageous Outrider enters the battlefield, look at the top four cards of your library. You may reveal a Human card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",uncommon,,,Creature
+19,Dawn Gryff,W,3.0,{2}{W},2.0,2.0,,Flying,common,Flying,,Creature
+20,Deploy the Gatewatch,W,6.0,{4}{W}{W},,,,Look at the top seven cards of your library. Put up to two planeswalker cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.,mythic,,,Sorcery
+21,Desperate Sentry,W,3.0,{2}{W},1.0,2.0,,"When Desperate Sentry dies, create a 3/2 colorless Eldrazi Horror creature token.
+Delirium — Desperate Sentry gets +3/+0 as long as there are four or more card types among cards in your graveyard.",common,Delirium,,Creature
+22,Drogskol Shieldmate,W,3.0,{2}{W},2.0,3.0,,"Flash (You may cast this spell any time you could cast an instant.)
+When Drogskol Shieldmate enters the battlefield, other creatures you control get +0/+1 until end of turn.",uncommon,Flash,,Creature
+23,Extricator of Sin,W,3.0,{2}{W},0.0,3.0,,"When Extricator of Sin enters the battlefield, you may sacrifice another permanent. If you do, create a 3/2 colorless Eldrazi Horror creature token.
+Delirium — At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, transform Extricator of Sin.",uncommon,"Delirium, Transform",,Creature
+24,Extricator of Flesh,,3.0,,3.0,5.0,,"Eldrazi you control have vigilance.
+{2}, {T}, Sacrifice a non-Eldrazi creature: Create a 3/2 colorless Eldrazi Horror creature token.",uncommon,,,Creature
+25,Faith Unbroken,W,4.0,{3}{W},,,,"Enchant creature you control
+When Faith Unbroken enters the battlefield, exile target creature an opponent controls until Faith Unbroken leaves the battlefield.
+Enchanted creature gets +2/+2.",uncommon,Enchant,,Enchantment
+26,Faithbearer Paladin,W,5.0,{4}{W},3.0,4.0,,Lifelink (Damage dealt by this creature also causes you to gain that much life.),common,Lifelink,,Creature
+27,Fiend Binder,W,4.0,{3}{W},3.0,2.0,,"Whenever Fiend Binder attacks, tap target creature defending player controls.",common,,,Creature
+28,Geist of the Lonely Vigil,W,2.0,{1}{W},2.0,3.0,,"Defender, flying
+Delirium — Geist of the Lonely Vigil can attack as though it didn't have defender as long as there are four or more card types among cards in your graveyard.",uncommon,"Defender, Delirium, Flying",,Creature
+29,"Gisela, the Broken Blade",W,4.0,{2}{W}{W},4.0,3.0,,"Flying, first strike, lifelink
+At the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.",mythic,"First strike, Flying, Lifelink, Meld",Legendary,Creature
+30,Give No Ground,W,4.0,{3}{W},,,,Target creature gets +2/+6 until end of turn and can block any number of creatures this turn.,uncommon,,,Instant
+31,Guardian of Pilgrims,W,2.0,{1}{W},2.0,2.0,,"When Guardian of Pilgrims enters the battlefield, target creature gets +1/+1 until end of turn.",common,,,Creature
+32,Ironclad Slayer,W,3.0,{2}{W},3.0,2.0,,"When Ironclad Slayer enters the battlefield, you may return target Aura or Equipment card from your graveyard to your hand.",common,,,Creature
+33,Ironwright's Cleansing,W,3.0,{2}{W},,,,Exile target artifact or enchantment.,common,,,Sorcery
+34,Lone Rider,W,2.0,{1}{W},1.0,1.0,,"First strike, lifelink
+At the beginning of the end step, if you gained 3 or more life this turn, transform Lone Rider.",uncommon,"First strike, Lifelink, Transform",,Creature
+35,It That Rides as One,,2.0,,4.0,4.0,,"First strike, trample, lifelink",uncommon,"First strike, Lifelink, Trample",,Creature
+36,Long Road Home,W,2.0,{1}{W},,,,"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.",uncommon,,,Instant
+37,Lunarch Mantle,W,2.0,{1}{W},,,,"Enchant creature
+Enchanted creature gets +2/+2 and has ""{1}, Sacrifice a permanent: This creature gains flying until end of turn.""",common,Enchant,,Enchantment
+38,Peace of Mind,W,2.0,{1}{W},,,,"{W}, Discard a card: You gain 3 life.",uncommon,,,Enchantment
+39,Providence,W,7.0,{5}{W}{W},,,,"You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, your life total becomes 26.
+Your life total becomes 26.",rare,,,Sorcery
+40,Repel the Abominable,W,2.0,{1}{W},,,,Prevent all damage that would be dealt this turn by non-Human sources.,uncommon,,,Instant
+41,Sanctifier of Souls,W,4.0,{3}{W},2.0,3.0,,"Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn.
+{2}{W}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.",rare,,,Creature
+42,Selfless Spirit,W,2.0,{1}{W},2.0,1.0,,"Flying
+Sacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.",rare,Flying,,Creature
+43,Sigarda's Aid,W,1.0,{W},,,,"You may cast Aura and Equipment spells as though they had flash.
+Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control.",rare,,,Enchantment
+44,Sigardian Priest,W,2.0,{1}{W},1.0,2.0,,"{1}, {T}: Tap target non-Human creature.",common,,,Creature
+45,Spectral Reserves,W,4.0,{3}{W},,,,Create two 1/1 white Spirit creature tokens with flying. You gain 2 life.,common,,,Sorcery
+46,Steadfast Cathar,W,2.0,{1}{W},2.0,1.0,,"Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn.",common,,,Creature
+47,Subjugator Angel,W,6.0,{4}{W}{W},4.0,3.0,,"Flying
+When Subjugator Angel enters the battlefield, tap all creatures your opponents control.",uncommon,Flying,,Creature
+48,"Thalia, Heretic Cathar",W,3.0,{2}{W},3.0,2.0,,"First strike
+Creatures and nonbasic lands your opponents control enter the battlefield tapped.",rare,First strike,Legendary,Creature
+49,Thalia's Lancers,W,5.0,{3}{W}{W},4.0,4.0,,"First strike
+When Thalia's Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle.",rare,First strike,,Creature
+50,Thraben Standard Bearer,W,1.0,{W},1.0,1.0,,"{1}{W}, {T}, Discard a card: Create a 1/1 white Human Soldier creature token.",common,,,Creature
+51,Advanced Stitchwing,U,5.0,{3}{U}{U},3.0,4.0,,"Flying
+{2}{U}, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped.",uncommon,Flying,,Creature
+52,Chilling Grasp,U,3.0,{2}{U},,,,"Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Madness {3}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",uncommon,Madness,,Instant
+53,Coax from the Blind Eternities,U,3.0,{2}{U},,,,You may reveal an Eldrazi card you own from outside the game or choose a face-up Eldrazi card you own in exile. Put that card into your hand.,rare,,,Sorcery
+54,Contingency Plan,U,2.0,{1}{U},,,,Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.,common,,,Sorcery
+55,Convolute,U,3.0,{2}{U},,,,Counter target spell unless its controller pays {4}.,common,,,Instant
+56,Curious Homunculus,U,2.0,{1}{U},1.0,1.0,,"{T}: Add {C}. Spend this mana only to cast an instant or sorcery spell.
+At the beginning of your upkeep, if there are three or more instant and/or sorcery cards in your graveyard, transform Curious Homunculus.",uncommon,Transform,,Creature
+57,Voracious Reader,,2.0,,3.0,4.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Instant and sorcery spells you cast cost {1} less to cast.",uncommon,Prowess,,Creature
+58,Displace,U,3.0,{2}{U},,,,"Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.",common,,,Instant
+59,Docent of Perfection,U,5.0,{3}{U}{U},5.0,4.0,,"Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token. Then if you control three or more Wizards, transform Docent of Perfection.",rare,"Flying, Transform",,Creature
+60,Final Iteration,,5.0,,6.0,5.0,,"Flying
+Wizards you control get +2/+1 and have flying.
+Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token.",rare,Flying,,Creature
+61,Drag Under,U,3.0,{2}{U},,,,"Return target creature to its owner's hand.
+Draw a card.",common,,,Sorcery
+62,Enlightened Maniac,U,4.0,{3}{U},0.0,2.0,,"When Enlightened Maniac enters the battlefield, create a 3/2 colorless Eldrazi Horror creature token.",common,,,Creature
+63,Exultant Cultist,U,3.0,{2}{U},2.0,2.0,,"When Exultant Cultist dies, draw a card.",common,,,Creature
+64,Fogwalker,U,2.0,{1}{U},1.0,3.0,,"Skulk (This creature can't be blocked by creatures with greater power.)
+When Fogwalker enters the battlefield, target creature an opponent controls doesn't untap during its controller's next untap step.",common,Skulk,,Creature
+65,Fortune's Favor,U,4.0,{3}{U},,,,Target opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.,uncommon,,,Instant
+66,Geist of the Archives,U,3.0,{2}{U},0.0,4.0,,"Defender
+At the beginning of your upkeep, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",uncommon,"Defender, Scry",,Creature
+67,Grizzled Angler,U,3.0,{2}{U},2.0,3.0,,"{T}: Mill two cards. Then if there is a colorless creature card in your graveyard, transform Grizzled Angler.",uncommon,"Mill, Transform",,Creature
+68,Grisly Anglerfish,,3.0,,4.0,5.0,,{6}: Creatures your opponents control attack this turn if able.,uncommon,,,Creature
+69,Identity Thief,U,4.0,{2}{U}{U},0.0,3.0,,"Whenever Identity Thief attacks, you may exile another target nontoken creature. If you do, Identity Thief becomes a copy of that creature until end of turn. Return the exiled card to the battlefield under its owner's control at the beginning of the next end step.",rare,,,Creature
+70,Imprisoned in the Moon,U,3.0,{2}{U},,,,"Enchant creature, land, or planeswalker
+Enchanted permanent is a colorless land with ""{T}: Add {C}"" and loses all other card types and abilities.",rare,Enchant,,Enchantment
+71,Ingenious Skaab,U,3.0,{2}{U},2.0,3.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{U}: Ingenious Skaab gets +1/-1 until end of turn.",common,Prowess,,Creature
+72,Laboratory Brute,U,4.0,{3}{U},3.0,3.0,,"When Laboratory Brute enters the battlefield, mill four cards.",common,Mill,,Creature
+73,Lunar Force,U,3.0,{2}{U},,,,"When an opponent casts a spell, sacrifice Lunar Force and counter that spell.",uncommon,,,Enchantment
+74,Mausoleum Wanderer,U,1.0,{U},1.0,1.0,,"Flying
+Whenever another Spirit enters the battlefield under your control, Mausoleum Wanderer gets +1/+1 until end of turn.
+Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell unless its controller pays {X}, where X is Mausoleum Wanderer's power.",rare,Flying,,Creature
+75,Mind's Dilation,U,7.0,{5}{U}{U},,,,"Whenever an opponent casts their first spell each turn, that player exiles the top card of their library. If it's a nonland card, you may cast it without paying its mana cost.",mythic,,,Enchantment
+76,Nebelgast Herald,U,3.0,{2}{U},2.0,1.0,,"Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Whenever Nebelgast Herald or another Spirit enters the battlefield under your control, tap target creature an opponent controls.",uncommon,"Flash, Flying",,Creature
+77,Niblis of Frost,U,4.0,{2}{U}{U},3.0,3.0,,"Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast an instant or sorcery spell, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",rare,"Flying, Prowess",,Creature
+78,Scour the Laboratory,U,6.0,{4}{U}{U},,,,"Delirium — This spell costs {2} less to cast if there are four or more card types among cards in your graveyard.
+Draw three cards.",uncommon,Delirium,,Instant
+79,Spontaneous Mutation,U,1.0,{U},,,,"Flash
+Enchant creature
+Enchanted creature gets -X/-0, where X is the number of cards in your graveyard.",common,"Enchant, Flash",,Enchantment
+80,Summary Dismissal,U,4.0,{2}{U}{U},,,,Exile all other spells and counter all abilities.,rare,,,Instant
+81,Take Inventory,U,2.0,{1}{U},,,,"Draw a card, then draw cards equal to the number of cards named Take Inventory in your graveyard.",common,,,Sorcery
+82,Tattered Haunter,U,2.0,{1}{U},2.0,1.0,,"Flying
+Tattered Haunter can block only creatures with flying.",common,Flying,,Creature
+83,Turn Aside,U,1.0,{U},,,,Counter target spell that targets a permanent you control.,common,,,Instant
+84,Unsubstantiate,U,2.0,{1}{U},,,,Return target spell or creature to its owner's hand.,uncommon,,,Instant
+85,Wharf Infiltrator,U,2.0,{1}{U},1.0,1.0,,"Skulk (This creature can't be blocked by creatures with greater power.)
+Whenever Wharf Infiltrator deals combat damage to a player, you may draw a card. If you do, discard a card.
+Whenever you discard a creature card, you may pay {2}. If you do, create a 3/2 colorless Eldrazi Horror creature token.",rare,Skulk,,Creature
+86,Boon of Emrakul,B,3.0,{2}{B},,,,"Enchant creature
+Enchanted creature gets +3/-3.",common,Enchant,,Enchantment
+87,Borrowed Malevolence,B,1.0,{B},,,,"Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or both —
+• Target creature gets +1/+1 until end of turn.
+• Target creature gets -1/-1 until end of turn.",common,Escalate,,Instant
+88,Cemetery Recruitment,B,2.0,{1}{B},,,,"Return target creature card from your graveyard to your hand. If it's a Zombie card, draw a card.",common,,,Sorcery
+89,Certain Death,B,6.0,{5}{B},,,,Destroy target creature. Its controller loses 2 life and you gain 2 life.,common,,,Sorcery
+90,Collective Brutality,B,2.0,{1}{B},,,,"Escalate—Discard a card. (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
+• Target creature gets -2/-2 until end of turn.
+• Target opponent loses 2 life and you gain 2 life.",rare,Escalate,,Sorcery
+91,Cryptbreaker,B,1.0,{B},1.0,1.0,,"{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token.
+Tap three untapped Zombies you control: You draw a card and you lose 1 life.",rare,,,Creature
+92,Dark Salvation,B,1.0,{X}{X}{B},,,,"Target player creates X 2/2 black Zombie creature tokens, then up to one target creature gets -1/-1 until end of turn for each Zombie that player controls.",rare,,,Sorcery
+93,Dusk Feaster,B,7.0,{5}{B}{B},4.0,5.0,,"Delirium — This spell costs {2} less to cast if there are four or more card types among cards in your graveyard.
+Flying",uncommon,"Delirium, Flying",,Creature
+94,Gavony Unhallowed,B,4.0,{3}{B},2.0,4.0,,"Whenever another creature you control dies, put a +1/+1 counter on Gavony Unhallowed.",common,,,Creature
+95,Graf Harvest,B,1.0,{B},,,,"Zombies you control have menace. (They can't be blocked except by two or more creatures.)
+{3}{B}, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token.",uncommon,,,Enchantment
+96,Graf Rats,B,2.0,{1}{B},2.0,1.0,,"At the beginning of combat on your turn, if you both own and control Graf Rats and a creature named Midnight Scavengers, exile them, then meld them into Chittering Host.",common,Meld,,Creature
+97,Haunted Dead,B,4.0,{3}{B},2.0,2.0,,"When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature token with flying.
+{1}{B}, Discard two cards: Return Haunted Dead from your graveyard to the battlefield tapped.",uncommon,,,Creature
+98,"Liliana, the Last Hope",B,3.0,{1}{B}{B},,,3.0,"[+1]: Up to one target creature gets -2/-1 until your next turn.
+[−2]: Mill two cards, then you may return a creature card from your graveyard to your hand.
+[−7]: You get an emblem with ""At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.""",mythic,Mill,Legendary,Planeswalker
+99,Liliana's Elite,B,3.0,{2}{B},1.0,1.0,,Liliana's Elite gets +1/+1 for each creature card in your graveyard.,uncommon,,,Creature
+100,Markov Crusader,B,5.0,{4}{B},4.0,3.0,,"Lifelink
+Markov Crusader has haste as long as you control another Vampire.",uncommon,Lifelink,,Creature
+101,Midnight Scavengers,B,5.0,{4}{B},3.0,3.0,,"When Midnight Scavengers enters the battlefield, you may return target creature card with mana value 3 or less from your graveyard to your hand.
+(Melds with Graf Rats.)",common,,,Creature
+102,Chittering Host,,7.0,,5.0,6.0,,"Haste
+Menace (This creature can't be blocked except by two or more creatures.)
+When Chittering Host enters the battlefield, other creatures you control get +1/+0 and gain menace until end of turn.",common,"Haste, Menace",,Creature
+103,Murder,B,3.0,{1}{B}{B},,,,Destroy target creature.,uncommon,,,Instant
+104,Noosegraf Mob,B,6.0,{4}{B}{B},0.0,0.0,,"Noosegraf Mob enters the battlefield with five +1/+1 counters on it.
+Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token.",rare,,,Creature
+105,Oath of Liliana,B,3.0,{2}{B},,,,"When Oath of Liliana enters the battlefield, each opponent sacrifices a creature.
+At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, create a 2/2 black Zombie creature token.",rare,,Legendary,Enchantment
+106,Olivia's Dragoon,B,2.0,{1}{B},2.0,2.0,,Discard a card: Olivia's Dragoon gains flying until end of turn.,common,,,Creature
+107,Prying Questions,B,3.0,{2}{B},,,,Target opponent loses 3 life and puts a card from their hand on top of their library.,uncommon,,,Sorcery
+108,Rise from the Grave,B,5.0,{4}{B},,,,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.,uncommon,,,Sorcery
+109,Ruthless Disposal,B,5.0,{4}{B},,,,"As an additional cost to cast this spell, discard a card and sacrifice a creature.
+Two target creatures each get -13/-13 until end of turn.",uncommon,,,Sorcery
+110,Skirsdag Supplicant,B,3.0,{2}{B},2.0,3.0,,"{B}, {T}, Discard a card: Each player loses 2 life.",common,,,Creature
+111,Strange Augmentation,B,1.0,{B},,,,"Enchant creature
+Enchanted creature gets +1/+1.
+Delirium — Enchanted creature gets an additional +2/+2 as long as there are four or more card types among cards in your graveyard.",common,"Delirium, Enchant",,Enchantment
+112,Stromkirk Condemned,B,2.0,{B}{B},2.0,2.0,,Discard a card: Vampires you control get +1/+1 until end of turn. Activate only once each turn.,rare,,,Creature
+113,Succumb to Temptation,B,3.0,{1}{B}{B},,,,You draw two cards and you lose 2 life.,common,,,Instant
+114,Thraben Foulbloods,B,3.0,{2}{B},3.0,2.0,,Delirium — Thraben Foulbloods gets +1/+1 and has menace as long as there are four or more card types among cards in your graveyard. (A creature with menace can't be blocked except by two or more creatures.),common,Delirium,,Creature
+115,Tree of Perdition,B,4.0,{3}{B},0.0,13.0,,"Defender
+{T}: Exchange target opponent's life total with Tree of Perdition's toughness.",mythic,Defender,,Creature
+116,Vampire Cutthroat,B,1.0,{B},1.0,1.0,,"Skulk (This creature can't be blocked by creatures with greater power.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",uncommon,"Lifelink, Skulk",,Creature
+117,Voldaren Pariah,B,5.0,{3}{B}{B},3.0,3.0,,"Flying
+Sacrifice three other creatures: Transform Voldaren Pariah.
+Madness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",rare,"Flying, Madness, Transform",,Creature
+118,Abolisher of Bloodlines,,5.0,,6.0,5.0,,"Flying
+When this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures.",rare,"Flying, Transform",,Creature
+119,Wailing Ghoul,B,2.0,{1}{B},1.0,3.0,,"When Wailing Ghoul enters the battlefield, mill two cards.",common,Mill,,Creature
+120,Weirded Vampire,B,4.0,{3}{B},3.0,3.0,,"Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",common,Madness,,Creature
+121,Whispers of Emrakul,B,2.0,{1}{B},,,,"Target opponent discards a card at random.
+Delirium — If there are four or more card types among cards in your graveyard, that player discards two cards at random instead.",uncommon,Delirium,,Sorcery
+122,Abandon Reason,R,3.0,{2}{R},,,,"Up to two target creatures each get +1/+0 and gain first strike until end of turn.
+Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",uncommon,Madness,,Instant
+123,Alchemist's Greeting,R,5.0,{4}{R},,,,"Alchemist's Greeting deals 4 damage to target creature.
+Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",common,Madness,,Sorcery
+124,Assembled Alphas,R,6.0,{5}{R},5.0,5.0,,"Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature's controller.",rare,,,Creature
+125,Bedlam Reveler,R,8.0,{6}{R}{R},3.0,4.0,,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+Prowess
+When Bedlam Reveler enters the battlefield, discard your hand, then draw three cards.",rare,Prowess,,Creature
+126,Blood Mist,R,4.0,{3}{R},,,,"At the beginning of combat on your turn, target creature you control gains double strike until end of turn.",uncommon,,,Enchantment
+127,Bold Impaler,R,1.0,{R},1.0,2.0,,{2}{R}: Bold Impaler gets +2/+0 until end of turn.,common,,,Creature
+128,Borrowed Hostility,R,1.0,{R},,,,"Escalate {3} (Pay this cost for each mode chosen beyond the first.)
+Choose one or both —
+• Target creature gets +3/+0 until end of turn.
+• Target creature gains first strike until end of turn.",common,Escalate,,Instant
+129,Brazen Wolves,R,3.0,{2}{R},2.0,3.0,,"Whenever Brazen Wolves attacks, it gets +2/+0 until end of turn.",common,,,Creature
+130,Collective Defiance,R,3.0,{1}{R}{R},,,,"Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target player discards all the cards in their hand, then draws that many cards.
+• Collective Defiance deals 4 damage to target creature.
+• Collective Defiance deals 3 damage to target opponent or planeswalker.",rare,Escalate,,Sorcery
+131,Conduit of Storms,R,3.0,{2}{R},2.0,3.0,,"Whenever Conduit of Storms attacks, add {R} at the beginning of your next main phase this turn.
+{3}{R}{R}: Transform Conduit of Storms.",uncommon,Transform,,Creature
+132,Conduit of Emrakul,,3.0,,5.0,4.0,,"Whenever Conduit of Emrakul attacks, add {C}{C} at the beginning of your next main phase this turn.",uncommon,,,Creature
+133,Deranged Whelp,R,2.0,{1}{R},2.0,1.0,,Menace (This creature can't be blocked except by two or more creatures.),uncommon,Menace,,Creature
+134,Distemper of the Blood,R,2.0,{1}{R},,,,"Target creature gets +2/+2 and gains trample until end of turn.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",common,Madness,,Sorcery
+135,Falkenrath Reaver,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature
+136,Furyblade Vampire,R,2.0,{1}{R},1.0,2.0,,"Trample
+At the beginning of combat on your turn, you may discard a card. If you do, Furyblade Vampire gets +3/+0 until end of turn.",uncommon,Trample,,Creature
+137,Galvanic Bombardment,R,1.0,{R},,,,"Galvanic Bombardment deals X damage to target creature, where X is 2 plus the number of cards named Galvanic Bombardment in your graveyard.",common,,,Instant
+138,Hanweir Garrison,R,3.0,{2}{R},2.0,3.0,,"Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens that are tapped and attacking.
+(Melds with Hanweir Battlements.)",rare,,,Creature
+139,"Hanweir, the Writhing Township",,3.0,,7.0,4.0,,"Trample, haste
+Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.",rare,"Haste, Trample",Legendary,Creature
+140,Harmless Offering,R,3.0,{2}{R},,,,Target opponent gains control of target permanent you control.,rare,,,Sorcery
+141,Impetuous Devils,R,4.0,{2}{R}{R},6.0,1.0,,"Trample, haste
+When Impetuous Devils attacks, up to one target creature defending player controls blocks it this combat if able.
+At the beginning of the end step, sacrifice Impetuous Devils.",rare,"Haste, Trample",,Creature
+142,Incendiary Flow,R,2.0,{1}{R},,,,"Incendiary Flow deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.",uncommon,,,Sorcery
+143,Insatiable Gorgers,R,4.0,{2}{R}{R},5.0,3.0,,"Insatiable Gorgers attacks each combat if able.
+Madness {3}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",uncommon,Madness,,Creature
+144,Make Mischief,R,3.0,{2}{R},,,,"Make Mischief deals 1 damage to any target. Create a 1/1 red Devil creature token. It has ""When this creature dies, it deals 1 damage to any target.""",common,,,Sorcery
+145,Mirrorwing Dragon,R,5.0,{3}{R}{R},4.0,5.0,,"Flying
+Whenever a player casts an instant or sorcery spell that targets only Mirrorwing Dragon, that player copies that spell for each other creature they control that the spell could target. Each copy targets a different one of those creatures.",mythic,Flying,,Creature
+146,Nahiri's Wrath,R,3.0,{2}{R},,,,"As an additional cost to cast this spell, discard X cards.
+Nahiri's Wrath deals damage equal to the total mana value of the discarded cards to each of up to X target creatures and/or planeswalkers.",mythic,,,Sorcery
+147,Otherworldly Outburst,R,1.0,{R},,,,"Target creature gets +1/+0 until end of turn. When that creature dies this turn, create a 3/2 colorless Eldrazi Horror creature token.",common,,,Instant
+148,Prophetic Ravings,R,1.0,{R},,,,"Enchant creature
+Enchanted creature has haste and ""{T}, Discard a card: Draw a card.""",common,Enchant,,Enchantment
+149,Savage Alliance,R,3.0,{2}{R},,,,"Escalate {1} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Creatures target player controls gain trample until end of turn.
+• Savage Alliance deals 2 damage to target creature.
+• Savage Alliance deals 1 damage to each creature target opponent controls.",uncommon,Escalate,,Instant
+150,Shreds of Sanity,R,3.0,{2}{R},,,,"Return up to one target instant card and up to one target sorcery card from your graveyard to your hand, then discard a card. Exile Shreds of Sanity.",uncommon,,,Sorcery
+151,Smoldering Werewolf,R,4.0,{2}{R}{R},3.0,2.0,,"When Smoldering Werewolf enters the battlefield, it deals 1 damage to each of up to two target creatures.
+{4}{R}{R}: Transform Smoldering Werewolf.",uncommon,Transform,,Creature
+152,Erupting Dreadwolf,,4.0,,6.0,4.0,,"Whenever Erupting Dreadwolf attacks, it deals 2 damage to any target.",uncommon,,,Creature
+153,Spreading Flames,R,7.0,{6}{R},,,,Spreading Flames deals 6 damage divided as you choose among any number of target creatures.,uncommon,,,Instant
+154,Stensia Banquet,R,3.0,{2}{R},,,,"Stensia Banquet deals damage to target opponent or planeswalker equal to the number of Vampires you control.
+Draw a card.",common,,,Sorcery
+155,Stensia Innkeeper,R,4.0,{3}{R},3.0,3.0,,"When Stensia Innkeeper enters the battlefield, tap target land an opponent controls. That land doesn't untap during its controller's next untap step.",common,,,Creature
+156,Stromkirk Occultist,R,3.0,{2}{R},3.0,2.0,,"Trample
+Whenever Stromkirk Occultist deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.
+Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",rare,"Madness, Trample",,Creature
+157,Thermo-Alchemist,R,2.0,{1}{R},0.0,3.0,,"Defender
+{T}: Thermo-Alchemist deals 1 damage to each opponent.
+Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist.",common,Defender,,Creature
+158,Vildin-Pack Outcast,R,5.0,{4}{R},4.0,4.0,,"Trample
+{R}: Vildin-Pack Outcast gets +1/-1 until end of turn.
+{5}{R}{R}: Transform Vildin-Pack Outcast.",common,"Trample, Transform",,Creature
+159,Dronepack Kindred,,5.0,,5.0,7.0,,"Trample
+{1}: Dronepack Kindred gets +1/+0 until end of turn.",common,Trample,,Creature
+160,Weaver of Lightning,R,3.0,{2}{R},1.0,4.0,,"Reach
+Whenever you cast an instant or sorcery spell, Weaver of Lightning deals 1 damage to target creature an opponent controls.",uncommon,Reach,,Creature
+161,Backwoods Survivalists,G,4.0,{3}{G},4.0,3.0,,Delirium — Backwoods Survivalists gets +1/+1 and has trample as long as there are four or more card types among cards in your graveyard.,common,Delirium,,Creature
+162,Bloodbriar,G,3.0,{2}{G},2.0,3.0,,"Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar.",common,,,Creature
+163,Clear Shot,G,3.0,{2}{G},,,,Target creature you control gets +1/+1 until end of turn. It deals damage equal to its power to target creature you don't control.,uncommon,,,Instant
+164,Crop Sigil,G,1.0,{G},,,,"At the beginning of your upkeep, you may mill a card.
+Delirium — {2}{G}, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate only if there are four or more card types among cards in your graveyard.",uncommon,"Delirium, Mill",,Enchantment
+165,Crossroads Consecrator,G,1.0,{G},1.0,2.0,,"{G}, {T}: Target attacking Human gets +1/+1 until end of turn.",common,,,Creature
+166,Eldritch Evolution,G,3.0,{1}{G}{G},,,,"As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value X or less, where X is 2 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle. Exile Eldritch Evolution.",rare,,,Sorcery
+167,Emrakul's Evangel,G,3.0,{2}{G},3.0,2.0,,"{T}, Sacrifice Emrakul's Evangel and any number of other non-Eldrazi creatures: Create a 3/2 colorless Eldrazi Horror creature token for each creature sacrificed this way.",rare,,,Creature
+168,Emrakul's Influence,G,4.0,{2}{G}{G},,,,"Whenever you cast an Eldrazi creature spell with mana value 7 or greater, draw two cards.",uncommon,,,Enchantment
+169,Foul Emissary,G,3.0,{2}{G},1.0,1.0,,"When Foul Emissary enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+When you sacrifice Foul Emissary while casting a spell with emerge, create a 3/2 colorless Eldrazi Horror creature token.",uncommon,,,Creature
+170,Gnarlwood Dryad,G,1.0,{G},1.0,1.0,,"Deathtouch
+Delirium — Gnarlwood Dryad gets +2/+2 as long as there are four or more card types among cards in your graveyard.",uncommon,"Deathtouch, Delirium",,Creature
+171,Grapple with the Past,G,2.0,{1}{G},,,,"Mill three cards, then you may return a creature or land card from your graveyard to your hand.",common,Mill,,Instant
+172,Hamlet Captain,G,2.0,{1}{G},2.0,2.0,,"Whenever Hamlet Captain attacks or blocks, other Humans you control get +1/+1 until end of turn.",uncommon,,,Creature
+173,"Ishkanah, Grafwidow",G,5.0,{4}{G},3.0,5.0,,"Reach
+Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, create three 1/2 green Spider creature tokens with reach.
+{6}{B}: Target opponent loses 1 life for each Spider you control.",mythic,"Delirium, Reach",Legendary,Creature
+174,Kessig Prowler,G,1.0,{G},2.0,1.0,,{4}{G}: Transform Kessig Prowler.,uncommon,Transform,,Creature
+175,Sinuous Predator,,1.0,,4.0,4.0,,Sinuous Predator can't be blocked by more than one creature.,uncommon,,,Creature
+176,Noose Constrictor,G,2.0,{1}{G},2.0,2.0,,"Reach
+Discard a card: Noose Constrictor gets +1/+1 until end of turn.",uncommon,Reach,,Creature
+177,Permeating Mass,G,1.0,{G},1.0,3.0,,"Whenever Permeating Mass deals combat damage to a creature, that creature becomes a copy of Permeating Mass.",rare,,,Creature
+178,Prey Upon,G,1.0,{G},,,,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),common,Fight,,Sorcery
+179,Primal Druid,G,2.0,{1}{G},0.0,3.0,,"When Primal Druid dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Creature
+180,Shrill Howler,G,3.0,{2}{G},3.0,1.0,,"Creatures with power less than Shrill Howler's power can't block it.
+{5}{G}: Transform Shrill Howler.",uncommon,Transform,,Creature
+181,Howling Chorus,,3.0,,3.0,5.0,,"Creatures with power less than Howling Chorus's power can't block it.
+Whenever Howling Chorus deals combat damage to a player, create a 3/2 colorless Eldrazi Horror creature token.",uncommon,,,Creature
+182,Somberwald Stag,G,5.0,{3}{G}{G},4.0,3.0,,"When Somberwald Stag enters the battlefield, you may have it fight target creature you don't control.",uncommon,Fight,,Creature
+183,Spirit of the Hunt,G,3.0,{1}{G}{G},3.0,3.0,,"Flash
+When Spirit of the Hunt enters the battlefield, each other creature you control that's a Wolf or a Werewolf gets +0/+3 until end of turn.",rare,Flash,,Creature
+184,Splendid Reclamation,G,4.0,{3}{G},,,,Return all land cards from your graveyard to the battlefield tapped.,rare,,,Sorcery
+185,Springsage Ritual,G,4.0,{3}{G},,,,Destroy target artifact or enchantment. You gain 4 life.,common,,,Instant
+186,Swift Spinner,G,4.0,{3}{G},2.0,3.0,,"Flash (You may cast this spell any time you could cast an instant.)
+Reach (This creature can block creatures with flying.)",common,"Flash, Reach",,Creature
+187,Tangleclaw Werewolf,G,4.0,{2}{G}{G},2.0,4.0,,"Tangleclaw Werewolf can block an additional creature each combat.
+{6}{G}: Transform Tangleclaw Werewolf.",uncommon,Transform,,Creature
+188,Fibrous Entangler,,4.0,,4.0,6.0,,"Vigilance
+Fibrous Entangler must be blocked if able.
+Fibrous Entangler can block an additional creature each combat.",uncommon,Vigilance,,Creature
+189,Ulvenwald Captive,G,2.0,{1}{G},1.0,2.0,,"Defender
+{T}: Add {G}.
+{5}{G}{G}: Transform Ulvenwald Captive.",common,"Defender, Transform",,Creature
+190,Ulvenwald Abomination,,2.0,,4.0,6.0,,{T}: Add {C}{C}.,common,,,Creature
+191,Ulvenwald Observer,G,6.0,{4}{G}{G},6.0,6.0,,"Whenever a creature you control with toughness 4 or greater dies, draw a card.",rare,,,Creature
+192,Waxing Moon,G,2.0,{1}{G},,,,Transform up to one target Werewolf you control. Creatures you control gain trample until end of turn.,common,Transform,,Instant
+193,Wolfkin Bond,G,5.0,{4}{G},,,,"Enchant creature
+When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature token.
+Enchanted creature gets +2/+2.",common,Enchant,,Enchantment
+194,Woodcutter's Grit,G,3.0,{2}{G},,,,Target creature you control gets +3/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),common,,,Instant
+195,Woodland Patrol,G,3.0,{2}{G},3.0,2.0,,Vigilance,common,Vigilance,,Creature
+196,Bloodhall Priest,"B, R",4.0,{2}{B}{R},4.0,4.0,,"Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target.
+Madness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",rare,Madness,,Creature
+197,Campaign of Vengeance,"B, W",5.0,{3}{W}{B},,,,"Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.",uncommon,,,Enchantment
+198,Gisa and Geralf,"B, U",4.0,{2}{U}{B},4.0,4.0,,"When Gisa and Geralf enters the battlefield, mill four cards.
+During each of your turns, you may cast a Zombie creature spell from your graveyard.",mythic,Mill,Legendary,Creature
+199,Grim Flayer,"B, G",2.0,{B}{G},2.0,2.0,,"Trample
+Whenever Grim Flayer deals combat damage to a player, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
+Delirium — Grim Flayer gets +2/+2 as long as there are four or more card types among cards in your graveyard.",mythic,"Delirium, Trample",,Creature
+200,Heron's Grace Champion,"G, W",4.0,{2}{G}{W},3.0,3.0,,"Flash
+Lifelink
+When Heron's Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn.",rare,"Flash, Lifelink",,Creature
+201,Mercurial Geists,"R, U",4.0,{2}{U}{R},1.0,3.0,,"Flying
+Whenever you cast an instant or sorcery spell, Mercurial Geists gets +3/+0 until end of turn.",uncommon,Flying,,Creature
+202,Mournwillow,"B, G",3.0,{1}{B}{G},3.0,2.0,,"Haste
+Delirium — When Mournwillow enters the battlefield, if there are four or more card types among cards in your graveyard, creatures with power 2 or less can't block this turn.",uncommon,"Delirium, Haste",,Creature
+203,Ride Down,"R, W",2.0,{R}{W},,,,Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.,uncommon,,,Instant
+204,Spell Queller,"U, W",3.0,{1}{W}{U},2.0,3.0,,"Flash
+Flying
+When Spell Queller enters the battlefield, exile target spell with mana value 4 or less.
+When Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.",rare,"Flash, Flying",,Creature
+205,"Tamiyo, Field Researcher","G, U, W",4.0,{1}{G}{W}{U},,,4.0,"[+1]: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.
+[−2]: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.
+[−7]: Draw three cards. You get an emblem with ""You may cast spells from your hand without paying their mana costs.""",mythic,,Legendary,Planeswalker
+206,Ulrich of the Krallenhorde,"G, R",5.0,{3}{R}{G},4.0,4.0,,"Whenever this creature enters the battlefield or transforms into Ulrich of the Krallenhorde, target creature gets +4/+4 until end of turn.
+At the beginning of each upkeep, if no spells were cast last turn, transform Ulrich of the Krallenhorde.",mythic,Transform,Legendary,Creature
+207,"Ulrich, Uncontested Alpha","G, R",5.0,,6.0,6.0,,"Whenever this creature transforms into Ulrich, Uncontested Alpha, you may have it fight target non-Werewolf creature you don't control.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulrich, Uncontested Alpha.",mythic,"Fight, Transform",Legendary,Creature
+208,Cathar's Shield,,0.0,{0},,,,"Equipped creature gets +0/+3 and has vigilance.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
+209,Cryptolith Fragment,,3.0,{3},,,,"Cryptolith Fragment enters the battlefield tapped.
+{T}: Add one mana of any color. Each player loses 1 life.
+At the beginning of your upkeep, if each player has 10 or less life, transform Cryptolith Fragment.",uncommon,Transform,,Artifact
+210,Aurora of Emrakul,,3.0,,1.0,4.0,,"Flying, deathtouch
+Whenever Aurora of Emrakul attacks, each opponent loses 3 life.",uncommon,"Deathtouch, Flying",,Creature
+211,Cultist's Staff,,2.0,{2},,,,"Equipped creature gets +2/+2.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
+212,Field Creeper,,2.0,{2},2.0,1.0,,,common,,,"Artifact, Creature"
+213,Geist-Fueled Scarecrow,,4.0,{4},4.0,4.0,,Creature spells you cast cost {1} more to cast.,uncommon,,,"Artifact, Creature"
+214,Lupine Prototype,,2.0,{2},5.0,5.0,,Lupine Prototype can't attack or block unless a player has no cards in hand.,rare,,,"Artifact, Creature"
+215,Slayer's Cleaver,,3.0,{3},,,,"Equipped creature gets +3/+1 and must be blocked by an Eldrazi if able.
+Equip {4}",uncommon,Equip,,Artifact
+216,Soul Separator,,3.0,{3},,,,"{5}, {T}, Sacrifice Soul Separator: Exile target creature card from your graveyard. Create a token that's a copy of that card, except it's 1/1, it's a Spirit in addition to its other types, and it has flying. Create a black Zombie creature token with power equal to that card's power and toughness equal to that card's toughness.",rare,,,Artifact
+217,Stitcher's Graft,,1.0,{1},,,,"Equipped creature gets +3/+3.
+Whenever equipped creature attacks, it doesn't untap during its controller's next untap step.
+Whenever Stitcher's Graft becomes unattached from a permanent, sacrifice that permanent.
+Equip {2}",rare,Equip,,Artifact
+218,Terrarion,,1.0,{1},,,,"Terrarion enters the battlefield tapped.
+{2}, {T}, Sacrifice Terrarion: Add two mana in any combination of colors.
+When Terrarion is put into a graveyard from the battlefield, draw a card.",common,,,Artifact
+219,Thirsting Axe,,3.0,{3},,,,"Equipped creature gets +4/+0.
+At the beginning of your end step, if equipped creature didn't deal combat damage to a creature this turn, sacrifice it.
+Equip {2}",uncommon,Equip,,Artifact
+220,Geier Reach Sanitarium,,0.0,,,,,"{T}: Add {C}.
+{2}, {T}: Each player draws a card, then discards a card.",rare,,Legendary,Land
+221,Hanweir Battlements,,0.0,,,,,"{T}: Add {C}.
+{R}, {T}: Target creature gains haste until end of turn.
+{3}{R}{R}, {T}: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.",rare,Meld,,Land
+222,Nephalia Academy,,0.0,,,,,"If a spell or ability an opponent controls causes you to discard a card, you may reveal that card and put it on top of your library instead of putting it anywhere else.
+{T}: Add {C}.",uncommon,,,Land
