@@ -285,67 +285,67 @@ Copy target instant or sorcery spell. You may choose new targets for the copy.",
 165,Driven,G,4.0,{1}{G},,,,"Until end of turn, creatures you control gain trample and ""Whenever this creature deals combat damage to a player, draw a card.""",rare,,,Sorcery
 166,Despair,B,4.0,{1}{B},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Until end of turn, creatures you control gain menace and ""Whenever this creature deals combat damage to a player, that player discards a card.""",rare,Aftermath,,Sorcery
-167,Abandoned Sarcophagus,,3.0,{3},,,,"You may cast spells that have a cycling ability from your graveyard.
+167,Abandoned Sarcophagus,C,3.0,{3},,,,"You may cast spells that have a cycling ability from your graveyard.
 If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn't cycled, exile it instead.",rare,,,Artifact
-168,Crook of Condemnation,,2.0,{2},,,,"{1}, {T}: Exile target card from a graveyard.
+168,Crook of Condemnation,C,2.0,{2},,,,"{1}, {T}: Exile target card from a graveyard.
 {1}, Exile Crook of Condemnation: Exile all graveyards.",uncommon,,,Artifact
-169,Dagger of the Worthy,,2.0,{2},,,,"Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)
+169,Dagger of the Worthy,C,2.0,{2},,,,"Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-170,God-Pharaoh's Gift,,7.0,{7},,,,"At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.",rare,,,Artifact
-171,Graven Abomination,,3.0,{3},3.0,1.0,,"Whenever Graven Abomination attacks, exile target card from defending player's graveyard.",common,,,"Artifact, Creature"
-172,Hollow One,,5.0,{5},4.0,4.0,,"This spell costs {2} less to cast for each card you've cycled or discarded this turn.
+170,God-Pharaoh's Gift,C,7.0,{7},,,,"At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.",rare,,,Artifact
+171,Graven Abomination,C,3.0,{3},3.0,1.0,,"Whenever Graven Abomination attacks, exile target card from defending player's graveyard.",common,,,"Artifact, Creature"
+172,Hollow One,C,5.0,{5},4.0,4.0,,"This spell costs {2} less to cast for each card you've cycled or discarded this turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,"Artifact, Creature"
-173,Manalith,,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact
-174,Mirage Mirror,,3.0,{3},,,,"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.",rare,,,Artifact
-175,Sunset Pyramid,,2.0,{2},,,,"Sunset Pyramid enters the battlefield with three brick counters on it.
+173,Manalith,C,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact
+174,Mirage Mirror,C,3.0,{3},,,,"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.",rare,,,Artifact
+175,Sunset Pyramid,C,2.0,{2},,,,"Sunset Pyramid enters the battlefield with three brick counters on it.
 {2}, {T}, Remove a brick counter from Sunset Pyramid: Draw a card.
 {2}, {T}: Scry 1.",uncommon,Scry,,Artifact
-176,Traveler's Amulet,,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
-177,Wall of Forgotten Pharaohs,,2.0,{2},0.0,4.0,,"Defender
+176,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
+177,Wall of Forgotten Pharaohs,C,2.0,{2},0.0,4.0,,"Defender
 {T}: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate only if you control a Desert or there is a Desert card in your graveyard.",common,Defender,,"Artifact, Creature"
-178,Crypt of the Eternals,,0.0,,,,,"When Crypt of the Eternals enters the battlefield, you gain 1 life.
+178,Crypt of the Eternals,L,0.0,,,,,"When Crypt of the Eternals enters the battlefield, you gain 1 life.
 {T}: Add {C}.
 {1}, {T}: Add {U}, {B}, or {R}.",uncommon,,,Land
-179,Desert of the Fervent,,0.0,,,,,"Desert of the Fervent enters the battlefield tapped.
+179,Desert of the Fervent,L,0.0,,,,,"Desert of the Fervent enters the battlefield tapped.
 {T}: Add {R}.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)",common,Cycling,,Land
-180,Desert of the Glorified,,0.0,,,,,"Desert of the Glorified enters the battlefield tapped.
+180,Desert of the Glorified,L,0.0,,,,,"Desert of the Glorified enters the battlefield tapped.
 {T}: Add {B}.
 Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)",common,Cycling,,Land
-181,Desert of the Indomitable,,0.0,,,,,"Desert of the Indomitable enters the battlefield tapped.
+181,Desert of the Indomitable,L,0.0,,,,,"Desert of the Indomitable enters the battlefield tapped.
 {T}: Add {G}.
 Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)",common,Cycling,,Land
-182,Desert of the Mindful,,0.0,,,,,"Desert of the Mindful enters the battlefield tapped.
+182,Desert of the Mindful,L,0.0,,,,,"Desert of the Mindful enters the battlefield tapped.
 {T}: Add {U}.
 Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)",common,Cycling,,Land
-183,Desert of the True,,0.0,,,,,"Desert of the True enters the battlefield tapped.
+183,Desert of the True,L,0.0,,,,,"Desert of the True enters the battlefield tapped.
 {T}: Add {W}.
 Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)",common,Cycling,,Land
-184,Dunes of the Dead,,0.0,,,,,"{T}: Add {C}.
+184,Dunes of the Dead,L,0.0,,,,,"{T}: Add {C}.
 When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/2 black Zombie creature token.",uncommon,,,Land
-185,Endless Sands,,0.0,,,,,"{T}: Add {C}.
+185,Endless Sands,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}: Exile target creature you control.
 {4}, {T}, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner's control.",rare,,,Land
-186,Hashep Oasis,,0.0,,,,,"{T}: Add {C}.
+186,Hashep Oasis,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {G}.
 {1}{G}{G}, {T}, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate only as a sorcery.",uncommon,,,Land
-187,Hostile Desert,,0.0,,,,,"{T}: Add {C}.
+187,Hostile Desert,L,0.0,,,,,"{T}: Add {C}.
 {2}, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 Elemental creature until end of turn. It's still a land.",rare,,,Land
-188,Ifnir Deadlands,,0.0,,,,,"{T}: Add {C}.
+188,Ifnir Deadlands,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {B}.
 {2}{B}{B}, {T}, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate only as a sorcery.",uncommon,,,Land
-189,Ipnu Rivulet,,0.0,,,,,"{T}: Add {C}.
+189,Ipnu Rivulet,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {U}.
 {1}{U}, {T}, Sacrifice a Desert: Target player mills four cards.",uncommon,Mill,,Land
-190,Ramunap Ruins,,0.0,,,,,"{T}: Add {C}.
+190,Ramunap Ruins,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {R}.
 {2}{R}{R}, {T}, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.",uncommon,,,Land
-191,Scavenger Grounds,,0.0,,,,,"{T}: Add {C}.
+191,Scavenger Grounds,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice a Desert: Exile all graveyards.",rare,,,Land
-192,Shefet Dunes,,0.0,,,,,"{T}: Add {C}.
+192,Shefet Dunes,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {W}.
 {2}{W}{W}, {T}, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.",uncommon,,,Land
-193,Survivors' Encampment,,0.0,,,,,"{T}: Add {C}.
+193,Survivors' Encampment,L,0.0,,,,,"{T}: Add {C}.
 {T}, Tap an untapped creature you control: Add one mana of any color.",common,,,Land
 194,"Nissa, Genesis Mage",G,7.0,{5}{G}{G},,,5.0,"[+2]: Untap up to two target creatures and up to two target lands.
 [−3]: Target creature gets +5/+5 until end of turn.
@@ -353,7 +353,7 @@ When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/
 195,Avid Reclaimer,G,3.0,{2}{G},2.0,2.0,,"{T}: Add {G} or {U}. If you control a Nissa planeswalker, you gain 2 life.",uncommon,,,Creature
 196,Brambleweft Behemoth,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature
 197,Nissa's Encouragement,G,5.0,{4}{G},,,,"Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle.",rare,,,Sorcery
-198,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+198,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land
 199,"Nicol Bolas, the Deceiver","B, R, U",8.0,{5}{U}{B}{R},,,5.0,"[+3]: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
 [−3]: Destroy target creature. Draw a card.
@@ -361,7 +361,7 @@ When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/
 200,Wasp of the Bitter End,B,2.0,{1}{B},2.0,1.0,,"Flying
 Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the Bitter End. If you do, destroy target creature.",uncommon,Flying,,Creature
 201,Zealot of the God-Pharaoh,R,4.0,{3}{R},4.0,3.0,,{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.,common,,,Creature
-202,Visage of Bolas,,4.0,{4},,,,"When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle.
+202,Visage of Bolas,C,4.0,{4},,,,"When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle.
 {T}: Add {U}, {B}, or {R}.",rare,,,Artifact
-203,Cinder Barrens,,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+203,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land

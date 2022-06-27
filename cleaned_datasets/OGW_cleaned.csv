@@ -1,36 +1,36 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,Deceiver of Form,,7.0,{6}{C},8.0,8.0,,"({C} represents colorless mana.)
+0,Deceiver of Form,C,7.0,{6}{C},8.0,8.0,,"({C} represents colorless mana.)
 At the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.",rare,,,Creature
-1,Eldrazi Mimic,,2.0,{2},2.0,1.0,,"Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.",rare,,,Creature
-2,Endbringer,,6.0,{5}{C},5.0,5.0,,"Untap Endbringer during each other player's untap step.
+1,Eldrazi Mimic,C,2.0,{2},2.0,1.0,,"Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.",rare,,,Creature
+2,Endbringer,C,6.0,{5}{C},5.0,5.0,,"Untap Endbringer during each other player's untap step.
 {T}: Endbringer deals 1 damage to any target.
 {C}, {T}: Target creature can't attack or block this turn.
 {C}{C}, {T}: Draw a card.",rare,,,Creature
-3,"Kozilek, the Great Distortion",,10.0,{8}{C}{C},12.0,12.0,,"When you cast this spell, if you have fewer than seven cards in hand, draw cards equal to the difference.
+3,"Kozilek, the Great Distortion",C,10.0,{8}{C}{C},12.0,12.0,,"When you cast this spell, if you have fewer than seven cards in hand, draw cards equal to the difference.
 Menace
 Discard a card with mana value X: Counter target spell with mana value X.",mythic,Menace,Legendary,Creature
-4,Kozilek's Pathfinder,,6.0,{6},5.0,5.0,,{C}: Target creature can't block Kozilek's Pathfinder this turn. ({C} represents colorless mana.),common,,,Creature
-5,Matter Reshaper,,3.0,{2}{C},3.0,2.0,,"({C} represents colorless mana.)
+4,Kozilek's Pathfinder,C,6.0,{6},5.0,5.0,,{C}: Target creature can't block Kozilek's Pathfinder this turn. ({C} represents colorless mana.),common,,,Creature
+5,Matter Reshaper,C,3.0,{2}{C},3.0,2.0,,"({C} represents colorless mana.)
 When Matter Reshaper dies, reveal the top card of your library. You may put that card onto the battlefield if it's a permanent card with mana value 3 or less. Otherwise, put that card into your hand.",rare,,,Creature
-6,Reality Smasher,,5.0,{4}{C},5.0,5.0,,"({C} represents colorless mana.)
+6,Reality Smasher,C,5.0,{4}{C},5.0,5.0,,"({C} represents colorless mana.)
 Trample, haste
 Whenever Reality Smasher becomes the target of a spell an opponent controls, counter that spell unless its controller discards a card.",rare,"Haste, Trample",,Creature
-7,Spatial Contortion,,2.0,{1}{C},,,,"({C} represents colorless mana.)
+7,Spatial Contortion,C,2.0,{1}{C},,,,"({C} represents colorless mana.)
 Target creature gets +3/-3 until end of turn.",uncommon,,,Instant
-8,Thought-Knot Seer,,4.0,{3}{C},4.0,4.0,,"({C} represents colorless mana.)
+8,Thought-Knot Seer,C,4.0,{3}{C},4.0,4.0,,"({C} represents colorless mana.)
 When Thought-Knot Seer enters the battlefield, target opponent reveals their hand. You choose a nonland card from it and exile that card.
 When Thought-Knot Seer leaves the battlefield, target opponent draws a card.",rare,,,Creature
-9,Walker of the Wastes,,5.0,{4}{C},4.0,4.0,,"({C} represents colorless mana.)
+9,Walker of the Wastes,C,5.0,{4}{C},4.0,4.0,,"({C} represents colorless mana.)
 Trample
 Walker of the Wastes gets +1/+1 for each land you control named Wastes.",uncommon,Trample,,Creature
-10,Warden of Geometries,,4.0,{4},2.0,3.0,,"Vigilance
+10,Warden of Geometries,C,4.0,{4},2.0,3.0,,"Vigilance
 {T}: Add {C}. ({C} represents colorless mana.)",common,Vigilance,,Creature
-11,Warping Wail,,2.0,{1}{C},,,,"({C} represents colorless mana.)
+11,Warping Wail,C,2.0,{1}{C},,,,"({C} represents colorless mana.)
 Choose one —
 • Exile target creature with power or toughness 1 or less.
 • Counter target sorcery spell.
 • Create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",uncommon,,,Instant
-12,Eldrazi Displacer,,3.0,{2}{W},3.0,3.0,,"Devoid (This card has no color.)
+12,Eldrazi Displacer,C,3.0,{2}{W},3.0,3.0,,"Devoid (This card has no color.)
 {2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. ({C} represents colorless mana.)",rare,Devoid,,Creature
 13,Affa Protector,W,3.0,{2}{W},1.0,4.0,,Vigilance,common,Vigilance,,Creature
 14,Allied Reinforcements,W,4.0,{3}{W},,,,Create two 2/2 white Knight Ally creature tokens.,uncommon,,,Sorcery
@@ -68,31 +68,31 @@ Whenever an equipped creature you control dies, draw a card.",rare,,,Creature
 37,Stoneforge Acolyte,W,1.0,{W},1.0,2.0,,"Cohort — {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",uncommon,Cohort,,Creature
 38,Wall of Resurgence,W,3.0,{2}{W},0.0,6.0,,"Defender
 When Wall of Resurgence enters the battlefield, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.",uncommon,Defender,,Creature
-39,Abstruse Interference,,3.0,{2}{U},,,,"Devoid (This card has no color.)
+39,Abstruse Interference,C,3.0,{2}{U},,,,"Devoid (This card has no color.)
 Counter target spell unless its controller pays {1}. You create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}."" ({C} represents colorless mana.)",common,Devoid,,Instant
-40,Blinding Drone,,2.0,{1}{U},1.0,3.0,,"Devoid (This card has no color.)
+40,Blinding Drone,C,2.0,{1}{U},1.0,3.0,,"Devoid (This card has no color.)
 {C}, {T}: Tap target creature. ({C} represents colorless mana.)",common,Devoid,,Creature
-41,Cultivator Drone,,3.0,{2}{U},2.0,3.0,,"Devoid (This card has no color.)
+41,Cultivator Drone,C,3.0,{2}{U},2.0,3.0,,"Devoid (This card has no color.)
 {T}: Add {C}. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains {C}. ({C} represents colorless mana.)",common,Devoid,,Creature
-42,Deepfathom Skulker,,6.0,{5}{U},4.0,4.0,,"Devoid (This card has no color.)
+42,Deepfathom Skulker,C,6.0,{5}{U},4.0,4.0,,"Devoid (This card has no color.)
 Whenever a creature you control deals combat damage to a player, you may draw a card.
 {3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)",rare,Devoid,,Creature
-43,Dimensional Infiltrator,,2.0,{1}{U},2.0,1.0,,"Devoid (This card has no color.)
+43,Dimensional Infiltrator,C,2.0,{1}{U},2.0,1.0,,"Devoid (This card has no color.)
 Flash
 Flying
 {1}{C}: Target opponent exiles the top card of their library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. ({C} represents colorless mana.)",rare,"Devoid, Flash, Flying",,Creature
-44,Gravity Negator,,4.0,{3}{U},2.0,3.0,,"Devoid (This card has no color.)
+44,Gravity Negator,C,4.0,{3}{U},2.0,3.0,,"Devoid (This card has no color.)
 Flying
 Whenever Gravity Negator attacks, you may pay {C}. If you do, another target creature gains flying until end of turn. ({C} represents colorless mana.)",common,"Devoid, Flying",,Creature
-45,Prophet of Distortion,,1.0,{U},1.0,2.0,,"Devoid (This card has no color.)
+45,Prophet of Distortion,C,1.0,{U},1.0,2.0,,"Devoid (This card has no color.)
 {3}{C}: Draw a card. ({C} represents colorless mana.)",uncommon,Devoid,,Creature
-46,Slip Through Space,,1.0,{U},,,,"Devoid (This card has no color.)
+46,Slip Through Space,C,1.0,{U},,,,"Devoid (This card has no color.)
 Target creature can't be blocked this turn.
 Draw a card.",common,Devoid,,Sorcery
-47,Thought Harvester,,4.0,{3}{U},2.0,4.0,,"Devoid (This card has no color.)
+47,Thought Harvester,C,4.0,{3}{U},2.0,4.0,,"Devoid (This card has no color.)
 Flying
 Whenever you cast a colorless spell, target opponent exiles the top card of their library.",uncommon,"Devoid, Flying",,Creature
-48,Void Shatter,,3.0,{1}{U}{U},,,,"Devoid (This card has no color.)
+48,Void Shatter,C,3.0,{1}{U}{U},,,,"Devoid (This card has no color.)
 Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",uncommon,Devoid,,Instant
 49,Ancient Crab,U,3.0,{1}{U}{U},1.0,5.0,,,common,,,Creature
 50,Comparative Analysis,U,4.0,{3}{U},,,,"Surge {2}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
@@ -127,43 +127,43 @@ Instant and sorcery spells you control can't be countered.",mythic,"Flying, Hexp
 64,Umara Entangler,U,2.0,{1}{U},2.0,1.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",common,Prowess,,Creature
 65,Unity of Purpose,U,4.0,{3}{U},,,,"Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
 Untap each creature you control with a +1/+1 counter on it.",uncommon,Support,,Instant
-66,Bearer of Silence,,2.0,{1}{B},2.0,1.0,,"Devoid (This card has no color.)
+66,Bearer of Silence,C,2.0,{1}{B},2.0,1.0,,"Devoid (This card has no color.)
 When you cast this spell, you may pay {1}{C}. If you do, target opponent sacrifices a creature. ({C} represents colorless mana.)
 Flying
 Bearer of Silence can't block.",rare,"Devoid, Flying",,Creature
-67,Dread Defiler,,7.0,{6}{B},6.0,8.0,,"Devoid (This card has no color.)
+67,Dread Defiler,C,7.0,{6}{B},6.0,8.0,,"Devoid (This card has no color.)
 {3}{C}, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. ({C} represents colorless mana.)",rare,Devoid,,Creature
-68,Essence Depleter,,3.0,{2}{B},2.0,3.0,,"Devoid (This card has no color.)
+68,Essence Depleter,C,3.0,{2}{B},2.0,3.0,,"Devoid (This card has no color.)
 {1}{C}: Target opponent loses 1 life and you gain 1 life. ({C} represents colorless mana.)",uncommon,Devoid,,Creature
-69,Flaying Tendrils,,3.0,{1}{B}{B},,,,"Devoid (This card has no color.)
+69,Flaying Tendrils,C,3.0,{1}{B}{B},,,,"Devoid (This card has no color.)
 All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.",uncommon,Devoid,,Sorcery
-70,Havoc Sower,,4.0,{3}{B},3.0,3.0,,"Devoid (This card has no color.)
+70,Havoc Sower,C,4.0,{3}{B},3.0,3.0,,"Devoid (This card has no color.)
 {1}{C}: Havoc Sower gets +2/+1 until end of turn. ({C} represents colorless mana.)",uncommon,Devoid,,Creature
-71,Inverter of Truth,,4.0,{2}{B}{B},6.0,6.0,,"Devoid (This card has no color.)
+71,Inverter of Truth,C,4.0,{2}{B}{B},6.0,6.0,,"Devoid (This card has no color.)
 Flying
 When Inverter of Truth enters the battlefield, exile all cards from your library face down, then shuffle all cards from your graveyard into your library.",mythic,"Devoid, Flying",,Creature
-72,Kozilek's Shrieker,,3.0,{2}{B},3.0,2.0,,"Devoid (This card has no color.)
+72,Kozilek's Shrieker,C,3.0,{2}{B},3.0,2.0,,"Devoid (This card has no color.)
 {C}: Kozilek's Shrieker gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures. {C} represents colorless mana.)",common,Devoid,,Creature
-73,Kozilek's Translator,,5.0,{4}{B},3.0,5.0,,"Devoid (This card has no color.)
+73,Kozilek's Translator,C,5.0,{4}{B},3.0,5.0,,"Devoid (This card has no color.)
 Pay 1 life: Add {C}. Activate only once each turn. ({C} represents colorless mana.)",common,Devoid,,Creature
-74,Oblivion Strike,,4.0,{3}{B},,,,"Devoid (This card has no color.)
+74,Oblivion Strike,C,4.0,{3}{B},,,,"Devoid (This card has no color.)
 Exile target creature.",common,Devoid,,Sorcery
-75,Reaver Drone,,1.0,{B},2.0,1.0,,"Devoid (This card has no color.)
+75,Reaver Drone,C,1.0,{B},2.0,1.0,,"Devoid (This card has no color.)
 At the beginning of your upkeep, you lose 1 life unless you control another colorless creature.",uncommon,Devoid,,Creature
-76,Sifter of Skulls,,4.0,{3}{B},4.0,3.0,,"Devoid (This card has no color.)
+76,Sifter of Skulls,C,4.0,{3}{B},4.0,3.0,,"Devoid (This card has no color.)
 Whenever another nontoken creature you control dies, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}."" ({C} represents colorless mana.)",rare,Devoid,,Creature
-77,Sky Scourer,,2.0,{1}{B},1.0,2.0,,"Devoid (This card has no color.)
+77,Sky Scourer,C,2.0,{1}{B},1.0,2.0,,"Devoid (This card has no color.)
 Flying
 Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.",common,"Devoid, Flying",,Creature
-78,Slaughter Drone,,2.0,{1}{B},2.0,2.0,,"Devoid (This card has no color.)
+78,Slaughter Drone,C,2.0,{1}{B},2.0,2.0,,"Devoid (This card has no color.)
 {C}: Slaughter Drone gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)",common,Devoid,,Creature
-79,Unnatural Endurance,,1.0,{B},,,,"Devoid (This card has no color.)
+79,Unnatural Endurance,C,1.0,{B},,,,"Devoid (This card has no color.)
 Target creature gets +2/+0 until end of turn. Regenerate it.",common,Devoid,,Instant
-80,Visions of Brutality,,2.0,{1}{B},,,,"Devoid (This card has no color.)
+80,Visions of Brutality,C,2.0,{1}{B},,,,"Devoid (This card has no color.)
 Enchant creature
 Enchanted creature can't block.
 Whenever enchanted creature deals damage, its controller loses that much life.",uncommon,"Devoid, Enchant",,Enchantment
-81,Witness the End,,4.0,{3}{B},,,,"Devoid (This card has no color.)
+81,Witness the End,C,4.0,{3}{B},,,,"Devoid (This card has no color.)
 Target opponent exiles two cards from their hand and loses 2 life.",common,Devoid,,Sorcery
 82,Corpse Churn,B,2.0,{1}{B},,,,"Mill three cards, then you may return a creature card from your graveyard to your hand. (To mill a card, put the top card of your library into your graveyard.)",common,Mill,,Instant
 83,Drana's Chosen,B,4.0,{3}{B},2.0,2.0,,"Cohort — {T}, Tap an untapped Ally you control: Create a tapped 2/2 black Zombie creature token.",rare,Cohort,,Creature
@@ -180,23 +180,23 @@ Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two
 91,Vampire Envoy,B,3.0,{2}{B},1.0,4.0,,"Flying
 Whenever Vampire Envoy becomes tapped, you gain 1 life.",common,Flying,,Creature
 92,Zulaport Chainmage,B,4.0,{3}{B},4.0,2.0,,"Cohort — {T}, Tap an untapped Ally you control: Target opponent loses 2 life.",common,Cohort,,Creature
-93,Consuming Sinkhole,,4.0,{3}{R},,,,"Devoid (This card has no color.)
+93,Consuming Sinkhole,C,4.0,{3}{R},,,,"Devoid (This card has no color.)
 Choose one —
 • Exile target land creature.
 • Consuming Sinkhole deals 4 damage to target player or planeswalker.",common,Devoid,,Instant
-94,Eldrazi Aggressor,,3.0,{2}{R},2.0,3.0,,"Devoid (This card has no color.)
+94,Eldrazi Aggressor,C,3.0,{2}{R},2.0,3.0,,"Devoid (This card has no color.)
 Eldrazi Aggressor has haste as long as you control another colorless creature.",common,Devoid,,Creature
-95,Eldrazi Obligator,,3.0,{2}{R},3.0,1.0,,"Devoid (This card has no color.)
+95,Eldrazi Obligator,C,3.0,{2}{R},3.0,1.0,,"Devoid (This card has no color.)
 When you cast this spell, you may pay {1}{C}. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. ({C} represents colorless mana.)
 Haste",rare,"Devoid, Haste",,Creature
-96,Immobilizer Eldrazi,,2.0,{1}{R},2.0,1.0,,"Devoid (This card has no color.)
+96,Immobilizer Eldrazi,C,2.0,{1}{R},2.0,1.0,,"Devoid (This card has no color.)
 {2}{C}: Each creature with toughness greater than its power can't block this turn. ({C} represents colorless mana.)",uncommon,Devoid,,Creature
-97,Kozilek's Return,,3.0,{2}{R},,,,"Devoid (This card has no color.)
+97,Kozilek's Return,C,3.0,{2}{R},,,,"Devoid (This card has no color.)
 Kozilek's Return deals 2 damage to each creature.
 Whenever you cast an Eldrazi creature spell with mana value 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.",mythic,Devoid,,Instant
-98,Maw of Kozilek,,4.0,{3}{R},2.0,5.0,,"Devoid (This card has no color.)
+98,Maw of Kozilek,C,4.0,{3}{R},2.0,5.0,,"Devoid (This card has no color.)
 {C}: Maw of Kozilek gets +2/-2 until end of turn. ({C} represents colorless mana.)",common,Devoid,,Creature
-99,Reality Hemorrhage,,2.0,{1}{R},,,,"Devoid (This card has no color.)
+99,Reality Hemorrhage,C,2.0,{1}{R},,,,"Devoid (This card has no color.)
 Reality Hemorrhage deals 2 damage to any target.",common,Devoid,,Instant
 100,Akoum Flameseeker,R,3.0,{2}{R},3.0,2.0,,"Cohort — {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.",common,Cohort,,Creature
 101,Boulder Salvo,R,5.0,{4}{R},,,,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
@@ -237,19 +237,19 @@ Flying
 When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to any target.",rare,"Flying, Surge",,Creature
 119,Zada's Commando,R,2.0,{1}{R},2.0,1.0,,"First strike
 Cohort — {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent or planeswalker.",common,"Cohort, First strike",,Creature
-120,Birthing Hulk,,7.0,{6}{G},5.0,4.0,,"Devoid (This card has no color.)
+120,Birthing Hulk,C,7.0,{6}{G},5.0,4.0,,"Devoid (This card has no color.)
 When Birthing Hulk enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}."" ({C} represents colorless mana.)
 {1}{C}: Regenerate Birthing Hulk.",uncommon,Devoid,,Creature
-121,Ruin in Their Wake,,2.0,{1}{G},,,,"Devoid (This card has no color.)
+121,Ruin in Their Wake,C,2.0,{1}{G},,,,"Devoid (This card has no color.)
 Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle.",uncommon,Devoid,,Sorcery
-122,Scion Summoner,,3.0,{2}{G},2.0,2.0,,"Devoid (This card has no color.)
+122,Scion Summoner,C,3.0,{2}{G},2.0,2.0,,"Devoid (This card has no color.)
 When Scion Summoner enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}."" ({C} represents colorless mana.)",common,Devoid,,Creature
-123,Stalking Drone,,2.0,{1}{G},2.0,2.0,,"Devoid (This card has no color.)
+123,Stalking Drone,C,2.0,{1}{G},2.0,2.0,,"Devoid (This card has no color.)
 {C}: Stalking Drone gets +1/+2 until end of turn. Activate only once each turn. ({C} represents colorless mana.)",common,Devoid,,Creature
-124,Vile Redeemer,,3.0,{2}{G},3.0,3.0,,"Devoid (This card has no color.)
+124,Vile Redeemer,C,3.0,{2}{G},3.0,3.0,,"Devoid (This card has no color.)
 Flash
 When you cast this spell, you may pay {C}. If you do, create a 1/1 colorless Eldrazi Scion creature token for each nontoken creature that died under your control this turn. Those tokens have ""Sacrifice this creature: Add {C}.""",rare,"Devoid, Flash",,Creature
-125,World Breaker,,7.0,{6}{G},5.0,7.0,,"Devoid (This card has no color.)
+125,World Breaker,C,7.0,{6}{G},5.0,7.0,,"Devoid (This card has no color.)
 When you cast this spell, exile target artifact, enchantment, or land.
 Reach
 {2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)",mythic,"Devoid, Reach",,Creature
@@ -286,13 +286,13 @@ As long as you control six or more lands, Sylvan Advocate and land creatures you
 145,Vines of the Recluse,G,1.0,{G},,,,Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A creature with reach can block creatures with flying.),common,,,Instant
 146,Zendikar Resurgent,G,7.0,{5}{G}{G},,,,"Whenever you tap a land for mana, add one mana of any type that land produced. (The types of mana are white, blue, black, red, green, and colorless.)
 Whenever you cast a creature spell, draw a card.",rare,,,Enchantment
-147,Flayer Drone,,3.0,{1}{B}{R},3.0,1.0,,"Devoid (This card has no color.)
+147,Flayer Drone,C,3.0,{1}{B}{R},3.0,1.0,,"Devoid (This card has no color.)
 First strike
 Whenever another colorless creature enters the battlefield under your control, target opponent loses 1 life.",uncommon,"Devoid, First strike",,Creature
-148,Mindmelter,,3.0,{1}{U}{B},2.0,2.0,,"Devoid (This card has no color.)
+148,Mindmelter,C,3.0,{1}{U}{B},2.0,2.0,,"Devoid (This card has no color.)
 Mindmelter can't be blocked.
 {3}{C}: Target opponent exiles a card from their hand. Activate only as a sorcery. ({C} represents colorless mana.)",uncommon,Devoid,,Creature
-149,Void Grafter,,3.0,{1}{G}{U},2.0,4.0,,"Devoid (This card has no color.)
+149,Void Grafter,C,3.0,{1}{G}{U},2.0,4.0,,"Devoid (This card has no color.)
 Flash (You may cast this spell any time you could cast an instant.)
 When Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.",uncommon,"Devoid, Flash",,Creature
 150,"Ayli, Eternal Pilgrim","B, W",2.0,{W}{B},2.0,3.0,,"Deathtouch
@@ -310,54 +310,54 @@ Whenever you gain life, each opponent loses 1 life.",uncommon,Flying,,Creature
 158,Stormchaser Mage,"R, U",2.0,{U}{R},1.0,3.0,,"Flying, haste
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",uncommon,"Flying, Haste, Prowess",,Creature
 159,Weapons Trainer,"R, W",2.0,{R}{W},3.0,2.0,,Other creatures you control get +1/+0 as long as you control an Equipment.,uncommon,,,Creature
-160,Bone Saw,,0.0,{0},,,,"Equipped creature gets +1/+0.
+160,Bone Saw,C,0.0,{0},,,,"Equipped creature gets +1/+0.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-161,Captain's Claws,,2.0,{2},,,,"Equipped creature gets +1/+0.
+161,Captain's Claws,C,2.0,{2},,,,"Equipped creature gets +1/+0.
 Whenever equipped creature attacks, create a 1/1 white Kor Ally creature token that's tapped and attacking.
 Equip {1}",rare,Equip,,Artifact
-162,Chitinous Cloak,,3.0,{3},,,,"Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
+162,Chitinous Cloak,C,3.0,{3},,,,"Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
 Equip {3}",uncommon,Equip,,Artifact
-163,Hedron Crawler,,2.0,{2},0.0,1.0,,{T}: Add {C}. ({C} represents colorless mana.),common,,,"Artifact, Creature"
-164,Seer's Lantern,,3.0,{3},,,,"{T}: Add {C}.
+163,Hedron Crawler,C,2.0,{2},0.0,1.0,,{T}: Add {C}. ({C} represents colorless mana.),common,,,"Artifact, Creature"
+164,Seer's Lantern,C,3.0,{3},,,,"{T}: Add {C}.
 {2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",common,Scry,,Artifact
-165,Stoneforge Masterwork,,1.0,{1},,,,"Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.
+165,Stoneforge Masterwork,C,1.0,{1},,,,"Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.
 Equip {2}",rare,Equip,,Artifact
-166,Strider Harness,,3.0,{3},,,,"Equipped creature gets +1/+1 and has haste.
+166,Strider Harness,C,3.0,{3},,,,"Equipped creature gets +1/+1 and has haste.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-167,Cinder Barrens,,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+167,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",uncommon,,,Land
-168,Corrupted Crossroads,,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
+168,Corrupted Crossroads,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
 {T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a spell with devoid.",rare,,,Land
-169,Crumbling Vestige,,0.0,,,,,"Crumbling Vestige enters the battlefield tapped.
+169,Crumbling Vestige,L,0.0,,,,,"Crumbling Vestige enters the battlefield tapped.
 When Crumbling Vestige enters the battlefield, add one mana of any color.
 {T}: Add {C}. ({C} represents colorless mana.)",common,,,Land
-170,Hissing Quagmire,,0.0,,,,,"Hissing Quagmire enters the battlefield tapped.
+170,Hissing Quagmire,L,0.0,,,,,"Hissing Quagmire enters the battlefield tapped.
 {T}: Add {B} or {G}.
 {1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.",rare,,,Land
-171,Holdout Settlement,,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
+171,Holdout Settlement,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
 {T}, Tap an untapped creature you control: Add one mana of any color.",common,,,Land
-172,Meandering River,,0.0,,,,,"Meandering River enters the battlefield tapped.
+172,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
 {T}: Add {W} or {U}.",uncommon,,,Land
-173,Mirrorpool,,0.0,,,,,"Mirrorpool enters the battlefield tapped.
+173,Mirrorpool,L,0.0,,,,,"Mirrorpool enters the battlefield tapped.
 {T}: Add {C}.
 {2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 {4}{C}, {T}, Sacrifice Mirrorpool: Create a token that's a copy of target creature you control.",mythic,,,Land
-174,Needle Spires,,0.0,,,,,"Needle Spires enters the battlefield tapped.
+174,Needle Spires,L,0.0,,,,,"Needle Spires enters the battlefield tapped.
 {T}: Add {R} or {W}.
 {2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.",rare,,,Land
-175,Ruins of Oran-Rief,,0.0,,,,,"Ruins of Oran-Rief enters the battlefield tapped.
+175,Ruins of Oran-Rief,L,0.0,,,,,"Ruins of Oran-Rief enters the battlefield tapped.
 {T}: Add {C}. ({C} represents colorless mana.)
 {T}: Put a +1/+1 counter on target colorless creature that entered the battlefield this turn.",rare,,,Land
-176,Sea Gate Wreckage,,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
+176,Sea Gate Wreckage,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
 {2}{C}, {T}: Draw a card. Activate only if you have no cards in hand.",rare,,,Land
-177,Submerged Boneyard,,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
+177,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
 {T}: Add {U} or {B}.",uncommon,,,Land
-178,Timber Gorge,,0.0,,,,,"Timber Gorge enters the battlefield tapped.
+178,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
 {T}: Add {R} or {G}.",uncommon,,,Land
-179,Tranquil Expanse,,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
+179,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
 {T}: Add {G} or {W}.",uncommon,,,Land
-180,Unknown Shores,,0.0,,,,,"{T}: Add {C}.
+180,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land
-181,Wandering Fumarole,,0.0,,,,,"Wandering Fumarole enters the battlefield tapped.
+181,Wandering Fumarole,L,0.0,,,,,"Wandering Fumarole enters the battlefield tapped.
 {T}: Add {U} or {R}.
 {2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with ""{0}: Switch this creature's power and toughness until end of turn."" It's still a land.",rare,,,Land

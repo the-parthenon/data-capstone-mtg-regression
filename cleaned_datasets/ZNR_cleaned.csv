@@ -19,7 +19,7 @@ Creatures you control get +1/+1 until end of turn. If this spell was kicked, tho
 10,Emeria Captain,W,4.0,{3}{W},1.0,1.0,,"Flying, vigilance
 When Emeria Captain enters the battlefield, put a +1/+1 counter on it for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",uncommon,"Flying, Vigilance",,Creature
 11,Emeria's Call,W,7.0,{4}{W}{W}{W},,,,Create two 4/4 white Angel Warrior creature tokens with flying. Non-Angel creatures you control gain indestructible until your next turn.,mythic,,,Sorcery
-12,"Emeria, Shattered Skyclave",,0.0,,,,,"As Emeria, Shattered Skyclave enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
+12,"Emeria, Shattered Skyclave",L,0.0,,,,,"As Emeria, Shattered Skyclave enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
 {T}: Add {W}.",mythic,,,Land
 13,Expedition Healer,W,2.0,{1}{W},2.0,2.0,,"Vigilance
 Expedition Healer has lifelink as long as you control another Cleric.",common,Vigilance,,Creature
@@ -32,7 +32,7 @@ Expedition Healer has lifelink as long as you control another Cleric.",common,Vi
 When Journey to Oblivion enters the battlefield, exile target nonland permanent an opponent controls until Journey to Oblivion leaves the battlefield.",uncommon,,,Enchantment
 18,Kabira Outrider,W,4.0,{3}{W},3.0,3.0,,"When Kabira Outrider enters the battlefield, target creature gets +1/+1 until end of turn for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,Creature
 19,Kabira Takedown,W,2.0,{1}{W},,,,Kabira Takedown deals damage equal to the number of creatures you control to target creature or planeswalker.,uncommon,,,Instant
-20,Kabira Plateau,,0.0,,,,,"Kabira Plateau enters the battlefield tapped.
+20,Kabira Plateau,L,0.0,,,,,"Kabira Plateau enters the battlefield tapped.
 {T}: Add {W}.",uncommon,,,Land
 21,Kitesail Cleric,W,1.0,{W},1.0,1.0,,"Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
 Flying
@@ -45,7 +45,7 @@ When Legion Angel enters the battlefield, you may reveal a card you own named Le
 25,Luminarch Aspirant,W,2.0,{1}{W},1.0,1.0,,"At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.",rare,,,Creature
 26,Makindi Ox,W,5.0,{4}{W},4.0,4.0,,"Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls.",common,Landfall,,Creature
 27,Makindi Stampede,W,5.0,{3}{W}{W},,,,Creatures you control get +2/+2 until end of turn.,uncommon,,,Sorcery
-28,Makindi Mesas,,0.0,,,,,"Makindi Mesas enters the battlefield tapped.
+28,Makindi Mesas,L,0.0,,,,,"Makindi Mesas enters the battlefield tapped.
 {T}: Add {W}.",uncommon,,,Land
 29,Maul of the Skyclaves,W,3.0,{2}{W},,,,"When Maul of the Skyclaves enters the battlefield, attach it to target creature you control.
 Equipped creature gets +2/+2 and has flying and first strike.
@@ -54,7 +54,7 @@ Equip {2}{W}{W}",rare,Equip,,Artifact
 31,Nahiri's Binding,W,3.0,{1}{W}{W},,,,"Enchant creature or planeswalker
 Enchanted permanent can't attack or block, and its activated abilities can't be activated.",common,Enchant,,Enchantment
 32,Ondu Inversion,W,8.0,{6}{W}{W},,,,Destroy all nonland permanents.,rare,,,Sorcery
-33,Ondu Skyruins,,0.0,,,,,"Ondu Skyruins enters the battlefield tapped.
+33,Ondu Skyruins,L,0.0,,,,,"Ondu Skyruins enters the battlefield tapped.
 {T}: Add {W}.",rare,,,Land
 34,Paired Tactician,W,3.0,{2}{W},3.0,2.0,,"Whenever Paired Tactician and at least one other Warrior attack, put a +1/+1 counter on Paired Tactician.",uncommon,,,Creature
 35,Practiced Tactics,W,1.0,{W},,,,"Choose target attacking or blocking creature. Practiced Tactics deals damage to that creature equal to twice the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,Instant
@@ -65,14 +65,14 @@ Landfall — Whenever a land enters the battlefield under your control, put a +1
 38,Resolute Strike,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's a Warrior, you may attach an Equipment you control to it.",common,,,Instant
 39,Sea Gate Banneret,W,1.0,{W},1.0,2.0,,{4}{W}: Creatures you control get +1/+1 until end of turn.,common,,,Creature
 40,Sejiri Shelter,W,2.0,{1}{W},,,,Target creature you control gains protection from the color of your choice until end of turn.,uncommon,,,Instant
-41,Sejiri Glacier,,0.0,,,,,"Sejiri Glacier enters the battlefield tapped.
+41,Sejiri Glacier,L,0.0,,,,,"Sejiri Glacier enters the battlefield tapped.
 {T}: Add {W}.",uncommon,,,Land
 42,Shepherd of Heroes,W,5.0,{4}{W},3.0,4.0,,"Flying
 When Shepherd of Heroes enters the battlefield, you gain 2 life for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,Flying,,Creature
 43,Skyclave Apparition,W,3.0,{1}{W}{W},2.0,2.0,,"When Skyclave Apparition enters the battlefield, exile up to one target nonland, nontoken permanent you don't control with mana value 4 or less.
 When Skyclave Apparition leaves the battlefield, the exiled card's owner creates an X/X blue Illusion creature token, where X is the mana value of the exiled card.",rare,,,Creature
 44,Skyclave Cleric,W,2.0,{1}{W},1.0,3.0,,"When Skyclave Cleric enters the battlefield, you gain 2 life.",uncommon,,,Creature
-45,Skyclave Basilica,,0.0,,,,,"Skyclave Basilica enters the battlefield tapped.
+45,Skyclave Basilica,L,0.0,,,,,"Skyclave Basilica enters the battlefield tapped.
 {T}: Add {W}.",uncommon,,,Land
 46,Squad Commander,W,4.0,{3}{W},3.0,3.0,,"When Squad Commander enters the battlefield, create a 1/1 white Kor Warrior creature token for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 At the beginning of combat on your turn, if you have a full party, creatures you control get +1/+0 and gain indestructible until end of turn.",rare,,,Creature
@@ -83,7 +83,7 @@ When Tazeem Raptor enters the battlefield, you may return a land you control to 
 {2/U}{2/B}{2/R}{2/G}: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",mythic,,Legendary,Creature
 50,Anticognition,U,2.0,{1}{U},,,,"Counter target creature or planeswalker spell unless its controller pays {2}. If an opponent has eight or more cards in their graveyard, instead counter that spell, then scry 2.",common,Scry,,Instant
 51,Beyeen Veil,U,2.0,{1}{U},,,,Creatures your opponents control get -2/-0 until end of turn.,uncommon,,,Instant
-52,Beyeen Coast,,0.0,,,,,"Beyeen Coast enters the battlefield tapped.
+52,Beyeen Coast,L,0.0,,,,,"Beyeen Coast enters the battlefield tapped.
 {T}: Add {U}.",uncommon,,,Land
 53,Bubble Snare,U,1.0,{U},,,,"Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
 Enchant creature
@@ -109,7 +109,7 @@ Draw two cards. If this spell was kicked, draw three cards instead.",common,Kick
 65,Glacial Grasp,U,3.0,{2}{U},,,,"Tap target creature. Its controller mills two cards. That creature doesn't untap during its controller's next untap step. (They put the top two cards of their library into their graveyard.)
 Draw a card.",common,Mill,,Instant
 66,Glasspool Mimic,U,3.0,{2}{U},0.0,0.0,,"You may have Glasspool Mimic enter the battlefield as a copy of a creature you control, except it's a Shapeshifter Rogue in addition to its other types.",rare,,,Creature
-67,Glasspool Shore,,0.0,,,,,"Glasspool Shore enters the battlefield tapped.
+67,Glasspool Shore,L,0.0,,,,,"Glasspool Shore enters the battlefield tapped.
 {T}: Add {U}.",rare,,,Land
 68,Inscription of Insight,U,4.0,{3}{U},,,,"Kicker {2}{U}{U}
 Choose one. If this spell was kicked, choose any number instead.
@@ -123,7 +123,7 @@ When Jace, Mirror Mage enters the battlefield, if Jace was kicked, create a toke
 [+1]: Scry 2.
 [0]: Draw a card and reveal it. Remove a number of loyalty counters equal to that card's mana value from Jace, Mirror Mage.",mythic,"Kicker, Scry",Legendary,Planeswalker
 71,Jwari Disruption,U,2.0,{1}{U},,,,Counter target spell unless its controller pays {1}.,uncommon,,,Instant
-72,Jwari Ruins,,0.0,,,,,"Jwari Ruins enters the battlefield tapped.
+72,Jwari Ruins,L,0.0,,,,,"Jwari Ruins enters the battlefield tapped.
 {T}: Add {U}.",uncommon,,,Land
 73,Living Tempest,U,5.0,{4}{U},3.0,3.0,,"Flash
 Flying",common,"Flash, Flying",,Creature
@@ -148,7 +148,7 @@ When Roost of Drakes enters the battlefield, if it was kicked, create a 2/2 blue
 Whenever you cast a kicked spell, create a 2/2 blue Drake creature token with flying.",uncommon,Kicker,,Enchantment
 83,Ruin Crab,U,1.0,{U},0.0,3.0,,"Landfall — Whenever a land enters the battlefield under your control, each opponent mills three cards. (To mill a card, a player puts the top card of their library into their graveyard.)",uncommon,"Landfall, Mill",,Creature
 84,Sea Gate Restoration,U,7.0,{4}{U}{U}{U},,,,Draw cards equal to the number of cards in your hand plus one. You have no maximum hand size for the rest of the game.,mythic,,,Sorcery
-85,"Sea Gate, Reborn",,0.0,,,,,"As Sea Gate, Reborn enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
+85,"Sea Gate, Reborn",L,0.0,,,,,"As Sea Gate, Reborn enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
 {T}: Add {U}.",mythic,,,Land
 86,Sea Gate Stormcaller,U,2.0,{1}{U},2.0,1.0,,"Kicker {4}{U}
 When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorcery spell with mana value 2 or less you cast this turn when you cast it. If Sea Gate Stormcaller was kicked, copy that spell twice instead. You may choose new targets for the copies.",mythic,Kicker,,Creature
@@ -156,7 +156,7 @@ When Sea Gate Stormcaller enters the battlefield, copy the next instant or sorce
 88,Shell Shield,U,1.0,{U},,,,"Kicker {1} (You may pay an additional {1} as you cast this spell.)
 Target creature you control gets +0/+3 until end of turn. If this spell was kicked, that creature also gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",common,Kicker,,Instant
 89,Silundi Vision,U,3.0,{2}{U},,,,Look at the top six cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.,uncommon,,,Instant
-90,Silundi Isle,,0.0,,,,,"Silundi Isle enters the battlefield tapped.
+90,Silundi Isle,L,0.0,,,,,"Silundi Isle enters the battlefield tapped.
 {T}: Add {U}.",uncommon,,,Land
 91,Skyclave Plunder,U,5.0,{4}{U},,,,"Look at the top X cards of your library, where X is three plus the number of creatures in your party. Put three of those cards into your hand and the rest on the bottom of your library in a random order. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",uncommon,,,Sorcery
 92,Skyclave Squid,U,2.0,{1}{U},3.0,2.0,,"Defender
@@ -169,7 +169,7 @@ When Tazeem Roilmage enters the battlefield, if it was kicked, return target ins
 Flying
 When Thieving Skydiver enters the battlefield, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to Thieving Skydiver.",rare,"Flying, Kicker",,Creature
 96,Umara Wizard,U,5.0,{4}{U},4.0,3.0,,"Whenever you cast an instant, sorcery, or Wizard spell, Umara Wizard gains flying until end of turn.",uncommon,,,Creature
-97,Umara Skyfalls,,0.0,,,,,"Umara Skyfalls enters the battlefield tapped.
+97,Umara Skyfalls,L,0.0,,,,,"Umara Skyfalls enters the battlefield tapped.
 {T}: Add {U}.",uncommon,,,Land
 98,Windrider Wizard,U,3.0,{2}{U},2.0,2.0,,"Flying
 Whenever you cast an instant, sorcery, or Wizard spell, you may draw a card. If you do, discard a card.",uncommon,Flying,,Creature
@@ -177,11 +177,11 @@ Whenever you cast an instant, sorcery, or Wizard spell, you may draw a card. If 
 When Zulaport Duelist enters the battlefield, up to one target creature gets -2/-0 until end of turn. Its controller mills two cards. (They put the top two cards of their library into their graveyard.)",common,"Flash, Mill",,Creature
 100,Acquisitions Expert,B,2.0,{1}{B},1.0,2.0,,"When Acquisitions Expert enters the battlefield, target opponent reveals a number of cards from their hand equal to the number of creatures in your party. You choose one of those cards. That player discards that card. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",uncommon,,,Creature
 101,Agadeem's Awakening,B,3.0,{X}{B}{B}{B},,,,Return from your graveyard to the battlefield any number of target creature cards that each have a different mana value X or less.,mythic,,,Sorcery
-102,"Agadeem, the Undercrypt",,0.0,,,,,"As Agadeem, the Undercrypt enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
+102,"Agadeem, the Undercrypt",L,0.0,,,,,"As Agadeem, the Undercrypt enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
 {T}: Add {B}.",mythic,,,Land
 103,Blackbloom Rogue,B,3.0,{2}{B},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Blackbloom Rogue gets +3/+0 as long as an opponent has eight or more cards in their graveyard.",uncommon,Menace,,Creature
-104,Blackbloom Bog,,0.0,,,,,"Blackbloom Bog enters the battlefield tapped.
+104,Blackbloom Bog,L,0.0,,,,,"Blackbloom Bog enters the battlefield tapped.
 {T}: Add {B}.",uncommon,,,Land
 105,Blood Beckoning,B,1.0,{B},,,,"Kicker {3} (You may pay an additional {3} as you cast this spell.)
 Return target creature card from your graveyard to your hand. If this spell was kicked, instead return two target creature cards from your graveyard to your hand.",common,Kicker,,Sorcery
@@ -207,7 +207,7 @@ If Ghastly Gloomhunter was kicked, it enters the battlefield with two +1/+1 coun
 Each creature you control with a +1/+1 counter on it has menace. (A creature with menace can't be blocked except by two or more creatures.)",common,,,Creature
 119,Hagra Mauling,B,4.0,{2}{B}{B},,,,"This spell costs {1} less to cast if an opponent controls no basic lands.
 Destroy target creature.",rare,,,Instant
-120,Hagra Broodpit,,0.0,,,,,"Hagra Broodpit enters the battlefield tapped.
+120,Hagra Broodpit,L,0.0,,,,,"Hagra Broodpit enters the battlefield tapped.
 {T}: Add {B}.",rare,,,Land
 121,Highborn Vampire,B,4.0,{3}{B},4.0,3.0,,,common,,,Creature
 122,Inscription of Ruin,B,3.0,{2}{B},,,,"Kicker {2}{B}{B}
@@ -220,7 +220,7 @@ When Lithoform Blight enters the battlefield, draw a card.
 Enchanted land loses all land types and abilities and has ""{T}: Add {C}"" and ""{T}, Pay 1 life: Add one mana of any color.""",uncommon,Enchant,,Enchantment
 124,Malakir Blood-Priest,B,2.0,{1}{B},2.0,1.0,,"When Malakir Blood-Priest enters the battlefield, each opponent loses X life and you gain X life, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,Creature
 125,Malakir Rebirth,B,1.0,{B},,,,"Choose target creature. You lose 2 life. Until end of turn, that creature gains ""When this creature dies, return it to the battlefield tapped under its owner's control.""",uncommon,,,Instant
-126,Malakir Mire,,0.0,,,,,"Malakir Mire enters the battlefield tapped.
+126,Malakir Mire,L,0.0,,,,,"Malakir Mire enters the battlefield tapped.
 {T}: Add {B}.",uncommon,,,Land
 127,Marauding Blight-Priest,B,3.0,{2}{B},3.0,2.0,,"Whenever you gain life, each opponent loses 1 life.",common,,,Creature
 128,Mind Carver,B,1.0,{B},,,,"When Mind Carver enters the battlefield, attach it to target creature you control.
@@ -238,7 +238,7 @@ Menace, lifelink
 When Nullpriest of Oblivion enters the battlefield, if it was kicked, return target creature card from your graveyard to the battlefield.",rare,"Kicker, Lifelink, Menace",,Creature
 134,Oblivion's Hunger,B,2.0,{1}{B},,,,"Target creature you control gains indestructible until end of turn. Draw a card if that creature has a +1/+1 counter on it. (Damage and effects that say ""destroy"" don't destroy the creature.)",common,,,Instant
 135,Pelakka Predation,B,3.0,{2}{B},,,,Target opponent reveals their hand. You choose a card from it with mana value 3 or greater. That player discards that card.,uncommon,,,Sorcery
-136,Pelakka Caverns,,0.0,,,,,"Pelakka Caverns enters the battlefield tapped.
+136,Pelakka Caverns,L,0.0,,,,,"Pelakka Caverns enters the battlefield tapped.
 {T}: Add {B}.",uncommon,,,Land
 137,Scion of the Swarm,B,5.0,{3}{B}{B},3.0,3.0,,"Flying
 Whenever you gain life, put a +1/+1 counter on Scion of the Swarm.",uncommon,Flying,,Creature
@@ -265,11 +265,11 @@ Whenever another nontoken creature you control dies, put a +1/+1 counter on Tabo
 Return target creature card and up to one target Cleric, Rogue, Warrior, or Wizard creature card from your graveyard to the battlefield.",uncommon,,,Sorcery
 147,Vanquish the Weak,B,3.0,{2}{B},,,,Destroy target creature with power 3 or less.,common,,,Instant
 148,Zof Consumption,B,6.0,{4}{B}{B},,,,Each opponent loses 4 life and you gain 4 life.,uncommon,,,Sorcery
-149,Zof Bloodbog,,0.0,,,,,"Zof Bloodbog enters the battlefield tapped.
+149,Zof Bloodbog,L,0.0,,,,,"Zof Bloodbog enters the battlefield tapped.
 {T}: Add {B}.",uncommon,,,Land
 150,Akoum Hellhound,R,1.0,{R},0.0,1.0,,"Landfall — Whenever a land enters the battlefield under your control, Akoum Hellhound gets +2/+2 until end of turn.",common,Landfall,,Creature
 151,Akoum Warrior,R,6.0,{5}{R},4.0,5.0,,Trample,uncommon,Trample,,Creature
-152,Akoum Teeth,,0.0,,,,,"Akoum Teeth enters the battlefield tapped.
+152,Akoum Teeth,L,0.0,,,,,"Akoum Teeth enters the battlefield tapped.
 {T}: Add {R}.",uncommon,,,Land
 153,Ardent Electromancer,R,3.0,{2}{R},3.0,2.0,,"When Ardent Electromancer enters the battlefield, add {R} for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,Creature
 154,Cinderclasm,R,2.0,{1}{R},,,,"Kicker {R} (You may pay an additional {R} as you cast this spell.)
@@ -292,7 +292,7 @@ Whenever Grotag Bug-Catcher attacks, it gets +1/+0 until end of turn for each cr
 • Target Warrior gains trample until end of turn.",rare,,,Creature
 164,Kazuul's Fury,R,3.0,{2}{R},,,,"As an additional cost to cast this spell, sacrifice a creature.
 Kazuul's Fury deals damage equal to the sacrificed creature's power to any target.",uncommon,,,Instant
-165,Kazuul's Cliffs,,0.0,,,,,"Kazuul's Cliffs enters the battlefield tapped.
+165,Kazuul's Cliffs,L,0.0,,,,,"Kazuul's Cliffs enters the battlefield tapped.
 {T}: Add {R}.",uncommon,,,Land
 166,Leyline Tyrant,R,4.0,{2}{R}{R},4.0,4.0,,"Flying
 You don't lose unspent red mana as steps and phases end.
@@ -326,17 +326,17 @@ At the beginning of your end step, if Shatterskull Charger doesn't have a +1/+1 
 179,Shatterskull Minotaur,R,6.0,{4}{R}{R},5.0,4.0,,"This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)
 Haste",uncommon,Haste,,Creature
 180,Shatterskull Smashing,R,2.0,{X}{R}{R},,,,"Shatterskull Smashing deals X damage divided as you choose among up to two target creatures and/or planeswalkers. If X is 6 or more, Shatterskull Smashing deals twice X damage divided as you choose among them instead.",mythic,,,Sorcery
-181,"Shatterskull, the Hammer Pass",,0.0,,,,,"As Shatterskull, the Hammer Pass enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
+181,"Shatterskull, the Hammer Pass",L,0.0,,,,,"As Shatterskull, the Hammer Pass enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
 {T}: Add {R}.",mythic,,,Land
 182,Sizzling Barrage,R,2.0,{1}{R},,,,Sizzling Barrage deals 4 damage to target creature that blocked this turn.,common,,,Instant
 183,Skyclave Geopede,R,3.0,{2}{R},3.0,1.0,,"Trample
 Landfall — Whenever a land enters the battlefield under your control, Skyclave Geopede gets +2/+2 until end of turn.",uncommon,"Landfall, Trample",,Creature
 184,Sneaking Guide,R,1.0,{R},1.0,1.0,,"{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",common,,,Creature
 185,Song-Mad Treachery,R,5.0,{3}{R}{R},,,,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.,uncommon,,,Sorcery
-186,Song-Mad Ruins,,0.0,,,,,"Song-Mad Ruins enters the battlefield tapped.
+186,Song-Mad Ruins,L,0.0,,,,,"Song-Mad Ruins enters the battlefield tapped.
 {T}: Add {R}.",uncommon,,,Land
 187,Spikefield Hazard,R,1.0,{R},,,,"Spikefield Hazard deals 1 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.",uncommon,,,Instant
-188,Spikefield Cave,,0.0,,,,,"Spikefield Cave enters the battlefield tapped.
+188,Spikefield Cave,L,0.0,,,,,"Spikefield Cave enters the battlefield tapped.
 {T}: Add {R}.",uncommon,,,Land
 189,Spitfire Lagac,R,4.0,{3}{R},3.0,4.0,,"Landfall — Whenever a land enters the battlefield under your control, Spitfire Lagac deals 1 damage to each opponent.",common,Landfall,,Creature
 190,Synchronized Spellcraft,R,5.0,{4}{R},,,,"Synchronized Spellcraft deals 4 damage to target creature and X damage to that creature's controller, where X is the number of creatures in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,Instant
@@ -348,7 +348,7 @@ Draw two cards.",common,,,Sorcery
 195,Tuktuk Rubblefort,R,3.0,{2}{R},0.0,3.0,,"Defender, reach
 Creatures you control have haste.",common,"Defender, Reach",,Creature
 196,Valakut Awakening,R,3.0,{2}{R},,,,"Put any number of cards from your hand on the bottom of your library, then draw that many cards plus one.",rare,,,Instant
-197,Valakut Stoneforge,,0.0,,,,,"Valakut Stoneforge enters the battlefield tapped.
+197,Valakut Stoneforge,L,0.0,,,,,"Valakut Stoneforge enters the battlefield tapped.
 {T}: Add {R}.",rare,,,Land
 198,Valakut Exploration,R,3.0,{2}{R},,,,"Landfall — Whenever a land enters the battlefield under your control, exile the top card of your library. You may play that card for as long as it remains exiled.
 At the beginning of your end step, if there are cards exiled with Valakut Exploration, put them into their owner's graveyard, then Valakut Exploration deals that much damage to each opponent.",rare,Landfall,,Enchantment
@@ -361,7 +361,7 @@ If a land entering the battlefield causes a triggered ability of a permanent you
 202,"Ashaya, Soul of the Wild",G,5.0,{3}{G}{G},,,,"Ashaya, Soul of the Wild's power and toughness are each equal to the number of lands you control.
 Nontoken creatures you control are Forest lands in addition to their other types. (They're still affected by summoning sickness.)",mythic,,Legendary,Creature
 203,Bala Ged Recovery,G,3.0,{2}{G},,,,Return target card from your graveyard to your hand.,uncommon,,,Sorcery
-204,Bala Ged Sanctuary,,0.0,,,,,"Bala Ged Sanctuary enters the battlefield tapped.
+204,Bala Ged Sanctuary,L,0.0,,,,,"Bala Ged Sanctuary enters the battlefield tapped.
 {T}: Add {G}.",uncommon,,,Land
 205,Broken Wings,G,3.0,{2}{G},,,,"Destroy target artifact, enchantment, or creature with flying.",common,,,Instant
 206,Canopy Baloth,G,4.0,{3}{G},4.0,3.0,,"Landfall — Whenever a land enters the battlefield under your control, Canopy Baloth gets +2/+2 until end of turn.",common,Landfall,,Creature
@@ -381,13 +381,13 @@ Choose one. If this spell was kicked, choose any number instead.
 211,Iridescent Hornbeetle,G,5.0,{4}{G},3.0,4.0,,"At the beginning of your end step, create a 1/1 green Insect creature token for each +1/+1 counter you've put on creatures under your control this turn.",uncommon,,,Creature
 212,Joraga Visionary,G,4.0,{3}{G},3.0,2.0,,"When Joraga Visionary enters the battlefield, draw a card.",common,,,Creature
 213,Kazandu Mammoth,G,3.0,{1}{G}{G},3.0,3.0,,"Landfall — Whenever a land enters the battlefield under your control, Kazandu Mammoth gets +2/+2 until end of turn.",rare,Landfall,,Creature
-214,Kazandu Valley,,0.0,,,,,"Kazandu Valley enters the battlefield tapped.
+214,Kazandu Valley,L,0.0,,,,,"Kazandu Valley enters the battlefield tapped.
 {T}: Add {G}.",rare,,,Land
 215,Kazandu Nectarpot,G,2.0,{1}{G},1.0,3.0,,"Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.",common,Landfall,,Creature
 216,Kazandu Stomper,G,6.0,{5}{G},6.0,5.0,,"Trample
 When Kazandu Stomper enters the battlefield, return up to two lands you control to their owner's hand.",common,Trample,,Creature
 217,Khalni Ambush,G,3.0,{2}{G},,,,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),uncommon,Fight,,Instant
-218,Khalni Territory,,0.0,,,,,"Khalni Territory enters the battlefield tapped.
+218,Khalni Territory,L,0.0,,,,,"Khalni Territory enters the battlefield tapped.
 {T}: Add {G}.",uncommon,,,Land
 219,Lotus Cobra,G,2.0,{1}{G},2.0,1.0,,"Landfall — Whenever a land enters the battlefield under your control, add one mana of any color.",rare,Landfall,,Creature
 220,Might of Murasa,G,2.0,{1}{G},,,,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
@@ -421,7 +421,7 @@ Kicker {3}
 When Tajuru Paragon enters the battlefield, if it was kicked, reveal the top six cards of your library. You may put a card that shares a creature type with it from among them into your hand. Put the rest on the bottom of your library in a random order.",rare,Kicker,,Creature
 236,Tajuru Snarecaster,G,3.0,{2}{G},1.0,4.0,,Reach,common,Reach,,Creature
 237,Tangled Florahedron,G,2.0,{1}{G},1.0,1.0,,{T}: Add {G}.,uncommon,,,Creature
-238,Tangled Vale,,0.0,,,,,"Tangled Vale enters the battlefield tapped.
+238,Tangled Vale,L,0.0,,,,,"Tangled Vale enters the battlefield tapped.
 {T}: Add {G}.",uncommon,,,Land
 239,Taunting Arbormage,G,3.0,{2}{G},2.0,3.0,,"Kicker {3} (You may pay an additional {3} as you cast this spell.)
 When Taunting Arbormage enters the battlefield, if it was kicked, all creatures able to block target creature this turn do so.",uncommon,Kicker,,Creature
@@ -429,10 +429,10 @@ When Taunting Arbormage enters the battlefield, if it was kicked, all creatures 
 Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Territorial Scythecat.",common,"Landfall, Trample",,Creature
 241,Turntimber Ascetic,G,5.0,{4}{G},5.0,4.0,,"When Turntimber Ascetic enters the battlefield, you gain 3 life.",common,,,Creature
 242,Turntimber Symbiosis,G,7.0,{4}{G}{G}{G},,,,"Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. If that card has mana value 3 or less, it enters with three additional +1/+1 counters on it. Put the rest on the bottom of your library in a random order.",mythic,,,Sorcery
-243,"Turntimber, Serpentine Wood",,0.0,,,,,"As Turntimber, Serpentine Wood enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
+243,"Turntimber, Serpentine Wood",L,0.0,,,,,"As Turntimber, Serpentine Wood enters the battlefield, you may pay 3 life. If you don't, it enters the battlefield tapped.
 {T}: Add {G}.",mythic,,,Land
 244,Vastwood Fortification,G,1.0,{G},,,,Put a +1/+1 counter on target creature.,uncommon,,,Instant
-245,Vastwood Thicket,,0.0,,,,,"Vastwood Thicket enters the battlefield tapped.
+245,Vastwood Thicket,L,0.0,,,,,"Vastwood Thicket enters the battlefield tapped.
 {T}: Add {G}.",uncommon,,,Land
 246,Vastwood Surge,G,4.0,{3}{G},,,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
 Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If this spell was kicked, put two +1/+1 counters on each creature you control.",uncommon,Kicker,,Sorcery
@@ -499,61 +499,61 @@ Whenever a creature you control deals combat damage to a planeswalker, destroy t
 271,"Zareth San, the Trickster","B, U",5.0,{3}{U}{B},4.0,4.0,,"Flash
 {2}{U}{B}, Return an unblocked attacking Rogue you control to its owner's hand: Put Zareth San, the Trickster from your hand onto the battlefield tapped and attacking.
 Whenever Zareth San deals combat damage to a player, you may put target permanent card from that player's graveyard onto the battlefield under your control.",rare,Flash,Legendary,Creature
-272,Cliffhaven Kitesail,,1.0,{1},,,,"When Cliffhaven Kitesail enters the battlefield, attach it to target creature you control.
+272,Cliffhaven Kitesail,C,1.0,{1},,,,"When Cliffhaven Kitesail enters the battlefield, attach it to target creature you control.
 Equipped creature has flying.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-273,Forsaken Monument,,5.0,{5},,,,"Colorless creatures you control get +2/+2.
+273,Forsaken Monument,C,5.0,{5},,,,"Colorless creatures you control get +2/+2.
 Whenever you tap a permanent for {C}, add an additional {C}.
 Whenever you cast a colorless spell, you gain 2 life.",mythic,,Legendary,Artifact
-274,Lithoform Engine,,4.0,{4},,,,"{2}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.
+274,Lithoform Engine,C,4.0,{4},,,,"{2}, {T}: Copy target activated or triggered ability you control. You may choose new targets for the copy.
 {3}, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 {4}, {T}: Copy target permanent spell you control. (The copy becomes a token.)",mythic,,Legendary,Artifact
-275,Myriad Construct,,4.0,{4},4.0,4.0,,"Kicker {3}
+275,Myriad Construct,C,4.0,{4},4.0,4.0,,"Kicker {3}
 If Myriad Construct was kicked, it enters the battlefield with a +1/+1 counter on it for each nonbasic land your opponents control.
 When Myriad Construct becomes the target of a spell, sacrifice it and create a number of 1/1 colorless Construct artifact creature tokens equal to its power.",rare,Kicker,,"Artifact, Creature"
-276,Relic Amulet,,2.0,{2},,,,"Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on Relic Amulet.
+276,Relic Amulet,C,2.0,{2},,,,"Whenever you cast an instant, sorcery, or Wizard spell, put a charge counter on Relic Amulet.
 {2}, {T}, Remove all charge counters from Relic Amulet: It deals that much damage to target creature.",uncommon,,,Artifact
-277,Relic Axe,,2.0,{2},,,,"When Relic Axe enters the battlefield, attach it to target creature you control.
+277,Relic Axe,C,2.0,{2},,,,"When Relic Axe enters the battlefield, attach it to target creature you control.
 Equipped creature gets +1/+1. If it's a Warrior, it gets +2/+1 instead.
 Equip {2}",uncommon,Equip,,Artifact
-278,Relic Golem,,3.0,{3},6.0,6.0,,"Relic Golem can't attack or block unless an opponent has eight or more cards in their graveyard.
+278,Relic Golem,C,3.0,{3},6.0,6.0,,"Relic Golem can't attack or block unless an opponent has eight or more cards in their graveyard.
 {2}, {T}: Target player mills two cards. (They put the top two cards of their library into their graveyard.)",uncommon,Mill,,"Artifact, Creature"
-279,Relic Vial,,3.0,{3},,,,"{2}, {T}, Sacrifice a creature: Draw a card.
+279,Relic Vial,C,3.0,{3},,,,"{2}, {T}, Sacrifice a creature: Draw a card.
 As long as you control a Cleric, Relic Vial has ""Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.""",uncommon,,,Artifact
-280,Sea Gate Colossus,,7.0,{7},7.0,5.0,,"This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,"Artifact, Creature"
-281,Skyclave Relic,,3.0,{3},,,,"Kicker {3}
+280,Sea Gate Colossus,C,7.0,{7},7.0,5.0,,"This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one each of Cleric, Rogue, Warrior, and Wizard.)",common,,,"Artifact, Creature"
+281,Skyclave Relic,C,3.0,{3},,,,"Kicker {3}
 Indestructible
 When Skyclave Relic enters the battlefield, if it was kicked, create two tapped tokens that are copies of Skyclave Relic.
 {T}: Add one mana of any color.",rare,"Indestructible, Kicker",,Artifact
-282,Skyclave Sentinel,,3.0,{3},2.0,3.0,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
+282,Skyclave Sentinel,C,3.0,{3},2.0,3.0,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
 Flying, defender
 If Skyclave Sentinel was kicked, it enters the battlefield with two +1/+1 counters on it.
 As long as Skyclave Sentinel has a +1/+1 counter on it, it can attack as though it didn't have defender.",common,"Defender, Flying, Kicker",,"Artifact, Creature"
-283,Spare Supplies,,2.0,{2},,,,"Spare Supplies enters the battlefield tapped.
+283,Spare Supplies,C,2.0,{2},,,,"Spare Supplies enters the battlefield tapped.
 When Spare Supplies enters the battlefield, draw a card.
 {2}, {T}, Sacrifice Spare Supplies: Draw a card.",common,,,Artifact
-284,Stonework Packbeast,,2.0,{2},2.0,1.0,,"Stonework Packbeast is also a Cleric, Rogue, Warrior, and Wizard.
+284,Stonework Packbeast,C,2.0,{2},2.0,1.0,,"Stonework Packbeast is also a Cleric, Rogue, Warrior, and Wizard.
 {2}: Add one mana of any color.",common,,,"Artifact, Creature"
-285,Utility Knife,,1.0,{1},,,,"When Utility Knife enters the battlefield, attach it to target creature you control.
+285,Utility Knife,C,1.0,{1},,,,"When Utility Knife enters the battlefield, attach it to target creature you control.
 Equipped creature gets +1/+1.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-286,Base Camp,,0.0,,,,,"Base Camp enters the battlefield tapped.
+286,Base Camp,L,0.0,,,,,"Base Camp enters the battlefield tapped.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a Cleric, Rogue, Warrior, or Wizard spell or to activate an ability of a Cleric, Rogue, Warrior, or Wizard.",uncommon,,,Land
-287,Branchloft Pathway,,0.0,,,,,{T}: Add {G}.,rare,,,Land
-288,Boulderloft Pathway,,0.0,,,,,{T}: Add {W}.,rare,,,Land
-289,Brightclimb Pathway,,0.0,,,,,{T}: Add {W}.,rare,,,Land
-290,Grimclimb Pathway,,0.0,,,,,{T}: Add {B}.,rare,,,Land
-291,Clearwater Pathway,,0.0,,,,,{T}: Add {U}.,rare,,,Land
-292,Murkwater Pathway,,0.0,,,,,{T}: Add {B}.,rare,,,Land
-293,Cragcrown Pathway,,0.0,,,,,{T}: Add {R}.,rare,,,Land
-294,Timbercrown Pathway,,0.0,,,,,{T}: Add {G}.,rare,,,Land
-295,Crawling Barrens,,0.0,,,,,"{T}: Add {C}.
+287,Branchloft Pathway,L,0.0,,,,,{T}: Add {G}.,rare,,,Land
+288,Boulderloft Pathway,L,0.0,,,,,{T}: Add {W}.,rare,,,Land
+289,Brightclimb Pathway,L,0.0,,,,,{T}: Add {W}.,rare,,,Land
+290,Grimclimb Pathway,L,0.0,,,,,{T}: Add {B}.,rare,,,Land
+291,Clearwater Pathway,L,0.0,,,,,{T}: Add {U}.,rare,,,Land
+292,Murkwater Pathway,L,0.0,,,,,{T}: Add {B}.,rare,,,Land
+293,Cragcrown Pathway,L,0.0,,,,,{T}: Add {R}.,rare,,,Land
+294,Timbercrown Pathway,L,0.0,,,,,{T}: Add {G}.,rare,,,Land
+295,Crawling Barrens,L,0.0,,,,,"{T}: Add {C}.
 {4}: Put two +1/+1 counters on Crawling Barrens. Then you may have it become a 0/0 Elemental creature until end of turn. It's still a land.",rare,,,Land
-296,Needleverge Pathway,,0.0,,,,,{T}: Add {R}.,rare,,,Land
-297,Pillarverge Pathway,,0.0,,,,,{T}: Add {W}.,rare,,,Land
-298,Riverglide Pathway,,0.0,,,,,{T}: Add {U}.,rare,,,Land
-299,Lavaglide Pathway,,0.0,,,,,{T}: Add {R}.,rare,,,Land
-300,Throne of Makindi,,0.0,,,,,"{T}: Add {C}.
+296,Needleverge Pathway,L,0.0,,,,,{T}: Add {R}.,rare,,,Land
+297,Pillarverge Pathway,L,0.0,,,,,{T}: Add {W}.,rare,,,Land
+298,Riverglide Pathway,L,0.0,,,,,{T}: Add {U}.,rare,,,Land
+299,Lavaglide Pathway,L,0.0,,,,,{T}: Add {R}.,rare,,,Land
+300,Throne of Makindi,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Put a charge counter on Throne of Makindi.
 {T}, Remove a charge counter from Throne of Makindi: Add two mana of any one color. Spend this mana only to cast kicked spells.",rare,,,Land

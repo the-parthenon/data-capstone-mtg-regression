@@ -420,74 +420,74 @@ Whenever Loch Dragon enters the battlefield or attacks, you may discard a card. 
 243,Resolute Rider,"B, W",4.0,{W/B}{W/B}{W/B}{W/B},4.0,2.0,,"{W/B}{W/B}: Resolute Rider gains lifelink until end of turn.
 {W/B}{W/B}{W/B}: Resolute Rider gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,,,Creature
 244,Thunderous Snapper,"G, U",4.0,{G/U}{G/U}{G/U}{G/U},4.0,4.0,,"Whenever you cast a spell with mana value 5 or greater, draw a card.",uncommon,,,Creature
-245,Clockwork Servant,,3.0,{3},2.0,3.0,,"Adamant — When Clockwork Servant enters the battlefield, if at least three mana of the same color was spent to cast it, draw a card.",uncommon,Adamant,,"Artifact, Creature"
-246,Crashing Drawbridge,,2.0,{2},0.0,4.0,,"Defender
+245,Clockwork Servant,C,3.0,{3},2.0,3.0,,"Adamant — When Clockwork Servant enters the battlefield, if at least three mana of the same color was spent to cast it, draw a card.",uncommon,Adamant,,"Artifact, Creature"
+246,Crashing Drawbridge,C,2.0,{2},0.0,4.0,,"Defender
 {T}: Creatures you control gain haste until end of turn.",common,Defender,,"Artifact, Creature"
-247,Enchanted Carriage,,5.0,{5},4.0,4.0,,"When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse creature tokens.
+247,Enchanted Carriage,C,5.0,{5},4.0,4.0,,"When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse creature tokens.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact
-248,Gingerbrute,,1.0,{1},1.0,1.0,,"Haste
+248,Gingerbrute,C,1.0,{1},1.0,1.0,,"Haste
 {1}: Gingerbrute can't be blocked this turn except by creatures with haste.
 {2}, {T}, Sacrifice Gingerbrute: You gain 3 life.",common,Haste,,"Artifact, Creature"
-249,Golden Egg,,2.0,{2},,,,"When Golden Egg enters the battlefield, draw a card.
+249,Golden Egg,C,2.0,{2},,,,"When Golden Egg enters the battlefield, draw a card.
 {1}, {T}, Sacrifice Golden Egg: Add one mana of any color.
 {2}, {T}, Sacrifice Golden Egg: You gain 3 life.",common,,,Artifact
-250,Henge Walker,,3.0,{3},2.0,2.0,,"Adamant — If at least three mana of the same color was spent to cast this spell, Henge Walker enters the battlefield with a +1/+1 counter on it.",common,Adamant,,"Artifact, Creature"
-251,Heraldic Banner,,3.0,{3},,,,"As Heraldic Banner enters the battlefield, choose a color.
+250,Henge Walker,C,3.0,{3},2.0,2.0,,"Adamant — If at least three mana of the same color was spent to cast this spell, Henge Walker enters the battlefield with a +1/+1 counter on it.",common,Adamant,,"Artifact, Creature"
+251,Heraldic Banner,C,3.0,{3},,,,"As Heraldic Banner enters the battlefield, choose a color.
 Creatures you control of the chosen color get +1/+0.
 {T}: Add one mana of the chosen color.",uncommon,,,Artifact
-252,Inquisitive Puppet,,1.0,{1},0.0,2.0,,"When Inquisitive Puppet enters the battlefield, scry 1.
+252,Inquisitive Puppet,C,1.0,{1},0.0,2.0,,"When Inquisitive Puppet enters the battlefield, scry 1.
 Exile Inquisitive Puppet: Create a 1/1 white Human creature token.",uncommon,Scry,,"Artifact, Creature"
-253,Jousting Dummy,,2.0,{2},2.0,1.0,,{3}: Jousting Dummy gets +1/+0 until end of turn.,common,,,"Artifact, Creature"
-254,Locthwain Gargoyle,,1.0,{1},0.0,3.0,,{4}: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn.,common,,,"Artifact, Creature"
-255,Lucky Clover,,2.0,{2},,,,"Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.",uncommon,,,Artifact
-256,Prophet of the Peak,,6.0,{6},5.0,5.0,,"When Prophet of the Peak enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,Scry,,"Artifact, Creature"
-257,Roving Keep,,7.0,{7},5.0,7.0,,"Defender
+253,Jousting Dummy,C,2.0,{2},2.0,1.0,,{3}: Jousting Dummy gets +1/+0 until end of turn.,common,,,"Artifact, Creature"
+254,Locthwain Gargoyle,C,1.0,{1},0.0,3.0,,{4}: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn.,common,,,"Artifact, Creature"
+255,Lucky Clover,C,2.0,{2},,,,"Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.",uncommon,,,Artifact
+256,Prophet of the Peak,C,6.0,{6},5.0,5.0,,"When Prophet of the Peak enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,Scry,,"Artifact, Creature"
+257,Roving Keep,C,7.0,{7},5.0,7.0,,"Defender
 {7}: Roving Keep gets +2/+0 and gains trample until end of turn. It can attack this turn as though it didn't have defender.",common,Defender,,"Artifact, Creature"
-258,Scalding Cauldron,,1.0,{1},,,,"{3}, {T}, Sacrifice Scalding Cauldron: It deals 3 damage to target creature.",common,,,Artifact
-259,Shambling Suit,,3.0,{3},,3.0,,Shambling Suit's power is equal to the number of artifacts and/or enchantments you control.,uncommon,,,"Artifact, Creature"
-260,Signpost Scarecrow,,4.0,{4},2.0,4.0,,"Vigilance
+258,Scalding Cauldron,C,1.0,{1},,,,"{3}, {T}, Sacrifice Scalding Cauldron: It deals 3 damage to target creature.",common,,,Artifact
+259,Shambling Suit,C,3.0,{3},,3.0,,Shambling Suit's power is equal to the number of artifacts and/or enchantments you control.,uncommon,,,"Artifact, Creature"
+260,Signpost Scarecrow,C,4.0,{4},2.0,4.0,,"Vigilance
 {2}: Add one mana of any color.",common,Vigilance,,"Artifact, Creature"
-261,Sorcerer's Broom,,2.0,{2},2.0,1.0,,"Whenever you sacrifice another permanent, you may pay {3}. If you do, create a token that's a copy of Sorcerer's Broom.",uncommon,,,"Artifact, Creature"
-262,Sorcerous Spyglass,,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
+261,Sorcerer's Broom,C,2.0,{2},2.0,1.0,,"Whenever you sacrifice another permanent, you may pay {3}. If you do, create a token that's a copy of Sorcerer's Broom.",uncommon,,,"Artifact, Creature"
+262,Sorcerous Spyglass,C,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
 Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.",rare,,,Artifact
-263,Spinning Wheel,,3.0,{3},,,,"{T}: Add one mana of any color.
+263,Spinning Wheel,C,3.0,{3},,,,"{T}: Add one mana of any color.
 {5}, {T}: Tap target creature.",uncommon,,,Artifact
-264,Stonecoil Serpent,,0.0,{X},0.0,0.0,,"Reach, trample, protection from multicolored
+264,Stonecoil Serpent,C,0.0,{X},0.0,0.0,,"Reach, trample, protection from multicolored
 Stonecoil Serpent enters the battlefield with X +1/+1 counters on it.",rare,"Protection, Reach, Trample",,"Artifact, Creature"
-265,Weapon Rack,,4.0,{4},,,,"Weapon Rack enters the battlefield with three +1/+1 counters on it.
+265,Weapon Rack,C,4.0,{4},,,,"Weapon Rack enters the battlefield with three +1/+1 counters on it.
 {T}: Move a +1/+1 counter from Weapon Rack onto target creature. Activate only as a sorcery.",common,,,Artifact
-266,Witch's Oven,,1.0,{1},,,,"{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,,,Artifact
-267,Castle Ardenvale,,0.0,,,,,"Castle Ardenvale enters the battlefield tapped unless you control a Plains.
+266,Witch's Oven,C,1.0,{1},,,,"{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,,,Artifact
+267,Castle Ardenvale,L,0.0,,,,,"Castle Ardenvale enters the battlefield tapped unless you control a Plains.
 {T}: Add {W}.
 {2}{W}{W}, {T}: Create a 1/1 white Human creature token.",rare,,,Land
-268,Castle Embereth,,0.0,,,,,"Castle Embereth enters the battlefield tapped unless you control a Mountain.
+268,Castle Embereth,L,0.0,,,,,"Castle Embereth enters the battlefield tapped unless you control a Mountain.
 {T}: Add {R}.
 {1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.",rare,,,Land
-269,Castle Garenbrig,,0.0,,,,,"Castle Garenbrig enters the battlefield tapped unless you control a Forest.
+269,Castle Garenbrig,L,0.0,,,,,"Castle Garenbrig enters the battlefield tapped unless you control a Forest.
 {T}: Add {G}.
 {2}{G}{G}, {T}: Add six {G}. Spend this mana only to cast creature spells or activate abilities of creatures.",rare,,,Land
-270,Castle Locthwain,,0.0,,,,,"Castle Locthwain enters the battlefield tapped unless you control a Swamp.
+270,Castle Locthwain,L,0.0,,,,,"Castle Locthwain enters the battlefield tapped unless you control a Swamp.
 {T}: Add {B}.
 {1}{B}{B}, {T}: Draw a card, then you lose life equal to the number of cards in your hand.",rare,,,Land
-271,Castle Vantress,,0.0,,,,,"Castle Vantress enters the battlefield tapped unless you control an Island.
+271,Castle Vantress,L,0.0,,,,,"Castle Vantress enters the battlefield tapped unless you control an Island.
 {T}: Add {U}.
 {2}{U}{U}, {T}: Scry 2.",rare,Scry,,Land
-272,Dwarven Mine,,0.0,,,,,"({T}: Add {R}.)
+272,Dwarven Mine,L,0.0,,,,,"({T}: Add {R}.)
 Dwarven Mine enters the battlefield tapped unless you control three or more other Mountains.
 When Dwarven Mine enters the battlefield untapped, create a 1/1 red Dwarf creature token.",common,,,Land
-273,Fabled Passage,,0.0,,,,,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",rare,,,Land
-274,Gingerbread Cabin,,0.0,,,,,"({T}: Add {G}.)
+273,Fabled Passage,L,0.0,,,,,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",rare,,,Land
+274,Gingerbread Cabin,L,0.0,,,,,"({T}: Add {G}.)
 Gingerbread Cabin enters the battlefield tapped unless you control three or more other Forests.
 When Gingerbread Cabin enters the battlefield untapped, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Land
-275,Idyllic Grange,,0.0,,,,,"({T}: Add {W}.)
+275,Idyllic Grange,L,0.0,,,,,"({T}: Add {W}.)
 Idyllic Grange enters the battlefield tapped unless you control three or more other Plains.
 When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on target creature you control.",common,,,Land
-276,Mystic Sanctuary,,0.0,,,,,"({T}: Add {U}.)
+276,Mystic Sanctuary,L,0.0,,,,,"({T}: Add {U}.)
 Mystic Sanctuary enters the battlefield tapped unless you control three or more other Islands.
 When Mystic Sanctuary enters the battlefield untapped, you may put target instant or sorcery card from your graveyard on top of your library.",common,,,Land
-277,Tournament Grounds,,0.0,,,,,"{T}: Add {C}.
+277,Tournament Grounds,L,0.0,,,,,"{T}: Add {C}.
 {T}: Add {R}, {W}, or {B}. Spend this mana only to cast a Knight or Equipment spell.",uncommon,,,Land
-278,Witch's Cottage,,0.0,,,,,"({T}: Add {B}.)
+278,Witch's Cottage,L,0.0,,,,,"({T}: Add {B}.)
 Witch's Cottage enters the battlefield tapped unless you control three or more other Swamps.
 When Witch's Cottage enters the battlefield untapped, you may put target creature card from your graveyard on top of your library.",common,,,Land
 279,"Rowan, Fearless Sparkmage",R,5.0,{3}{R}{R},,,5.0,"[+1]: Up to one target creature gets +3/+0 and gains first strike until end of turn.
@@ -498,7 +498,7 @@ Whenever Garrison Griffin attacks, target Knight you control gains flying until 
 281,Rowan's Battleguard,R,4.0,{3}{R},3.0,3.0,,"First strike
 As long as you control a Rowan planeswalker, Rowan's Battleguard gets +3/+0.",uncommon,First strike,,Creature
 282,Rowan's Stalwarts,R,5.0,{4}{R},5.0,2.0,,"When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature
-283,Wind-Scarred Crag,,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+283,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land
 284,"Oko, the Trickster","G, U",6.0,{4}{G}{U},,,4.0,"[+1]: Put two +1/+1 counters on up to one target creature you control.
@@ -507,6 +507,6 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 285,Oko's Accomplices,U,3.0,{2}{U},2.0,3.0,,Flying,common,Flying,,Creature
 286,Bramblefort Fink,G,2.0,{1}{G},2.0,2.0,,{8}: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker.,uncommon,,,Creature
 287,Oko's Hospitality,"G, U",5.0,{3}{G}{U},,,,"Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Instant
-288,Thornwood Falls,,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+288,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land

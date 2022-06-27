@@ -1,5 +1,5 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,"Ugin, the Spirit Dragon",,8.0,{8},,,7.0,"[+2]: Ugin, the Spirit Dragon deals 3 damage to any target.
+0,"Ugin, the Spirit Dragon",C,8.0,{8},,,7.0,"[+2]: Ugin, the Spirit Dragon deals 3 damage to any target.
 [−X]: Exile each permanent with mana value X or less that's one or more colors.
 [−10]: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",mythic,,Legendary,Planeswalker
 1,Alpine Watchdog,W,2.0,{1}{W},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature
@@ -395,79 +395,79 @@ If an ability of another Shrine you control triggers while you control six or mo
 226,Watcher of the Spheres,"U, W",2.0,{W}{U},2.0,2.0,,"Flying
 Creature spells with flying you cast cost {1} less to cast.
 Whenever another creature with flying enters the battlefield under your control, Watcher of the Spheres gets +1/+1 until end of turn.",uncommon,Flying,,Creature
-227,Chromatic Orrery,,7.0,{7},,,,"You may spend mana as though it were mana of any color.
+227,Chromatic Orrery,C,7.0,{7},,,,"You may spend mana as though it were mana of any color.
 {T}: Add {C}{C}{C}{C}{C}.
 {5}, {T}: Draw a card for each color among permanents you control.",mythic,,Legendary,Artifact
-228,Chrome Replicator,,5.0,{5},4.0,4.0,,"When Chrome Replicator enters the battlefield, if you control two or more nonland, nontoken permanents with the same name as one another, create a 4/4 colorless Construct artifact creature token.",uncommon,,,"Artifact, Creature"
-229,Epitaph Golem,,5.0,{5},3.0,5.0,,{2}: Put target card from your graveyard on the bottom of your library.,uncommon,,,"Artifact, Creature"
-230,Forgotten Sentinel,,4.0,{4},4.0,3.0,,Forgotten Sentinel enters the battlefield tapped.,common,,,"Artifact, Creature"
-231,Mazemind Tome,,2.0,{2},,,,"{T}, Put a page counter on Mazemind Tome: Scry 1.
+228,Chrome Replicator,C,5.0,{5},4.0,4.0,,"When Chrome Replicator enters the battlefield, if you control two or more nonland, nontoken permanents with the same name as one another, create a 4/4 colorless Construct artifact creature token.",uncommon,,,"Artifact, Creature"
+229,Epitaph Golem,C,5.0,{5},3.0,5.0,,{2}: Put target card from your graveyard on the bottom of your library.,uncommon,,,"Artifact, Creature"
+230,Forgotten Sentinel,C,4.0,{4},4.0,3.0,,Forgotten Sentinel enters the battlefield tapped.,common,,,"Artifact, Creature"
+231,Mazemind Tome,C,2.0,{2},,,,"{T}, Put a page counter on Mazemind Tome: Scry 1.
 {2}, {T}, Put a page counter on Mazemind Tome: Draw a card.
 When there are four or more page counters on Mazemind Tome, exile it. If you do, you gain 4 life.",rare,Scry,,Artifact
-232,Meteorite,,5.0,{5},,,,"When Meteorite enters the battlefield, it deals 2 damage to any target.
+232,Meteorite,C,5.0,{5},,,,"When Meteorite enters the battlefield, it deals 2 damage to any target.
 {T}: Add one mana of any color.",uncommon,,,Artifact
-233,Palladium Myr,,3.0,{3},2.0,2.0,,{T}: Add {C}{C}.,uncommon,,,"Artifact, Creature"
-234,Prismite,,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
-235,Short Sword,,1.0,{1},,,,"Equipped creature gets +1/+1.
+233,Palladium Myr,C,3.0,{3},2.0,2.0,,{T}: Add {C}{C}.,uncommon,,,"Artifact, Creature"
+234,Prismite,C,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
+235,Short Sword,C,1.0,{1},,,,"Equipped creature gets +1/+1.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-236,Silent Dart,,1.0,{1},,,,"{4}, {T}, Sacrifice Silent Dart: It deals 3 damage to target creature.",common,,,Artifact
-237,Skyscanner,,3.0,{3},1.0,1.0,,"Flying
+236,Silent Dart,C,1.0,{1},,,,"{4}, {T}, Sacrifice Silent Dart: It deals 3 damage to target creature.",common,,,Artifact
+237,Skyscanner,C,3.0,{3},1.0,1.0,,"Flying
 When Skyscanner enters the battlefield, draw a card.",common,Flying,,"Artifact, Creature"
-238,Solemn Simulacrum,,4.0,{4},2.0,2.0,,"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+238,Solemn Simulacrum,C,4.0,{4},2.0,2.0,,"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
 When Solemn Simulacrum dies, you may draw a card.",rare,,,"Artifact, Creature"
-239,Sparkhunter Masticore,,3.0,{3},3.0,4.0,,"As an additional cost to cast this spell, discard a card.
+239,Sparkhunter Masticore,C,3.0,{3},3.0,4.0,,"As an additional cost to cast this spell, discard a card.
 Protection from planeswalkers
 {1}: Sparkhunter Masticore deals 1 damage to target planeswalker.
 {3}: Sparkhunter Masticore gains indestructible until end of turn.",rare,Protection,,"Artifact, Creature"
-240,Tormod's Crypt,,0.0,{0},,,,"{T}, Sacrifice Tormod's Crypt: Exile target player's graveyard.",uncommon,,,Artifact
-241,Animal Sanctuary,,0.0,,,,,"{T}: Add {C}.
+240,Tormod's Crypt,C,0.0,{0},,,,"{T}, Sacrifice Tormod's Crypt: Exile target player's graveyard.",uncommon,,,Artifact
+241,Animal Sanctuary,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}: Put a +1/+1 counter on target Bird, Cat, Dog, Goat, Ox, or Snake.",rare,,,Land
-242,Bloodfell Caves,,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+242,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
 {T}: Add {B} or {R}.",common,,,Land
-243,Blossoming Sands,,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+243,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
 {T}: Add {G} or {W}.",common,,,Land
-244,Dismal Backwater,,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+244,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
 {T}: Add {U} or {B}.",common,,,Land
-245,Fabled Passage,,0.0,,,,,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",rare,,,Land
-246,Jungle Hollow,,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+245,Fabled Passage,L,0.0,,,,,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",rare,,,Land
+246,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
 {T}: Add {B} or {G}.",common,,,Land
-247,Radiant Fountain,,0.0,,,,,"When Radiant Fountain enters the battlefield, you gain 2 life.
+247,Radiant Fountain,L,0.0,,,,,"When Radiant Fountain enters the battlefield, you gain 2 life.
 {T}: Add {C}.",common,,,Land
-248,Rugged Highlands,,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+248,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
 {T}: Add {R} or {G}.",common,,,Land
-249,Scoured Barrens,,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+249,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
 {T}: Add {W} or {B}.",common,,,Land
-250,Swiftwater Cliffs,,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+250,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 {T}: Add {U} or {R}.",common,,,Land
-251,Temple of Epiphany,,0.0,,,,,"Temple of Epiphany enters the battlefield tapped.
+251,Temple of Epiphany,L,0.0,,,,,"Temple of Epiphany enters the battlefield tapped.
 When Temple of Epiphany enters the battlefield, scry 1.
 {T}: Add {U} or {R}.",rare,Scry,,Land
-252,Temple of Malady,,0.0,,,,,"Temple of Malady enters the battlefield tapped.
+252,Temple of Malady,L,0.0,,,,,"Temple of Malady enters the battlefield tapped.
 When Temple of Malady enters the battlefield, scry 1.
 {T}: Add {B} or {G}.",rare,Scry,,Land
-253,Temple of Mystery,,0.0,,,,,"Temple of Mystery enters the battlefield tapped.
+253,Temple of Mystery,L,0.0,,,,,"Temple of Mystery enters the battlefield tapped.
 When Temple of Mystery enters the battlefield, scry 1.
 {T}: Add {G} or {U}.",rare,Scry,,Land
-254,Temple of Silence,,0.0,,,,,"Temple of Silence enters the battlefield tapped.
+254,Temple of Silence,L,0.0,,,,,"Temple of Silence enters the battlefield tapped.
 When Temple of Silence enters the battlefield, scry 1.
 {T}: Add {W} or {B}.",rare,Scry,,Land
-255,Temple of Triumph,,0.0,,,,,"Temple of Triumph enters the battlefield tapped.
+255,Temple of Triumph,L,0.0,,,,,"Temple of Triumph enters the battlefield tapped.
 When Temple of Triumph enters the battlefield, scry 1.
 {T}: Add {R} or {W}.",rare,Scry,,Land
-256,Thornwood Falls,,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+256,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land
-257,Tranquil Cove,,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+257,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
 {T}: Add {W} or {U}.",common,,,Land
-258,Wind-Scarred Crag,,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+258,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land
 259,"Basri, Devoted Paladin",W,6.0,{4}{W}{W},,,4.0,"[+1]: Put a +1/+1 counter on up to one target creature. It gains vigilance until end of turn.

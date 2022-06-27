@@ -1,5 +1,5 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,"Karn, Scion of Urza",,4.0,{4},,,5.0,"[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
+0,"Karn, Scion of Urza",C,4.0,{4},,,5.0,"[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
 [−1]: Put a card you own with a silver counter on it from exile into your hand.
 [−2]: Create a 0/0 colorless Construct artifact creature token with ""This creature gets +1/+1 for each artifact you control.""",mythic,,Legendary,Planeswalker
 1,Adamant Will,W,2.0,{1}{W},,,,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant
@@ -375,91 +375,91 @@ Shanna gets +1/+1 for each creature you control.",uncommon,,Legendary,Creature
 [−8]: You get an emblem with ""Whenever you draw a card, exile target permanent an opponent controls.""",mythic,,Legendary,Planeswalker
 207,"Tiana, Ship's Caretaker","R, W",5.0,{3}{R}{W},3.0,3.0,,"Flying, first strike
 Whenever an Aura or Equipment you control is put into a graveyard from the battlefield, you may return that card to its owner's hand at the beginning of the next end step.",uncommon,"First strike, Flying",Legendary,Creature
-208,Aesthir Glider,,3.0,{3},2.0,1.0,,"Flying
+208,Aesthir Glider,C,3.0,{3},2.0,1.0,,"Flying
 Aesthir Glider can't block.",common,Flying,,"Artifact, Creature"
-209,Amaranthine Wall,,4.0,{4},0.0,6.0,,"Defender
+209,Amaranthine Wall,C,4.0,{4},0.0,6.0,,"Defender
 {2}: Amaranthine Wall gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,Defender,,"Artifact, Creature"
-210,Blackblade Reforged,,2.0,{2},,,,"Equipped creature gets +1/+1 for each land you control.
+210,Blackblade Reforged,C,2.0,{2},,,,"Equipped creature gets +1/+1 for each land you control.
 Equip legendary creature {3}
 Equip {7}",rare,Equip,Legendary,Artifact
-211,Bloodtallow Candle,,1.0,{1},,,,"{6}, {T}, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 until end of turn.",common,,,Artifact
-212,Damping Sphere,,2.0,{2},,,,"If a land is tapped for two or more mana, it produces {C} instead of any other type and amount.
+211,Bloodtallow Candle,C,1.0,{1},,,,"{6}, {T}, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 until end of turn.",common,,,Artifact
+212,Damping Sphere,C,2.0,{2},,,,"If a land is tapped for two or more mana, it produces {C} instead of any other type and amount.
 Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn.",uncommon,,,Artifact
-213,Forebear's Blade,,3.0,{3},,,,"Equipped creature gets +3/+0 and has vigilance and trample.
+213,Forebear's Blade,C,3.0,{3},,,,"Equipped creature gets +3/+0 and has vigilance and trample.
 Whenever equipped creature dies, attach Forebear's Blade to target creature you control.
 Equip {3}",rare,Equip,,Artifact
-214,Gilded Lotus,,5.0,{5},,,,{T}: Add three mana of any one color.,rare,,,Artifact
-215,Guardians of Koilos,,5.0,{5},4.0,4.0,,"When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)",common,,,"Artifact, Creature"
-216,Helm of the Host,,4.0,{4},,,,"At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
+214,Gilded Lotus,C,5.0,{5},,,,{T}: Add three mana of any one color.,rare,,,Artifact
+215,Guardians of Koilos,C,5.0,{5},4.0,4.0,,"When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)",common,,,"Artifact, Creature"
+216,Helm of the Host,C,4.0,{4},,,,"At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
 Equip {5}",rare,Equip,Legendary,Artifact
-217,Howling Golem,,3.0,{3},2.0,3.0,,"Whenever Howling Golem attacks or blocks, each player draws a card.",uncommon,,,"Artifact, Creature"
-218,Icy Manipulator,,4.0,{4},,,,"{1}, {T}: Tap target artifact, creature, or land.",uncommon,,,Artifact
-219,Jhoira's Familiar,,4.0,{4},2.0,2.0,,"Flying
+217,Howling Golem,C,3.0,{3},2.0,3.0,,"Whenever Howling Golem attacks or blocks, each player draws a card.",uncommon,,,"Artifact, Creature"
+218,Icy Manipulator,C,4.0,{4},,,,"{1}, {T}: Tap target artifact, creature, or land.",uncommon,,,Artifact
+219,Jhoira's Familiar,C,4.0,{4},2.0,2.0,,"Flying
 Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Flying,,"Artifact, Creature"
-220,Jousting Lance,,2.0,{2},,,,"Equipped creature gets +2/+0.
+220,Jousting Lance,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 As long as it's your turn, equipped creature has first strike.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-221,Juggernaut,,4.0,{4},5.0,3.0,,"Juggernaut attacks each combat if able.
+221,Juggernaut,C,4.0,{4},5.0,3.0,,"Juggernaut attacks each combat if able.
 Juggernaut can't be blocked by Walls.",uncommon,,,"Artifact, Creature"
-222,Mishra's Self-Replicator,,5.0,{5},2.0,2.0,,"Whenever you cast a historic spell, you may pay {1}. If you do, create a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, and Sagas are historic.)",rare,,,"Artifact, Creature"
-223,Mox Amber,,0.0,{0},,,,{T}: Add one mana of any color among legendary creatures and planeswalkers you control.,mythic,,Legendary,Artifact
-224,Navigator's Compass,,1.0,{1},,,,"When Navigator's Compass enters the battlefield, you gain 3 life.
+222,Mishra's Self-Replicator,C,5.0,{5},2.0,2.0,,"Whenever you cast a historic spell, you may pay {1}. If you do, create a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, and Sagas are historic.)",rare,,,"Artifact, Creature"
+223,Mox Amber,C,0.0,{0},,,,{T}: Add one mana of any color among legendary creatures and planeswalkers you control.,mythic,,Legendary,Artifact
+224,Navigator's Compass,C,1.0,{1},,,,"When Navigator's Compass enters the battlefield, you gain 3 life.
 {T}: Until end of turn, target land you control becomes the basic land type of your choice in addition to its other types.",common,,,Artifact
-225,Pardic Wanderer,,6.0,{6},5.0,5.0,,Trample,common,Trample,,"Artifact, Creature"
-226,Powerstone Shard,,3.0,{3},,,,{T}: Add {C} for each artifact you control named Powerstone Shard.,common,,,Artifact
-227,Shield of the Realm,,2.0,{2},,,,"If a source would deal damage to equipped creature, prevent 2 of that damage.
+225,Pardic Wanderer,C,6.0,{6},5.0,5.0,,Trample,common,Trample,,"Artifact, Creature"
+226,Powerstone Shard,C,3.0,{3},,,,{T}: Add {C} for each artifact you control named Powerstone Shard.,common,,,Artifact
+227,Shield of the Realm,C,2.0,{2},,,,"If a source would deal damage to equipped creature, prevent 2 of that damage.
 Equip {1}",uncommon,Equip,,Artifact
-228,Short Sword,,1.0,{1},,,,"Equipped creature gets +1/+1.
+228,Short Sword,C,1.0,{1},,,,"Equipped creature gets +1/+1.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-229,Skittering Surveyor,,3.0,{3},1.0,2.0,,"When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
-230,Sorcerer's Wand,,1.0,{1},,,,"Equipped creature has ""{T}: This creature deals 1 damage to target player or planeswalker. If this creature is a Wizard, it deals 2 damage instead.""
+229,Skittering Surveyor,C,3.0,{3},1.0,2.0,,"When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
+230,Sorcerer's Wand,C,1.0,{1},,,,"Equipped creature has ""{T}: This creature deals 1 damage to target player or planeswalker. If this creature is a Wizard, it deals 2 damage instead.""
 Equip {3}",uncommon,Equip,,Artifact
-231,Sparring Construct,,1.0,{1},1.0,1.0,,"When Sparring Construct dies, put a +1/+1 counter on target creature you control.",common,,,"Artifact, Creature"
-232,Thran Temporal Gateway,,4.0,{4},,,,"{4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)",rare,,Legendary,Artifact
-233,"Traxos, Scourge of Kroog",,4.0,{4},7.0,7.0,,"Trample
+231,Sparring Construct,C,1.0,{1},1.0,1.0,,"When Sparring Construct dies, put a +1/+1 counter on target creature you control.",common,,,"Artifact, Creature"
+232,Thran Temporal Gateway,C,4.0,{4},,,,"{4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)",rare,,Legendary,Artifact
+233,"Traxos, Scourge of Kroog",C,4.0,{4},7.0,7.0,,"Trample
 Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap during your untap step.
 Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and Sagas are historic.)",rare,Trample,Legendary,"Artifact, Creature"
-234,Urza's Tome,,2.0,{2},,,,"{3}, {T}: Draw a card. Then discard a card unless you exile a historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Artifact
-235,Voltaic Servant,,2.0,{2},1.0,3.0,,"At the beginning of your end step, untap target artifact.",common,,,"Artifact, Creature"
-236,Weatherlight,,4.0,{4},4.0,5.0,,"Flying
+234,Urza's Tome,C,2.0,{2},,,,"{3}, {T}: Draw a card. Then discard a card unless you exile a historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Artifact
+235,Voltaic Servant,C,2.0,{2},1.0,3.0,,"At the beginning of your end step, untap target artifact.",common,,,"Artifact, Creature"
+236,Weatherlight,C,4.0,{4},4.0,5.0,,"Flying
 Whenever Weatherlight deals combat damage to a player, look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
 Crew 3",mythic,"Crew, Flying",Legendary,Artifact
-237,Cabal Stronghold,,0.0,,,,,"{T}: Add {C}.
+237,Cabal Stronghold,L,0.0,,,,,"{T}: Add {C}.
 {3}, {T}: Add {B} for each basic Swamp you control.",rare,,,Land
-238,Clifftop Retreat,,0.0,,,,,"Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
+238,Clifftop Retreat,L,0.0,,,,,"Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
 {T}: Add {R} or {W}.",rare,,,Land
-239,Hinterland Harbor,,0.0,,,,,"Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
+239,Hinterland Harbor,L,0.0,,,,,"Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
 {T}: Add {G} or {U}.",rare,,,Land
-240,Isolated Chapel,,0.0,,,,,"Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
+240,Isolated Chapel,L,0.0,,,,,"Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
 {T}: Add {W} or {B}.",rare,,,Land
-241,Memorial to Folly,,0.0,,,,,"Memorial to Folly enters the battlefield tapped.
+241,Memorial to Folly,L,0.0,,,,,"Memorial to Folly enters the battlefield tapped.
 {T}: Add {B}.
 {2}{B}, {T}, Sacrifice Memorial to Folly: Return target creature card from your graveyard to your hand.",uncommon,,,Land
-242,Memorial to Genius,,0.0,,,,,"Memorial to Genius enters the battlefield tapped.
+242,Memorial to Genius,L,0.0,,,,,"Memorial to Genius enters the battlefield tapped.
 {T}: Add {U}.
 {4}{U}, {T}, Sacrifice Memorial to Genius: Draw two cards.",uncommon,,,Land
-243,Memorial to Glory,,0.0,,,,,"Memorial to Glory enters the battlefield tapped.
+243,Memorial to Glory,L,0.0,,,,,"Memorial to Glory enters the battlefield tapped.
 {T}: Add {W}.
 {3}{W}, {T}, Sacrifice Memorial to Glory: Create two 1/1 white Soldier creature tokens.",uncommon,,,Land
-244,Memorial to Unity,,0.0,,,,,"Memorial to Unity enters the battlefield tapped.
+244,Memorial to Unity,L,0.0,,,,,"Memorial to Unity enters the battlefield tapped.
 {T}: Add {G}.
 {2}{G}, {T}, Sacrifice Memorial to Unity: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.",uncommon,,,Land
-245,Memorial to War,,0.0,,,,,"Memorial to War enters the battlefield tapped.
+245,Memorial to War,L,0.0,,,,,"Memorial to War enters the battlefield tapped.
 {T}: Add {R}.
 {4}{R}, {T}, Sacrifice Memorial to War: Destroy target land.",uncommon,,,Land
-246,Sulfur Falls,,0.0,,,,,"Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
+246,Sulfur Falls,L,0.0,,,,,"Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
 {T}: Add {U} or {R}.",rare,,,Land
-247,Woodland Cemetery,,0.0,,,,,"Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
+247,Woodland Cemetery,L,0.0,,,,,"Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
 {T}: Add {B} or {G}.",rare,,,Land
-248,Zhalfirin Void,,0.0,,,,,"When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+248,Zhalfirin Void,L,0.0,,,,,"When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {T}: Add {C}.",uncommon,Scry,,Land
 249,"Teferi, Timebender","U, W",6.0,{4}{W}{U},,,5.0,"[+2]: Untap up to one target artifact or creature.
 [−3]: You gain 2 life and draw two cards.
 [−9]: Take an extra turn after this one.",mythic,,Legendary,Planeswalker
 250,Temporal Machinations,U,3.0,{2}{U},,,,"Return target creature to its owner's hand. If you control an artifact, draw a card.",common,,,Sorcery
 251,"Niambi, Faithful Healer","U, W",3.0,{1}{W}{U},2.0,2.0,,"When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,Legendary,Creature
-252,Teferi's Sentinel,,5.0,{5},2.0,6.0,,"As long as you control a Teferi planeswalker, Teferi's Sentinel gets +4/+0.",uncommon,,,"Artifact, Creature"
-253,Meandering River,,0.0,,,,,"Meandering River enters the battlefield tapped.
+252,Teferi's Sentinel,C,5.0,{5},2.0,6.0,,"As long as you control a Teferi planeswalker, Teferi's Sentinel gets +4/+0.",uncommon,,,"Artifact, Creature"
+253,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
 {T}: Add {W} or {U}.",common,,,Land
 254,"Chandra, Bold Pyromancer",R,6.0,{4}{R}{R},,,5.0,"[+1]: Add {R}{R}. Chandra, Bold Pyromancer deals 2 damage to target player.
 [−3]: Chandra, Bold Pyromancer deals 3 damage to target creature or planeswalker.
@@ -468,5 +468,5 @@ Crew 3",mythic,"Crew, Flying",Legendary,Artifact
 Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
 256,Karplusan Hound,R,4.0,{3}{R},3.0,3.0,,"Whenever Karplusan Hound attacks, if you control a Chandra planeswalker, this creature deals 2 damage to any target.",uncommon,,,Creature
 257,Pyromantic Pilgrim,R,3.0,{2}{R},3.0,1.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature
-258,Timber Gorge,,0.0,,,,,"Timber Gorge enters the battlefield tapped.
+258,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
 {T}: Add {R} or {G}.",common,,,Land

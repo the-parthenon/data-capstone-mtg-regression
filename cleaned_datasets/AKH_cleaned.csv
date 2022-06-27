@@ -404,58 +404,58 @@ Each opponent loses X life.",rare,Aftermath,,Sorcery
 237,Heaven,G,3.0,{X}{G},,,,Heaven deals X damage to each creature with flying.,rare,,,Instant
 238,Earth,R,3.0,{X}{R}{R},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Earth deals X damage to each creature without flying.",rare,Aftermath,,Sorcery
-239,Bontu's Monument,,3.0,{3},,,,"Black creature spells you cast cost {1} less to cast.
+239,Bontu's Monument,C,3.0,{3},,,,"Black creature spells you cast cost {1} less to cast.
 Whenever you cast a creature spell, each opponent loses 1 life and you gain 1 life.",uncommon,,Legendary,Artifact
-240,Edifice of Authority,,3.0,{3},,,,"{1}, {T}: Target creature can't attack this turn. Put a brick counter on Edifice of Authority.
+240,Edifice of Authority,C,3.0,{3},,,,"{1}, {T}: Target creature can't attack this turn. Put a brick counter on Edifice of Authority.
 {1}, {T}: Until your next turn, target creature can't attack or block and its activated abilities can't be activated. Activate only if there are three or more brick counters on Edifice of Authority.",uncommon,,,Artifact
-241,Embalmer's Tools,,2.0,{2},,,,"Activated abilities of creature cards in your graveyard cost {1} less to activate.
+241,Embalmer's Tools,C,2.0,{2},,,,"Activated abilities of creature cards in your graveyard cost {1} less to activate.
 Tap an untapped Zombie you control: Target player mills a card.",uncommon,Mill,,Artifact
-242,Gate to the Afterlife,,3.0,{3},,,,"Whenever a nontoken creature you control dies, you gain 1 life. Then you may draw a card. If you do, discard a card.
+242,Gate to the Afterlife,C,3.0,{3},,,,"Whenever a nontoken creature you control dies, you gain 1 life. Then you may draw a card. If you do, discard a card.
 {2}, {T}, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh's Gift and put it onto the battlefield. If you search your library this way, shuffle. Activate only if there are six or more creature cards in your graveyard.",uncommon,,,Artifact
-243,Hazoret's Monument,,3.0,{3},,,,"Red creature spells you cast cost {1} less to cast.
+243,Hazoret's Monument,C,3.0,{3},,,,"Red creature spells you cast cost {1} less to cast.
 Whenever you cast a creature spell, you may discard a card. If you do, draw a card.",uncommon,,Legendary,Artifact
-244,Honed Khopesh,,1.0,{1},,,,"Equipped creature gets +1/+1.
+244,Honed Khopesh,C,1.0,{1},,,,"Equipped creature gets +1/+1.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-245,Kefnet's Monument,,3.0,{3},,,,"Blue creature spells you cast cost {1} less to cast.
+245,Kefnet's Monument,C,3.0,{3},,,,"Blue creature spells you cast cost {1} less to cast.
 Whenever you cast a creature spell, target creature an opponent controls doesn't untap during its controller's next untap step.",uncommon,,Legendary,Artifact
-246,Luxa River Shrine,,3.0,{3},,,,"{1}, {T}: You gain 1 life. Put a brick counter on Luxa River Shrine.
+246,Luxa River Shrine,C,3.0,{3},,,,"{1}, {T}: You gain 1 life. Put a brick counter on Luxa River Shrine.
 {T}: You gain 2 life. Activate only if there are three or more brick counters on Luxa River Shrine.",common,,,Artifact
-247,Oketra's Monument,,3.0,{3},,,,"White creature spells you cast cost {1} less to cast.
+247,Oketra's Monument,C,3.0,{3},,,,"White creature spells you cast cost {1} less to cast.
 Whenever you cast a creature spell, create a 1/1 white Warrior creature token with vigilance.",uncommon,,Legendary,Artifact
-248,Oracle's Vault,,4.0,{4},,,,"{2}, {T}: Exile the top card of your library. Until end of turn, you may play that card. Put a brick counter on Oracle's Vault.
+248,Oracle's Vault,C,4.0,{4},,,,"{2}, {T}: Exile the top card of your library. Until end of turn, you may play that card. Put a brick counter on Oracle's Vault.
 {T}: Exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. Activate only if there are three or more brick counters on Oracle's Vault.",rare,,,Artifact
-249,Pyramid of the Pantheon,,1.0,{1},,,,"{2}, {T}: Add one mana of any color. Put a brick counter on Pyramid of the Pantheon.
+249,Pyramid of the Pantheon,C,1.0,{1},,,,"{2}, {T}: Add one mana of any color. Put a brick counter on Pyramid of the Pantheon.
 {T}: Add three mana of any one color. Activate only if there are three or more brick counters on Pyramid of the Pantheon.",rare,,,Artifact
-250,Rhonas's Monument,,3.0,{3},,,,"Green creature spells you cast cost {1} less to cast.
+250,Rhonas's Monument,C,3.0,{3},,,,"Green creature spells you cast cost {1} less to cast.
 Whenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn.",uncommon,,Legendary,Artifact
-251,Throne of the God-Pharaoh,,2.0,{2},,,,"At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.",rare,,Legendary,Artifact
-252,Watchers of the Dead,,2.0,{2},2.0,2.0,,Exile Watchers of the Dead: Each opponent chooses two cards in their graveyard and exiles the rest.,uncommon,,,"Artifact, Creature"
-253,Canyon Slough,,0.0,,,,,"({T}: Add {B} or {R}.)
+251,Throne of the God-Pharaoh,C,2.0,{2},,,,"At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.",rare,,Legendary,Artifact
+252,Watchers of the Dead,C,2.0,{2},2.0,2.0,,Exile Watchers of the Dead: Each opponent chooses two cards in their graveyard and exiles the rest.,uncommon,,,"Artifact, Creature"
+253,Canyon Slough,L,0.0,,,,,"({T}: Add {B} or {R}.)
 Canyon Slough enters the battlefield tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Land
-254,Cascading Cataracts,,0.0,,,,,"Indestructible
+254,Cascading Cataracts,L,0.0,,,,,"Indestructible
 {T}: Add {C}.
 {5}, {T}: Add five mana in any combination of colors.",rare,Indestructible,,Land
-255,Cradle of the Accursed,,0.0,,,,,"{T}: Add {C}.
+255,Cradle of the Accursed,L,0.0,,,,,"{T}: Add {C}.
 {3}, {T}, Sacrifice Cradle of the Accursed: Create a 2/2 black Zombie creature token. Activate only as a sorcery.",common,,,Land
-256,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-257,Fetid Pools,,0.0,,,,,"({T}: Add {U} or {B}.)
+256,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+257,Fetid Pools,L,0.0,,,,,"({T}: Add {U} or {B}.)
 Fetid Pools enters the battlefield tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Land
-258,Grasping Dunes,,0.0,,,,,"{T}: Add {C}.
+258,Grasping Dunes,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}, Sacrifice Grasping Dunes: Put a -1/-1 counter on target creature. Activate only as a sorcery.",uncommon,,,Land
-259,Irrigated Farmland,,0.0,,,,,"({T}: Add {W} or {U}.)
+259,Irrigated Farmland,L,0.0,,,,,"({T}: Add {W} or {U}.)
 Irrigated Farmland enters the battlefield tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Land
-260,Painted Bluffs,,0.0,,,,,"{T}: Add {C}.
+260,Painted Bluffs,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land
-261,Scattered Groves,,0.0,,,,,"({T}: Add {G} or {W}.)
+261,Scattered Groves,L,0.0,,,,,"({T}: Add {G} or {W}.)
 Scattered Groves enters the battlefield tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Land
-262,Sheltered Thicket,,0.0,,,,,"({T}: Add {R} or {G}.)
+262,Sheltered Thicket,L,0.0,,,,,"({T}: Add {R} or {G}.)
 Sheltered Thicket enters the battlefield tapped.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Land
-263,Sunscorched Desert,,0.0,,,,,"When Sunscorched Desert enters the battlefield, it deals 1 damage to target player or planeswalker.
+263,Sunscorched Desert,L,0.0,,,,,"When Sunscorched Desert enters the battlefield, it deals 1 damage to target player or planeswalker.
 {T}: Add {C}.",common,,,Land
 264,"Gideon, Martial Paragon",W,5.0,{4}{W},,,5.0,"[+2]: Untap all creatures you control. Those creatures get +1/+1 until end of turn.
 [0]: Until end of turn, Gideon, Martial Paragon becomes a 5/5 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
@@ -465,7 +465,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,Land
 266,Gideon's Resolve,W,5.0,{4}{W},,,,"When Gideon's Resolve enters the battlefield, you may search your library and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and put it into your hand. If you search your library this way, shuffle.
 Creatures you control get +1/+1.",rare,,,Enchantment
 267,Graceful Cat,W,3.0,{2}{W},2.0,2.0,,"Whenever Graceful Cat attacks, it gets +1/+1 until end of turn.",common,,,Creature
-268,Stone Quarry,,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+268,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land
 269,"Liliana, Death Wielder",B,7.0,{5}{B}{B},,,5.0,"[+2]: Put a -1/-1 counter on up to one target creature.
 [−3]: Destroy target creature with a -1/-1 counter on it.
@@ -473,21 +473,21 @@ Creatures you control get +1/+1.",rare,,,Enchantment
 270,Desiccated Naga,B,3.0,{2}{B},3.0,2.0,,{3}{B}: Target opponent loses 2 life and you gain 2 life. Activate only if you control a Liliana planeswalker.,uncommon,,,Creature
 271,Liliana's Influence,B,6.0,{4}{B}{B},,,,"Put a -1/-1 counter on each creature you don't control. You may search your library and/or graveyard for a card named Liliana, Death Wielder, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
 272,Tattered Mummy,B,2.0,{1}{B},1.0,2.0,,"When Tattered Mummy dies, each opponent loses 2 life.",common,,,Creature
-273,Foul Orchard,,0.0,,,,,"Foul Orchard enters the battlefield tapped.
+273,Foul Orchard,L,0.0,,,,,"Foul Orchard enters the battlefield tapped.
 {T}: Add {B} or {G}.",common,,,Land
-274,Cinder Barrens,,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+274,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land
-275,Forsaken Sanctuary,,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
+275,Forsaken Sanctuary,L,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
 {T}: Add {W} or {B}.",common,,,Land
-276,Highland Lake,,0.0,,,,,"Highland Lake enters the battlefield tapped.
+276,Highland Lake,L,0.0,,,,,"Highland Lake enters the battlefield tapped.
 {T}: Add {U} or {R}.",common,,,Land
-277,Meandering River,,0.0,,,,,"Meandering River enters the battlefield tapped.
+277,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
 {T}: Add {W} or {U}.",common,,,Land
-278,Submerged Boneyard,,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
+278,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
 {T}: Add {U} or {B}.",common,,,Land
-279,Timber Gorge,,0.0,,,,,"Timber Gorge enters the battlefield tapped.
+279,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
 {T}: Add {R} or {G}.",common,,,Land
-280,Tranquil Expanse,,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
+280,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
 {T}: Add {G} or {W}.",common,,,Land
-281,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+281,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land

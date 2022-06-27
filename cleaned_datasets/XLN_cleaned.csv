@@ -34,7 +34,7 @@ Creatures your opponents control enter the battlefield tapped.",rare,Flying,,Cre
 20,Legion's Judgment,W,3.0,{2}{W},,,,Destroy target creature with power 4 or greater.,common,,,Sorcery
 21,Legion's Landing,W,1.0,{W},,,,"When Legion's Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink.
 When you attack with three or more creatures, transform Legion's Landing.",rare,Transform,Legendary,Enchantment
-22,"Adanto, the First Fort",,1.0,,,,,"(Transforms from Legion's Landing.)
+22,"Adanto, the First Fort",L,1.0,,,,,"(Transforms from Legion's Landing.)
 {T}: Add {W}.
 {2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink.",rare,Transform,Legendary,Land
 23,Looming Altisaur,W,4.0,{3}{W},1.0,7.0,,,common,,,Creature
@@ -107,7 +107,7 @@ Whenever another Merfolk enters the battlefield under your control, River Sneak 
 72,Run Aground,U,4.0,{3}{U},,,,Put target artifact or creature on top of its owner's library.,common,,,Instant
 73,Sailor of Means,U,3.0,{2}{U},1.0,4.0,,"When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature
 74,Search for Azcanta,U,2.0,{1}{U},,,,"At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.",rare,Transform,Legendary,Enchantment
-75,"Azcanta, the Sunken Ruin",,2.0,,,,,"(Transforms from Search for Azcanta.)
+75,"Azcanta, the Sunken Ruin",L,2.0,,,,,"(Transforms from Search for Azcanta.)
 {T}: Add {U}.
 {2}{U}, {T}: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",rare,Transform,Legendary,Land
 76,Shaper Apprentice,U,2.0,{1}{U},2.0,1.0,,Shaper Apprentice has flying as long as you control another Merfolk.,common,,,Creature
@@ -132,7 +132,7 @@ Flying",common,"Flash, Flying",,Creature
 90,Anointed Deacon,B,5.0,{4}{B},3.0,3.0,,"At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn.",common,,,Creature
 91,Arguel's Blood Fast,B,2.0,{1}{B},,,,"{1}{B}, Pay 2 life: Draw a card.
 At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",rare,Transform,Legendary,Enchantment
-92,Temple of Aclazotz,,2.0,,,,,"(Transforms from Arguel's Blood Fast.)
+92,Temple of Aclazotz,L,2.0,,,,,"(Transforms from Arguel's Blood Fast.)
 {T}: Add {B}.
 {T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",rare,Transform,Legendary,Land
 93,Bishop of the Bloodstained,B,5.0,{3}{B}{B},3.0,3.0,,"When Bishop of the Bloodstained enters the battlefield, target opponent loses 1 life for each Vampire you control.",uncommon,,,Creature
@@ -253,7 +253,7 @@ At the beginning of your end step, create a Treasure token. (It's an artifact wi
 174,Unfriendly Fire,R,5.0,{4}{R},,,,Unfriendly Fire deals 4 damage to any target.,common,,,Instant
 175,Vance's Blasting Cannons,R,4.0,{3}{R},,,,"At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.
 Whenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons.",rare,Transform,Legendary,Enchantment
-176,Spitfire Bastion,,4.0,,,,,"(Transforms from Vance's Blasting Cannons.)
+176,Spitfire Bastion,L,4.0,,,,,"(Transforms from Vance's Blasting Cannons.)
 {T}: Add {R}.
 {2}{R}, {T}: Spitfire Bastion deals 3 damage to any target.",rare,Transform,Legendary,Land
 177,Wily Goblin,R,2.0,{R}{R},1.0,1.0,,"When Wily Goblin enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Creature
@@ -280,7 +280,7 @@ Trample, hexproof",mythic,"Hexproof, Trample",,Creature
 193,Grazing Whiptail,G,4.0,{2}{G}{G},3.0,4.0,,Reach,common,Reach,,Creature
 194,Growing Rites of Itlimoc,G,3.0,{2}{G},,,,"When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.",rare,Transform,Legendary,Enchantment
-195,"Itlimoc, Cradle of the Sun",,3.0,,,,,"(Transforms from Growing Rites of Itlimoc.)
+195,"Itlimoc, Cradle of the Sun",L,3.0,,,,,"(Transforms from Growing Rites of Itlimoc.)
 {T}: Add {G}.
 {T}: Add {G} for each creature you control.",rare,Transform,Legendary,Land
 196,Ixalli's Diviner,G,2.0,{1}{G},0.0,3.0,,"When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,Explore,,Creature
@@ -345,79 +345,79 @@ When Tishana enters the battlefield, draw a card for each creature you control."
 236,"Vraska, Relic Seeker","B, G",6.0,{4}{B}{G},,,6.0,"[+2]: Create a 2/2 black Pirate creature token with menace.
 [−3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 [−10]: Target player's life total becomes 1.",mythic,,Legendary,Planeswalker
-237,Cobbled Wings,,2.0,{2},,,,"Equipped creature has flying.
+237,Cobbled Wings,C,2.0,{2},,,,"Equipped creature has flying.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-238,Conqueror's Galleon,,4.0,{4},2.0,10.0,,"When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.
+238,Conqueror's Galleon,C,4.0,{4},2.0,10.0,,"When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, Transform",,Artifact
-239,Conqueror's Foothold,,4.0,,,,,"(Transforms from Conqueror's Galleon.)
+239,Conqueror's Foothold,L,4.0,,,,,"(Transforms from Conqueror's Galleon.)
 {T}: Add {C}.
 {2}, {T}: Draw a card, then discard a card.
 {4}, {T}: Draw a card.
 {6}, {T}: Return target card from your graveyard to your hand.",rare,Transform,,Land
-240,Dowsing Dagger,,2.0,{2},,,,"When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.
+240,Dowsing Dagger,C,2.0,{2},,,,"When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.
 Equipped creature gets +2/+1.
 Whenever equipped creature deals combat damage to a player, you may transform Dowsing Dagger.
 Equip {2}",rare,"Equip, Transform",,Artifact
-241,Lost Vale,,2.0,,,,,"(Transforms from Dowsing Dagger.)
+241,Lost Vale,L,2.0,,,,,"(Transforms from Dowsing Dagger.)
 {T}: Add three mana of any one color.",rare,Transform,,Land
-242,Dusk Legion Dreadnought,,5.0,{5},4.0,6.0,,"Vigilance
+242,Dusk Legion Dreadnought,C,5.0,{5},4.0,6.0,,"Vigilance
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Vigilance",,Artifact
-243,Elaborate Firecannon,,2.0,{2},,,,"Elaborate Firecannon doesn't untap during your untap step.
+243,Elaborate Firecannon,C,2.0,{2},,,,"Elaborate Firecannon doesn't untap during your untap step.
 {4}, {T}: Elaborate Firecannon deals 2 damage to any target.
 At the beginning of your upkeep, you may discard a card. If you do, untap Elaborate Firecannon.",uncommon,,,Artifact
-244,Fell Flagship,,3.0,{3},3.0,3.0,,"Pirates you control get +1/+0.
+244,Fell Flagship,C,3.0,{3},3.0,3.0,,"Pirates you control get +1/+0.
 Whenever Fell Flagship deals combat damage to a player, that player discards a card.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact
-245,Gilded Sentinel,,4.0,{4},3.0,3.0,,,common,,,"Artifact, Creature"
-246,Hierophant's Chalice,,3.0,{3},,,,"When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.
+245,Gilded Sentinel,C,4.0,{4},3.0,3.0,,,common,,,"Artifact, Creature"
+246,Hierophant's Chalice,C,3.0,{3},,,,"When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.
 {T}: Add {C}.",common,,,Artifact
-247,Pillar of Origins,,2.0,{2},,,,"As Pillar of Origins enters the battlefield, choose a creature type.
+247,Pillar of Origins,C,2.0,{2},,,,"As Pillar of Origins enters the battlefield, choose a creature type.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",uncommon,,,Artifact
-248,Pirate's Cutlass,,3.0,{3},,,,"When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.
+248,Pirate's Cutlass,C,3.0,{3},,,,"When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.
 Equipped creature gets +2/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-249,Primal Amulet,,4.0,{4},,,,"Instant and sorcery spells you cast cost {1} less to cast.
+249,Primal Amulet,C,4.0,{4},,,,"Instant and sorcery spells you cast cost {1} less to cast.
 Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it.",rare,Transform,,Artifact
-250,Primal Wellspring,,4.0,,,,,"(Transforms from Primal Amulet.)
+250,Primal Wellspring,L,4.0,,,,,"(Transforms from Primal Amulet.)
 {T}: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy.",rare,Transform,,Land
-251,Prying Blade,,1.0,{1},,,,"Equipped creature gets +1/+0.
+251,Prying Blade,C,1.0,{1},,,,"Equipped creature gets +1/+0.
 Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-252,Sentinel Totem,,1.0,{1},,,,"When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+252,Sentinel Totem,C,1.0,{1},,,,"When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {T}, Exile Sentinel Totem: Exile all graveyards.",uncommon,Scry,,Artifact
-253,Shadowed Caravel,,2.0,{2},2.0,2.0,,"Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.
+253,Shadowed Caravel,C,2.0,{2},2.0,2.0,,"Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact
-254,Sleek Schooner,,3.0,{3},4.0,3.0,,Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.),uncommon,Crew,,Artifact
-255,Sorcerous Spyglass,,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
+254,Sleek Schooner,C,3.0,{3},4.0,3.0,,Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.),uncommon,Crew,,Artifact
+255,Sorcerous Spyglass,C,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
 Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.",rare,,,Artifact
-256,Thaumatic Compass,,2.0,{2},,,,"{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+256,Thaumatic Compass,C,2.0,{2},,,,"{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass.",rare,Transform,,Artifact
-257,Spires of Orazca,,2.0,,,,,"(Transforms from Thaumatic Compass.)
+257,Spires of Orazca,L,2.0,,,,,"(Transforms from Thaumatic Compass.)
 {T}: Add {C}.
 {T}: Untap target attacking creature an opponent controls and remove it from combat.",rare,Transform,,Land
-258,Treasure Map,,2.0,{2},,,,"{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",rare,"Scry, Transform",,Artifact
-259,Treasure Cove,,2.0,,,,,"(Transforms from Treasure Map.)
+258,Treasure Map,C,2.0,{2},,,,"{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",rare,"Scry, Transform",,Artifact
+259,Treasure Cove,L,2.0,,,,,"(Transforms from Treasure Map.)
 {T}: Add {C}.
 {T}, Sacrifice a Treasure: Draw a card.",rare,Transform,,Land
-260,Vanquisher's Banner,,5.0,{5},,,,"As Vanquisher's Banner enters the battlefield, choose a creature type.
+260,Vanquisher's Banner,C,5.0,{5},,,,"As Vanquisher's Banner enters the battlefield, choose a creature type.
 Creatures you control of the chosen type get +1/+1.
 Whenever you cast a creature spell of the chosen type, draw a card.",rare,,,Artifact
-261,Dragonskull Summit,,0.0,,,,,"Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+261,Dragonskull Summit,L,0.0,,,,,"Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
 {T}: Add {B} or {R}.",rare,,,Land
-262,Drowned Catacomb,,0.0,,,,,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+262,Drowned Catacomb,L,0.0,,,,,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
 {T}: Add {U} or {B}.",rare,,,Land
-263,Field of Ruin,,0.0,,,,,"{T}: Add {C}.
+263,Field of Ruin,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",uncommon,,,Land
-264,Glacial Fortress,,0.0,,,,,"Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+264,Glacial Fortress,L,0.0,,,,,"Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
 {T}: Add {W} or {U}.",rare,,,Land
-265,Rootbound Crag,,0.0,,,,,"Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+265,Rootbound Crag,L,0.0,,,,,"Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
 {T}: Add {R} or {G}.",rare,,,Land
-266,Sunpetal Grove,,0.0,,,,,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+266,Sunpetal Grove,L,0.0,,,,,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
 {T}: Add {G} or {W}.",rare,,,Land
-267,Unclaimed Territory,,0.0,,,,,"As Unclaimed Territory enters the battlefield, choose a creature type.
+267,Unclaimed Territory,L,0.0,,,,,"As Unclaimed Territory enters the battlefield, choose a creature type.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",uncommon,,,Land
-268,Unknown Shores,,0.0,,,,,"{T}: Add {C}.
+268,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land
 269,"Jace, Ingenious Mind-Mage",U,6.0,{4}{U}{U},,,5.0,"[+1]: Draw a card.
 [+1]: Untap all creatures you control.
@@ -428,7 +428,7 @@ Enchanted creature doesn't untap during its controller's untap step.",common,Enc
 271,Grasping Current,U,5.0,{4}{U},,,,"Return up to two target creatures to their owner's hand.
 Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle.",rare,,,Sorcery
 272,Jace's Sentinel,U,2.0,{1}{U},1.0,3.0,,"As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and can't be blocked.",uncommon,,,Creature
-273,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+273,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land
 274,"Huatli, Dinosaur Knight","R, W",6.0,{4}{R}{W},,,4.0,"[+2]: Put two +1/+1 counters on up to one target Dinosaur you control.
 [−3]: Target Dinosaur you control deals damage equal to its power to target creature you don't control.
@@ -436,5 +436,5 @@ Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage,
 275,Huatli's Snubhorn,W,2.0,{1}{W},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature
 276,Huatli's Spurring,R,1.0,{R},,,,"Target creature gets +2/+0 until end of turn. If you control a Huatli planeswalker, that creature gets +4/+0 until end of turn instead.",uncommon,,,Instant
 277,Sun-Blessed Mount,"R, W",5.0,{3}{R}{W},4.0,4.0,,"When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle.",rare,,,Creature
-278,Stone Quarry,,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+278,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land

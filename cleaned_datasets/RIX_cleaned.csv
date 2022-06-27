@@ -259,7 +259,7 @@ Whenever Deadeye Brawler deals combat damage to a player, if you have the city's
 Whenever another creature dies, put a +1/+1 counter on Elenda, the Dusk Rose.
 When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, where X is Elenda's power.",mythic,Lifelink,Legendary,Creature
 157,Hadana's Climb,"G, U",3.0,{1}{G}{U},,,,"At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has three or more +1/+1 counters on it, transform Hadana's Climb.",rare,Transform,Legendary,Enchantment
-158,Winged Temple of Orazca,,3.0,,,,,"(Transforms from Hadana's Climb.)
+158,Winged Temple of Orazca,L,3.0,,,,,"(Transforms from Hadana's Climb.)
 {T}: Add one mana of any color.
 {1}{G}{U}, {T}: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power.",rare,Transform,Legendary,Land
 159,"Huatli, Radiant Champion","G, W",4.0,{2}{G}{W},,,3.0,"[+1]: Put a loyalty counter on Huatli, Radiant Champion for each creature you control.
@@ -267,7 +267,7 @@ When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, wher
 [−8]: You get an emblem with ""Whenever a creature enters the battlefield under your control, you may draw a card.""",mythic,,Legendary,Planeswalker
 160,Journey to Eternity,"B, G",3.0,{1}{B}{G},,,,"Enchant creature you control
 When enchanted creature dies, return it to the battlefield under your control, then return Journey to Eternity to the battlefield transformed under your control.",rare,"Enchant, Transform",Legendary,Enchantment
-161,"Atzal, Cave of Eternity",,3.0,,,,,"(Transforms from Journey to Eternity.)
+161,"Atzal, Cave of Eternity",L,3.0,,,,,"(Transforms from Journey to Eternity.)
 {T}: Add one mana of any color.
 {3}{B}{G}, {T}: Return target creature card from your graveyard to the battlefield.",rare,Transform,Legendary,Land
 162,Jungle Creeper,"B, G",3.0,{1}{B}{G},3.0,3.0,,{3}{B}{G}: Return Jungle Creeper from your graveyard to your hand.,uncommon,,,Creature
@@ -278,12 +278,12 @@ Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk you c
 165,Merfolk Mistbinder,"G, U",2.0,{G}{U},2.0,2.0,,Other Merfolk you control get +1/+1.,uncommon,,,Creature
 166,Path of Mettle,"R, W",2.0,{R}{W},,,,"When Path of Mettle enters the battlefield, it deals 1 damage to each creature that doesn't have first strike, double strike, vigilance, or haste.
 Whenever you attack with at least two creatures that have first strike, double strike, vigilance, and/or haste, transform Path of Mettle.",rare,Transform,Legendary,Enchantment
-167,"Metzali, Tower of Triumph",,2.0,,,,,"(Transforms from Path of Mettle.)
+167,"Metzali, Tower of Triumph",L,2.0,,,,,"(Transforms from Path of Mettle.)
 {T}: Add one mana of any color.
 {1}{R}, {T}: Metzali, Tower of Triumph deals 2 damage to each opponent.
 {2}{W}, {T}: Choose a creature at random that attacked this turn. Destroy that creature.",rare,Transform,Legendary,Land
 168,Profane Procession,"B, W",3.0,{1}{W}{B},,,,"{3}{W}{B}: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it.",rare,Transform,Legendary,Enchantment
-169,Tomb of the Dusk Rose,,3.0,,,,,"(Transforms from Profane Procession.)
+169,Tomb of the Dusk Rose,L,3.0,,,,,"(Transforms from Profane Procession.)
 {T}: Add one mana of any color.
 {2}{W}{B}, {T}: Put a creature card exiled with this permanent onto the battlefield under your control.",rare,Transform,Legendary,Land
 170,Protean Raider,"R, U",3.0,{1}{U}{R},2.0,2.0,,"Raid — If you attacked this turn, you may have Protean Raider enter the battlefield as a copy of any creature on the battlefield.",rare,Raid,,Creature
@@ -298,7 +298,7 @@ Whenever Resplendent Griffin attacks, if you have the city's blessing, put a +1/
 Storm Fleet Sprinter can't be blocked.",uncommon,Haste,,Creature
 176,Storm the Vault,"R, U",4.0,{2}{U}{R},,,,"Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 At the beginning of your end step, if you control five or more artifacts, transform Storm the Vault.",rare,Transform,Legendary,Enchantment
-177,Vault of Catlacan,,4.0,,,,,"(Transforms from Storm the Vault.)
+177,Vault of Catlacan,L,4.0,,,,,"(Transforms from Storm the Vault.)
 {T}: Add one mana of any color.
 {T}: Add {U} for each artifact you control.",rare,Transform,Legendary,Land
 178,"Zacama, Primal Calamity","G, R, W",9.0,{6}{R}{G}{W},9.0,9.0,,"Vigilance, reach, trample
@@ -306,45 +306,45 @@ When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all l
 {2}{R}: Zacama deals 3 damage to target creature.
 {2}{G}: Destroy target artifact or enchantment.
 {2}{W}: You gain 3 life.",mythic,"Reach, Trample, Vigilance",Legendary,Creature
-179,Awakened Amalgam,,4.0,{4},,,,Awakened Amalgam's power and toughness are each equal to the number of differently named lands you control.,rare,,,"Artifact, Creature"
-180,Azor's Gateway,,2.0,{2},,,,"{1}, {T}: Draw a card, then exile a card from your hand. If cards with five or more different mana values are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it.",mythic,Transform,Legendary,Artifact
-181,Sanctum of the Sun,,2.0,,,,,"(Transforms from Azor's Gateway.)
+179,Awakened Amalgam,C,4.0,{4},,,,Awakened Amalgam's power and toughness are each equal to the number of differently named lands you control.,rare,,,"Artifact, Creature"
+180,Azor's Gateway,C,2.0,{2},,,,"{1}, {T}: Draw a card, then exile a card from your hand. If cards with five or more different mana values are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it.",mythic,Transform,Legendary,Artifact
+181,Sanctum of the Sun,L,2.0,,,,,"(Transforms from Azor's Gateway.)
 {T}: Add X mana of any one color, where X is your life total.",mythic,Transform,Legendary,Land
-182,Captain's Hook,,3.0,{3},,,,"Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its other creature types.
+182,Captain's Hook,C,3.0,{3},,,,"Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its other creature types.
 Whenever Captain's Hook becomes unattached from a permanent, destroy that permanent.
 Equip {1}",rare,Equip,,Artifact
-183,Gleaming Barrier,,2.0,{2},0.0,4.0,,"Defender
+183,Gleaming Barrier,C,2.0,{2},0.0,4.0,,"Defender
 When Gleaming Barrier dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,Defender,,"Artifact, Creature"
-184,Golden Guardian,,4.0,{4},4.0,4.0,,"Defender
+184,Golden Guardian,C,4.0,{4},4.0,4.0,,"Defender
 {2}: Golden Guardian fights another target creature you control. When Golden Guardian dies this turn, return it to the battlefield transformed under your control.",rare,"Defender, Fight, Transform",,"Artifact, Creature"
-185,Gold-Forge Garrison,,4.0,,,,,"(Transforms from Golden Guardian.)
+185,Gold-Forge Garrison,L,4.0,,,,,"(Transforms from Golden Guardian.)
 {T}: Add two mana of any one color.
 {4}, {T}: Create a 4/4 colorless Golem artifact creature token.",rare,Transform,,Land
-186,The Immortal Sun,,6.0,{6},,,,"Players can't activate planeswalkers' loyalty abilities.
+186,The Immortal Sun,C,6.0,{6},,,,"Players can't activate planeswalkers' loyalty abilities.
 At the beginning of your draw step, draw an additional card.
 Spells you cast cost {1} less to cast.
 Creatures you control get +1/+1.",mythic,,Legendary,Artifact
-187,Orazca Relic,,3.0,{3},,,,"Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+187,Orazca Relic,C,3.0,{3},,,,"Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
 {T}: Add {C}.
 {T}, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate only if you have the city's blessing.",common,Ascend,,Artifact
-188,Silent Gravestone,,1.0,{1},,,,"Cards in graveyards can't be the targets of spells or abilities.
+188,Silent Gravestone,C,1.0,{1},,,,"Cards in graveyards can't be the targets of spells or abilities.
 {4}, {T}: Exile Silent Gravestone and all cards from all graveyards. Draw a card.",rare,,,Artifact
-189,Strider Harness,,3.0,{3},,,,"Equipped creature gets +1/+1 and has haste.
+189,Strider Harness,C,3.0,{3},,,,"Equipped creature gets +1/+1 and has haste.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-190,Traveler's Amulet,,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
-191,Arch of Orazca,,0.0,,,,,"Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+190,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
+191,Arch of Orazca,L,0.0,,,,,"Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
 {T}: Add {C}.
 {5}, {T}: Draw a card. Activate only if you have the city's blessing.",rare,Ascend,,Land
-192,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-193,Forsaken Sanctuary,,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
+192,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+193,Forsaken Sanctuary,L,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
 {T}: Add {W} or {B}.",uncommon,,,Land
-194,Foul Orchard,,0.0,,,,,"Foul Orchard enters the battlefield tapped.
+194,Foul Orchard,L,0.0,,,,,"Foul Orchard enters the battlefield tapped.
 {T}: Add {B} or {G}.",uncommon,,,Land
-195,Highland Lake,,0.0,,,,,"Highland Lake enters the battlefield tapped.
+195,Highland Lake,L,0.0,,,,,"Highland Lake enters the battlefield tapped.
 {T}: Add {U} or {R}.",uncommon,,,Land
-196,Stone Quarry,,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+196,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",uncommon,,,Land
-197,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+197,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",uncommon,,,Land
 198,"Vraska, Scheming Gorgon",B,6.0,{4}{B}{B},,,5.0,"[+2]: Creatures you control get +1/+0 until end of turn.
 [−3]: Destroy target creature.
@@ -358,5 +358,5 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 203,Angrath's Ambusher,B,3.0,{2}{B},2.0,3.0,,Angrath's Ambusher gets +2/+0 as long as you control an Angrath planeswalker.,uncommon,,,Creature
 204,Swab Goblin,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature
 205,Angrath's Fury,"B, R",5.0,{3}{B}{R},,,,"Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
-206,Cinder Barrens,,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+206,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land

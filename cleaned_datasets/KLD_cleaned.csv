@@ -314,118 +314,118 @@ Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end of 
 Whenever Voltaic Brawler attacks, you may pay {E}. If you do, it gets +1/+1 and gains trample until end of turn.",uncommon,,,Creature
 189,Whirler Virtuoso,"R, U",3.0,{1}{U}{R},2.0,3.0,,"When Whirler Virtuoso enters the battlefield, you get {E}{E}{E} (three energy counters).
 Pay {E}{E}{E}: Create a 1/1 colorless Thopter artifact creature token with flying.",uncommon,,,Creature
-190,Accomplished Automaton,,7.0,{7},5.0,7.0,,"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",common,Fabricate,,"Artifact, Creature"
-191,Aetherflux Reservoir,,4.0,{4},,,,"Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.
+190,Accomplished Automaton,C,7.0,{7},5.0,7.0,,"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",common,Fabricate,,"Artifact, Creature"
+191,Aetherflux Reservoir,C,4.0,{4},,,,"Whenever you cast a spell, you gain 1 life for each spell you've cast this turn.
 Pay 50 life: Aetherflux Reservoir deals 50 damage to any target.",rare,,,Artifact
-192,Aetherworks Marvel,,4.0,{4},,,,"Whenever a permanent you control is put into a graveyard, you get {E} (an energy counter).
+192,Aetherworks Marvel,C,4.0,{4},,,,"Whenever a permanent you control is put into a graveyard, you get {E} (an energy counter).
 {T}, Pay {E}{E}{E}{E}{E}{E}: Look at the top six cards of your library. You may cast a spell from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",mythic,,Legendary,Artifact
-193,Animation Module,,1.0,{1},,,,"Whenever one or more +1/+1 counters are put on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token.
+193,Animation Module,C,1.0,{1},,,,"Whenever one or more +1/+1 counters are put on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token.
 {3}, {T}: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind.",rare,,,Artifact
-194,Aradara Express,,5.0,{5},8.0,6.0,,"Menace
+194,Aradara Express,C,5.0,{5},8.0,6.0,,"Menace
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Menace",,Artifact
-195,Ballista Charger,,5.0,{5},6.0,6.0,,"Whenever Ballista Charger attacks, it deals 1 damage to any target.
+195,Ballista Charger,C,5.0,{5},6.0,6.0,,"Whenever Ballista Charger attacks, it deals 1 damage to any target.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact
-196,Bastion Mastodon,,5.0,{5},4.0,5.0,,{W}: Bastion Mastodon gains vigilance until end of turn.,common,,,"Artifact, Creature"
-197,Bomat Bazaar Barge,,4.0,{4},5.0,5.0,,"When Bomat Bazaar Barge enters the battlefield, draw a card.
+196,Bastion Mastodon,C,5.0,{5},4.0,5.0,,{W}: Bastion Mastodon gains vigilance until end of turn.,common,,,"Artifact, Creature"
+197,Bomat Bazaar Barge,C,4.0,{4},5.0,5.0,,"When Bomat Bazaar Barge enters the battlefield, draw a card.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact
-198,Bomat Courier,,1.0,{1},1.0,1.0,,"Haste
+198,Bomat Courier,C,1.0,{1},1.0,1.0,,"Haste
 Whenever Bomat Courier attacks, exile the top card of your library face down. (You can't look at it.)
 {R}, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled with Bomat Courier into their owners' hands.",rare,Haste,,"Artifact, Creature"
-199,Chief of the Foundry,,3.0,{3},2.0,3.0,,Other artifact creatures you control get +1/+1.,uncommon,,,"Artifact, Creature"
-200,Cogworker's Puzzleknot,,2.0,{2},,,,"When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token.
+199,Chief of the Foundry,C,3.0,{3},2.0,3.0,,Other artifact creatures you control get +1/+1.,uncommon,,,"Artifact, Creature"
+200,Cogworker's Puzzleknot,C,2.0,{2},,,,"When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token.
 {1}{W}, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless Servo artifact creature token.",common,,,Artifact
-201,Consulate Skygate,,2.0,{2},0.0,4.0,,"Defender
+201,Consulate Skygate,C,2.0,{2},0.0,4.0,,"Defender
 Reach (This creature can block creatures with flying.)",common,"Defender, Reach",,"Artifact, Creature"
-202,Cultivator's Caravan,,3.0,{3},5.0,5.0,,"{T}: Add one mana of any color.
+202,Cultivator's Caravan,C,3.0,{3},5.0,5.0,,"{T}: Add one mana of any color.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact
-203,Deadlock Trap,,3.0,{3},,,,"Deadlock Trap enters the battlefield tapped.
+203,Deadlock Trap,C,3.0,{3},,,,"Deadlock Trap enters the battlefield tapped.
 When Deadlock Trap enters the battlefield, you get {E}{E} (two energy counters).
 {T}, Pay {E}: Tap target creature or planeswalker. Its activated abilities can't be activated this turn.",rare,,,Artifact
-204,Decoction Module,,2.0,{2},,,,"Whenever a creature enters the battlefield under your control, you get {E} (an energy counter).
+204,Decoction Module,C,2.0,{2},,,,"Whenever a creature enters the battlefield under your control, you get {E} (an energy counter).
 {4}, {T}: Return target creature you control to its owner's hand.",uncommon,,,Artifact
-205,Demolition Stomper,,6.0,{6},10.0,7.0,,"Demolition Stomper can't be blocked by creatures with power 2 or less.
+205,Demolition Stomper,C,6.0,{6},10.0,7.0,,"Demolition Stomper can't be blocked by creatures with power 2 or less.
 Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact
-206,Dukhara Peafowl,,4.0,{4},2.0,4.0,,{U}: Dukhara Peafowl gains flying until end of turn.,common,,,"Artifact, Creature"
-207,Dynavolt Tower,,3.0,{3},,,,"Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy counters).
+206,Dukhara Peafowl,C,4.0,{4},2.0,4.0,,{U}: Dukhara Peafowl gains flying until end of turn.,common,,,"Artifact, Creature"
+207,Dynavolt Tower,C,3.0,{3},,,,"Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy counters).
 {T}, Pay {E}{E}{E}{E}{E}: Dynavolt Tower deals 3 damage to any target.",rare,,,Artifact
-208,Eager Construct,,2.0,{2},2.0,2.0,,"When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",common,Scry,,"Artifact, Creature"
-209,Electrostatic Pummeler,,3.0,{3},1.0,1.0,,"When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters).
+208,Eager Construct,C,2.0,{2},2.0,2.0,,"When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",common,Scry,,"Artifact, Creature"
+209,Electrostatic Pummeler,C,3.0,{3},1.0,1.0,,"When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters).
 Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.",rare,,,"Artifact, Creature"
-210,Fabrication Module,,3.0,{3},,,,"Whenever you get one or more {E} (energy counters), put a +1/+1 counter on target creature you control.
+210,Fabrication Module,C,3.0,{3},,,,"Whenever you get one or more {E} (energy counters), put a +1/+1 counter on target creature you control.
 {4}, {T}: You get {E}.",uncommon,,,Artifact
-211,Filigree Familiar,,3.0,{3},2.0,2.0,,"When Filigree Familiar enters the battlefield, you gain 2 life.
+211,Filigree Familiar,C,3.0,{3},2.0,2.0,,"When Filigree Familiar enters the battlefield, you gain 2 life.
 When Filigree Familiar dies, draw a card.",uncommon,,,"Artifact, Creature"
-212,Fireforger's Puzzleknot,,2.0,{2},,,,"When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to any target.
+212,Fireforger's Puzzleknot,C,2.0,{2},,,,"When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to any target.
 {2}{R}, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to any target.",common,,,Artifact
-213,Fleetwheel Cruiser,,4.0,{4},5.0,3.0,,"Trample, haste
+213,Fleetwheel Cruiser,C,4.0,{4},5.0,3.0,,"Trample, haste
 When Fleetwheel Cruiser enters the battlefield, it becomes an artifact creature until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, Haste, Trample",,Artifact
-214,Foundry Inspector,,3.0,{3},3.0,2.0,,Artifact spells you cast cost {1} less to cast.,uncommon,,,"Artifact, Creature"
-215,Ghirapur Orrery,,4.0,{4},,,,"Each player may play an additional land on each of their turns.
+214,Foundry Inspector,C,3.0,{3},3.0,2.0,,Artifact spells you cast cost {1} less to cast.,uncommon,,,"Artifact, Creature"
+215,Ghirapur Orrery,C,4.0,{4},,,,"Each player may play an additional land on each of their turns.
 At the beginning of each player's upkeep, if that player has no cards in hand, that player draws three cards.",rare,,,Artifact
-216,Glassblower's Puzzleknot,,2.0,{2},,,,"When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get {E}{E}. (You get two energy counters. To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+216,Glassblower's Puzzleknot,C,2.0,{2},,,,"When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get {E}{E}. (You get two energy counters. To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 {2}{U}, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get {E}{E}.",common,Scry,,Artifact
-217,Inventor's Goggles,,1.0,{1},,,,"Equipped creature gets +1/+2.
+217,Inventor's Goggles,C,1.0,{1},,,,"Equipped creature gets +1/+2.
 Whenever an Artificer enters the battlefield under your control, you may attach Inventor's Goggles to it.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-218,Iron League Steed,,4.0,{4},2.0,2.0,,"Haste
+218,Iron League Steed,C,4.0,{4},2.0,2.0,,"Haste
 Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",uncommon,"Fabricate, Haste",,"Artifact, Creature"
-219,Key to the City,,2.0,{2},,,,"{T}, Discard a card: Up to one target creature can't be blocked this turn.
+219,Key to the City,C,2.0,{2},,,,"{T}, Discard a card: Up to one target creature can't be blocked this turn.
 Whenever Key to the City becomes untapped, you may pay {2}. If you do, draw a card.",rare,,,Artifact
-220,Metalspinner's Puzzleknot,,2.0,{2},,,,"When Metalspinner's Puzzleknot enters the battlefield, you draw a card and you lose 1 life.
+220,Metalspinner's Puzzleknot,C,2.0,{2},,,,"When Metalspinner's Puzzleknot enters the battlefield, you draw a card and you lose 1 life.
 {2}{B}, Sacrifice Metalspinner's Puzzleknot: You draw a card and you lose 1 life.",common,,,Artifact
-221,Metalwork Colossus,,11.0,{11},10.0,10.0,,"This spell costs {X} less to cast, where X is the total mana value of noncreature artifacts you control.
+221,Metalwork Colossus,C,11.0,{11},10.0,10.0,,"This spell costs {X} less to cast, where X is the total mana value of noncreature artifacts you control.
 Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.",rare,,,"Artifact, Creature"
-222,Multiform Wonder,,5.0,{5},3.0,3.0,,"When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three energy counters).
+222,Multiform Wonder,C,5.0,{5},3.0,3.0,,"When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three energy counters).
 Pay {E}: Multiform Wonder gains your choice of flying, vigilance, or lifelink until end of turn.
 Pay {E}: Multiform Wonder gets +2/-2 or -2/+2 until end of turn.",rare,,,"Artifact, Creature"
-223,Narnam Cobra,,2.0,{2},2.0,1.0,,{G}: Narnam Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),common,,,"Artifact, Creature"
-224,Ovalchase Dragster,,4.0,{4},6.0,1.0,,"Trample, haste
+223,Narnam Cobra,C,2.0,{2},2.0,1.0,,{G}: Narnam Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),common,,,"Artifact, Creature"
+224,Ovalchase Dragster,C,4.0,{4},6.0,1.0,,"Trample, haste
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Haste, Trample",,Artifact
-225,Panharmonicon,,4.0,{4},,,,"If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",rare,,,Artifact
-226,Perpetual Timepiece,,2.0,{2},,,,"{T}: Mill two cards.
+225,Panharmonicon,C,4.0,{4},,,,"If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",rare,,,Artifact
+226,Perpetual Timepiece,C,2.0,{2},,,,"{T}: Mill two cards.
 {2}, Exile Perpetual Timepiece: Shuffle any number of target cards from your graveyard into your library.",uncommon,Mill,,Artifact
-227,Prakhata Pillar-Bug,,3.0,{3},2.0,3.0,,{B}: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.),common,,,"Artifact, Creature"
-228,Prophetic Prism,,2.0,{2},,,,"When Prophetic Prism enters the battlefield, draw a card.
+227,Prakhata Pillar-Bug,C,3.0,{3},2.0,3.0,,{B}: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.),common,,,"Artifact, Creature"
+228,Prophetic Prism,C,2.0,{2},,,,"When Prophetic Prism enters the battlefield, draw a card.
 {1}, {T}: Add one mana of any color.",common,,,Artifact
-229,Renegade Freighter,,3.0,{3},4.0,3.0,,"Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until end of turn.
+229,Renegade Freighter,C,3.0,{3},4.0,3.0,,"Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",common,Crew,,Artifact
-230,Scrapheap Scrounger,,2.0,{2},3.0,2.0,,"Scrapheap Scrounger can't block.
+230,Scrapheap Scrounger,C,2.0,{2},3.0,2.0,,"Scrapheap Scrounger can't block.
 {1}{B}, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.",rare,,,"Artifact, Creature"
-231,Self-Assembler,,5.0,{5},4.0,4.0,,"When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
-232,Sky Skiff,,2.0,{2},2.0,3.0,,"Flying
+231,Self-Assembler,C,5.0,{5},4.0,4.0,,"When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
+232,Sky Skiff,C,2.0,{2},2.0,3.0,,"Flying
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Flying",,Artifact
-233,"Skysovereign, Consul Flagship",,5.0,{5},6.0,5.0,,"Flying
+233,"Skysovereign, Consul Flagship",C,5.0,{5},6.0,5.0,,"Flying
 Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it deals 3 damage to target creature or planeswalker an opponent controls.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",mythic,"Crew, Flying",Legendary,Artifact
-234,Smuggler's Copter,,2.0,{2},3.0,3.0,,"Flying
+234,Smuggler's Copter,C,2.0,{2},3.0,3.0,,"Flying
 Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you do, discard a card.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, Flying",,Artifact
-235,Snare Thopter,,4.0,{4},3.0,2.0,,"Flying, haste",uncommon,"Flying, Haste",,"Artifact, Creature"
-236,Torch Gauntlet,,2.0,{2},,,,"Equipped creature gets +2/+0.
+235,Snare Thopter,C,4.0,{4},3.0,2.0,,"Flying, haste",uncommon,"Flying, Haste",,"Artifact, Creature"
+236,Torch Gauntlet,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-237,Weldfast Monitor,,3.0,{3},3.0,2.0,,{R}: Weldfast Monitor gains menace until end of turn.,common,,,"Artifact, Creature"
-238,Whirlermaker,,3.0,{3},,,,"{4}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying.",uncommon,,,Artifact
-239,Woodweaver's Puzzleknot,,2.0,{2},,,,"When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).
+237,Weldfast Monitor,C,3.0,{3},3.0,2.0,,{R}: Weldfast Monitor gains menace until end of turn.,common,,,"Artifact, Creature"
+238,Whirlermaker,C,3.0,{3},,,,"{4}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying.",uncommon,,,Artifact
+239,Woodweaver's Puzzleknot,C,2.0,{2},,,,"When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).
 {2}{G}, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and get {E}{E}{E}.",common,,,Artifact
-240,Workshop Assistant,,3.0,{3},1.0,2.0,,"When Workshop Assistant dies, return another target artifact card from your graveyard to your hand.",common,,,"Artifact, Creature"
-241,Aether Hub,,0.0,,,,,"When Aether Hub enters the battlefield, you get {E} (an energy counter).
+240,Workshop Assistant,C,3.0,{3},1.0,2.0,,"When Workshop Assistant dies, return another target artifact card from your graveyard to your hand.",common,,,"Artifact, Creature"
+241,Aether Hub,L,0.0,,,,,"When Aether Hub enters the battlefield, you get {E} (an energy counter).
 {T}: Add {C}.
 {T}, Pay {E}: Add one mana of any color.",uncommon,,,Land
-242,Blooming Marsh,,0.0,,,,,"Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+242,Blooming Marsh,L,0.0,,,,,"Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
 {T}: Add {B} or {G}.",rare,,,Land
-243,Botanical Sanctum,,0.0,,,,,"Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.
+243,Botanical Sanctum,L,0.0,,,,,"Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.
 {T}: Add {G} or {U}.",rare,,,Land
-244,Concealed Courtyard,,0.0,,,,,"Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.
+244,Concealed Courtyard,L,0.0,,,,,"Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.
 {T}: Add {W} or {B}.",rare,,,Land
-245,Inspiring Vantage,,0.0,,,,,"Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.
+245,Inspiring Vantage,L,0.0,,,,,"Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.
 {T}: Add {R} or {W}.",rare,,,Land
-246,Inventors' Fair,,0.0,,,,,"At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.
+246,Inventors' Fair,L,0.0,,,,,"At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life.
 {T}: Add {C}.
 {4}, {T}, Sacrifice Inventors' Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle. Activate only if you control three or more artifacts.",rare,,Legendary,Land
-247,Sequestered Stash,,0.0,,,,,"{T}: Add {C}.
+247,Sequestered Stash,L,0.0,,,,,"{T}: Add {C}.
 {4}, {T}, Sacrifice Sequestered Stash: Mill five cards. Then you may put an artifact card from your graveyard on top of your library.",uncommon,Mill,,Land
-248,Spirebluff Canal,,0.0,,,,,"Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.
+248,Spirebluff Canal,L,0.0,,,,,"Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.
 {T}: Add {U} or {R}.",rare,,,Land
 249,"Chandra, Pyrogenius",R,6.0,{4}{R}{R},,,5.0,"[+2]: Chandra, Pyrogenius deals 2 damage to each opponent.
 [−3]: Chandra, Pyrogenius deals 4 damage to target creature.
@@ -433,7 +433,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 250,Flame Lash,R,4.0,{3}{R},,,,Flame Lash deals 4 damage to any target.,common,,,Instant
 251,Liberating Combustion,R,5.0,{4}{R},,,,"Liberating Combustion deals 6 damage to target creature. You may search your library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
 252,Renegade Firebrand,R,3.0,{2}{R},3.0,2.0,,"As long as you control a Chandra planeswalker, Renegade Firebrand gets +1/+0 and has first strike. (It deals combat damage before creatures without first strike.)",uncommon,,,Creature
-253,Stone Quarry,,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+253,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land
 254,"Nissa, Nature's Artisan",G,6.0,{4}{G}{G},,,5.0,"[+3]: You gain 3 life.
 [−4]: Reveal the top two cards of your library. Put all land cards from among them onto the battlefield and the rest into your hand.
@@ -442,5 +442,5 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 As long as you control a Nissa planeswalker, Guardian of the Great Conduit gets +2/+0 and has vigilance. (Attacking doesn't cause it to tap.)",uncommon,Reach,,Creature
 256,Terrain Elemental,G,2.0,{1}{G},3.0,2.0,,,common,,,Creature
 257,Verdant Crescendo,G,4.0,{3}{G},,,,"Search your library for a basic land card and put it onto the battlefield tapped. Search your library and graveyard for a card named Nissa, Nature's Artisan, reveal it, put it into your hand, then shuffle.",rare,,,Sorcery
-258,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+258,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land

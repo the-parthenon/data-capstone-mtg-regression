@@ -1,26 +1,26 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,Bane of Bala Ged,,7.0,{7},7.0,5.0,,"Whenever Bane of Bala Ged attacks, defending player exiles two permanents they control.",uncommon,,,Creature
-1,Blight Herder,,5.0,{5},4.0,5.0,,"When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",rare,,,Creature
-2,Breaker of Armies,,8.0,{8},10.0,8.0,,All creatures able to block Breaker of Armies do so.,uncommon,,,Creature
-3,Conduit of Ruin,,6.0,{6},5.0,5.0,,"When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.
+0,Bane of Bala Ged,C,7.0,{7},7.0,5.0,,"Whenever Bane of Bala Ged attacks, defending player exiles two permanents they control.",uncommon,,,Creature
+1,Blight Herder,C,5.0,{5},4.0,5.0,,"When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",rare,,,Creature
+2,Breaker of Armies,C,8.0,{8},10.0,8.0,,All creatures able to block Breaker of Armies do so.,uncommon,,,Creature
+3,Conduit of Ruin,C,6.0,{6},5.0,5.0,,"When you cast this spell, you may search your library for a colorless creature card with mana value 7 or greater, reveal it, then shuffle and put that card on top.
 The first creature spell you cast each turn costs {2} less to cast.",rare,,,Creature
-4,Deathless Behemoth,,6.0,{6},6.0,6.0,,"Vigilance
+4,Deathless Behemoth,C,6.0,{6},6.0,6.0,,"Vigilance
 Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate only as a sorcery.",uncommon,Vigilance,,Creature
-5,Desolation Twin,,10.0,{10},10.0,10.0,,"When you cast this spell, create a 10/10 colorless Eldrazi creature token.",rare,,,Creature
-6,Eldrazi Devastator,,8.0,{8},8.0,9.0,,Trample,common,Trample,,Creature
-7,Endless One,,0.0,{X},0.0,0.0,,Endless One enters the battlefield with X +1/+1 counters on it.,rare,,,Creature
-8,Gruesome Slaughter,,6.0,{6},,,,"Until end of turn, colorless creatures you control gain ""{T}: This creature deals damage equal to its power to target creature.""",rare,,,Sorcery
-9,Kozilek's Channeler,,5.0,{5},4.0,4.0,,{T}: Add {C}{C}.,common,,,Creature
-10,Oblivion Sower,,6.0,{6},5.0,8.0,,"When you cast this spell, target opponent exiles the top four cards of their library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.",mythic,,,Creature
-11,Ruin Processor,,7.0,{7},7.0,8.0,,"When you cast this spell, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.",common,,,Creature
-12,Scour from Existence,,7.0,{7},,,,Exile target permanent.,common,,,Instant
-13,Titan's Presence,,3.0,{3},,,,"As an additional cost to cast this spell, reveal a colorless creature card from your hand.
+5,Desolation Twin,C,10.0,{10},10.0,10.0,,"When you cast this spell, create a 10/10 colorless Eldrazi creature token.",rare,,,Creature
+6,Eldrazi Devastator,C,8.0,{8},8.0,9.0,,Trample,common,Trample,,Creature
+7,Endless One,C,0.0,{X},0.0,0.0,,Endless One enters the battlefield with X +1/+1 counters on it.,rare,,,Creature
+8,Gruesome Slaughter,C,6.0,{6},,,,"Until end of turn, colorless creatures you control gain ""{T}: This creature deals damage equal to its power to target creature.""",rare,,,Sorcery
+9,Kozilek's Channeler,C,5.0,{5},4.0,4.0,,{T}: Add {C}{C}.,common,,,Creature
+10,Oblivion Sower,C,6.0,{6},5.0,8.0,,"When you cast this spell, target opponent exiles the top four cards of their library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.",mythic,,,Creature
+11,Ruin Processor,C,7.0,{7},7.0,8.0,,"When you cast this spell, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.",common,,,Creature
+12,Scour from Existence,C,7.0,{7},,,,Exile target permanent.,common,,,Instant
+13,Titan's Presence,C,3.0,{3},,,,"As an additional cost to cast this spell, reveal a colorless creature card from your hand.
 Exile target creature if its power is less than or equal to the revealed card's power.",uncommon,,,Instant
-14,"Ulamog, the Ceaseless Hunger",,10.0,{10},10.0,10.0,,"When you cast this spell, exile two target permanents.
+14,"Ulamog, the Ceaseless Hunger",C,10.0,{10},10.0,10.0,,"When you cast this spell, exile two target permanents.
 Indestructible
 Whenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library.",mythic,Indestructible,Legendary,Creature
-15,Ulamog's Despoiler,,6.0,{6},5.0,5.0,,"As Ulamog's Despoiler enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, Ulamog's Despoiler enters the battlefield with four +1/+1 counters on it.",uncommon,,,Creature
-16,Void Winnower,,9.0,{9},11.0,9.0,,"Your opponents can't cast spells with even mana values. (Zero is even.)
+15,Ulamog's Despoiler,C,6.0,{6},5.0,5.0,,"As Ulamog's Despoiler enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, Ulamog's Despoiler enters the battlefield with four +1/+1 counters on it.",uncommon,,,Creature
+16,Void Winnower,C,9.0,{9},11.0,9.0,,"Your opponents can't cast spells with even mana values. (Zero is even.)
 Your opponents can't block with creatures with even mana values.",mythic,,,Creature
 17,Angel of Renewal,W,6.0,{5}{W},4.0,4.0,,"Flying
 When Angel of Renewal enters the battlefield, you gain 1 life for each creature you control.",uncommon,Flying,,Creature
@@ -75,41 +75,41 @@ When Stasis Snare enters the battlefield, exile target creature an opponent cont
 50,Stone Haven Medic,W,2.0,{1}{W},1.0,3.0,,"{W}, {T}: You gain 1 life.",common,,,Creature
 51,Tandem Tactics,W,2.0,{1}{W},,,,Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.,common,,,Instant
 52,Unified Front,W,4.0,{3}{W},,,,Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast this spell.,uncommon,Converge,,Sorcery
-53,Adverse Conditions,,4.0,{3}{U},,,,"Devoid (This card has no color.)
+53,Adverse Conditions,C,4.0,{3}{U},,,,"Devoid (This card has no color.)
 Tap up to two target creatures. Those creatures don't untap during their controller's next untap step. Create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",uncommon,Devoid,,Instant
-54,Benthic Infiltrator,,3.0,{2}{U},1.0,4.0,,"Devoid (This card has no color.)
+54,Benthic Infiltrator,C,3.0,{2}{U},1.0,4.0,,"Devoid (This card has no color.)
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 Benthic Infiltrator can't be blocked.",common,"Devoid, Ingest",,Creature
-55,Cryptic Cruiser,,4.0,{3}{U},3.0,3.0,,"Devoid (This card has no color.)
+55,Cryptic Cruiser,C,4.0,{3}{U},3.0,3.0,,"Devoid (This card has no color.)
 {2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.",uncommon,Devoid,,Creature
-56,Drowner of Hope,,6.0,{5}{U},5.0,5.0,,"Devoid (This card has no color.)
+56,Drowner of Hope,C,6.0,{5}{U},5.0,5.0,,"Devoid (This card has no color.)
 When Drowner of Hope enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""
 Sacrifice an Eldrazi Scion: Tap target creature.",rare,Devoid,,Creature
-57,Eldrazi Skyspawner,,3.0,{2}{U},2.0,1.0,,"Devoid (This card has no color.)
+57,Eldrazi Skyspawner,C,3.0,{2}{U},2.0,1.0,,"Devoid (This card has no color.)
 Flying
 When Eldrazi Skyspawner enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",common,"Devoid, Flying",,Creature
-58,Horribly Awry,,2.0,{1}{U},,,,"Devoid (This card has no color.)
+58,Horribly Awry,C,2.0,{1}{U},,,,"Devoid (This card has no color.)
 Counter target creature spell with mana value 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",uncommon,Devoid,,Instant
-59,Incubator Drone,,4.0,{3}{U},2.0,3.0,,"Devoid (This card has no color.)
+59,Incubator Drone,C,4.0,{3}{U},2.0,3.0,,"Devoid (This card has no color.)
 When Incubator Drone enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",common,Devoid,,Creature
-60,Mist Intruder,,2.0,{1}{U},1.0,2.0,,"Devoid (This card has no color.)
+60,Mist Intruder,C,2.0,{1}{U},1.0,2.0,,"Devoid (This card has no color.)
 Flying
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)",common,"Devoid, Flying, Ingest",,Creature
-61,Murk Strider,,4.0,{3}{U},3.0,2.0,,"Devoid (This card has no color.)
+61,Murk Strider,C,4.0,{3}{U},3.0,2.0,,"Devoid (This card has no color.)
 When Murk Strider enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.",common,Devoid,,Creature
-62,Oracle of Dust,,5.0,{4}{U},3.0,5.0,,"Devoid (This card has no color.)
+62,Oracle of Dust,C,5.0,{4}{U},3.0,5.0,,"Devoid (This card has no color.)
 {2}, Put a card an opponent owns from exile into that player's graveyard: Draw a card, then discard a card.",common,Devoid,,Creature
-63,Ruination Guide,,3.0,{2}{U},3.0,2.0,,"Devoid (This card has no color.)
+63,Ruination Guide,C,3.0,{2}{U},3.0,2.0,,"Devoid (This card has no color.)
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 Other colorless creatures you control get +1/+0.",uncommon,"Devoid, Ingest",,Creature
-64,Salvage Drone,,1.0,{U},1.0,1.0,,"Devoid (This card has no color.)
+64,Salvage Drone,C,1.0,{U},1.0,1.0,,"Devoid (This card has no color.)
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 When Salvage Drone dies, you may draw a card. If you do, discard a card.",common,"Devoid, Ingest",,Creature
-65,Spell Shrivel,,3.0,{2}{U},,,,"Devoid (This card has no color.)
+65,Spell Shrivel,C,3.0,{2}{U},,,,"Devoid (This card has no color.)
 Counter target spell unless its controller pays {4}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",common,Devoid,,Instant
-66,Tide Drifter,,2.0,{1}{U},0.0,5.0,,"Devoid (This card has no color.)
+66,Tide Drifter,C,2.0,{1}{U},0.0,5.0,,"Devoid (This card has no color.)
 Other colorless creatures you control get +0/+1.",uncommon,Devoid,,Creature
-67,Ulamog's Reclaimer,,5.0,{4}{U},2.0,5.0,,"Devoid (This card has no color.)
+67,Ulamog's Reclaimer,C,5.0,{4}{U},2.0,5.0,,"Devoid (This card has no color.)
 When Ulamog's Reclaimer enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.",uncommon,Devoid,,Creature
 68,Anticipate,U,2.0,{1}{U},,,,Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,common,,,Instant
 69,Brilliant Spectrum,U,4.0,{3}{U},,,,"Converge — Draw X cards, where X is the number of colors of mana spent to cast this spell. Then discard two cards.",common,Converge,,Sorcery
@@ -147,38 +147,38 @@ Enchanted creature gets -6/-0 and loses flying.",common,Enchant,,Enchantment
 Landfall — Whenever a land enters the battlefield under your control, Wave-Wing Elemental gets +2/+2 until end of turn.",common,"Flying, Landfall",,Creature
 88,Windrider Patrol,U,5.0,{3}{U}{U},4.0,3.0,,"Flying
 Whenever Windrider Patrol deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",uncommon,"Flying, Scry",,Creature
-89,Complete Disregard,,3.0,{2}{B},,,,"Devoid (This card has no color.)
+89,Complete Disregard,C,3.0,{2}{B},,,,"Devoid (This card has no color.)
 Exile target creature with power 3 or less.",common,Devoid,,Instant
-90,Culling Drone,,2.0,{1}{B},2.0,2.0,,"Devoid (This card has no color.)
+90,Culling Drone,C,2.0,{1}{B},2.0,2.0,,"Devoid (This card has no color.)
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)",common,"Devoid, Ingest",,Creature
-91,Dominator Drone,,3.0,{2}{B},3.0,2.0,,"Devoid (This card has no color.)
+91,Dominator Drone,C,3.0,{2}{B},3.0,2.0,,"Devoid (This card has no color.)
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.",common,"Devoid, Ingest",,Creature
-92,Grave Birthing,,3.0,{2}{B},,,,"Devoid (This card has no color.)
+92,Grave Birthing,C,3.0,{2}{B},,,,"Devoid (This card has no color.)
 Target opponent exiles a card from their graveyard. You create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""
 Draw a card.",common,Devoid,,Instant
-93,Grip of Desolation,,6.0,{4}{B}{B},,,,"Devoid (This card has no color.)
+93,Grip of Desolation,C,6.0,{4}{B}{B},,,,"Devoid (This card has no color.)
 Exile target creature and target land.",uncommon,Devoid,,Instant
-94,Mind Raker,,4.0,{3}{B},3.0,3.0,,"Devoid (This card has no color.)
+94,Mind Raker,C,4.0,{3}{B},3.0,3.0,,"Devoid (This card has no color.)
 When Mind Raker enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card.",common,Devoid,,Creature
-95,Silent Skimmer,,4.0,{3}{B},0.0,4.0,,"Devoid (This card has no color.)
+95,Silent Skimmer,C,4.0,{3}{B},0.0,4.0,,"Devoid (This card has no color.)
 Flying
 Whenever Silent Skimmer attacks, defending player loses 2 life.",common,"Devoid, Flying",,Creature
-96,Skitterskin,,4.0,{3}{B},4.0,3.0,,"Devoid (This card has no color.)
+96,Skitterskin,C,4.0,{3}{B},4.0,3.0,,"Devoid (This card has no color.)
 Skitterskin can't block.
 {1}{B}: Regenerate Skitterskin. Activate only if you control another colorless creature.",uncommon,Devoid,,Creature
-97,Sludge Crawler,,1.0,{B},1.0,1.0,,"Devoid (This card has no color.)
+97,Sludge Crawler,C,1.0,{B},1.0,1.0,,"Devoid (This card has no color.)
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 {2}: Sludge Crawler gets +1/+1 until end of turn.",common,"Devoid, Ingest",,Creature
-98,Smothering Abomination,,4.0,{2}{B}{B},4.0,3.0,,"Devoid (This card has no color.)
+98,Smothering Abomination,C,4.0,{2}{B}{B},4.0,3.0,,"Devoid (This card has no color.)
 Flying
 At the beginning of your upkeep, sacrifice a creature.
 Whenever you sacrifice a creature, draw a card.",rare,"Devoid, Flying",,Creature
-99,Swarm Surge,,3.0,{2}{B},,,,"Devoid (This card has no color.)
+99,Swarm Surge,C,3.0,{2}{B},,,,"Devoid (This card has no color.)
 Creatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.",common,Devoid,,Sorcery
-100,Transgress the Mind,,2.0,{1}{B},,,,"Devoid (This card has no color.)
+100,Transgress the Mind,C,2.0,{1}{B},,,,"Devoid (This card has no color.)
 Target player reveals their hand. You choose a card from it with mana value 3 or greater and exile that card.",uncommon,Devoid,,Sorcery
-101,Wasteland Strangler,,3.0,{2}{B},3.0,2.0,,"Devoid (This card has no color.)
+101,Wasteland Strangler,C,3.0,{2}{B},3.0,2.0,,"Devoid (This card has no color.)
 When Wasteland Strangler enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn.",rare,Devoid,,Creature
 102,Altar's Reap,B,2.0,{1}{B},,,,"As an additional cost to cast this spell, sacrifice a creature.
 Draw two cards.",common,,,Instant
@@ -218,29 +218,29 @@ Awaken 4—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put four +1/+1 
 123,Vampiric Rites,B,1.0,{B},,,,"{1}{B}, Sacrifice a creature: You gain 1 life and draw a card.",uncommon,,,Enchantment
 124,Voracious Null,B,3.0,{2}{B},2.0,2.0,,"{1}{B}, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate only as a sorcery.",common,,,Creature
 125,Zulaport Cutthroat,B,2.0,{1}{B},1.0,1.0,,"Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.",uncommon,,,Creature
-126,Barrage Tyrant,,5.0,{4}{R},5.0,3.0,,"Devoid (This card has no color.)
+126,Barrage Tyrant,C,5.0,{4}{R},5.0,3.0,,"Devoid (This card has no color.)
 {2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to any target.",rare,Devoid,,Creature
-127,Crumble to Dust,,4.0,{3}{R},,,,"Devoid (This card has no color.)
+127,Crumble to Dust,C,4.0,{3}{R},,,,"Devoid (This card has no color.)
 Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles.",uncommon,Devoid,,Sorcery
-128,Kozilek's Sentinel,,2.0,{1}{R},1.0,4.0,,"Devoid (This card has no color.)
+128,Kozilek's Sentinel,C,2.0,{1}{R},1.0,4.0,,"Devoid (This card has no color.)
 Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.",common,Devoid,,Creature
-129,Molten Nursery,,3.0,{2}{R},,,,"Devoid (This card has no color.)
+129,Molten Nursery,C,3.0,{2}{R},,,,"Devoid (This card has no color.)
 Whenever you cast a colorless spell, Molten Nursery deals 1 damage to any target.",uncommon,Devoid,,Enchantment
-130,Nettle Drone,,3.0,{2}{R},3.0,1.0,,"Devoid (This card has no color.)
+130,Nettle Drone,C,3.0,{2}{R},3.0,1.0,,"Devoid (This card has no color.)
 {T}: Nettle Drone deals 1 damage to each opponent.
 Whenever you cast a colorless spell, untap Nettle Drone.",common,Devoid,,Creature
-131,Processor Assault,,2.0,{1}{R},,,,"Devoid (This card has no color.)
+131,Processor Assault,C,2.0,{1}{R},,,,"Devoid (This card has no color.)
 As an additional cost to cast this spell, put a card an opponent owns from exile into that player's graveyard.
 Processor Assault deals 5 damage to target creature.",uncommon,Devoid,,Sorcery
-132,Serpentine Spike,,7.0,{5}{R}{R},,,,"Devoid (This card has no color.)
+132,Serpentine Spike,C,7.0,{5}{R}{R},,,,"Devoid (This card has no color.)
 Serpentine Spike deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead.",rare,Devoid,,Sorcery
-133,Touch of the Void,,3.0,{2}{R},,,,"Devoid (This card has no color.)
+133,Touch of the Void,C,3.0,{2}{R},,,,"Devoid (This card has no color.)
 Touch of the Void deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.",common,Devoid,,Sorcery
-134,Turn Against,,5.0,{4}{R},,,,"Devoid (This card has no color.)
+134,Turn Against,C,5.0,{4}{R},,,,"Devoid (This card has no color.)
 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",uncommon,Devoid,,Instant
-135,Vestige of Emrakul,,4.0,{3}{R},3.0,4.0,,"Devoid (This card has no color.)
+135,Vestige of Emrakul,C,4.0,{3}{R},3.0,4.0,,"Devoid (This card has no color.)
 Trample",common,"Devoid, Trample",,Creature
-136,Vile Aggregate,,3.0,{2}{R},,5.0,,"Devoid (This card has no color.)
+136,Vile Aggregate,C,3.0,{2}{R},,5.0,,"Devoid (This card has no color.)
 Vile Aggregate's power is equal to the number of colorless creatures you control.
 Trample
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)",uncommon,"Devoid, Ingest, Trample",,Creature
@@ -277,20 +277,20 @@ Landfall — Whenever a land enters the battlefield under your control, Makindi 
 159,Valakut Predator,R,3.0,{2}{R},2.0,2.0,,"Landfall — Whenever a land enters the battlefield under your control, Valakut Predator gets +2/+2 until end of turn.",common,Landfall,,Creature
 160,Volcanic Upheaval,R,4.0,{3}{R},,,,Destroy target land.,common,,,Instant
 161,"Zada, Hedron Grinder",R,4.0,{3}{R},3.0,3.0,,"Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.",rare,,Legendary,Creature
-162,Blisterpod,,1.0,{G},1.0,1.0,,"Devoid (This card has no color.)
+162,Blisterpod,C,1.0,{G},1.0,1.0,,"Devoid (This card has no color.)
 When Blisterpod dies, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",common,Devoid,,Creature
-163,Brood Monitor,,6.0,{4}{G}{G},3.0,3.0,,"Devoid (This card has no color.)
+163,Brood Monitor,C,6.0,{4}{G}{G},3.0,3.0,,"Devoid (This card has no color.)
 When Brood Monitor enters the battlefield, create three 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",uncommon,Devoid,,Creature
-164,Call the Scions,,3.0,{2}{G},,,,"Devoid (This card has no color.)
+164,Call the Scions,C,3.0,{2}{G},,,,"Devoid (This card has no color.)
 Create two 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",common,Devoid,,Sorcery
-165,Eyeless Watcher,,4.0,{3}{G},1.0,1.0,,"Devoid (This card has no color.)
+165,Eyeless Watcher,C,4.0,{3}{G},1.0,1.0,,"Devoid (This card has no color.)
 When Eyeless Watcher enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",common,Devoid,,Creature
-166,From Beyond,,4.0,{3}{G},,,,"Devoid (This card has no color.)
+166,From Beyond,C,4.0,{3}{G},,,,"Devoid (This card has no color.)
 At the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""
 {1}{G}, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle.",rare,Devoid,,Enchantment
-167,Unnatural Aggression,,3.0,{2}{G},,,,"Devoid (This card has no color.)
+167,Unnatural Aggression,C,3.0,{2}{G},,,,"Devoid (This card has no color.)
 Target creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead.",common,"Devoid, Fight",,Instant
-168,Void Attendant,,3.0,{2}{G},2.0,3.0,,"Devoid (This card has no color.)
+168,Void Attendant,C,3.0,{2}{G},2.0,3.0,,"Devoid (This card has no color.)
 {1}{G}, Put a card an opponent owns from exile into that player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""",uncommon,Devoid,,Creature
 169,Beastcaller Savant,G,2.0,{1}{G},1.0,1.0,,"Haste
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell.",rare,Haste,,Creature
@@ -331,30 +331,30 @@ Hexproof (This creature can't be the target of spells or abilities your opponent
 Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Undergrowth Champion.",mythic,Landfall,,Creature
 197,Woodland Wanderer,G,4.0,{3}{G},2.0,2.0,,"Vigilance, trample
 Converge — Woodland Wanderer enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.",rare,"Converge, Trample, Vigilance",,Creature
-198,Brood Butcher,,5.0,{3}{B}{G},3.0,3.0,,"Devoid (This card has no color.)
+198,Brood Butcher,C,5.0,{3}{B}{G},3.0,3.0,,"Devoid (This card has no color.)
 When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""
 {B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",rare,Devoid,,Creature
-199,Brutal Expulsion,,4.0,{2}{U}{R},,,,"Devoid (This card has no color.)
+199,Brutal Expulsion,C,4.0,{2}{U}{R},,,,"Devoid (This card has no color.)
 Choose one or both —
 • Return target spell or creature to its owner's hand.
 • Brutal Expulsion deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",rare,Devoid,,Instant
-200,Catacomb Sifter,,3.0,{1}{B}{G},2.0,3.0,,"Devoid (This card has no color.)
+200,Catacomb Sifter,C,3.0,{1}{B}{G},2.0,3.0,,"Devoid (This card has no color.)
 When Catacomb Sifter enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}.""
 Whenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",uncommon,"Devoid, Scry",,Creature
-201,Dust Stalker,,4.0,{2}{B}{R},5.0,3.0,,"Devoid (This card has no color.)
+201,Dust Stalker,C,4.0,{2}{B}{R},5.0,3.0,,"Devoid (This card has no color.)
 Haste
 At the beginning of each end step, if you control no other colorless creatures, return Dust Stalker to its owner's hand.",rare,"Devoid, Haste",,Creature
-202,Fathom Feeder,,2.0,{U}{B},1.0,1.0,,"Devoid (This card has no color.)
+202,Fathom Feeder,C,2.0,{U}{B},1.0,1.0,,"Devoid (This card has no color.)
 Deathtouch
 Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 {3}{U}{B}: Draw a card. Each opponent exiles the top card of their library.",rare,"Deathtouch, Devoid, Ingest",,Creature
-203,Forerunner of Slaughter,,2.0,{B}{R},3.0,2.0,,"Devoid (This card has no color.)
+203,Forerunner of Slaughter,C,2.0,{B}{R},3.0,2.0,,"Devoid (This card has no color.)
 {1}: Target colorless creature gains haste until end of turn.",uncommon,Devoid,,Creature
-204,Herald of Kozilek,,3.0,{1}{U}{R},2.0,4.0,,"Devoid (This card has no color.)
+204,Herald of Kozilek,C,3.0,{1}{U}{R},2.0,4.0,,"Devoid (This card has no color.)
 Colorless spells you cast cost {1} less to cast.",uncommon,Devoid,,Creature
-205,Sire of Stagnation,,6.0,{4}{U}{B},5.0,7.0,,"Devoid (This card has no color.)
+205,Sire of Stagnation,C,6.0,{4}{U}{B},5.0,7.0,,"Devoid (This card has no color.)
 Whenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of their library and you draw two cards.",mythic,Devoid,,Creature
-206,Ulamog's Nullifier,,4.0,{2}{U}{B},2.0,3.0,,"Devoid (This card has no color.)
+206,Ulamog's Nullifier,C,4.0,{2}{U}{B},2.0,3.0,,"Devoid (This card has no color.)
 Flash
 Flying
 When Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.",uncommon,"Devoid, Flash, Flying",,Creature
@@ -382,66 +382,66 @@ Awaken 4—{4}{W}{U} (If you cast this spell for {4}{W}{U}, also put four +1/+1 
 Converge — Skyrider Elf enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.",uncommon,"Converge, Flying",,Creature
 220,Veteran Warleader,"G, W",3.0,{1}{G}{W},,,,"Veteran Warleader's power and toughness are each equal to the number of creatures you control.
 Tap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.",rare,,,Creature
-221,Aligned Hedron Network,,4.0,{4},,,,"When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield. (Those creatures return under their owners' control.)",rare,,,Artifact
-222,Hedron Archive,,4.0,{4},,,,"{T}: Add {C}{C}.
+221,Aligned Hedron Network,C,4.0,{4},,,,"When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield. (Those creatures return under their owners' control.)",rare,,,Artifact
+222,Hedron Archive,C,4.0,{4},,,,"{T}: Add {C}{C}.
 {2}, {T}, Sacrifice Hedron Archive: Draw two cards.",uncommon,,,Artifact
-223,Hedron Blade,,1.0,{1},,,,"Equipped creature gets +1/+1.
+223,Hedron Blade,C,1.0,{1},,,,"Equipped creature gets +1/+1.
 Whenever equipped creature becomes blocked by one or more colorless creatures, it gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-224,Pathway Arrows,,1.0,{1},,,,"Equipped creature has ""{2}, {T}: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it.""
+224,Pathway Arrows,C,1.0,{1},,,,"Equipped creature has ""{2}, {T}: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it.""
 Equip {2}",uncommon,Equip,,Artifact
-225,Pilgrim's Eye,,3.0,{3},1.0,1.0,,"Flying
+225,Pilgrim's Eye,C,3.0,{3},1.0,1.0,,"Flying
 When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",uncommon,Flying,,"Artifact, Creature"
-226,Slab Hammer,,2.0,{2},,,,"Whenever equipped creature attacks, you may return a land you control to its owner's hand. If you do, the creature gets +2/+2 until end of turn.
+226,Slab Hammer,C,2.0,{2},,,,"Whenever equipped creature attacks, you may return a land you control to its owner's hand. If you do, the creature gets +2/+2 until end of turn.
 Equip {2}",uncommon,Equip,,Artifact
-227,Ally Encampment,,0.0,,,,,"{T}: Add {C}.
+227,Ally Encampment,L,0.0,,,,,"{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast an Ally spell.
 {1}, {T}, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.",rare,,,Land
-228,Blighted Cataract,,0.0,,,,,"{T}: Add {C}.
+228,Blighted Cataract,L,0.0,,,,,"{T}: Add {C}.
 {5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.",uncommon,,,Land
-229,Blighted Fen,,0.0,,,,,"{T}: Add {C}.
+229,Blighted Fen,L,0.0,,,,,"{T}: Add {C}.
 {4}{B}, {T}, Sacrifice Blighted Fen: Target opponent sacrifices a creature.",uncommon,,,Land
-230,Blighted Gorge,,0.0,,,,,"{T}: Add {C}.
+230,Blighted Gorge,L,0.0,,,,,"{T}: Add {C}.
 {4}{R}, {T}, Sacrifice Blighted Gorge: It deals 2 damage to any target.",uncommon,,,Land
-231,Blighted Steppe,,0.0,,,,,"{T}: Add {C}.
+231,Blighted Steppe,L,0.0,,,,,"{T}: Add {C}.
 {3}{W}, {T}, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.",uncommon,,,Land
-232,Blighted Woodland,,0.0,,,,,"{T}: Add {C}.
+232,Blighted Woodland,L,0.0,,,,,"{T}: Add {C}.
 {3}{G}, {T}, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",uncommon,,,Land
-233,Canopy Vista,,0.0,,,,,"({T}: Add {G} or {W}.)
+233,Canopy Vista,L,0.0,,,,,"({T}: Add {G} or {W}.)
 Canopy Vista enters the battlefield tapped unless you control two or more basic lands.",rare,,,Land
-234,Cinder Glade,,0.0,,,,,"({T}: Add {R} or {G}.)
+234,Cinder Glade,L,0.0,,,,,"({T}: Add {R} or {G}.)
 Cinder Glade enters the battlefield tapped unless you control two or more basic lands.",rare,,,Land
-235,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-236,Fertile Thicket,,0.0,,,,,"Fertile Thicket enters the battlefield tapped.
+235,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+236,Fertile Thicket,L,0.0,,,,,"Fertile Thicket enters the battlefield tapped.
 When Fertile Thicket enters the battlefield, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.
 {T}: Add {G}.",common,,,Land
-237,Looming Spires,,0.0,,,,,"Looming Spires enters the battlefield tapped.
+237,Looming Spires,L,0.0,,,,,"Looming Spires enters the battlefield tapped.
 When Looming Spires enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.
 {T}: Add {R}.",common,,,Land
-238,Lumbering Falls,,0.0,,,,,"Lumbering Falls enters the battlefield tapped.
+238,Lumbering Falls,L,0.0,,,,,"Lumbering Falls enters the battlefield tapped.
 {T}: Add {G} or {U}.
 {2}{G}{U}: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.",rare,,,Land
-239,Mortuary Mire,,0.0,,,,,"Mortuary Mire enters the battlefield tapped.
+239,Mortuary Mire,L,0.0,,,,,"Mortuary Mire enters the battlefield tapped.
 When Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library.
 {T}: Add {B}.",common,,,Land
-240,Prairie Stream,,0.0,,,,,"({T}: Add {W} or {U}.)
+240,Prairie Stream,L,0.0,,,,,"({T}: Add {W} or {U}.)
 Prairie Stream enters the battlefield tapped unless you control two or more basic lands.",rare,,,Land
-241,Sanctum of Ugin,,0.0,,,,,"{T}: Add {C}.
+241,Sanctum of Ugin,L,0.0,,,,,"{T}: Add {C}.
 Whenever you cast a colorless spell with mana value 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.",rare,,,Land
-242,Sandstone Bridge,,0.0,,,,,"Sandstone Bridge enters the battlefield tapped.
+242,Sandstone Bridge,L,0.0,,,,,"Sandstone Bridge enters the battlefield tapped.
 When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and gains vigilance until end of turn.
 {T}: Add {W}.",common,,,Land
-243,Shambling Vent,,0.0,,,,,"Shambling Vent enters the battlefield tapped.
+243,Shambling Vent,L,0.0,,,,,"Shambling Vent enters the battlefield tapped.
 {T}: Add {W} or {B}.
 {1}{W}{B}: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.",rare,,,Land
-244,Shrine of the Forsaken Gods,,0.0,,,,,"{T}: Add {C}.
+244,Shrine of the Forsaken Gods,L,0.0,,,,,"{T}: Add {C}.
 {T}: Add {C}{C}. Spend this mana only to cast colorless spells. Activate only if you control seven or more lands.",rare,,,Land
-245,Skyline Cascade,,0.0,,,,,"Skyline Cascade enters the battlefield tapped.
+245,Skyline Cascade,L,0.0,,,,,"Skyline Cascade enters the battlefield tapped.
 When Skyline Cascade enters the battlefield, target creature an opponent controls doesn't untap during its controller's next untap step.
 {T}: Add {U}.",common,,,Land
-246,Smoldering Marsh,,0.0,,,,,"({T}: Add {B} or {R}.)
+246,Smoldering Marsh,L,0.0,,,,,"({T}: Add {B} or {R}.)
 Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.",rare,,,Land
-247,Spawning Bed,,0.0,,,,,"{T}: Add {C}.
+247,Spawning Bed,L,0.0,,,,,"{T}: Add {C}.
 {6}, {T}, Sacrifice Spawning Bed: Create three 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}.""",uncommon,,,Land
-248,Sunken Hollow,,0.0,,,,,"({T}: Add {U} or {B}.)
+248,Sunken Hollow,L,0.0,,,,,"({T}: Add {U} or {B}.)
 Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.",rare,,,Land

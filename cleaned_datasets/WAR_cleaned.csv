@@ -1,11 +1,11 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,"Karn, the Great Creator",,4.0,{4},,,5.0,"Activated abilities of artifacts your opponents control can't be activated.
+0,"Karn, the Great Creator",C,4.0,{4},,,5.0,"Activated abilities of artifacts your opponents control can't be activated.
 [+1]: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its mana value.
 [−2]: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.",rare,,Legendary,Planeswalker
-1,"Ugin, the Ineffable",,6.0,{6},,,4.0,"Colorless spells you cast cost {2} less to cast.
+1,"Ugin, the Ineffable",C,6.0,{6},,,4.0,"Colorless spells you cast cost {2} less to cast.
 [+1]: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand.
 [−3]: Destroy target permanent that's one or more colors.",rare,,Legendary,Planeswalker
-2,Ugin's Conjurant,,0.0,{X},0.0,0.0,,"Ugin's Conjurant enters the battlefield with X +1/+1 counters on it.
+2,Ugin's Conjurant,C,0.0,{X},0.0,0.0,,"Ugin's Conjurant enters the battlefield with X +1/+1 counters on it.
 If damage would be dealt to Ugin's Conjurant while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from Ugin's Conjurant.",uncommon,,,Creature
 3,Ajani's Pridemate,W,2.0,{1}{W},2.0,2.0,,"Whenever you gain life, put a +1/+1 counter on Ajani's Pridemate.",uncommon,,,Creature
 4,Battlefield Promotion,W,2.0,{1}{W},,,,Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life.,common,,,Instant
@@ -407,34 +407,34 @@ Whenever a Wolf enters the battlefield under your control, you gain 3 life and t
 [−1]: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.",uncommon,Scry,Legendary,Planeswalker
 235,"Vraska, Swarm's Eminence","B, G",4.0,{2}{B/G}{B/G},,,5.0,"Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature.
 [−2]: Create a 1/1 black Assassin creature token with deathtouch and ""Whenever this creature deals damage to a planeswalker, destroy that planeswalker.""",uncommon,,Legendary,Planeswalker
-236,Firemind Vessel,,4.0,{4},,,,"Firemind Vessel enters the battlefield tapped.
+236,Firemind Vessel,C,4.0,{4},,,,"Firemind Vessel enters the battlefield tapped.
 {T}: Add two mana of different colors.",uncommon,,,Artifact
-237,God-Pharaoh's Statue,,6.0,{6},,,,"Spells your opponents cast cost {2} more to cast.
+237,God-Pharaoh's Statue,C,6.0,{6},,,,"Spells your opponents cast cost {2} more to cast.
 At the beginning of your end step, each opponent loses 1 life.",uncommon,,Legendary,Artifact
-238,Guild Globe,,2.0,{2},,,,"When Guild Globe enters the battlefield, draw a card.
+238,Guild Globe,C,2.0,{2},,,,"When Guild Globe enters the battlefield, draw a card.
 {2}, {T}, Sacrifice Guild Globe: Add two mana of different colors.",common,,,Artifact
-239,Iron Bully,,3.0,{3},1.0,1.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+239,Iron Bully,C,3.0,{3},1.0,1.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 When Iron Bully enters the battlefield, put a +1/+1 counter on target creature.",common,Menace,,"Artifact, Creature"
-240,Mana Geode,,3.0,{3},,,,"When Mana Geode enters the battlefield, scry 1.
+240,Mana Geode,C,3.0,{3},,,,"When Mana Geode enters the battlefield, scry 1.
 {T}: Add one mana of any color.",common,Scry,,Artifact
-241,Prismite,,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
-242,Saheeli's Silverwing,,4.0,{4},2.0,3.0,,"Flying
+241,Prismite,C,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
+242,Saheeli's Silverwing,C,4.0,{4},2.0,3.0,,"Flying
 When Saheeli's Silverwing enters the battlefield, look at the top card of target opponent's library.",common,Flying,,"Artifact, Creature"
-243,Blast Zone,,0.0,,,,,"Blast Zone enters the battlefield with a charge counter on it.
+243,Blast Zone,L,0.0,,,,,"Blast Zone enters the battlefield with a charge counter on it.
 {T}: Add {C}.
 {X}{X}, {T}: Put X charge counters on Blast Zone.
 {3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with mana value equal to the number of charge counters on Blast Zone.",rare,,,Land
-244,Emergence Zone,,0.0,,,,,"{T}: Add {C}.
+244,Emergence Zone,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}, Sacrifice Emergence Zone: You may cast spells this turn as though they had flash.",uncommon,,,Land
-245,Gateway Plaza,,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
+245,Gateway Plaza,L,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
 When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color.",common,,,Land
-246,Interplanar Beacon,,0.0,,,,,"Whenever you cast a planeswalker spell, you gain 1 life.
+246,Interplanar Beacon,L,0.0,,,,,"Whenever you cast a planeswalker spell, you gain 1 life.
 {T}: Add {C}.
 {1}, {T}: Add two mana of different colors. Spend this mana only to cast planeswalker spells.",uncommon,,,Land
-247,Karn's Bastion,,0.0,,,,,"{T}: Add {C}.
+247,Karn's Bastion,L,0.0,,,,,"{T}: Add {C}.
 {4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",rare,Proliferate,,Land
-248,Mobilized District,,0.0,,,,,"{T}: Add {C}.
+248,Mobilized District,L,0.0,,,,,"{T}: Add {C}.
 {4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It's still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.",rare,,,Land
 249,"Gideon, the Oathsworn",W,6.0,{4}{W}{W},,,4.0,"Whenever you attack with two or more non-Gideon creatures, put a +1/+1 counter on each of those creatures.
 [+2]: Until end of turn, Gideon, the Oathsworn becomes a 5/5 white Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn. (He can't attack if he was cast this turn.)
@@ -443,7 +443,7 @@ When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
 251,Gideon's Battle Cry,W,4.0,{2}{W}{W},,,,"Put a +1/+1 counter on each creature you control. You may search your library and/or graveyard for a card named Gideon, the Oathsworn, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
 252,Gideon's Company,W,4.0,{3}{W},3.0,3.0,,"Whenever you gain life, put two +1/+1 counters on Gideon's Company.
 {3}{W}: Put a loyalty counter on target Gideon planeswalker.",uncommon,,,Creature
-253,Orzhov Guildgate,,0.0,,,,,"Orzhov Guildgate enters the battlefield tapped.
+253,Orzhov Guildgate,L,0.0,,,,,"Orzhov Guildgate enters the battlefield tapped.
 {T}: Add {W} or {B}.",common,,,Land
 254,"Jace, Arcane Strategist",U,6.0,{4}{U}{U},,,4.0,"Whenever you draw your second card each turn, put a +1/+1 counter on target creature you control.
 [+1]: Draw a card.
@@ -453,5 +453,5 @@ Whenever Guildpact Informant deals combat damage to a player or planeswalker, pr
 256,Jace's Projection,U,4.0,{2}{U}{U},2.0,2.0,,"Whenever you draw a card, put a +1/+1 counter on Jace's Projection.
 {3}{U}: Put a loyalty counter on target Jace planeswalker.",uncommon,,,Creature
 257,Jace's Ruse,U,5.0,{3}{U}{U},,,,"Return up to two target creatures to their owner's hand. You may search your library and/or graveyard for a card named Jace, Arcane Strategist, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
-258,Simic Guildgate,,0.0,,,,,"Simic Guildgate enters the battlefield tapped.
+258,Simic Guildgate,L,0.0,,,,,"Simic Guildgate enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land

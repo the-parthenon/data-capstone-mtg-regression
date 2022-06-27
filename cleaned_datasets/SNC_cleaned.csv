@@ -445,72 +445,72 @@ At the beginning of your end step, you may sacrifice another creature. When you 
 231,Ziatora's Envoy,"B, G, R",4.0,{1}{B}{R}{G},5.0,4.0,,"Trample
 Whenever Ziatora's Envoy deals combat damage to a player, look at the top card of your library. You may play a land from the top of your library or cast a spell with mana value less than or equal to the damage dealt from the top of your library without paying its mana cost. If you don't, put that card into your hand.
 Blitz {2}{B}{R}{G}",rare,"Blitz, Trample",,Creature
-232,Arc Spitter,,1.0,{1},,,,"Equipped creature has ""{1}: This creature deals 1 damage to target creature that's blocking it.""
+232,Arc Spitter,C,1.0,{1},,,,"Equipped creature has ""{1}: This creature deals 1 damage to target creature that's blocking it.""
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-233,Brass Knuckles,,4.0,{4},,,,"When you cast this spell, copy it. (The copy becomes a token.)
+233,Brass Knuckles,C,4.0,{4},,,,"When you cast this spell, copy it. (The copy becomes a token.)
 Equipped creature has double strike as long as two or more Equipment are attached to it.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-234,Cement Shoes,,1.0,{1},,,,"Equipped creature gets +3/+3 and has ""At the beginning of your end step, tap this creature.""
+234,Cement Shoes,C,1.0,{1},,,,"Equipped creature gets +3/+3 and has ""At the beginning of your end step, tap this creature.""
 Equipped creature doesn't untap during its controller's untap step.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-235,Chrome Cat,,3.0,{3},3.0,2.0,,"When Chrome Cat enters the battlefield, scry 1.",common,Scry,,"Artifact, Creature"
-236,Getaway Car,,3.0,{3},4.0,3.0,,"Haste
+235,Chrome Cat,C,3.0,{3},3.0,2.0,,"When Chrome Cat enters the battlefield, scry 1.",common,Scry,,"Artifact, Creature"
+236,Getaway Car,C,3.0,{3},4.0,3.0,,"Haste
 Whenever Getaway Car attacks or blocks, return up to one target creature that crewed it this turn to its owner's hand.
 Crew 1",rare,"Crew, Haste",,Artifact
-237,Gilded Pinions,,2.0,{2},,,,"When Gilded Pinions enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+237,Gilded Pinions,C,2.0,{2},,,,"When Gilded Pinions enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Equipped creature has flying.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-238,Halo Scarab,,2.0,{2},2.0,1.0,,"{2}, Exile Halo Scarab from your graveyard: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,"Artifact, Creature"
-239,"Luxior, Giada's Gift",,1.0,{1},,,,"Equipped creature gets +1/+1 for each counter on it.
+238,Halo Scarab,C,2.0,{2},2.0,1.0,,"{2}, Exile Halo Scarab from your graveyard: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,"Artifact, Creature"
+239,"Luxior, Giada's Gift",C,1.0,{1},,,,"Equipped creature gets +1/+1 for each counter on it.
 Equipped permanent isn't a planeswalker and is a creature in addition to its other types. (Loyalty abilities can still be activated.)
 Equip planeswalker {1}
 Equip {3}",mythic,Equip,Legendary,Artifact
-240,Ominous Parcel,,1.0,{1},,,,"{2}, {T}, Sacrifice Ominous Parcel: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+240,Ominous Parcel,C,1.0,{1},,,,"{2}, {T}, Sacrifice Ominous Parcel: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {5}, {T}, Sacrifice Ominous Parcel: It deals 4 damage to target creature.",common,,,Artifact
-241,Paragon of Modernity,,4.0,{4},2.0,2.0,,"Flying
+241,Paragon of Modernity,C,4.0,{4},2.0,2.0,,"Flying
 {3}: Paragon of Modernity gets +1/+1 until end of turn. If exactly three colors of mana were spent to activate this ability, put a +1/+1 counter on it instead.",common,Flying,,"Artifact, Creature"
-242,Quick-Draw Dagger,,3.0,{3},,,,"Flash
+242,Quick-Draw Dagger,C,3.0,{3},,,,"Flash
 When Quick-Draw Dagger enters the battlefield, attach it to target creature you control. That creature gains first strike until end of turn.
 Equipped creature gets +1/+1.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,"Equip, Flash",,Artifact
-243,Scuttling Butler,,3.0,{3},4.0,1.0,,"At the beginning of combat on your turn, if you control two or more multicolored permanents, Scuttling Butler gains double strike until end of turn.",uncommon,,,"Artifact, Creature"
-244,Suspicious Bookcase,,2.0,{2},0.0,4.0,,"Defender
+243,Scuttling Butler,C,3.0,{3},4.0,1.0,,"At the beginning of combat on your turn, if you control two or more multicolored permanents, Scuttling Butler gains double strike until end of turn.",uncommon,,,"Artifact, Creature"
+244,Suspicious Bookcase,C,2.0,{2},0.0,4.0,,"Defender
 {3}, {T}: Target creature can't be blocked this turn.",uncommon,Defender,,"Artifact, Creature"
-245,Unlicensed Hearse,,2.0,{2},,,,"{T}: Exile up to two target cards from a single graveyard.
+245,Unlicensed Hearse,C,2.0,{2},,,,"{T}: Exile up to two target cards from a single graveyard.
 Unlicensed Hearse's power and toughness are each equal to the number of cards exiled with it.
 Crew 2",rare,Crew,,Artifact
-246,Botanical Plaza,,0.0,,,,,"Botanical Plaza enters the battlefield tapped.
+246,Botanical Plaza,L,0.0,,,,,"Botanical Plaza enters the battlefield tapped.
 {T}: Add {G} or {W}.
 {2}{G}{W}, {T}, Sacrifice Botanical Plaza: Draw a card.",common,,,Land
-247,Brokers Hideout,,0.0,,,,,"When Brokers Hideout enters the battlefield, sacrifice it. When you do, search your library for a basic Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
-248,Cabaretti Courtyard,,0.0,,,,,"When Cabaretti Courtyard enters the battlefield, sacrifice it. When you do, search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
-249,Jetmir's Garden,,0.0,,,,,"({T}: Add {R}, {G}, or {W}.)
+247,Brokers Hideout,L,0.0,,,,,"When Brokers Hideout enters the battlefield, sacrifice it. When you do, search your library for a basic Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
+248,Cabaretti Courtyard,L,0.0,,,,,"When Cabaretti Courtyard enters the battlefield, sacrifice it. When you do, search your library for a basic Mountain, Forest, or Plains card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
+249,Jetmir's Garden,L,0.0,,,,,"({T}: Add {R}, {G}, or {W}.)
 Jetmir's Garden enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-250,Maestros Theater,,0.0,,,,,"When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
-251,Obscura Storefront,,0.0,,,,,"When Obscura Storefront enters the battlefield, sacrifice it. When you do, search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
-252,Racers' Ring,,0.0,,,,,"Racers' Ring enters the battlefield tapped.
+250,Maestros Theater,L,0.0,,,,,"When Maestros Theater enters the battlefield, sacrifice it. When you do, search your library for a basic Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
+251,Obscura Storefront,L,0.0,,,,,"When Obscura Storefront enters the battlefield, sacrifice it. When you do, search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
+252,Racers' Ring,L,0.0,,,,,"Racers' Ring enters the battlefield tapped.
 {T}: Add {R} or {G}.
 {2}{R}{G}, {T}, Sacrifice Racers' Ring: Draw a card.",common,,,Land
-253,Raffine's Tower,,0.0,,,,,"({T}: Add {W}, {U}, or {B}.)
+253,Raffine's Tower,L,0.0,,,,,"({T}: Add {W}, {U}, or {B}.)
 Raffine's Tower enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-254,Riveteers Overlook,,0.0,,,,,"When Riveteers Overlook enters the battlefield, sacrifice it. When you do, search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
-255,Skybridge Towers,,0.0,,,,,"Skybridge Towers enters the battlefield tapped.
+254,Riveteers Overlook,L,0.0,,,,,"When Riveteers Overlook enters the battlefield, sacrifice it. When you do, search your library for a basic Swamp, Mountain, or Forest card, put it onto the battlefield tapped, then shuffle and you gain 1 life.",common,,,Land
+255,Skybridge Towers,L,0.0,,,,,"Skybridge Towers enters the battlefield tapped.
 {T}: Add {W} or {U}.
 {2}{W}{U}, {T}, Sacrifice Skybridge Towers: Draw a card.",common,,,Land
-256,Spara's Headquarters,,0.0,,,,,"({T}: Add {G}, {W}, or {U}.)
+256,Spara's Headquarters,L,0.0,,,,,"({T}: Add {G}, {W}, or {U}.)
 Spara's Headquarters enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-257,Tramway Station,,0.0,,,,,"Tramway Station enters the battlefield tapped.
+257,Tramway Station,L,0.0,,,,,"Tramway Station enters the battlefield tapped.
 {T}: Add {B} or {R}.
 {2}{B}{R}, {T}, Sacrifice Tramway Station: Draw a card.",common,,,Land
-258,Waterfront District,,0.0,,,,,"Waterfront District enters the battlefield tapped.
+258,Waterfront District,L,0.0,,,,,"Waterfront District enters the battlefield tapped.
 {T}: Add {U} or {B}.
 {2}{U}{B}, {T}, Sacrifice Waterfront District: Draw a card.",common,,,Land
-259,Xander's Lounge,,0.0,,,,,"({T}: Add {U}, {B}, or {R}.)
+259,Xander's Lounge,L,0.0,,,,,"({T}: Add {U}, {B}, or {R}.)
 Xander's Lounge enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-260,Ziatora's Proving Ground,,0.0,,,,,"({T}: Add {B}, {R}, or {G}.)
+260,Ziatora's Proving Ground,L,0.0,,,,,"({T}: Add {B}, {R}, or {G}.)
 Ziatora's Proving Ground enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land

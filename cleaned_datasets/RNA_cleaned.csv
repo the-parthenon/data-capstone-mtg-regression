@@ -399,63 +399,63 @@ Draw a card.",uncommon,,,Instant
 237,Threat,"R, G",6.0,{2}{R}{G},,,,Create a 4/4 red and green Beast creature token with trample.,rare,,,Sorcery
 238,Warrant,"W, U",7.0,{W/U}{W/U},,,,Put target attacking or blocking creature on top of its owner's library.,rare,,,Instant
 239,Warden,"W, U",7.0,{3}{W}{U},,,,Create a 4/4 white and blue Sphinx creature token with flying and vigilance.,rare,,,Sorcery
-240,Azorius Locket,,3.0,{3},,,,"{T}: Add {W} or {U}.
+240,Azorius Locket,C,3.0,{3},,,,"{T}: Add {W} or {U}.
 {W/U}{W/U}{W/U}{W/U}, {T}, Sacrifice Azorius Locket: Draw two cards.",common,,,Artifact
-241,Gate Colossus,,8.0,{8},8.0,8.0,,"This spell costs {1} less to cast for each Gate you control.
+241,Gate Colossus,C,8.0,{8},8.0,8.0,,"This spell costs {1} less to cast for each Gate you control.
 Gate Colossus can't be blocked by creatures with power 2 or less.
 Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library.",uncommon,,,"Artifact, Creature"
-242,Glass of the Guildpact,,2.0,{2},,,,Multicolored creatures you control get +1/+1.,rare,,,Artifact
-243,Gruul Locket,,3.0,{3},,,,"{T}: Add {R} or {G}.
+242,Glass of the Guildpact,C,2.0,{2},,,,Multicolored creatures you control get +1/+1.,rare,,,Artifact
+243,Gruul Locket,C,3.0,{3},,,,"{T}: Add {R} or {G}.
 {R/G}{R/G}{R/G}{R/G}, {T}, Sacrifice Gruul Locket: Draw two cards.",common,,,Artifact
-244,Junktroller,,4.0,{4},0.0,6.0,,"Defender
+244,Junktroller,C,4.0,{4},0.0,6.0,,"Defender
 {T}: Put target card from a graveyard on the bottom of its owner's library.",uncommon,Defender,,"Artifact, Creature"
-245,Orzhov Locket,,3.0,{3},,,,"{T}: Add {W} or {B}.
+245,Orzhov Locket,C,3.0,{3},,,,"{T}: Add {W} or {B}.
 {W/B}{W/B}{W/B}{W/B}, {T}, Sacrifice Orzhov Locket: Draw two cards.",common,,,Artifact
-246,Rakdos Locket,,3.0,{3},,,,"{T}: Add {B} or {R}.
+246,Rakdos Locket,C,3.0,{3},,,,"{T}: Add {B} or {R}.
 {B/R}{B/R}{B/R}{B/R}, {T}, Sacrifice Rakdos Locket: Draw two cards.",common,,,Artifact
-247,Scrabbling Claws,,1.0,{1},,,,"{T}: Target player exiles a card from their graveyard.
+247,Scrabbling Claws,C,1.0,{1},,,,"{T}: Target player exiles a card from their graveyard.
 {1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.",uncommon,,,Artifact
-248,Screaming Shield,,1.0,{1},,,,"Equipped creature gets +0/+3 and has ""{2}, {T}: Target player mills three cards.""
+248,Screaming Shield,C,1.0,{1},,,,"Equipped creature gets +0/+3 and has ""{2}, {T}: Target player mills three cards.""
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,"Equip, Mill",,Artifact
-249,Simic Locket,,3.0,{3},,,,"{T}: Add {G} or {U}.
+249,Simic Locket,C,3.0,{3},,,,"{T}: Add {G} or {U}.
 {G/U}{G/U}{G/U}{G/U}, {T}, Sacrifice Simic Locket: Draw two cards.",common,,,Artifact
 250,Sphinx of the Guildpact,"B, G, R, U, W",7.0,{7},5.0,5.0,,"Sphinx of the Guildpact is all colors.
 Flying
 Hexproof from monocolored (This creature can't be the target of monocolored spells or abilities your opponents control.)",uncommon,"Flying, Hexproof, Hexproof from",,"Artifact, Creature"
-251,Tome of the Guildpact,,5.0,{5},,,,"Whenever you cast a multicolored spell, draw a card.
+251,Tome of the Guildpact,C,5.0,{5},,,,"Whenever you cast a multicolored spell, draw a card.
 {T}: Add one mana of any color.",rare,,,Artifact
-252,Azorius Guildgate,,0.0,,,,,"Azorius Guildgate enters the battlefield tapped.
+252,Azorius Guildgate,L,0.0,,,,,"Azorius Guildgate enters the battlefield tapped.
 {T}: Add {W} or {U}.",common,,,Land
-253,Blood Crypt,,0.0,,,,,"({T}: Add {B} or {R}.)
+253,Blood Crypt,L,0.0,,,,,"({T}: Add {B} or {R}.)
 As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-254,Breeding Pool,,0.0,,,,,"({T}: Add {G} or {U}.)
+254,Breeding Pool,L,0.0,,,,,"({T}: Add {G} or {U}.)
 As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-255,Gateway Plaza,,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
+255,Gateway Plaza,L,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
 When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color.",common,,,Land
-256,Godless Shrine,,0.0,,,,,"({T}: Add {W} or {B}.)
+256,Godless Shrine,L,0.0,,,,,"({T}: Add {W} or {B}.)
 As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-257,Gruul Guildgate,,0.0,,,,,"Gruul Guildgate enters the battlefield tapped.
+257,Gruul Guildgate,L,0.0,,,,,"Gruul Guildgate enters the battlefield tapped.
 {T}: Add {R} or {G}.",common,,,Land
-258,Hallowed Fountain,,0.0,,,,,"({T}: Add {W} or {U}.)
+258,Hallowed Fountain,L,0.0,,,,,"({T}: Add {W} or {U}.)
 As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-259,Orzhov Guildgate,,0.0,,,,,"Orzhov Guildgate enters the battlefield tapped.
+259,Orzhov Guildgate,L,0.0,,,,,"Orzhov Guildgate enters the battlefield tapped.
 {T}: Add {W} or {B}.",common,,,Land
-260,Plaza of Harmony,,0.0,,,,,"When Plaza of Harmony enters the battlefield, if you control two or more Gates, you gain 3 life.
+260,Plaza of Harmony,L,0.0,,,,,"When Plaza of Harmony enters the battlefield, if you control two or more Gates, you gain 3 life.
 {T}: Add {C}.
 {T}: Add one mana of any type that a Gate you control could produce.",rare,,,Land
-261,Rakdos Guildgate,,0.0,,,,,"Rakdos Guildgate enters the battlefield tapped.
+261,Rakdos Guildgate,L,0.0,,,,,"Rakdos Guildgate enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land
-262,Simic Guildgate,,0.0,,,,,"Simic Guildgate enters the battlefield tapped.
+262,Simic Guildgate,L,0.0,,,,,"Simic Guildgate enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land
-263,Stomping Ground,,0.0,,,,,"({T}: Add {R} or {G}.)
+263,Stomping Ground,L,0.0,,,,,"({T}: Add {R} or {G}.)
 As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
 264,"Dovin, Architect of Law","U, W",6.0,{4}{W}{U},,,5.0,"[+1]: You gain 2 life and draw a card.
 [−1]: Tap target creature. It doesn't untap during its controller's next untap step.
 [−9]: Tap all permanents target opponent controls. That player skips their next untap step.",mythic,,Legendary,Planeswalker
 265,Elite Arrester,W,1.0,{W},0.0,3.0,,"{1}{U}, {T}: Tap target creature.",common,,,Creature
 266,Dovin's Dismissal,"U, W",4.0,{2}{W}{U},,,,"Put up to one target tapped creature on top of its owner's library. You may search your library and/or graveyard for a card named Dovin, Architect of Law, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Instant
-267,Dovin's Automaton,,4.0,{4},3.0,3.0,,"As long as you control a Dovin planeswalker, Dovin's Automaton gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)",uncommon,,,"Artifact, Creature"
+267,Dovin's Automaton,C,4.0,{4},3.0,3.0,,"As long as you control a Dovin planeswalker, Dovin's Automaton gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)",uncommon,,,"Artifact, Creature"
 268,"Domri, City Smasher","G, R",6.0,{4}{R}{G},,,4.0,"[+2]: Creatures you control get +1/+1 and gain haste until end of turn.
 [−3]: Domri, City Smasher deals 3 damage to any target.
 [−8]: Put three +1/+1 counters on each creature you control. Those creatures gain trample until end of turn.",mythic,,Legendary,Planeswalker

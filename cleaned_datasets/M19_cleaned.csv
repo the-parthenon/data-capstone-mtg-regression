@@ -345,68 +345,68 @@ At the beginning of each end step, if you gained life this turn, create a 1/1 bl
 At the beginning of combat on your turn, you may pay {G}{U}. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn.",uncommon,Flying,,Creature
 225,"Vaevictis Asmadi, the Dire","B, G, R",6.0,{3}{B}{R}{G},6.0,6.0,,"Flying
 Whenever Vaevictis Asmadi, the Dire attacks, for each player, choose target permanent that player controls. Those players sacrifice those permanents. Each player who sacrificed a permanent this way reveals the top card of their library, then puts it onto the battlefield if it's a permanent card.",mythic,Flying,Legendary,Creature
-226,Amulet of Safekeeping,,2.0,{2},,,,"Whenever you become the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
+226,Amulet of Safekeeping,C,2.0,{2},,,,"Whenever you become the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
 Creature tokens get -1/-0.",rare,,,Artifact
-227,Arcane Encyclopedia,,3.0,{3},,,,"{3}, {T}: Draw a card.",uncommon,,,Artifact
-228,Chaos Wand,,3.0,{3},,,,"{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.",rare,,,Artifact
-229,Crucible of Worlds,,3.0,{3},,,,You may play lands from your graveyard.,mythic,,,Artifact
-230,Desecrated Tomb,,3.0,{3},,,,"Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.",rare,,,Artifact
-231,Diamond Mare,,2.0,{2},1.0,3.0,,"As Diamond Mare enters the battlefield, choose a color.
+227,Arcane Encyclopedia,C,3.0,{3},,,,"{3}, {T}: Draw a card.",uncommon,,,Artifact
+228,Chaos Wand,C,3.0,{3},,,,"{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.",rare,,,Artifact
+229,Crucible of Worlds,C,3.0,{3},,,,You may play lands from your graveyard.,mythic,,,Artifact
+230,Desecrated Tomb,C,3.0,{3},,,,"Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.",rare,,,Artifact
+231,Diamond Mare,C,2.0,{2},1.0,3.0,,"As Diamond Mare enters the battlefield, choose a color.
 Whenever you cast a spell of the chosen color, you gain 1 life.",uncommon,,,"Artifact, Creature"
-232,Dragon's Hoard,,3.0,{3},,,,"Whenever a Dragon enters the battlefield under your control, put a gold counter on Dragon's Hoard.
+232,Dragon's Hoard,C,3.0,{3},,,,"Whenever a Dragon enters the battlefield under your control, put a gold counter on Dragon's Hoard.
 {T}, Remove a gold counter from Dragon's Hoard: Draw a card.
 {T}: Add one mana of any color.",rare,,,Artifact
-233,Explosive Apparatus,,1.0,{1},,,,"{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.",common,,,Artifact
-234,Field Creeper,,2.0,{2},2.0,1.0,,,common,,,"Artifact, Creature"
-235,Fountain of Renewal,,1.0,{1},,,,"At the beginning of your upkeep, you gain 1 life.
+233,Explosive Apparatus,C,1.0,{1},,,,"{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.",common,,,Artifact
+234,Field Creeper,C,2.0,{2},2.0,1.0,,,common,,,"Artifact, Creature"
+235,Fountain of Renewal,C,1.0,{1},,,,"At the beginning of your upkeep, you gain 1 life.
 {3}, Sacrifice Fountain of Renewal: Draw a card.",uncommon,,,Artifact
-236,Gargoyle Sentinel,,3.0,{3},3.0,3.0,,"Defender (This creature can't attack.)
+236,Gargoyle Sentinel,C,3.0,{3},3.0,3.0,,"Defender (This creature can't attack.)
 {3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.",uncommon,Defender,,"Artifact, Creature"
-237,Gearsmith Guardian,,5.0,{5},3.0,5.0,,Gearsmith Guardian gets +2/+0 as long as you control a blue creature.,common,,,"Artifact, Creature"
-238,Magistrate's Scepter,,3.0,{3},,,,"{4}, {T}: Put a charge counter on Magistrate's Scepter.
+237,Gearsmith Guardian,C,5.0,{5},3.0,5.0,,Gearsmith Guardian gets +2/+0 as long as you control a blue creature.,common,,,"Artifact, Creature"
+238,Magistrate's Scepter,C,3.0,{3},,,,"{4}, {T}: Put a charge counter on Magistrate's Scepter.
 {T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.",rare,,,Artifact
-239,Manalith,,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact
-240,Marauder's Axe,,2.0,{2},,,,"Equipped creature gets +2/+0.
+239,Manalith,C,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact
+240,Marauder's Axe,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-241,Meteor Golem,,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature"
-242,Millstone,,2.0,{2},,,,"{2}, {T}: Target player mills two cards.",uncommon,Mill,,Artifact
-243,Rogue's Gloves,,2.0,{2},,,,"Whenever equipped creature deals combat damage to a player, you may draw a card.
+241,Meteor Golem,C,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature"
+242,Millstone,C,2.0,{2},,,,"{2}, {T}: Target player mills two cards.",uncommon,Mill,,Artifact
+243,Rogue's Gloves,C,2.0,{2},,,,"Whenever equipped creature deals combat damage to a player, you may draw a card.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-244,Sigiled Sword of Valeron,,3.0,{3},,,,"Equipped creature gets +2/+0, has vigilance, and is a Knight in addition to its other types.
+244,Sigiled Sword of Valeron,C,3.0,{3},,,,"Equipped creature gets +2/+0, has vigilance, and is a Knight in addition to its other types.
 Whenever equipped creature attacks, create a 2/2 white Knight creature token with vigilance that's attacking.
 Equip {3}",rare,Equip,,Artifact
-245,Skyscanner,,3.0,{3},1.0,1.0,,"Flying
+245,Skyscanner,C,3.0,{3},1.0,1.0,,"Flying
 When Skyscanner enters the battlefield, draw a card.",common,Flying,,"Artifact, Creature"
-246,Suspicious Bookcase,,2.0,{2},0.0,4.0,,"Defender
+246,Suspicious Bookcase,C,2.0,{2},0.0,4.0,,"Defender
 {3}, {T}: Target creature can't be blocked this turn.",uncommon,Defender,,"Artifact, Creature"
-247,Transmogrifying Wand,,3.0,{3},,,,"Transmogrifying Wand enters the battlefield with three charge counters on it.
+247,Transmogrifying Wand,C,3.0,{3},,,,"Transmogrifying Wand enters the battlefield with three charge counters on it.
 {1}, {T}, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate only as a sorcery.",rare,,,Artifact
-248,Cinder Barrens,,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+248,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land
-249,Detection Tower,,0.0,,,,,"{T}: Add {C}.
+249,Detection Tower,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Until end of turn, your opponents and creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.",rare,,,Land
-250,Forsaken Sanctuary,,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
+250,Forsaken Sanctuary,L,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
 {T}: Add {W} or {B}.",common,,,Land
-251,Foul Orchard,,0.0,,,,,"Foul Orchard enters the battlefield tapped.
+251,Foul Orchard,L,0.0,,,,,"Foul Orchard enters the battlefield tapped.
 {T}: Add {B} or {G}.",common,,,Land
-252,Highland Lake,,0.0,,,,,"Highland Lake enters the battlefield tapped.
+252,Highland Lake,L,0.0,,,,,"Highland Lake enters the battlefield tapped.
 {T}: Add {U} or {R}.",common,,,Land
-253,Meandering River,,0.0,,,,,"Meandering River enters the battlefield tapped.
+253,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
 {T}: Add {W} or {U}.",common,,,Land
-254,Reliquary Tower,,0.0,,,,,"You have no maximum hand size.
+254,Reliquary Tower,L,0.0,,,,,"You have no maximum hand size.
 {T}: Add {C}.",uncommon,,,Land
-255,Rupture Spire,,0.0,,,,,"Rupture Spire enters the battlefield tapped.
+255,Rupture Spire,L,0.0,,,,,"Rupture Spire enters the battlefield tapped.
 When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color.",uncommon,,,Land
-256,Stone Quarry,,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+256,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land
-257,Submerged Boneyard,,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
+257,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
 {T}: Add {U} or {B}.",common,,,Land
-258,Timber Gorge,,0.0,,,,,"Timber Gorge enters the battlefield tapped.
+258,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
 {T}: Add {R} or {G}.",common,,,Land
-259,Tranquil Expanse,,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
+259,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
 {T}: Add {G} or {W}.",common,,,Land
-260,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+260,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land
 261,"Ajani, Wise Counselor",W,5.0,{3}{W}{W},,,5.0,"[+2]: You gain 1 life for each creature you control.
 [−3]: Creatures you control get +2/+2 until end of turn.
@@ -424,11 +424,11 @@ Other creatures you control have vigilance.",rare,"Flying, Vigilance",,Creature
 [−7]: Put any number of cards from your hand onto the battlefield face down. They're 5/5 artifact creatures.",mythic,,Legendary,Planeswalker
 267,Riddlemaster Sphinx,U,6.0,{4}{U}{U},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 When Riddlemaster Sphinx enters the battlefield, you may return target creature an opponent controls to its owner's hand.",rare,Flying,,Creature
-268,Pendulum of Patterns,,2.0,{2},,,,"When Pendulum of Patterns enters the battlefield, you gain 3 life.
+268,Pendulum of Patterns,C,2.0,{2},,,,"When Pendulum of Patterns enters the battlefield, you gain 3 life.
 {5}, {T}, Sacrifice Pendulum of Patterns: Draw a card.",common,,,Artifact
-269,Tezzeret's Gatebreaker,,4.0,{4},,,,"When Tezzeret's Gatebreaker enters the battlefield, look at the top five cards of your library. You may reveal a blue or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+269,Tezzeret's Gatebreaker,C,4.0,{4},,,,"When Tezzeret's Gatebreaker enters the battlefield, look at the top five cards of your library. You may reveal a blue or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 {5}{U}, {T}, Sacrifice Tezzeret's Gatebreaker: Creatures you control can't be blocked this turn.",rare,,,Artifact
-270,Tezzeret's Strider,,3.0,{3},3.0,1.0,,"As long as you control a Tezzeret planeswalker, Tezzeret's Strider has menace. (It can't be blocked except by two or more creatures.)",uncommon,,,"Artifact, Creature"
+270,Tezzeret's Strider,C,3.0,{3},3.0,1.0,,"As long as you control a Tezzeret planeswalker, Tezzeret's Strider has menace. (It can't be blocked except by two or more creatures.)",uncommon,,,"Artifact, Creature"
 271,"Liliana, the Necromancer",B,5.0,{3}{B}{B},,,4.0,"[+1]: Target player loses 2 life.
 [−1]: Return target creature card from your graveyard to your hand.
 [−7]: Destroy up to two target creatures. Put up to two creature cards from graveyards onto the battlefield under your control.",mythic,,Legendary,Planeswalker

@@ -601,35 +601,35 @@ At the beginning of your upkeep, mill a card. (Put the top card of your library 
 {2}{G}{U}, {T}, Sacrifice Vilespawn Spider: Create a 1/1 green Insect creature token for each creature card in your graveyard. Activate only as a sorcery.",uncommon,"Mill, Reach",,Creature
 298,Wandering Mind,"R, U",3.0,{1}{U}{R},2.0,1.0,,"Flying
 When Wandering Mind enters the battlefield, look at the top six cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",uncommon,Flying,,Creature
-299,Blood Servitor,,3.0,{3},2.0,2.0,,"When Blood Servitor enters the battlefield, create a Blood token. (It's an artifact with ""{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card."")",common,,,"Artifact, Creature"
-300,Boarded Window,,3.0,{3},,,,"Creatures attacking you get -1/-0.
+299,Blood Servitor,C,3.0,{3},2.0,2.0,,"When Blood Servitor enters the battlefield, create a Blood token. (It's an artifact with ""{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card."")",common,,,"Artifact, Creature"
+300,Boarded Window,C,3.0,{3},,,,"Creatures attacking you get -1/-0.
 At the beginning of each end step, if you were dealt 4 or more damage this turn, exile Boarded Window.",uncommon,,,Artifact
-301,Ceremonial Knife,,1.0,{1},,,,"Equipped creature gets +1/+0 and has ""Whenever this creature deals combat damage, create a Blood token."" (It's an artifact with ""{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card."")
+301,Ceremonial Knife,C,1.0,{1},,,,"Equipped creature gets +1/+0 and has ""Whenever this creature deals combat damage, create a Blood token."" (It's an artifact with ""{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card."")
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-302,Dollhouse of Horrors,,5.0,{5},,,,"{1}, {T}, Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has ""This creature gets +1/+1 for each Construct you control."" It gains haste until end of turn. Activate only as a sorcery.",rare,,,Artifact
-303,Foreboding Statue,,3.0,{3},1.0,2.0,,"{T}: Add one mana of any color. Put an omen counter on Foreboding Statue.
+302,Dollhouse of Horrors,C,5.0,{5},,,,"{1}, {T}, Exile a creature card from your graveyard: Create a token that's a copy of the exiled card, except it's a 0/0 Construct artifact in addition to its other types and it has ""This creature gets +1/+1 for each Construct you control."" It gains haste until end of turn. Activate only as a sorcery.",rare,,,Artifact
+303,Foreboding Statue,C,3.0,{3},1.0,2.0,,"{T}: Add one mana of any color. Put an omen counter on Foreboding Statue.
 At the beginning of your end step, if there are three or more omen counters on Foreboding Statue, untap it, then transform it.",uncommon,Transform,,"Artifact, Creature"
-304,Forsaken Thresher,,3.0,,5.0,5.0,,"At the beginning of your precombat main phase, add one mana of any color.",uncommon,,,"Artifact, Creature"
-305,Honored Heirloom,,3.0,{3},,,,"{T}: Add one mana of any color.
+304,Forsaken Thresher,C,3.0,,5.0,5.0,,"At the beginning of your precombat main phase, add one mana of any color.",uncommon,,,"Artifact, Creature"
+305,Honored Heirloom,C,3.0,{3},,,,"{T}: Add one mana of any color.
 {2}, {T}: Exile target card from a graveyard.",common,,,Artifact
-306,Investigator's Journal,,2.0,{2},,,,"Investigator's Journal enters the battlefield with a number of suspect counters on it equal to the greatest number of creatures a player controls.
+306,Investigator's Journal,C,2.0,{2},,,,"Investigator's Journal enters the battlefield with a number of suspect counters on it equal to the greatest number of creatures a player controls.
 {2}, {T}, Remove a suspect counter from Investigator's Journal: Draw a card.
 {2}, Sacrifice Investigator's Journal: Draw a card.",rare,,,Artifact
-307,Lantern of the Lost,,1.0,{1},,,,"When Lantern of the Lost enters the battlefield, exile target card from a graveyard.
+307,Lantern of the Lost,C,1.0,{1},,,,"When Lantern of the Lost enters the battlefield, exile target card from a graveyard.
 {1}, {T}, Exile Lantern of the Lost: Exile all cards from all graveyards, then draw a card.",uncommon,,,Artifact
-308,Wedding Invitation,,2.0,{2},,,,"When Wedding Invitation enters the battlefield, draw a card.
+308,Wedding Invitation,C,2.0,{2},,,,"When Wedding Invitation enters the battlefield, draw a card.
 {T}, Sacrifice Wedding Invitation: Target creature can't be blocked this turn. If it's a Vampire, it also gains lifelink until end of turn.",common,,,Artifact
-309,Deathcap Glade,,0.0,,,,,"Deathcap Glade enters the battlefield tapped unless you control two or more other lands.
+309,Deathcap Glade,L,0.0,,,,,"Deathcap Glade enters the battlefield tapped unless you control two or more other lands.
 {T}: Add {B} or {G}.",rare,,,Land
-310,Dreamroot Cascade,,0.0,,,,,"Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands.
+310,Dreamroot Cascade,L,0.0,,,,,"Dreamroot Cascade enters the battlefield tapped unless you control two or more other lands.
 {T}: Add {G} or {U}.",rare,,,Land
-311,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-312,Shattered Sanctum,,0.0,,,,,"Shattered Sanctum enters the battlefield tapped unless you control two or more other lands.
+311,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+312,Shattered Sanctum,L,0.0,,,,,"Shattered Sanctum enters the battlefield tapped unless you control two or more other lands.
 {T}: Add {W} or {B}.",rare,,,Land
-313,Stormcarved Coast,,0.0,,,,,"Stormcarved Coast enters the battlefield tapped unless you control two or more other lands.
+313,Stormcarved Coast,L,0.0,,,,,"Stormcarved Coast enters the battlefield tapped unless you control two or more other lands.
 {T}: Add {U} or {R}.",rare,,,Land
-314,Sundown Pass,,0.0,,,,,"Sundown Pass enters the battlefield tapped unless you control two or more other lands.
+314,Sundown Pass,L,0.0,,,,,"Sundown Pass enters the battlefield tapped unless you control two or more other lands.
 {T}: Add {R} or {W}.",rare,,,Land
-315,Voldaren Estate,,0.0,,,,,"{T}: Add {C}.
+315,Voldaren Estate,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a Vampire spell.
 {5}, {T}: Create a Blood token. This ability costs {1} less to activate for each Vampire you control. (It's an artifact with ""{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card."")",rare,,,Land

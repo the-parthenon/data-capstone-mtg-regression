@@ -563,108 +563,108 @@ Other Ninja and Rogue creatures you control get +1/+1.",uncommon,Ninjutsu,,Creat
 [+1]: Tap up to one target artifact or creature. It doesn't untap during its controller's next untap step.
 [−X]: Exile target nonland permanent card with mana value X from your graveyard. Create a token that's a copy of that card.
 [−7]: Create Tamiyo's Notebook, a legendary colorless artifact token with ""Spells you cast cost {2} less to cast"" and ""{T}: Draw a card.""",mythic,Compleated,Legendary,Planeswalker
-261,Automated Artificer,,2.0,{2},1.0,3.0,,{T}: Add {C}. Spend this mana only to activate an ability or cast an artifact spell.,common,,,"Artifact, Creature"
-262,Bronze Cudgels,,1.0,{1},,,,"{2}: Until end of turn, equipped creature gets +X/+0, where X is the number of times this ability has resolved this turn.
+261,Automated Artificer,C,2.0,{2},1.0,3.0,,{T}: Add {C}. Spend this mana only to activate an ability or cast an artifact spell.,common,,,"Artifact, Creature"
+262,Bronze Cudgels,C,1.0,{1},,,,"{2}: Until end of turn, equipped creature gets +X/+0, where X is the number of times this ability has resolved this turn.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-263,Brute Suit,,3.0,{3},4.0,3.0,,"Vigilance
+263,Brute Suit,C,3.0,{3},4.0,3.0,,"Vigilance
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Vigilance",,Artifact
-264,Circuit Mender,,3.0,{3},2.0,3.0,,"When Circuit Mender enters the battlefield, you gain 2 life.
+264,Circuit Mender,C,3.0,{3},2.0,3.0,,"When Circuit Mender enters the battlefield, you gain 2 life.
 When Circuit Mender leaves the battlefield, draw a card.",uncommon,,,"Artifact, Creature"
-265,Containment Construct,,2.0,{2},2.0,1.0,,"Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.",uncommon,,,"Artifact, Creature"
-266,Dramatist's Puppet,,4.0,{4},2.0,4.0,,"When Dramatist's Puppet enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.",common,,,"Artifact, Creature"
-267,Eater of Virtue,,1.0,{1},,,,"Whenever equipped creature dies, exile it.
+265,Containment Construct,C,2.0,{2},2.0,1.0,,"Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.",uncommon,,,"Artifact, Creature"
+266,Dramatist's Puppet,C,4.0,{4},2.0,4.0,,"When Dramatist's Puppet enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.",common,,,"Artifact, Creature"
+267,Eater of Virtue,C,1.0,{1},,,,"Whenever equipped creature dies, exile it.
 Equipped creature gets +2/+0.
 As long as a card exiled with Eater of Virtue has flying, equipped creature has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.
 Equip {1}",rare,Equip,Legendary,Artifact
-268,Ecologist's Terrarium,,2.0,{2},,,,"When Ecologist's Terrarium enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+268,Ecologist's Terrarium,C,2.0,{2},,,,"When Ecologist's Terrarium enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {2}, {T}, Sacrifice Ecologist's Terrarium: Put a +1/+1 counter on target creature. Activate only as a sorcery.",common,,,Artifact
-269,High-Speed Hoverbike,,2.0,{2},2.0,2.0,,"Flash
+269,High-Speed Hoverbike,C,2.0,{2},2.0,2.0,,"Flash
 Flying
 When High-Speed Hoverbike enters the battlefield, tap up to one target creature.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Flash, Flying",,Artifact
-270,Iron Apprentice,,1.0,{1},0.0,0.0,,"Iron Apprentice enters the battlefield with a +1/+1 counter on it.
+270,Iron Apprentice,C,1.0,{1},0.0,0.0,,"Iron Apprentice enters the battlefield with a +1/+1 counter on it.
 When Iron Apprentice dies, if it had counters on it, put those counters on target creature you control.",common,,,"Artifact, Creature"
-271,Mechtitan Core,,2.0,{2},2.0,4.0,,"{5}, Exile Mechtitan Core and four other artifact creatures and/or Vehicles you control: Create Mechtitan, a legendary 10/10 Construct artifact creature token with flying, vigilance, trample, lifelink, and haste that's all colors. When that token leaves the battlefield, return all cards exiled with Mechtitan Core except Mechtitan Core to the battlefield tapped under their owners' control.
+271,Mechtitan Core,C,2.0,{2},2.0,4.0,,"{5}, Exile Mechtitan Core and four other artifact creatures and/or Vehicles you control: Create Mechtitan, a legendary 10/10 Construct artifact creature token with flying, vigilance, trample, lifelink, and haste that's all colors. When that token leaves the battlefield, return all cards exiled with Mechtitan Core except Mechtitan Core to the battlefield tapped under their owners' control.
 Crew 2",rare,Crew,,Artifact
-272,Mirror Box,,3.0,{3},,,,"The ""legend rule"" doesn't apply to permanents you control.
+272,Mirror Box,C,3.0,{3},,,,"The ""legend rule"" doesn't apply to permanents you control.
 Each legendary creature you control gets +1/+1.
 Each nontoken creature you control gets +1/+1 for each other creature you control with the same name as that creature.",rare,,,Artifact
-273,Network Terminal,,3.0,{3},,,,"{T}: Add one mana of any color.
+273,Network Terminal,C,3.0,{3},,,,"{T}: Add one mana of any color.
 {1}, {T}, Tap another untapped artifact you control: Draw a card, then discard a card.",common,,,Artifact
-274,Ninja's Kunai,,1.0,{1},,,,"Equipped creature has ""{1}, {T}, Sacrifice Ninja's Kunai: Ninja's Kunai deals 3 damage to any target.""
+274,Ninja's Kunai,C,1.0,{1},,,,"Equipped creature has ""{1}, {T}, Sacrifice Ninja's Kunai: Ninja's Kunai deals 3 damage to any target.""
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-275,Papercraft Decoy,,2.0,{2},2.0,1.0,,"When Papercraft Decoy leaves the battlefield, you may pay {2}. If you do, draw a card.",common,,,"Artifact, Creature"
-276,Patchwork Automaton,,2.0,{2},1.0,1.0,,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+275,Papercraft Decoy,C,2.0,{2},2.0,1.0,,"When Papercraft Decoy leaves the battlefield, you may pay {2}. If you do, draw a card.",common,,,"Artifact, Creature"
+276,Patchwork Automaton,C,2.0,{2},1.0,1.0,,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever you cast an artifact spell, put a +1/+1 counter on Patchwork Automaton.",uncommon,Ward,,"Artifact, Creature"
-277,Reckoner Bankbuster,,2.0,{2},4.0,4.0,,"Reckoner Bankbuster enters the battlefield with three charge counters on it.
+277,Reckoner Bankbuster,C,2.0,{2},4.0,4.0,,"Reckoner Bankbuster enters the battlefield with three charge counters on it.
 {2}, {T}, Remove a charge counter from Reckoner Bankbuster: Draw a card. Then if there are no charge counters on Reckoner Bankbuster, create a Treasure token and a 1/1 colorless Pilot creature token with ""This creature crews Vehicles as though its power were 2 greater.""
 Crew 3",rare,Crew,,Artifact
-278,Reito Sentinel,,3.0,{3},3.0,3.0,,"Defender
+278,Reito Sentinel,C,3.0,{3},3.0,3.0,,"Defender
 When Reito Sentinel enters the battlefield, target player mills three cards. (They put the top three cards of their library into their graveyard.)
 {3}: Put target card from a graveyard on the bottom of its owner's library.",uncommon,"Defender, Mill",,"Artifact, Creature"
-279,Runaway Trash-Bot,,3.0,{3},0.0,4.0,,"Trample
+279,Runaway Trash-Bot,C,3.0,{3},0.0,4.0,,"Trample
 Runaway Trash-Bot gets +1/+0 for each artifact and/or enchantment card in your graveyard.",uncommon,Trample,,"Artifact, Creature"
-280,Searchlight Companion,,3.0,{3},1.0,1.0,,"Flying
+280,Searchlight Companion,C,3.0,{3},1.0,1.0,,"Flying
 When Searchlight Companion enters the battlefield, create a 1/1 colorless Spirit creature token.",common,Flying,,"Artifact, Creature"
-281,Shrine Steward,,5.0,{5},3.0,2.0,,"When Shrine Steward enters the battlefield, you may search your library for an Aura or Shrine card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
-282,Surgehacker Mech,,4.0,{4},5.0,5.0,,"Menace
+281,Shrine Steward,C,5.0,{5},3.0,2.0,,"When Shrine Steward enters the battlefield, you may search your library for an Aura or Shrine card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
+282,Surgehacker Mech,C,4.0,{4},5.0,5.0,,"Menace
 When Surgehacker Mech enters the battlefield, it deals damage equal to twice the number of Vehicles you control to target creature or planeswalker an opponent controls.
 Crew 4",rare,"Crew, Menace",,Artifact
-283,Thundersteel Colossus,,7.0,{7},7.0,7.0,,"Trample, haste
+283,Thundersteel Colossus,C,7.0,{7},7.0,7.0,,"Trample, haste
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Haste, Trample",,Artifact
-284,Towashi Guide-Bot,,4.0,{4},2.0,1.0,,"When Towashi Guide-Bot enters the battlefield, put a +1/+1 counter on target creature you control.
+284,Towashi Guide-Bot,C,4.0,{4},2.0,1.0,,"When Towashi Guide-Bot enters the battlefield, put a +1/+1 counter on target creature you control.
 {4}, {T}: Draw a card. This ability costs {1} less to activate for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)",uncommon,,,"Artifact, Creature"
-285,Walking Skyscraper,,8.0,{8},8.0,8.0,,"This spell costs {1} less to cast for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
+285,Walking Skyscraper,C,8.0,{8},8.0,8.0,,"This spell costs {1} less to cast for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
 Trample
 Walking Skyscraper has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)",uncommon,Trample,,"Artifact, Creature"
-286,Bloodfell Caves,,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+286,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
 {T}: Add {B} or {R}.",common,,,Land
-287,Blossoming Sands,,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+287,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
 {T}: Add {G} or {W}.",common,,,Land
-288,"Boseiju, Who Endures",,0.0,,,,,"{T}: Add {G}.
+288,"Boseiju, Who Endures",L,0.0,,,,,"{T}: Add {G}.
 Channel — {1}{G}, Discard Boseiju, Who Endures: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land
-289,Dismal Backwater,,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+289,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
 {T}: Add {U} or {B}.",common,,,Land
-290,"Eiganjo, Seat of the Empire",,0.0,,,,,"{T}: Add {W}.
+290,"Eiganjo, Seat of the Empire",L,0.0,,,,,"{T}: Add {W}.
 Channel — {2}{W}, Discard Eiganjo, Seat of the Empire: It deals 4 damage to target attacking or blocking creature. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land
-291,Jungle Hollow,,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+291,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
 {T}: Add {B} or {G}.",common,,,Land
-292,Mech Hangar,,0.0,,,,,"{T}: Add {C}.
+292,Mech Hangar,L,0.0,,,,,"{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a Pilot or Vehicle spell.
 {3}, {T}: Target Vehicle becomes an artifact creature until end of turn.",uncommon,,,Land
-293,"Otawara, Soaring City",,0.0,,,,,"{T}: Add {U}.
+293,"Otawara, Soaring City",L,0.0,,,,,"{T}: Add {U}.
 Channel — {3}{U}, Discard Otawara, Soaring City: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land
-294,Roadside Reliquary,,0.0,,,,,"{T}: Add {C}.
+294,Roadside Reliquary,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Roadside Reliquary: Draw a card if you control an artifact. Draw a card if you control an enchantment.",uncommon,,,Land
-295,Rugged Highlands,,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+295,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
 {T}: Add {R} or {G}.",common,,,Land
-296,Scoured Barrens,,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+296,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
 {T}: Add {W} or {B}.",common,,,Land
-297,Secluded Courtyard,,0.0,,,,,"As Secluded Courtyard enters the battlefield, choose a creature type.
+297,Secluded Courtyard,L,0.0,,,,,"As Secluded Courtyard enters the battlefield, choose a creature type.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature or creature card of the chosen type.",uncommon,,,Land
-298,"Sokenzan, Crucible of Defiance",,0.0,,,,,"{T}: Add {R}.
+298,"Sokenzan, Crucible of Defiance",L,0.0,,,,,"{T}: Add {R}.
 Channel — {3}{R}, Discard Sokenzan, Crucible of Defiance: Create two 1/1 colorless Spirit creature tokens. They gain haste until end of turn. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land
-299,Swiftwater Cliffs,,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+299,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 {T}: Add {U} or {R}.",common,,,Land
-300,"Takenuma, Abandoned Mire",,0.0,,,,,"{T}: Add {B}.
+300,"Takenuma, Abandoned Mire",L,0.0,,,,,"{T}: Add {B}.
 Channel — {3}{B}, Discard Takenuma, Abandoned Mire: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control.",rare,"Channel, Mill",Legendary,Land
-301,Thornwood Falls,,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+301,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land
-302,Tranquil Cove,,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+302,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
 {T}: Add {W} or {U}.",common,,,Land
-303,Uncharted Haven,,0.0,,,,,"Uncharted Haven enters the battlefield tapped.
+303,Uncharted Haven,L,0.0,,,,,"Uncharted Haven enters the battlefield tapped.
 As Uncharted Haven enters the battlefield, choose a color.
 {T}: Add one mana of the chosen color.",common,,,Land
-304,Wind-Scarred Crag,,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+304,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land

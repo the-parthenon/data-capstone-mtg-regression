@@ -243,75 +243,75 @@ When enchanted artifact is put into a graveyard, return that card to its owner's
 138,Weldfast Engineer,"B, R",3.0,{1}{B}{R},3.0,3.0,,"At the beginning of combat on your turn, target artifact creature you control gets +2/+0 until end of turn.",uncommon,,,Creature
 139,Winding Constrictor,"B, G",2.0,{B}{G},2.0,3.0,,"If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
 If you would get one or more counters, you get that many plus one of each of those kinds of counters instead.",uncommon,,,Creature
-140,Aegis Automaton,,2.0,{2},0.0,3.0,,{4}{W}: Return another target creature you control to its owner's hand.,common,,,"Artifact, Creature"
-141,Aethersphere Harvester,,3.0,{3},3.0,5.0,,"Flying
+140,Aegis Automaton,C,2.0,{2},0.0,3.0,,{4}{W}: Return another target creature you control to its owner's hand.,common,,,"Artifact, Creature"
+141,Aethersphere Harvester,C,3.0,{3},3.0,5.0,,"Flying
 When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).
 Pay {E}: Aethersphere Harvester gains lifelink until end of turn.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, Flying",,Artifact
-142,Augmenting Automaton,,1.0,{1},1.0,1.0,,{1}{B}: Augmenting Automaton gets +1/+1 until end of turn.,common,,,"Artifact, Creature"
-143,Barricade Breaker,,7.0,{7},7.0,5.0,,"Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
+142,Augmenting Automaton,C,1.0,{1},1.0,1.0,,{1}{B}: Augmenting Automaton gets +1/+1 until end of turn.,common,,,"Artifact, Creature"
+143,Barricade Breaker,C,7.0,{7},7.0,5.0,,"Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)
 Barricade Breaker attacks each combat if able.",uncommon,Improvise,,"Artifact, Creature"
-144,Cogwork Assembler,,3.0,{3},2.0,3.0,,{7}: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.,uncommon,,,"Artifact, Creature"
-145,Consulate Dreadnought,,1.0,{1},7.0,11.0,,Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.),uncommon,Crew,,Artifact
-146,Consulate Turret,,3.0,{3},,,,"{T}: You get {E} (an energy counter).
+144,Cogwork Assembler,C,3.0,{3},2.0,3.0,,{7}: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.,uncommon,,,"Artifact, Creature"
+145,Consulate Dreadnought,C,1.0,{1},7.0,11.0,,Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.),uncommon,Crew,,Artifact
+146,Consulate Turret,C,3.0,{3},,,,"{T}: You get {E} (an energy counter).
 {T}, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or planeswalker.",common,,,Artifact
-147,Crackdown Construct,,4.0,{4},2.0,2.0,,"Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.",uncommon,,,"Artifact, Creature"
-148,Daredevil Dragster,,3.0,{3},4.0,4.0,,"At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards.
+147,Crackdown Construct,C,4.0,{4},2.0,2.0,,"Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.",uncommon,,,"Artifact, Creature"
+148,Daredevil Dragster,C,3.0,{3},4.0,4.0,,"At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact
-149,Filigree Crawler,,4.0,{4},2.0,2.0,,"When Filigree Crawler dies, create a 1/1 colorless Thopter artifact creature token with flying.",common,,,"Artifact, Creature"
-150,Foundry Assembler,,5.0,{5},3.0,3.0,,Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.),common,Improvise,,"Artifact, Creature"
-151,Gonti's Aether Heart,,6.0,{6},,,,"Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).
+149,Filigree Crawler,C,4.0,{4},2.0,2.0,,"When Filigree Crawler dies, create a 1/1 colorless Thopter artifact creature token with flying.",common,,,"Artifact, Creature"
+150,Foundry Assembler,C,5.0,{5},3.0,3.0,,Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.),common,Improvise,,"Artifact, Creature"
+151,Gonti's Aether Heart,C,6.0,{6},,,,"Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).
 Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one.",mythic,,Legendary,Artifact
-152,Heart of Kiran,,2.0,{2},4.0,4.0,,"Flying, vigilance
+152,Heart of Kiran,C,2.0,{2},4.0,4.0,,"Flying, vigilance
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 You may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran's crew cost.",mythic,"Crew, Flying, Vigilance",Legendary,Artifact
-153,Hope of Ghirapur,,1.0,{1},1.0,1.0,,"Flying
+153,Hope of Ghirapur,C,1.0,{1},1.0,1.0,,"Flying
 Sacrifice Hope of Ghirapur: Until your next turn, target player who was dealt combat damage by Hope of Ghirapur this turn can't cast noncreature spells.",rare,Flying,Legendary,"Artifact, Creature"
-154,Implement of Combustion,,1.0,{1},,,,"{R}, Sacrifice Implement of Combustion: It deals 1 damage to target player or planeswalker.
+154,Implement of Combustion,C,1.0,{1},,,,"{R}, Sacrifice Implement of Combustion: It deals 1 damage to target player or planeswalker.
 When Implement of Combustion is put into a graveyard from the battlefield, draw a card.",common,,,Artifact
-155,Implement of Examination,,3.0,{3},,,,"{U}, Sacrifice Implement of Examination: Draw a card.
+155,Implement of Examination,C,3.0,{3},,,,"{U}, Sacrifice Implement of Examination: Draw a card.
 When Implement of Examination is put into a graveyard from the battlefield, draw a card.",common,,,Artifact
-156,Implement of Ferocity,,1.0,{1},,,,"{G}, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+156,Implement of Ferocity,C,1.0,{1},,,,"{G}, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate only as a sorcery.
 When Implement of Ferocity is put into a graveyard from the battlefield, draw a card.",common,,,Artifact
-157,Implement of Improvement,,1.0,{1},,,,"{W}, Sacrifice Implement of Improvement: You gain 2 life.
+157,Implement of Improvement,C,1.0,{1},,,,"{W}, Sacrifice Implement of Improvement: You gain 2 life.
 When Implement of Improvement is put into a graveyard from the battlefield, draw a card.",common,,,Artifact
-158,Implement of Malice,,2.0,{2},,,,"{B}, Sacrifice Implement of Malice: Target player discards a card. Activate only as a sorcery.
+158,Implement of Malice,C,2.0,{2},,,,"{B}, Sacrifice Implement of Malice: Target player discards a card. Activate only as a sorcery.
 When Implement of Malice is put into a graveyard from the battlefield, draw a card.",common,,,Artifact
-159,Inspiring Statuary,,3.0,{3},,,,Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.),rare,,,Artifact
-160,Irontread Crusher,,4.0,{4},6.0,6.0,,Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.),common,Crew,,Artifact
-161,Lifecrafter's Bestiary,,3.0,{3},,,,"At the beginning of your upkeep, scry 1.
+159,Inspiring Statuary,C,3.0,{3},,,,Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for {1}.),rare,,,Artifact
+160,Irontread Crusher,C,4.0,{4},6.0,6.0,,Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.),common,Crew,,Artifact
+161,Lifecrafter's Bestiary,C,3.0,{3},,,,"At the beginning of your upkeep, scry 1.
 Whenever you cast a creature spell, you may pay {G}. If you do, draw a card.",rare,Scry,,Artifact
-162,Merchant's Dockhand,,1.0,{1},1.0,2.0,,"{3}{U}, {T}, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",rare,,,"Artifact, Creature"
-163,Metallic Mimic,,2.0,{2},2.0,1.0,,"As Metallic Mimic enters the battlefield, choose a creature type.
+162,Merchant's Dockhand,C,1.0,{1},1.0,2.0,,"{3}{U}, {T}, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",rare,,,"Artifact, Creature"
+163,Metallic Mimic,C,2.0,{2},2.0,1.0,,"As Metallic Mimic enters the battlefield, choose a creature type.
 Metallic Mimic is the chosen type in addition to its other types.
 Each other creature you control of the chosen type enters the battlefield with an additional +1/+1 counter on it.",rare,,,"Artifact, Creature"
-164,Mobile Garrison,,3.0,{3},3.0,4.0,,"Whenever Mobile Garrison attacks, untap another target artifact or creature you control.
+164,Mobile Garrison,C,3.0,{3},3.0,4.0,,"Whenever Mobile Garrison attacks, untap another target artifact or creature you control.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",common,Crew,,Artifact
-165,Night Market Guard,,3.0,{3},3.0,1.0,,Night Market Guard can block an additional creature each combat.,common,,,"Artifact, Creature"
-166,Ornithopter,,0.0,{0},0.0,2.0,,Flying,uncommon,Flying,,"Artifact, Creature"
-167,Pacification Array,,1.0,{1},,,,"{2}, {T}: Tap target artifact or creature.",uncommon,,,Artifact
-168,Paradox Engine,,5.0,{5},,,,"Whenever you cast a spell, untap all nonland permanents you control.",mythic,,Legendary,Artifact
-169,Peacewalker Colossus,,3.0,{3},6.0,6.0,,"{1}{W}: Another target Vehicle you control becomes an artifact creature until end of turn.
+165,Night Market Guard,C,3.0,{3},3.0,1.0,,Night Market Guard can block an additional creature each combat.,common,,,"Artifact, Creature"
+166,Ornithopter,C,0.0,{0},0.0,2.0,,Flying,uncommon,Flying,,"Artifact, Creature"
+167,Pacification Array,C,1.0,{1},,,,"{2}, {T}: Tap target artifact or creature.",uncommon,,,Artifact
+168,Paradox Engine,C,5.0,{5},,,,"Whenever you cast a spell, untap all nonland permanents you control.",mythic,,Legendary,Artifact
+169,Peacewalker Colossus,C,3.0,{3},6.0,6.0,,"{1}{W}: Another target Vehicle you control becomes an artifact creature until end of turn.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact
-170,Planar Bridge,,6.0,{6},,,,"{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle.",mythic,,Legendary,Artifact
-171,Prizefighter Construct,,5.0,{5},6.0,2.0,,,common,,,"Artifact, Creature"
-172,Renegade Map,,1.0,{1},,,,"Renegade Map enters the battlefield tapped.
+170,Planar Bridge,C,6.0,{6},,,,"{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle.",mythic,,Legendary,Artifact
+171,Prizefighter Construct,C,5.0,{5},6.0,2.0,,,common,,,"Artifact, Creature"
+172,Renegade Map,C,1.0,{1},,,,"Renegade Map enters the battlefield tapped.
 {T}, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
-173,Reservoir Walker,,5.0,{5},3.0,3.0,,"When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).",common,,,"Artifact, Creature"
-174,Scrap Trawler,,3.0,{3},3.0,2.0,,"Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.",rare,,,"Artifact, Creature"
-175,Servo Schematic,,2.0,{2},,,,"When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.",uncommon,,,Artifact
-176,Treasure Keeper,,4.0,{4},3.0,3.0,,"When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.",uncommon,,,"Artifact, Creature"
-177,Universal Solvent,,1.0,{1},,,,"{7}, {T}, Sacrifice Universal Solvent: Destroy target permanent.",common,,,Artifact
-178,Untethered Express,,4.0,{4},4.0,4.0,,"Trample
+173,Reservoir Walker,C,5.0,{5},3.0,3.0,,"When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).",common,,,"Artifact, Creature"
+174,Scrap Trawler,C,3.0,{3},3.0,2.0,,"Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.",rare,,,"Artifact, Creature"
+175,Servo Schematic,C,2.0,{2},,,,"When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.",uncommon,,,Artifact
+176,Treasure Keeper,C,4.0,{4},3.0,3.0,,"When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with mana value 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.",uncommon,,,"Artifact, Creature"
+177,Universal Solvent,C,1.0,{1},,,,"{7}, {T}, Sacrifice Universal Solvent: Destroy target permanent.",common,,,Artifact
+178,Untethered Express,C,4.0,{4},4.0,4.0,,"Trample
 Whenever Untethered Express attacks, put a +1/+1 counter on it.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Trample",,Artifact
-179,Verdant Automaton,,2.0,{2},1.0,2.0,,{3}{G}: Put a +1/+1 counter on Verdant Automaton.,common,,,"Artifact, Creature"
-180,Walking Ballista,,0.0,{X}{X},0.0,0.0,,"Walking Ballista enters the battlefield with X +1/+1 counters on it.
+179,Verdant Automaton,C,2.0,{2},1.0,2.0,,{3}{G}: Put a +1/+1 counter on Verdant Automaton.,common,,,"Artifact, Creature"
+180,Walking Ballista,C,0.0,{X}{X},0.0,0.0,,"Walking Ballista enters the battlefield with X +1/+1 counters on it.
 {4}: Put a +1/+1 counter on Walking Ballista.
 Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.",rare,,,"Artifact, Creature"
-181,Watchful Automaton,,3.0,{3},2.0,2.0,,{2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),common,Scry,,"Artifact, Creature"
-182,Welder Automaton,,2.0,{2},2.0,1.0,,{3}{R}: Welder Automaton deals 1 damage to each opponent.,common,,,"Artifact, Creature"
-183,Spire of Industry,,0.0,,,,,"{T}: Add {C}.
+181,Watchful Automaton,C,3.0,{3},2.0,2.0,,{2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),common,Scry,,"Artifact, Creature"
+182,Welder Automaton,C,2.0,{2},2.0,1.0,,{3}{R}: Welder Automaton deals 1 damage to each opponent.,common,,,"Artifact, Creature"
+183,Spire of Industry,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add one mana of any color. Activate only if you control an artifact.",rare,,,Land
 184,"Ajani, Valiant Protector","G, W",6.0,{4}{G}{W},,,4.0,"[+2]: Put two +1/+1 counters on up to one target creature.
 [+1]: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
@@ -321,14 +321,14 @@ Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.",
 At the beginning of combat on your turn, if you control an Ajani planeswalker, put a +1/+1 counter on Ajani's Comrade.",uncommon,Trample,,Creature
 187,Ajani's Aid,"G, W",4.0,{2}{G}{W},,,,"When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle.
 Sacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would deal this turn.",rare,,,Enchantment
-188,Tranquil Expanse,,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
+188,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
 {T}: Add {G} or {W}.",common,,,Land
 189,"Tezzeret, Master of Metal","B, U",6.0,{4}{U}{B},,,5.0,"[+1]: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
 [−3]: Target opponent loses life equal to the number of artifacts you control.
 [−8]: Gain control of all artifacts and creatures target opponent controls.",mythic,,Legendary,Planeswalker
 190,Tezzeret's Betrayal,"B, U",5.0,{3}{U}{B},,,,"Destroy target creature. You may search your library and/or graveyard for a card named Tezzeret, Master of Metal, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
-191,Pendulum of Patterns,,2.0,{2},,,,"When Pendulum of Patterns enters the battlefield, you gain 3 life.
+191,Pendulum of Patterns,C,2.0,{2},,,,"When Pendulum of Patterns enters the battlefield, you gain 3 life.
 {5}, {T}, Sacrifice Pendulum of Patterns: Draw a card.",common,,,Artifact
-192,Tezzeret's Simulacrum,,3.0,{3},2.0,3.0,,"{T}: Target opponent loses 1 life. If you control a Tezzeret planeswalker, that player loses 3 life instead.",uncommon,,,"Artifact, Creature"
-193,Submerged Boneyard,,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
+192,Tezzeret's Simulacrum,C,3.0,{3},2.0,3.0,,"{T}: Target opponent loses 1 life. If you control a Tezzeret planeswalker, that player loses 3 life instead.",uncommon,,,"Artifact, Creature"
+193,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
 {T}: Add {U} or {B}.",common,,,Land

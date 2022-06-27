@@ -394,55 +394,55 @@ When Whisper Agent enters the battlefield, surveil 1. (Look at the top card of y
 237,Resurgence,"W, R",7.0,{3}{R}{W},,,,"Creatures you control gain first strike and vigilance until end of turn. After this main phase, there is an additional combat phase followed by an additional main phase.",rare,,,Sorcery
 238,Status,"B, G",5.0,{B/G},,,,Target creature gets +1/+1 and gains deathtouch until end of turn.,uncommon,,,Instant
 239,Statue,"B, G",5.0,{2}{B}{G},,,,"Destroy target artifact, creature, or enchantment.",uncommon,,,Instant
-240,Boros Locket,,3.0,{3},,,,"{T}: Add {R} or {W}.
+240,Boros Locket,C,3.0,{3},,,,"{T}: Add {R} or {W}.
 {R/W}{R/W}{R/W}{R/W}, {T}, Sacrifice Boros Locket: Draw two cards.",common,,,Artifact
-241,Chamber Sentry,,0.0,{X},0.0,0.0,,"Chamber Sentry enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
+241,Chamber Sentry,C,0.0,{X},0.0,0.0,,"Chamber Sentry enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
 {X}, {T}, Remove X +1/+1 counters from Chamber Sentry: It deals X damage to any target.
 {W}{U}{B}{R}{G}: Return Chamber Sentry from your graveyard to your hand.",rare,,,"Artifact, Creature"
-242,Chromatic Lantern,,3.0,{3},,,,"Lands you control have ""{T}: Add one mana of any color.""
+242,Chromatic Lantern,C,3.0,{3},,,,"Lands you control have ""{T}: Add one mana of any color.""
 {T}: Add one mana of any color.",rare,,,Artifact
-243,Dimir Locket,,3.0,{3},,,,"{T}: Add {U} or {B}.
+243,Dimir Locket,C,3.0,{3},,,,"{T}: Add {U} or {B}.
 {U/B}{U/B}{U/B}{U/B}, {T}, Sacrifice Dimir Locket: Draw two cards.",common,,,Artifact
-244,Gatekeeper Gargoyle,,6.0,{6},3.0,3.0,,"Flying
+244,Gatekeeper Gargoyle,C,6.0,{6},3.0,3.0,,"Flying
 Gatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for each Gate you control.",uncommon,Flying,,"Artifact, Creature"
-245,Glaive of the Guildpact,,2.0,{2},,,,"Equipped creature gets +1/+0 for each Gate you control and has vigilance and menace. (A creature with menace can't be blocked except by two or more creatures.)
+245,Glaive of the Guildpact,C,2.0,{2},,,,"Equipped creature gets +1/+0 for each Gate you control and has vigilance and menace. (A creature with menace can't be blocked except by two or more creatures.)
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-246,Golgari Locket,,3.0,{3},,,,"{T}: Add {B} or {G}.
+246,Golgari Locket,C,3.0,{3},,,,"{T}: Add {B} or {G}.
 {B/G}{B/G}{B/G}{B/G}, {T}, Sacrifice Golgari Locket: Draw two cards.",common,,,Artifact
-247,Izzet Locket,,3.0,{3},,,,"{T}: Add {U} or {R}.
+247,Izzet Locket,C,3.0,{3},,,,"{T}: Add {U} or {R}.
 {U/R}{U/R}{U/R}{U/R}, {T}, Sacrifice Izzet Locket: Draw two cards.",common,,,Artifact
-248,Rampaging Monument,,4.0,{4},0.0,0.0,,"Trample
+248,Rampaging Monument,C,4.0,{4},0.0,0.0,,"Trample
 Rampaging Monument enters the battlefield with three +1/+1 counters on it.
 Whenever you cast a multicolored spell, put a +1/+1 counter on Rampaging Monument.",uncommon,Trample,,"Artifact, Creature"
-249,Selesnya Locket,,3.0,{3},,,,"{T}: Add {G} or {W}.
+249,Selesnya Locket,C,3.0,{3},,,,"{T}: Add {G} or {W}.
 {G/W}{G/W}{G/W}{G/W}, {T}, Sacrifice Selesnya Locket: Draw two cards.",common,,,Artifact
-250,Silent Dart,,1.0,{1},,,,"{4}, {T}, Sacrifice Silent Dart: It deals 3 damage to target creature.",uncommon,,,Artifact
-251,Wand of Vertebrae,,1.0,{1},,,,"{T}: Mill a card.
+250,Silent Dart,C,1.0,{1},,,,"{4}, {T}, Sacrifice Silent Dart: It deals 3 damage to target creature.",uncommon,,,Artifact
+251,Wand of Vertebrae,C,1.0,{1},,,,"{T}: Mill a card.
 {2}, {T}, Exile Wand of Vertebrae: Shuffle up to five target cards from your graveyard into your library.",uncommon,Mill,,Artifact
-252,Boros Guildgate,,0.0,,,,,"Boros Guildgate enters the battlefield tapped.
+252,Boros Guildgate,L,0.0,,,,,"Boros Guildgate enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land
-253,Dimir Guildgate,,0.0,,,,,"Dimir Guildgate enters the battlefield tapped.
+253,Dimir Guildgate,L,0.0,,,,,"Dimir Guildgate enters the battlefield tapped.
 {T}: Add {U} or {B}.",common,,,Land
-254,Gateway Plaza,,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
+254,Gateway Plaza,L,0.0,,,,,"Gateway Plaza enters the battlefield tapped.
 When Gateway Plaza enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color.",common,,,Land
-255,Golgari Guildgate,,0.0,,,,,"Golgari Guildgate enters the battlefield tapped.
+255,Golgari Guildgate,L,0.0,,,,,"Golgari Guildgate enters the battlefield tapped.
 {T}: Add {B} or {G}.",common,,,Land
-256,Guildmages' Forum,,0.0,,,,,"{T}: Add {C}.
+256,Guildmages' Forum,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color. If that mana is spent on a multicolored creature spell, that creature enters the battlefield with an additional +1/+1 counter on it.",rare,,,Land
-257,Izzet Guildgate,,0.0,,,,,"Izzet Guildgate enters the battlefield tapped.
+257,Izzet Guildgate,L,0.0,,,,,"Izzet Guildgate enters the battlefield tapped.
 {T}: Add {U} or {R}.",common,,,Land
-258,Overgrown Tomb,,0.0,,,,,"({T}: Add {B} or {G}.)
+258,Overgrown Tomb,L,0.0,,,,,"({T}: Add {B} or {G}.)
 As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-259,Sacred Foundry,,0.0,,,,,"({T}: Add {R} or {W}.)
+259,Sacred Foundry,L,0.0,,,,,"({T}: Add {R} or {W}.)
 As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-260,Selesnya Guildgate,,0.0,,,,,"Selesnya Guildgate enters the battlefield tapped.
+260,Selesnya Guildgate,L,0.0,,,,,"Selesnya Guildgate enters the battlefield tapped.
 {T}: Add {G} or {W}.",common,,,Land
-261,Steam Vents,,0.0,,,,,"({T}: Add {U} or {R}.)
+261,Steam Vents,L,0.0,,,,,"({T}: Add {U} or {R}.)
 As Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-262,Temple Garden,,0.0,,,,,"({T}: Add {G} or {W}.)
+262,Temple Garden,L,0.0,,,,,"({T}: Add {G} or {W}.)
 As Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
-263,Watery Grave,,0.0,,,,,"({T}: Add {U} or {B}.)
+263,Watery Grave,L,0.0,,,,,"({T}: Add {U} or {B}.)
 As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.",rare,,,Land
 264,"Ral, Caller of Storms","R, U",6.0,{4}{U}{R},,,4.0,"[+1]: Draw a card.
 [−2]: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets.

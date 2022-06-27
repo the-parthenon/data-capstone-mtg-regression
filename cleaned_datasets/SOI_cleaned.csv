@@ -466,74 +466,74 @@ You and Humans you control have hexproof.
 279,"Sorin, Grim Nemesis","B, W",6.0,{4}{W}{B},,,6.0,"[+1]: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to its mana value.
 [−X]: Sorin, Grim Nemesis deals X damage to target creature or planeswalker and you gain X life.
 [−9]: Create a number of 1/1 black Vampire Knight creature tokens with lifelink equal to the highest life total among all players.",mythic,,Legendary,Planeswalker
-280,Brain in a Jar,,2.0,{2},,,,"{1}, {T}: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery spell with mana value equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost.
+280,Brain in a Jar,C,2.0,{2},,,,"{1}, {T}: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery spell with mana value equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost.
 {3}, {T}, Remove X charge counters from Brain in a Jar: Scry X.",rare,Scry,,Artifact
-281,Corrupted Grafstone,,2.0,{2},,,,"Corrupted Grafstone enters the battlefield tapped.
+281,Corrupted Grafstone,C,2.0,{2},,,,"Corrupted Grafstone enters the battlefield tapped.
 {T}: Choose a color of a card in your graveyard. Add one mana of that color.",rare,,,Artifact
-282,Epitaph Golem,,5.0,{5},3.0,5.0,,{2}: Put target card from your graveyard on the bottom of your library.,uncommon,,,"Artifact, Creature"
-283,Explosive Apparatus,,1.0,{1},,,,"{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.",common,,,Artifact
-284,Harvest Hand,,3.0,{3},2.0,2.0,,"When Harvest Hand dies, return it to the battlefield transformed under your control.",uncommon,Transform,,"Artifact, Creature"
-285,Scrounged Scythe,,3.0,,,,,"Equipped creature gets +1/+1.
+282,Epitaph Golem,C,5.0,{5},3.0,5.0,,{2}: Put target card from your graveyard on the bottom of your library.,uncommon,,,"Artifact, Creature"
+283,Explosive Apparatus,C,1.0,{1},,,,"{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.",common,,,Artifact
+284,Harvest Hand,C,3.0,{3},2.0,2.0,,"When Harvest Hand dies, return it to the battlefield transformed under your control.",uncommon,Transform,,"Artifact, Creature"
+285,Scrounged Scythe,C,3.0,,,,,"Equipped creature gets +1/+1.
 As long as equipped creature is a Human, it has menace. (It can't be blocked except by two or more creatures.)
 Equip {2}",uncommon,Equip,,Artifact
-286,Haunted Cloak,,3.0,{3},,,,"Equipped creature has vigilance, trample, and haste.
+286,Haunted Cloak,C,3.0,{3},,,,"Equipped creature has vigilance, trample, and haste.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-287,Magnifying Glass,,3.0,{3},,,,"{T}: Add {C}.
+287,Magnifying Glass,C,3.0,{3},,,,"{T}: Add {C}.
 {4}, {T}: Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")",uncommon,Investigate,,Artifact
-288,Murderer's Axe,,4.0,{4},,,,"Equipped creature gets +2/+2.
+288,Murderer's Axe,C,4.0,{4},,,,"Equipped creature gets +2/+2.
 Equip—Discard a card.",uncommon,Equip,,Artifact
-289,Neglected Heirloom,,1.0,{1},,,,"Equipped creature gets +1/+1.
+289,Neglected Heirloom,C,1.0,{1},,,,"Equipped creature gets +1/+1.
 When equipped creature transforms, transform Neglected Heirloom.
 Equip {1}",uncommon,"Equip, Transform",,Artifact
-290,Ashmouth Blade,,1.0,,,,,"Equipped creature gets +3/+3 and has first strike.
+290,Ashmouth Blade,C,1.0,,,,,"Equipped creature gets +3/+3 and has first strike.
 Equip {3}",uncommon,Equip,,Artifact
-291,Runaway Carriage,,4.0,{4},5.0,6.0,,"Trample
+291,Runaway Carriage,C,4.0,{4},5.0,6.0,,"Trample
 When Runaway Carriage attacks or blocks, sacrifice it at end of combat.",uncommon,Trample,,"Artifact, Creature"
-292,Shard of Broken Glass,,1.0,{1},,,,"Equipped creature gets +1/+0.
+292,Shard of Broken Glass,C,1.0,{1},,,,"Equipped creature gets +1/+0.
 Whenever equipped creature attacks, you may mill two cards.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,"Equip, Mill",,Artifact
-293,Skeleton Key,,1.0,{1},,,,"Equipped creature has skulk. (It can't be blocked by creatures with greater power.)
+293,Skeleton Key,C,1.0,{1},,,,"Equipped creature has skulk. (It can't be blocked by creatures with greater power.)
 Whenever equipped creature deals combat damage to a player, you may draw a card. If you do, discard a card.
 Equip {2}",uncommon,Equip,,Artifact
-294,Slayer's Plate,,3.0,{3},,,,"Equipped creature gets +4/+2.
+294,Slayer's Plate,C,3.0,{3},,,,"Equipped creature gets +4/+2.
 Whenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying.
 Equip {3}",rare,Equip,,Artifact
-295,Tamiyo's Journal,,5.0,{5},,,,"At the beginning of your upkeep, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")
+295,Tamiyo's Journal,C,5.0,{5},,,,"At the beginning of your upkeep, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this artifact: Draw a card."")
 {T}, Sacrifice three Clues: Search your library for a card, put that card into your hand, then shuffle.",rare,Investigate,Legendary,Artifact
-296,Thraben Gargoyle,,1.0,{1},2.0,2.0,,"Defender
+296,Thraben Gargoyle,C,1.0,{1},2.0,2.0,,"Defender
 {6}: Transform Thraben Gargoyle.",uncommon,"Defender, Transform",,"Artifact, Creature"
-297,Stonewing Antagonizer,,1.0,,4.0,2.0,,Flying,uncommon,Flying,,"Artifact, Creature"
-298,True-Faith Censer,,2.0,{2},,,,"Equipped creature gets +1/+1 and has vigilance.
+297,Stonewing Antagonizer,C,1.0,,4.0,2.0,,Flying,uncommon,Flying,,"Artifact, Creature"
+298,True-Faith Censer,C,2.0,{2},,,,"Equipped creature gets +1/+1 and has vigilance.
 As long as equipped creature is a Human, it gets an additional +1/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-299,Wicker Witch,,3.0,{3},3.0,1.0,,,common,,,"Artifact, Creature"
-300,Wild-Field Scarecrow,,3.0,{3},1.0,4.0,,"Defender
+299,Wicker Witch,C,3.0,{3},3.0,1.0,,,common,,,"Artifact, Creature"
+300,Wild-Field Scarecrow,C,3.0,{3},1.0,4.0,,"Defender
 {2}, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.",uncommon,Defender,,"Artifact, Creature"
-301,Choked Estuary,,0.0,,,,,"As Choked Estuary enters the battlefield, you may reveal an Island or Swamp card from your hand. If you don't, Choked Estuary enters the battlefield tapped.
+301,Choked Estuary,L,0.0,,,,,"As Choked Estuary enters the battlefield, you may reveal an Island or Swamp card from your hand. If you don't, Choked Estuary enters the battlefield tapped.
 {T}: Add {U} or {B}.",rare,,,Land
-302,Drownyard Temple,,0.0,,,,,"{T}: Add {C}.
+302,Drownyard Temple,L,0.0,,,,,"{T}: Add {C}.
 {3}: Return Drownyard Temple from your graveyard to the battlefield tapped.",rare,,,Land
-303,Foreboding Ruins,,0.0,,,,,"As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountain card from your hand. If you don't, Foreboding Ruins enters the battlefield tapped.
+303,Foreboding Ruins,L,0.0,,,,,"As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountain card from your hand. If you don't, Foreboding Ruins enters the battlefield tapped.
 {T}: Add {B} or {R}.",rare,,,Land
-304,Forsaken Sanctuary,,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
+304,Forsaken Sanctuary,L,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
 {T}: Add {W} or {B}.",uncommon,,,Land
-305,Fortified Village,,0.0,,,,,"As Fortified Village enters the battlefield, you may reveal a Forest or Plains card from your hand. If you don't, Fortified Village enters the battlefield tapped.
+305,Fortified Village,L,0.0,,,,,"As Fortified Village enters the battlefield, you may reveal a Forest or Plains card from your hand. If you don't, Fortified Village enters the battlefield tapped.
 {T}: Add {G} or {W}.",rare,,,Land
-306,Foul Orchard,,0.0,,,,,"Foul Orchard enters the battlefield tapped.
+306,Foul Orchard,L,0.0,,,,,"Foul Orchard enters the battlefield tapped.
 {T}: Add {B} or {G}.",uncommon,,,Land
-307,Game Trail,,0.0,,,,,"As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don't, Game Trail enters the battlefield tapped.
+307,Game Trail,L,0.0,,,,,"As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don't, Game Trail enters the battlefield tapped.
 {T}: Add {R} or {G}.",rare,,,Land
-308,Highland Lake,,0.0,,,,,"Highland Lake enters the battlefield tapped.
+308,Highland Lake,L,0.0,,,,,"Highland Lake enters the battlefield tapped.
 {T}: Add {U} or {R}.",uncommon,,,Land
-309,Port Town,,0.0,,,,,"As Port Town enters the battlefield, you may reveal a Plains or Island card from your hand. If you don't, Port Town enters the battlefield tapped.
+309,Port Town,L,0.0,,,,,"As Port Town enters the battlefield, you may reveal a Plains or Island card from your hand. If you don't, Port Town enters the battlefield tapped.
 {T}: Add {W} or {U}.",rare,,,Land
-310,Stone Quarry,,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+310,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",uncommon,,,Land
-311,Warped Landscape,,0.0,,,,,"{T}: Add {C}.
+311,Warped Landscape,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-312,Westvale Abbey,,0.0,,,,,"{T}: Add {C}.
+312,Westvale Abbey,L,0.0,,,,,"{T}: Add {C}.
 {5}, {T}, Pay 1 life: Create a 1/1 white and black Human Cleric creature token.
 {5}, {T}, Sacrifice five creatures: Transform Westvale Abbey, then untap it.",rare,Transform,,Land
 313,"Ormendahl, Profane Prince",B,0.0,,9.0,7.0,,"Flying, lifelink, indestructible, haste",rare,"Flying, Haste, Indestructible, Lifelink",Legendary,Creature
-314,Woodland Stream,,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+314,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",uncommon,,,Land

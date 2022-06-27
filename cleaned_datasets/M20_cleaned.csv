@@ -374,97 +374,97 @@ Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 Whenever Tomebound Lich enters the battlefield or deals combat damage to a player, draw a card, then discard a card.",uncommon,"Deathtouch, Lifelink",,Creature
 219,"Yarok, the Desecrated","B, G, U",5.0,{2}{B}{G}{U},3.0,5.0,,"Deathtouch, lifelink
 If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",mythic,"Deathtouch, Lifelink",Legendary,Creature
-220,Anvilwrought Raptor,,4.0,{4},2.0,1.0,,"Flying
+220,Anvilwrought Raptor,C,4.0,{4},2.0,1.0,,"Flying
 First strike (This creature deals combat damage before creatures without first strike.)",common,"First strike, Flying",,"Artifact, Creature"
-221,Bag of Holding,,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
+221,Bag of Holding,C,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
 {2}, {T}: Draw a card, then discard a card.
 {4}, {T}, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand.",rare,,,Artifact
-222,Colossus Hammer,,1.0,{1},,,,"Equipped creature gets +10/+10 and loses flying.
+222,Colossus Hammer,C,1.0,{1},,,,"Equipped creature gets +10/+10 and loses flying.
 Equip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-223,Diamond Knight,,3.0,{3},1.0,1.0,,"Vigilance (Attacking doesn't cause this creature to tap.)
+223,Diamond Knight,C,3.0,{3},1.0,1.0,,"Vigilance (Attacking doesn't cause this creature to tap.)
 As Diamond Knight enters the battlefield, choose a color.
 Whenever you cast a spell of the chosen color, put a +1/+1 counter on Diamond Knight.",uncommon,Vigilance,,"Artifact, Creature"
-224,Diviner's Lockbox,,4.0,{4},,,,"{1}, {T}: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate only as a sorcery.",uncommon,,,Artifact
-225,"Golos, Tireless Pilgrim",,5.0,{5},3.0,5.0,,"When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+224,Diviner's Lockbox,C,4.0,{4},,,,"{1}, {T}: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate only as a sorcery.",uncommon,,,Artifact
+225,"Golos, Tireless Pilgrim",C,5.0,{5},3.0,5.0,,"When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
 {2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",rare,,Legendary,"Artifact, Creature"
-226,Grafdigger's Cage,,1.0,{1},,,,"Creature cards in graveyards and libraries can't enter the battlefield.
+226,Grafdigger's Cage,C,1.0,{1},,,,"Creature cards in graveyards and libraries can't enter the battlefield.
 Players can't cast spells from graveyards or libraries.",rare,,,Artifact
-227,Heart-Piercer Bow,,2.0,{2},,,,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
+227,Heart-Piercer Bow,C,2.0,{2},,,,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-228,Icon of Ancestry,,3.0,{3},,,,"As Icon of Ancestry enters the battlefield, choose a creature type.
+228,Icon of Ancestry,C,3.0,{3},,,,"As Icon of Ancestry enters the battlefield, choose a creature type.
 Creatures you control of the chosen type get +1/+1.
 {3}, {T}: Look at the top three cards of your library. You may reveal a creature card of the chosen type from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Artifact
-229,Manifold Key,,1.0,{1},,,,"{1}, {T}: Untap another target artifact.
+229,Manifold Key,C,1.0,{1},,,,"{1}, {T}: Untap another target artifact.
 {3}, {T}: Target creature can't be blocked this turn.",uncommon,,,Artifact
-230,Marauder's Axe,,2.0,{2},,,,"Equipped creature gets +2/+0.
+230,Marauder's Axe,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-231,Meteor Golem,,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature"
-232,Mystic Forge,,4.0,{4},,,,"You may look at the top card of your library any time.
+231,Meteor Golem,C,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature"
+232,Mystic Forge,C,4.0,{4},,,,"You may look at the top card of your library any time.
 You may cast artifact spells and colorless spells from the top of your library.
 {T}, Pay 1 life: Exile the top card of your library.",rare,,,Artifact
-233,Pattern Matcher,,4.0,{4},3.0,3.0,,"When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle.",uncommon,,,"Artifact, Creature"
-234,Prismite,,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
-235,Retributive Wand,,3.0,{3},,,,"{3}, {T}: Retributive Wand deals 1 damage to any target.
+233,Pattern Matcher,C,4.0,{4},3.0,3.0,,"When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle.",uncommon,,,"Artifact, Creature"
+234,Prismite,C,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature"
+235,Retributive Wand,C,3.0,{3},,,,"{3}, {T}: Retributive Wand deals 1 damage to any target.
 When Retributive Wand is put into a graveyard from the battlefield, it deals 5 damage to any target.",uncommon,,,Artifact
-236,Salvager of Ruin,,3.0,{3},2.0,1.0,,Sacrifice Salvager of Ruin: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.,uncommon,,,"Artifact, Creature"
-237,Scuttlemutt,,3.0,{3},2.0,2.0,,"{T}: Add one mana of any color.
+236,Salvager of Ruin,C,3.0,{3},2.0,1.0,,Sacrifice Salvager of Ruin: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.,uncommon,,,"Artifact, Creature"
+237,Scuttlemutt,C,3.0,{3},2.0,2.0,,"{T}: Add one mana of any color.
 {T}: Target creature becomes the color or colors of your choice until end of turn.",uncommon,,,"Artifact, Creature"
-238,Steel Overseer,,2.0,{2},1.0,1.0,,{T}: Put a +1/+1 counter on each artifact creature you control.,rare,,,"Artifact, Creature"
-239,Stone Golem,,5.0,{5},4.0,4.0,,,common,,,"Artifact, Creature"
-240,Vial of Dragonfire,,2.0,{2},,,,"{2}, {T}, Sacrifice Vial of Dragonfire: It deals 2 damage to target creature.",common,,,Artifact
-241,Bloodfell Caves,,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+238,Steel Overseer,C,2.0,{2},1.0,1.0,,{T}: Put a +1/+1 counter on each artifact creature you control.,rare,,,"Artifact, Creature"
+239,Stone Golem,C,5.0,{5},4.0,4.0,,,common,,,"Artifact, Creature"
+240,Vial of Dragonfire,C,2.0,{2},,,,"{2}, {T}, Sacrifice Vial of Dragonfire: It deals 2 damage to target creature.",common,,,Artifact
+241,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
 {T}: Add {B} or {R}.",common,,,Land
-242,Blossoming Sands,,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+242,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
 {T}: Add {G} or {W}.",common,,,Land
-243,Cryptic Caves,,0.0,,,,,"{T}: Add {C}.
+243,Cryptic Caves,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands.",uncommon,,,Land
-244,Dismal Backwater,,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+244,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
 {T}: Add {U} or {B}.",common,,,Land
-245,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-246,Field of the Dead,,0.0,,,,,"Field of the Dead enters the battlefield tapped.
+245,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+246,Field of the Dead,L,0.0,,,,,"Field of the Dead enters the battlefield tapped.
 {T}: Add {C}.
 Whenever Field of the Dead or another land enters the battlefield under your control, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",rare,,,Land
-247,Jungle Hollow,,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+247,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
 {T}: Add {B} or {G}.",common,,,Land
-248,Lotus Field,,0.0,,,,,"Hexproof
+248,Lotus Field,L,0.0,,,,,"Hexproof
 Lotus Field enters the battlefield tapped.
 When Lotus Field enters the battlefield, sacrifice two lands.
 {T}: Add three mana of any one color.",rare,Hexproof,,Land
-249,Rugged Highlands,,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+249,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
 {T}: Add {R} or {G}.",common,,,Land
-250,Scoured Barrens,,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+250,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
 {T}: Add {W} or {B}.",common,,,Land
-251,Swiftwater Cliffs,,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+251,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 {T}: Add {U} or {R}.",common,,,Land
-252,Temple of Epiphany,,0.0,,,,,"Temple of Epiphany enters the battlefield tapped.
+252,Temple of Epiphany,L,0.0,,,,,"Temple of Epiphany enters the battlefield tapped.
 When Temple of Epiphany enters the battlefield, scry 1.
 {T}: Add {U} or {R}.",rare,Scry,,Land
-253,Temple of Malady,,0.0,,,,,"Temple of Malady enters the battlefield tapped.
+253,Temple of Malady,L,0.0,,,,,"Temple of Malady enters the battlefield tapped.
 When Temple of Malady enters the battlefield, scry 1.
 {T}: Add {B} or {G}.",rare,Scry,,Land
-254,Temple of Mystery,,0.0,,,,,"Temple of Mystery enters the battlefield tapped.
+254,Temple of Mystery,L,0.0,,,,,"Temple of Mystery enters the battlefield tapped.
 When Temple of Mystery enters the battlefield, scry 1.
 {T}: Add {G} or {U}.",rare,Scry,,Land
-255,Temple of Silence,,0.0,,,,,"Temple of Silence enters the battlefield tapped.
+255,Temple of Silence,L,0.0,,,,,"Temple of Silence enters the battlefield tapped.
 When Temple of Silence enters the battlefield, scry 1.
 {T}: Add {W} or {B}.",rare,Scry,,Land
-256,Temple of Triumph,,0.0,,,,,"Temple of Triumph enters the battlefield tapped.
+256,Temple of Triumph,L,0.0,,,,,"Temple of Triumph enters the battlefield tapped.
 When Temple of Triumph enters the battlefield, scry 1.
 {T}: Add {R} or {W}.",rare,Scry,,Land
-257,Thornwood Falls,,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+257,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land
-258,Tranquil Cove,,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+258,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
 {T}: Add {W} or {U}.",common,,,Land
-259,Wind-Scarred Crag,,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+259,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land
 260,"Ajani, Inspiring Leader",W,6.0,{4}{W}{W},,,5.0,"[+2]: You gain 2 life. Put two +1/+1 counters on up to one target creature.

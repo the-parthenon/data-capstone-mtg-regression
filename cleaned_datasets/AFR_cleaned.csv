@@ -547,63 +547,63 @@ As long as it's your turn, Triumphant Adventurer has first strike.
 Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)",rare,"Deathtouch, Venture into the dungeon",,Creature
 237,"Volo, Guide to Monsters","G, U",4.0,{2}{G}{U},3.0,2.0,,"Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)",rare,,Legendary,Creature
 238,"Xanathar, Guild Kingpin","B, U",6.0,{4}{U}{B},5.0,6.0,,"At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look at the top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.",mythic,,Legendary,Creature
-239,Bag of Holding,,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
+239,Bag of Holding,C,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
 {2}, {T}: Draw a card, then discard a card.
 {4}, {T}, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand.",uncommon,,,Artifact
-240,The Deck of Many Things,,5.0,{5},,,,"{2}, {T}: Roll a d20 and subtract the number of cards in your hand. If the result is 0 or less, discard your hand.
+240,The Deck of Many Things,C,5.0,{5},,,,"{2}, {T}: Roll a d20 and subtract the number of cards in your hand. If the result is 0 or less, discard your hand.
 1—9 | Return a card at random from your graveyard to your hand.
 10—19 | Draw two cards.
 20 | Put a creature card from any graveyard onto the battlefield under your control. When that creature dies, its owner loses the game.",mythic,,Legendary,Artifact
-241,Dungeon Map,,3.0,{3},,,,"{T}: Add {C}.
+241,Dungeon Map,C,3.0,{3},,,,"{T}: Add {C}.
 {3}, {T}: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)",uncommon,Venture into the dungeon,,Artifact
-242,Eye of Vecna,,2.0,{2},,,,"When Eye of Vecna enters the battlefield, you draw a card and you lose 2 life.
+242,Eye of Vecna,C,2.0,{2},,,,"When Eye of Vecna enters the battlefield, you draw a card and you lose 2 life.
 At the beginning of your upkeep, you may pay {2}. If you do, you draw a card and you lose 2 life.",rare,,Legendary,Artifact
-243,Fifty Feet of Rope,,1.0,{1},,,,"Climb Over — {T}: Target Wall can't block this turn.
+243,Fifty Feet of Rope,C,1.0,{1},,,,"Climb Over — {T}: Target Wall can't block this turn.
 Tie Up — {3}, {T}: Target creature doesn't untap during its controller's next untap step.
 Rappel Down — {4}, {T}: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)",uncommon,Venture into the dungeon,,Artifact
-244,Greataxe,,1.0,{1},,,,"Equipped creature gets +4/+0.
+244,Greataxe,C,1.0,{1},,,,"Equipped creature gets +4/+0.
 Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-245,Hand of Vecna,,3.0,{3},,,,"At the beginning of combat on your turn, equipped creature or a creature you control named Vecna gets +X/+X until end of turn, where X is the number of cards in your hand.
+245,Hand of Vecna,C,3.0,{3},,,,"At the beginning of combat on your turn, equipped creature or a creature you control named Vecna gets +X/+X until end of turn, where X is the number of cards in your hand.
 Equip—Pay 1 life for each card in your hand.
 Equip {2}",rare,Equip,Legendary,Artifact
-246,Iron Golem,,4.0,{4},5.0,3.0,,"Vigilance
+246,Iron Golem,C,4.0,{4},5.0,3.0,,"Vigilance
 Iron Golem attacks or blocks each combat if able.",uncommon,Vigilance,,"Artifact, Creature"
-247,Leather Armor,,1.0,{1},,,,"Equipped creature gets +0/+1 and has ward {1}. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+247,Leather Armor,C,1.0,{1},,,,"Equipped creature gets +0/+1 and has ward {1}. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Equip {0}. Activate only once each turn.",common,Equip,,Artifact
-248,Mimic,,2.0,{2},,,,"{T}, Sacrifice Mimic: Add one mana of any color.
+248,Mimic,C,2.0,{2},,,,"{T}, Sacrifice Mimic: Add one mana of any color.
 {2}: Mimic becomes a Shapeshifter artifact creature with base power and toughness 3/3 until end of turn.",common,,,Artifact
-249,Spare Dagger,,1.0,{1},,,,"Equipped creature gets +1/+0 and has ""Whenever this creature attacks, you may sacrifice Spare Dagger. When you do, this creature deals 1 damage to any target.""
+249,Spare Dagger,C,1.0,{1},,,,"Equipped creature gets +1/+0 and has ""Whenever this creature attacks, you may sacrifice Spare Dagger. When you do, this creature deals 1 damage to any target.""
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-250,Spiked Pit Trap,,1.0,{1},,,,"Flash
+250,Spiked Pit Trap,C,1.0,{1},,,,"Flash
 {5}, {T}, Sacrifice Spiked Pit Trap: Choose target creature, then roll a d20.
 1—9 | Spiked Pit Trap deals 5 damage to that creature.
 10—20 | Spiked Pit Trap deals 5 damage to that creature. Create a Treasure token.",common,Flash,,Artifact
-251,Treasure Chest,,3.0,{3},,,,"{4}, Sacrifice Treasure Chest: Roll a d20.
+251,Treasure Chest,C,3.0,{3},,,,"{4}, Sacrifice Treasure Chest: Roll a d20.
 1 | Trapped! — You lose 3 life.
 2—9 | Create five Treasure tokens.
 10—19 | You gain 3 life and draw three cards.
 20 | Search your library for a card. If it's an artifact card, you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.",rare,,,Artifact
-252,Cave of the Frost Dragon,,0.0,,,,,"If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped.
+252,Cave of the Frost Dragon,L,0.0,,,,,"If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped.
 {T}: Add {W}.
 {4}{W}: Cave of the Frost Dragon becomes a 3/4 white Dragon creature with flying until end of turn. It's still a land.",rare,,,Land
-253,Den of the Bugbear,,0.0,,,,,"If you control two or more other lands, Den of the Bugbear enters the battlefield tapped.
+253,Den of the Bugbear,L,0.0,,,,,"If you control two or more other lands, Den of the Bugbear enters the battlefield tapped.
 {T}: Add {R}.
 {3}{R}: Until end of turn, Den of the Bugbear becomes a 3/2 red Goblin creature with ""Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking."" It's still a land.",rare,,,Land
-254,Dungeon Descent,,0.0,,,,,"Dungeon Descent enters the battlefield tapped.
+254,Dungeon Descent,L,0.0,,,,,"Dungeon Descent enters the battlefield tapped.
 {T}: Add {C}.
 {4}, {T}, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)",rare,Venture into the dungeon,,Land
-255,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-256,Hall of Storm Giants,,0.0,,,,,"If you control two or more other lands, Hall of Storm Giants enters the battlefield tapped.
+255,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+256,Hall of Storm Giants,L,0.0,,,,,"If you control two or more other lands, Hall of Storm Giants enters the battlefield tapped.
 {T}: Add {U}.
 {5}{U}: Until end of turn, Hall of Storm Giants becomes a 7/7 blue Giant creature with ward {3}. It's still a land. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)",rare,,,Land
-257,Hive of the Eye Tyrant,,0.0,,,,,"If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped.
+257,Hive of the Eye Tyrant,L,0.0,,,,,"If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped.
 {T}: Add {B}.
 {3}{B}: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and ""Whenever this creature attacks, exile target card from defending player's graveyard."" It's still a land.",rare,,,Land
-258,Lair of the Hydra,,0.0,,,,,"If you control two or more other lands, Lair of the Hydra enters the battlefield tapped.
+258,Lair of the Hydra,L,0.0,,,,,"If you control two or more other lands, Lair of the Hydra enters the battlefield tapped.
 {T}: Add {G}.
 {X}{G}: Until end of turn, Lair of the Hydra becomes an X/X green Hydra creature. It's still a land. X can't be 0.",rare,,,Land
-259,Temple of the Dragon Queen,,0.0,,,,,"As Temple of the Dragon Queen enters the battlefield, you may reveal a Dragon card from your hand. Temple of the Dragon Queen enters the battlefield tapped unless you revealed a Dragon card this way or you control a Dragon.
+259,Temple of the Dragon Queen,L,0.0,,,,,"As Temple of the Dragon Queen enters the battlefield, you may reveal a Dragon card from your hand. Temple of the Dragon Queen enters the battlefield tapped unless you revealed a Dragon card this way or you control a Dragon.
 As Temple of the Dragon Queen enters the battlefield, choose a color.
 {T}: Add one mana of the chosen color.",uncommon,,,Land
-260,Treasure Vault,,0.0,,,,,"{T}: Add {C}.
+260,Treasure Vault,C,0.0,,,,,"{T}: Add {C}.
 {X}{X}, {T}, Sacrifice Treasure Vault: Create X Treasure tokens.",rare,,,"Artifact, Land"

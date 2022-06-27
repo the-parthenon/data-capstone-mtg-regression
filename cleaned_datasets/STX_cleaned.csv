@@ -1,11 +1,11 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,Environmental Sciences,,2.0,{2},,,,"Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.",common,,,Sorcery
-1,Expanded Anatomy,,3.0,{3},,,,Put two +1/+1 counters on target creature. It gains vigilance until end of turn.,common,,,Sorcery
-2,Introduction to Annihilation,,5.0,{5},,,,Exile target nonland permanent. Its controller draws a card.,common,,,Sorcery
-3,Introduction to Prophecy,,3.0,{3},,,,"Scry 2, then draw a card.",common,Scry,,Sorcery
-4,Mascot Exhibition,,7.0,{7},,,,"Create a 2/1 white and black Inkling creature token with flying, a 3/2 red and white Spirit creature token, and a 4/4 blue and red Elemental creature token.",mythic,,,Sorcery
-5,Wandering Archaic,,5.0,{5},4.0,4.0,,"Whenever an opponent casts an instant or sorcery spell, they may pay {2}. If they don't, you may copy that spell. You may choose new targets for the copy.",rare,,,Creature
-6,Explore the Vastlands,,3.0,{3},,,,Each player looks at the top five cards of their library and may reveal a land card and/or an instant or sorcery card from among them. Each player puts the cards they revealed this way into their hand and the rest on the bottom of their library in a random order. Each player gains 3 life.,rare,,,Sorcery
+0,Environmental Sciences,C,2.0,{2},,,,"Search your library for a basic land card, reveal it, put it into your hand, then shuffle. You gain 2 life.",common,,,Sorcery
+1,Expanded Anatomy,C,3.0,{3},,,,Put two +1/+1 counters on target creature. It gains vigilance until end of turn.,common,,,Sorcery
+2,Introduction to Annihilation,C,5.0,{5},,,,Exile target nonland permanent. Its controller draws a card.,common,,,Sorcery
+3,Introduction to Prophecy,C,3.0,{3},,,,"Scry 2, then draw a card.",common,Scry,,Sorcery
+4,Mascot Exhibition,C,7.0,{7},,,,"Create a 2/1 white and black Inkling creature token with flying, a 3/2 red and white Spirit creature token, and a 4/4 blue and red Elemental creature token.",mythic,,,Sorcery
+5,Wandering Archaic,C,5.0,{5},4.0,4.0,,"Whenever an opponent casts an instant or sorcery spell, they may pay {2}. If they don't, you may copy that spell. You may choose new targets for the copy.",rare,,,Creature
+6,Explore the Vastlands,C,3.0,{3},,,,Each player looks at the top five cards of their library and may reveal a land card and/or an instant or sorcery card from among them. Each player puts the cards they revealed this way into their hand and the rest on the bottom of their library in a random order. Each player gains 3 life.,rare,,,Sorcery
 7,Academic Probation,W,2.0,{1}{W},,,,"Choose one —
 • Choose a nonland card name. Opponents can't cast spells with the chosen name until your next turn.
 • Choose target nonland permanent. Until your next turn, it can't attack or block, and its activated abilities can't be activated.",rare,,,Sorcery
@@ -471,62 +471,62 @@ Whenever Venerable Warsinger deals combat damage to a player, you may return tar
 264,Witherbloom Pledgemage,"B, G",5.0,{3}{B/G}{B/G},5.0,5.0,,"Magecraft — Whenever you cast or copy an instant or sorcery spell, you gain 1 life.",common,Magecraft,,Creature
 265,"Zimone, Quandrix Prodigy","G, U",2.0,{G}{U},1.0,2.0,,"{1}, {T}: You may put a land card from your hand onto the battlefield tapped.
 {4}, {T}: Draw a card. If you control eight or more lands, draw two cards instead.",uncommon,,Legendary,Creature
-266,Biblioplex Assistant,,4.0,{4},2.0,1.0,,"Flying
+266,Biblioplex Assistant,C,4.0,{4},2.0,1.0,,"Flying
 When Biblioplex Assistant enters the battlefield, put up to one target instant or sorcery card from your graveyard on top of your library.",common,Flying,,"Artifact, Creature"
-267,Campus Guide,,2.0,{2},2.0,1.0,,"When Campus Guide enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",common,,,"Artifact, Creature"
-268,"Codie, Vociferous Codex",,3.0,{3},1.0,4.0,,"You can't cast permanent spells.
+267,Campus Guide,C,2.0,{2},2.0,1.0,,"When Campus Guide enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",common,,,"Artifact, Creature"
+268,"Codie, Vociferous Codex",C,3.0,{3},1.0,4.0,,"You can't cast permanent spells.
 {4}, {T}: Add {W}{U}{B}{R}{G}. When you cast your next spell this turn, exile cards from the top of your library until you exile an instant or sorcery card with lesser mana value. Until end of turn, you may cast that card without paying its mana cost. Put each other card exiled this way on the bottom of your library in a random order.",rare,,Legendary,"Artifact, Creature"
-269,Cogwork Archivist,,6.0,{6},4.0,5.0,,"Reach
+269,Cogwork Archivist,C,6.0,{6},4.0,5.0,,"Reach
 {2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",common,Reach,,"Artifact, Creature"
-270,Excavated Wall,,1.0,{1},0.0,4.0,,"Defender
+270,Excavated Wall,C,1.0,{1},0.0,4.0,,"Defender
 {1}, {T}: Mill a card. (Put the top card of your library into your graveyard.)",common,"Defender, Mill",,"Artifact, Creature"
-271,Letter of Acceptance,,3.0,{3},,,,"{T}: Add one mana of any color.
+271,Letter of Acceptance,C,3.0,{3},,,,"{T}: Add one mana of any color.
 {2}, {T}, Sacrifice Letter of Acceptance: Draw a card.",common,,,Artifact
-272,Reflective Golem,,3.0,{3},2.0,3.0,,"Whenever you cast an instant or sorcery spell that targets only Reflective Golem, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.",uncommon,,,"Artifact, Creature"
-273,Spell Satchel,,2.0,{2},,,,"Magecraft — Whenever you cast or copy an instant or sorcery spell, put a book counter on Spell Satchel.
+272,Reflective Golem,C,3.0,{3},2.0,3.0,,"Whenever you cast an instant or sorcery spell that targets only Reflective Golem, you may pay {2}. If you do, copy that spell. You may choose new targets for the copy.",uncommon,,,"Artifact, Creature"
+273,Spell Satchel,C,2.0,{2},,,,"Magecraft — Whenever you cast or copy an instant or sorcery spell, put a book counter on Spell Satchel.
 {T}, Remove a book counter from Spell Satchel: Add {C}.
 {3}, {T}, Remove three book counters from Spell Satchel: Draw a card.",uncommon,Magecraft,,Artifact
-274,Strixhaven Stadium,,3.0,{3},,,,"{T}: Add {C}. Put a point counter on Strixhaven Stadium.
+274,Strixhaven Stadium,C,3.0,{3},,,,"{T}: Add {C}. Put a point counter on Strixhaven Stadium.
 Whenever a creature deals combat damage to you, remove a point counter from Strixhaven Stadium.
 Whenever a creature you control deals combat damage to an opponent, put a point counter on Strixhaven Stadium. Then if it has ten or more point counters on it, remove them all and that player loses the game.",rare,,,Artifact
-275,Team Pennant,,1.0,{1},,,,"Equipped creature gets +1/+1 and has vigilance and trample.
+275,Team Pennant,C,1.0,{1},,,,"Equipped creature gets +1/+1 and has vigilance and trample.
 Equip creature token {1}
 Equip {3}",uncommon,Equip,,Artifact
-276,Zephyr Boots,,1.0,{1},,,,"Equipped creature has flying.
+276,Zephyr Boots,C,1.0,{1},,,,"Equipped creature has flying.
 Whenever equipped creature deals combat damage to a player, draw a card, then discard a card.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-277,Access Tunnel,,0.0,,,,,"{T}: Add {C}.
+277,Access Tunnel,L,0.0,,,,,"{T}: Add {C}.
 {3}, {T}: Target creature with power 3 or less can't be blocked this turn.",uncommon,,,Land
-278,Archway Commons,,0.0,,,,,"Archway Commons enters the battlefield tapped.
+278,Archway Commons,L,0.0,,,,,"Archway Commons enters the battlefield tapped.
 When Archway Commons enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color.",common,,,Land
-279,The Biblioplex,,0.0,,,,,"{T}: Add {C}.
+279,The Biblioplex,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}: Look at the top card of your library. If it's an instant or sorcery card, you may reveal it and put it into your hand. If you don't put the card into your hand, you may put it into your graveyard. Activate only if you have exactly zero or seven cards in hand.",rare,,,Land
-280,Frostboil Snarl,,0.0,,,,,"As Frostboil Snarl enters the battlefield, you may reveal an Island or Mountain card from your hand. If you don't, Frostboil Snarl enters the battlefield tapped.
+280,Frostboil Snarl,L,0.0,,,,,"As Frostboil Snarl enters the battlefield, you may reveal an Island or Mountain card from your hand. If you don't, Frostboil Snarl enters the battlefield tapped.
 {T}: Add {U} or {R}.",rare,,,Land
-281,Furycalm Snarl,,0.0,,,,,"As Furycalm Snarl enters the battlefield, you may reveal a Mountain or Plains card from your hand. If you don't, Furycalm Snarl enters the battlefield tapped.
+281,Furycalm Snarl,L,0.0,,,,,"As Furycalm Snarl enters the battlefield, you may reveal a Mountain or Plains card from your hand. If you don't, Furycalm Snarl enters the battlefield tapped.
 {T}: Add {R} or {W}.",rare,,,Land
-282,Hall of Oracles,,0.0,,,,,"{T}: Add {C}.
+282,Hall of Oracles,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.
 {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn.",rare,,,Land
-283,Lorehold Campus,,0.0,,,,,"Lorehold Campus enters the battlefield tapped.
+283,Lorehold Campus,L,0.0,,,,,"Lorehold Campus enters the battlefield tapped.
 {T}: Add {R} or {W}.
 {4}, {T}: Scry 1.",common,Scry,,Land
-284,Necroblossom Snarl,,0.0,,,,,"As Necroblossom Snarl enters the battlefield, you may reveal a Swamp or Forest card from your hand. If you don't, Necroblossom Snarl enters the battlefield tapped.
+284,Necroblossom Snarl,L,0.0,,,,,"As Necroblossom Snarl enters the battlefield, you may reveal a Swamp or Forest card from your hand. If you don't, Necroblossom Snarl enters the battlefield tapped.
 {T}: Add {B} or {G}.",rare,,,Land
-285,Prismari Campus,,0.0,,,,,"Prismari Campus enters the battlefield tapped.
+285,Prismari Campus,L,0.0,,,,,"Prismari Campus enters the battlefield tapped.
 {T}: Add {U} or {R}.
 {4}, {T}: Scry 1.",common,Scry,,Land
-286,Quandrix Campus,,0.0,,,,,"Quandrix Campus enters the battlefield tapped.
+286,Quandrix Campus,L,0.0,,,,,"Quandrix Campus enters the battlefield tapped.
 {T}: Add {G} or {U}.
 {4}, {T}: Scry 1.",common,Scry,,Land
-287,Shineshadow Snarl,,0.0,,,,,"As Shineshadow Snarl enters the battlefield, you may reveal a Plains or Swamp card from your hand. If you don't, Shineshadow Snarl enters the battlefield tapped.
+287,Shineshadow Snarl,L,0.0,,,,,"As Shineshadow Snarl enters the battlefield, you may reveal a Plains or Swamp card from your hand. If you don't, Shineshadow Snarl enters the battlefield tapped.
 {T}: Add {W} or {B}.",rare,,,Land
-288,Silverquill Campus,,0.0,,,,,"Silverquill Campus enters the battlefield tapped.
+288,Silverquill Campus,L,0.0,,,,,"Silverquill Campus enters the battlefield tapped.
 {T}: Add {W} or {B}.
 {4}, {T}: Scry 1.",common,Scry,,Land
-289,Vineglimmer Snarl,,0.0,,,,,"As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.
+289,Vineglimmer Snarl,L,0.0,,,,,"As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.
 {T}: Add {G} or {U}.",rare,,,Land
-290,Witherbloom Campus,,0.0,,,,,"Witherbloom Campus enters the battlefield tapped.
+290,Witherbloom Campus,L,0.0,,,,,"Witherbloom Campus enters the battlefield tapped.
 {T}: Add {B} or {G}.
 {4}, {T}: Scry 1.",common,Scry,,Land

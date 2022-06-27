@@ -1,9 +1,9 @@
 ,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
-0,Adaptive Shimmerer,,5.0,{5},0.0,0.0,,"Flash
+0,Adaptive Shimmerer,C,5.0,{5},0.0,0.0,,"Flash
 Adaptive Shimmerer enters the battlefield with three +1/+1 counters on it.",common,Flash,,Creature
-1,Farfinder,,3.0,{3},1.0,1.0,,"Vigilance
+1,Farfinder,C,3.0,{3},1.0,1.0,,"Vigilance
 When Farfinder enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,Vigilance,,Creature
-2,Mysterious Egg,,1.0,{1},0.0,2.0,,"Whenever this creature mutates, put a +1/+1 counter on it.",common,,,Creature
+2,Mysterious Egg,C,1.0,{1},0.0,2.0,,"Whenever this creature mutates, put a +1/+1 counter on it.",common,,,Creature
 3,Blade Banish,W,4.0,{3}{W},,,,Exile target creature with power 4 or greater.,common,,,Instant
 4,Checkpoint Officer,W,2.0,{1}{W},1.0,2.0,,"{1}{W}, {T}: Tap target creature.",common,,,Creature
 5,Coordinated Charge,W,5.0,{4}{W},,,,"Creatures you control get +2/+1 until end of turn.
@@ -438,69 +438,69 @@ When Yorion enters the battlefield, exile any number of other nonland permanents
 232,"Zirda, the Dawnwaker","R, W",3.0,{1}{R/W}{R/W},3.0,3.0,,"Companion — Each permanent card in your starting deck has an activated ability. (If this card is your chosen companion, you may put it into your hand from outside the game for {3} any time you could cast a sorcery.)
 Abilities you activate that aren't mana abilities cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
 {1}, {T}: Target creature can't block this turn.",rare,Companion,Legendary,Creature
-233,Crystalline Giant,,3.0,{3},3.0,3.0,,"At the beginning of combat on your turn, choose a kind of counter at random that Crystalline Giant doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on Crystalline Giant.",rare,,,"Artifact, Creature"
-234,Indatha Crystal,,3.0,{3},,,,"{T}: Add {W}, {B}, or {G}.
+233,Crystalline Giant,C,3.0,{3},3.0,3.0,,"At the beginning of combat on your turn, choose a kind of counter at random that Crystalline Giant doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on Crystalline Giant.",rare,,,"Artifact, Creature"
+234,Indatha Crystal,C,3.0,{3},,,,"{T}: Add {W}, {B}, or {G}.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
-235,Ketria Crystal,,3.0,{3},,,,"{T}: Add {G}, {U}, or {R}.
+235,Ketria Crystal,C,3.0,{3},,,,"{T}: Add {G}, {U}, or {R}.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
-236,The Ozolith,,1.0,{1},,,,"Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The Ozolith.
+236,The Ozolith,C,1.0,{1},,,,"Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on The Ozolith.
 At the beginning of combat on your turn, if The Ozolith has counters on it, you may move all counters from The Ozolith onto target creature.",rare,,Legendary,Artifact
-237,Raugrin Crystal,,3.0,{3},,,,"{T}: Add {U}, {R}, or {W}.
+237,Raugrin Crystal,C,3.0,{3},,,,"{T}: Add {U}, {R}, or {W}.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
-238,Savai Crystal,,3.0,{3},,,,"{T}: Add {R}, {W}, or {B}.
+238,Savai Crystal,C,3.0,{3},,,,"{T}: Add {R}, {W}, or {B}.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
-239,Sleeper Dart,,2.0,{2},,,,"When Sleeper Dart enters the battlefield, draw a card.
+239,Sleeper Dart,C,2.0,{2},,,,"When Sleeper Dart enters the battlefield, draw a card.
 {T}, Sacrifice Sleeper Dart: Target creature doesn't untap during its controller's next untap step.",common,,,Artifact
-240,Springjaw Trap,,1.0,{1},,,,"Flash
+240,Springjaw Trap,C,1.0,{1},,,,"Flash
 {4}, {T}, Sacrifice Springjaw Trap: It deals 3 damage to any target.",common,Flash,,Artifact
-241,Zagoth Crystal,,3.0,{3},,,,"{T}: Add {B}, {G}, or {U}.
+241,Zagoth Crystal,C,3.0,{3},,,,"{T}: Add {B}, {G}, or {U}.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Artifact
-242,Bloodfell Caves,,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+242,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
 {T}: Add {B} or {R}.",common,,,Land
-243,Blossoming Sands,,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+243,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
 {T}: Add {G} or {W}.",common,,,Land
-244,Bonders' Enclave,,0.0,,,,,"{T}: Add {C}.
+244,Bonders' Enclave,L,0.0,,,,,"{T}: Add {C}.
 {3}, {T}: Draw a card. Activate only if you control a creature with power 4 or greater.",rare,,,Land
-245,Dismal Backwater,,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+245,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
 {T}: Add {U} or {B}.",common,,,Land
-246,Evolving Wilds,,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
-247,Indatha Triome,,0.0,,,,,"({T}: Add {W}, {B}, or {G}.)
+246,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land
+247,Indatha Triome,L,0.0,,,,,"({T}: Add {W}, {B}, or {G}.)
 Indatha Triome enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-248,Jungle Hollow,,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+248,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
 {T}: Add {B} or {G}.",common,,,Land
-249,Ketria Triome,,0.0,,,,,"({T}: Add {G}, {U}, or {R}.)
+249,Ketria Triome,L,0.0,,,,,"({T}: Add {G}, {U}, or {R}.)
 Ketria Triome enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-250,Raugrin Triome,,0.0,,,,,"({T}: Add {U}, {R}, or {W}.)
+250,Raugrin Triome,L,0.0,,,,,"({T}: Add {U}, {R}, or {W}.)
 Raugrin Triome enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-251,Rugged Highlands,,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+251,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
 {T}: Add {R} or {G}.",common,,,Land
-252,Savai Triome,,0.0,,,,,"({T}: Add {R}, {W}, or {B}.)
+252,Savai Triome,L,0.0,,,,,"({T}: Add {R}, {W}, or {B}.)
 Savai Triome enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
-253,Scoured Barrens,,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+253,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
 {T}: Add {W} or {B}.",common,,,Land
-254,Swiftwater Cliffs,,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+254,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 {T}: Add {U} or {R}.",common,,,Land
-255,Thornwood Falls,,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+255,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land
-256,Tranquil Cove,,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+256,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
 {T}: Add {W} or {U}.",common,,,Land
-257,Wind-Scarred Crag,,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+257,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land
-258,Zagoth Triome,,0.0,,,,,"({T}: Add {B}, {G}, or {U}.)
+258,Zagoth Triome,L,0.0,,,,,"({T}: Add {B}, {G}, or {U}.)
 Zagoth Triome enters the battlefield tapped.
 Cycling {3} ({3}, Discard this card: Draw a card.)",rare,Cycling,,Land
 259,"Zilortha, Strength Incarnate","G, R",5.0,{3}{R}{G},7.0,3.0,,"Trample

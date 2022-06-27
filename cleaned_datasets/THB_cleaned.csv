@@ -464,50 +464,50 @@ Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a card,
 Escape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",mythic,Escape,Legendary,Creature
 229,Warden of the Chained,"G, R",3.0,{1}{R}{G},4.0,4.0,,"Trample
 Warden of the Chained can't attack unless you control another creature with power 4 or greater.",uncommon,Trample,,Creature
-230,Altar of the Pantheon,,3.0,{3},,,,"Your devotion to each color and each combination of colors is increased by one.
+230,Altar of the Pantheon,C,3.0,{3},,,,"Your devotion to each color and each combination of colors is increased by one.
 {T}: Add one mana of any color. If you control a God, a Demigod, or a legendary enchantment, you gain 1 life.",common,,,Artifact
-231,Bronze Sword,,1.0,{1},,,,"Equipped creature gets +2/+0.
+231,Bronze Sword,C,1.0,{1},,,,"Equipped creature gets +2/+0.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-232,Entrancing Lyre,,3.0,{3},,,,"You may choose not to untap Entrancing Lyre during your untap step.
+232,Entrancing Lyre,C,3.0,{3},,,,"You may choose not to untap Entrancing Lyre during your untap step.
 {X}, {T}: Tap target creature with power X or less. It doesn't untap during its controller's untap step for as long as Entrancing Lyre remains tapped.",uncommon,,,Artifact
-233,Mirror Shield,,2.0,{2},,,,"Equipped creature gets +0/+2 and has hexproof and ""Whenever a creature with deathtouch blocks or becomes blocked by this creature, destroy that creature.""
+233,Mirror Shield,C,2.0,{2},,,,"Equipped creature gets +0/+2 and has hexproof and ""Whenever a creature with deathtouch blocks or becomes blocked by this creature, destroy that creature.""
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact
-234,Nyx Lotus,,4.0,{4},,,,"Nyx Lotus enters the battlefield tapped.
+234,Nyx Lotus,C,4.0,{4},,,,"Nyx Lotus enters the battlefield tapped.
 {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",rare,,Legendary,Artifact
-235,Shadowspear,,1.0,{1},,,,"Equipped creature gets +1/+1 and has trample and lifelink.
+235,Shadowspear,C,1.0,{1},,,,"Equipped creature gets +1/+1 and has trample and lifelink.
 {1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
 Equip {2}",rare,Equip,Legendary,Artifact
-236,Soul-Guide Lantern,,1.0,{1},,,,"When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard.
+236,Soul-Guide Lantern,C,1.0,{1},,,,"When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard.
 {T}, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard.
 {1}, {T}, Sacrifice Soul-Guide Lantern: Draw a card.",uncommon,,,Artifact
-237,Thaumaturge's Familiar,,3.0,{3},1.0,3.0,,"Flying
+237,Thaumaturge's Familiar,C,3.0,{3},1.0,3.0,,"Flying
 When Thaumaturge's Familiar enters the battlefield, scry 1.",common,"Flying, Scry",,"Artifact, Creature"
-238,Thundering Chariot,,4.0,{4},3.0,3.0,,"First strike, trample, haste
+238,Thundering Chariot,C,4.0,{4},3.0,3.0,,"First strike, trample, haste
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, First strike, Haste, Trample",,Artifact
-239,Traveler's Amulet,,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
-240,Wings of Hubris,,2.0,{2},,,,"Equipped creature has flying.
+239,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact
+240,Wings of Hubris,C,2.0,{2},,,,"Equipped creature has flying.
 Sacrifice Wings of Hubris: Equipped creature can't be blocked this turn. Sacrifice it at the beginning of the next end step.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-241,Field of Ruin,,0.0,,,,,"{T}: Add {C}.
+241,Field of Ruin,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",uncommon,,,Land
-242,Labyrinth of Skophos,,0.0,,,,,"{T}: Add {C}.
+242,Labyrinth of Skophos,L,0.0,,,,,"{T}: Add {C}.
 {4}, {T}: Remove target attacking or blocking creature from combat.",rare,,,Land
-243,Temple of Abandon,,0.0,,,,,"Temple of Abandon enters the battlefield tapped.
+243,Temple of Abandon,L,0.0,,,,,"Temple of Abandon enters the battlefield tapped.
 When Temple of Abandon enters the battlefield, scry 1.
 {T}: Add {R} or {G}.",rare,Scry,,Land
-244,Temple of Deceit,,0.0,,,,,"Temple of Deceit enters the battlefield tapped.
+244,Temple of Deceit,L,0.0,,,,,"Temple of Deceit enters the battlefield tapped.
 When Temple of Deceit enters the battlefield, scry 1.
 {T}: Add {U} or {B}.",rare,Scry,,Land
-245,Temple of Enlightenment,,0.0,,,,,"Temple of Enlightenment enters the battlefield tapped.
+245,Temple of Enlightenment,L,0.0,,,,,"Temple of Enlightenment enters the battlefield tapped.
 When Temple of Enlightenment enters the battlefield, scry 1.
 {T}: Add {W} or {U}.",rare,Scry,,Land
-246,Temple of Malice,,0.0,,,,,"Temple of Malice enters the battlefield tapped.
+246,Temple of Malice,L,0.0,,,,,"Temple of Malice enters the battlefield tapped.
 When Temple of Malice enters the battlefield, scry 1.
 {T}: Add {B} or {R}.",rare,Scry,,Land
-247,Temple of Plenty,,0.0,,,,,"Temple of Plenty enters the battlefield tapped.
+247,Temple of Plenty,L,0.0,,,,,"Temple of Plenty enters the battlefield tapped.
 When Temple of Plenty enters the battlefield, scry 1.
 {T}: Add {G} or {W}.",rare,Scry,,Land
-248,Unknown Shores,,0.0,,,,,"{T}: Add {C}.
+248,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land
 249,"Elspeth, Undaunted Hero",W,5.0,{2}{W}{W}{W},,,5.0,"[+2]: Put a +1/+1 counter on each of up to two target creatures.
 [−2]: Search your library and/or graveyard for a card named Sunlit Hoplite and put it onto the battlefield. If you search your library this way, shuffle.
