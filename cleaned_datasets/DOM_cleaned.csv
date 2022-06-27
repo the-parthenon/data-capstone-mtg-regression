@@ -1,472 +1,472 @@
-,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types
+,name,colors,manaValue,manaCost,power,toughness,loyalty,text,rarity,keywords,supertypes,types,subtypes
 0,"Karn, Scion of Urza",C,4.0,{4},,,5.0,"[+1]: Reveal the top two cards of your library. An opponent chooses one of them. Put that card into your hand and exile the other with a silver counter on it.
 [−1]: Put a card you own with a silver counter on it from exile into your hand.
-[−2]: Create a 0/0 colorless Construct artifact creature token with ""This creature gets +1/+1 for each artifact you control.""",mythic,,Legendary,Planeswalker
-1,Adamant Will,W,2.0,{1}{W},,,,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant
-2,Aven Sentry,W,4.0,{3}{W},3.0,2.0,,Flying,common,Flying,,Creature
+[−2]: Create a 0/0 colorless Construct artifact creature token with ""This creature gets +1/+1 for each artifact you control.""",mythic,,Legendary,Planeswalker,Karn
+1,Adamant Will,W,2.0,{1}{W},,,,"Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant,
+2,Aven Sentry,W,4.0,{3}{W},3.0,2.0,,Flying,common,Flying,,Creature,"Bird, Soldier"
 3,"Baird, Steward of Argive",W,4.0,{2}{W}{W},2.0,4.0,,"Vigilance
-Creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.",uncommon,Vigilance,Legendary,Creature
-4,Benalish Honor Guard,W,2.0,{1}{W},2.0,2.0,,Benalish Honor Guard gets +1/+0 for each legendary creature you control.,common,,,Creature
-5,Benalish Marshal,W,3.0,{W}{W}{W},3.0,3.0,,Other creatures you control get +1/+1.,rare,,,Creature
-6,Blessed Light,W,5.0,{4}{W},,,,Exile target creature or enchantment.,common,,,Instant
-7,Board the Weatherlight,W,2.0,{1}{W},,,,"Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Sorcery
-8,Call the Cavalry,W,4.0,{3}{W},,,,Create two 2/2 white Knight creature tokens with vigilance.,common,,,Sorcery
-9,Charge,W,1.0,{W},,,,Creatures you control get +1/+1 until end of turn.,common,,,Instant
-10,D'Avenant Trapper,W,3.0,{2}{W},3.0,2.0,,"Whenever you cast a historic spell, tap target creature an opponent controls. (Artifacts, legendaries, and Sagas are historic.)",common,,,Creature
+Creatures can't attack you or planeswalkers you control unless their controller pays {1} for each of those creatures.",uncommon,Vigilance,Legendary,Creature,"Human, Soldier"
+4,Benalish Honor Guard,W,2.0,{1}{W},2.0,2.0,,Benalish Honor Guard gets +1/+0 for each legendary creature you control.,common,,,Creature,"Human, Knight"
+5,Benalish Marshal,W,3.0,{W}{W}{W},3.0,3.0,,Other creatures you control get +1/+1.,rare,,,Creature,"Human, Knight"
+6,Blessed Light,W,5.0,{4}{W},,,,Exile target creature or enchantment.,common,,,Instant,
+7,Board the Weatherlight,W,2.0,{1}{W},,,,"Look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Sorcery,
+8,Call the Cavalry,W,4.0,{3}{W},,,,Create two 2/2 white Knight creature tokens with vigilance.,common,,,Sorcery,
+9,Charge,W,1.0,{W},,,,Creatures you control get +1/+1 until end of turn.,common,,,Instant,
+10,D'Avenant Trapper,W,3.0,{2}{W},3.0,2.0,,"Whenever you cast a historic spell, tap target creature an opponent controls. (Artifacts, legendaries, and Sagas are historic.)",common,,,Creature,"Human, Archer"
 11,"Danitha Capashen, Paragon",W,3.0,{2}{W},2.0,2.0,,"First strike, vigilance, lifelink
-Aura and Equipment spells you cast cost {1} less to cast.",uncommon,"First strike, Lifelink, Vigilance",Legendary,Creature
+Aura and Equipment spells you cast cost {1} less to cast.",uncommon,"First strike, Lifelink, Vigilance",Legendary,Creature,"Human, Knight"
 12,Daring Archaeologist,W,4.0,{3}{W},3.0,3.0,,"When Daring Archaeologist enters the battlefield, you may return target artifact card from your graveyard to your hand.
-Whenever you cast a historic spell, put a +1/+1 counter on Daring Archaeologist. (Artifacts, legendaries, and Sagas are historic.)",rare,,,Creature
+Whenever you cast a historic spell, put a +1/+1 counter on Daring Archaeologist. (Artifacts, legendaries, and Sagas are historic.)",rare,,,Creature,"Human, Artificer"
 13,Dauntless Bodyguard,W,1.0,{W},2.0,1.0,,"As Dauntless Bodyguard enters the battlefield, choose another creature you control.
-Sacrifice Dauntless Bodyguard: The chosen creature gains indestructible until end of turn.",uncommon,,,Creature
+Sacrifice Dauntless Bodyguard: The chosen creature gains indestructible until end of turn.",uncommon,,,Creature,"Human, Knight"
 14,Dub,W,3.0,{2}{W},,,,"Enchant creature
-Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types. (It deals combat damage before creatures without first strike.)",common,Enchant,,Enchantment
+Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types. (It deals combat damage before creatures without first strike.)",common,Enchant,,Enchantment,Aura
 15,"Evra, Halcyon Witness",W,6.0,{4}{W}{W},4.0,4.0,,"Lifelink
-{4}: Exchange your life total with Evra, Halcyon Witness's power.",rare,Lifelink,Legendary,Creature
+{4}: Exchange your life total with Evra, Halcyon Witness's power.",rare,Lifelink,Legendary,Creature,Avatar
 16,Excavation Elephant,W,5.0,{4}{W},3.0,5.0,,"Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
-When Excavation Elephant enters the battlefield, if it was kicked, return target artifact card from your graveyard to your hand.",common,Kicker,,Creature
+When Excavation Elephant enters the battlefield, if it was kicked, return target artifact card from your graveyard to your hand.",common,Kicker,,Creature,Elephant
 17,Fall of the Thran,W,6.0,{5}{W},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Destroy all lands.
-II, III — Each player returns two land cards from their graveyard to the battlefield.",rare,,,Enchantment
-18,Gideon's Reproach,W,2.0,{1}{W},,,,Gideon's Reproach deals 4 damage to target attacking or blocking creature.,common,,,Instant
-19,Healing Grace,W,1.0,{W},,,,Prevent the next 3 damage that would be dealt to any target this turn by a source of your choice. You gain 3 life.,common,,,Instant
+II, III — Each player returns two land cards from their graveyard to the battlefield.",rare,,,Enchantment,Saga
+18,Gideon's Reproach,W,2.0,{1}{W},,,,Gideon's Reproach deals 4 damage to target attacking or blocking creature.,common,,,Instant,
+19,Healing Grace,W,1.0,{W},,,,Prevent the next 3 damage that would be dealt to any target this turn by a source of your choice. You gain 3 life.,common,,,Instant,
 20,History of Benalia,W,3.0,{1}{W}{W},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Create a 2/2 white Knight creature token with vigilance.
-III — Knights you control get +2/+1 until end of turn.",mythic,,,Enchantment
-21,Invoke the Divine,W,3.0,{2}{W},,,,Destroy target artifact or enchantment. You gain 4 life.,common,,,Instant
+III — Knights you control get +2/+1 until end of turn.",mythic,,,Enchantment,Saga
+21,Invoke the Divine,W,3.0,{2}{W},,,,Destroy target artifact or enchantment. You gain 4 life.,common,,,Instant,
 22,Knight of Grace,W,2.0,{1}{W},2.0,2.0,,"First strike
 Hexproof from black (This creature can't be the target of black spells or abilities your opponents control.)
-Knight of Grace gets +1/+0 as long as any player controls a black permanent.",uncommon,"First strike, Hexproof, Hexproof from",,Creature
-23,Knight of New Benalia,W,2.0,{1}{W},3.0,1.0,,,common,,,Creature
+Knight of Grace gets +1/+0 as long as any player controls a black permanent.",uncommon,"First strike, Hexproof, Hexproof from",,Creature,"Human, Knight"
+23,Knight of New Benalia,W,2.0,{1}{W},3.0,1.0,,,common,,,Creature,"Human, Knight"
 24,"Kwende, Pride of Femeref",W,4.0,{3}{W},2.0,2.0,,"Double strike
-Creatures you control with first strike have double strike.",uncommon,Double strike,Legendary,Creature
+Creatures you control with first strike have double strike.",uncommon,Double strike,Legendary,Creature,"Human, Knight"
 25,Lyra Dawnbringer,W,5.0,{3}{W}{W},5.0,5.0,,"Flying, first strike, lifelink
-Other Angels you control get +1/+1 and have lifelink.",mythic,"First strike, Flying, Lifelink",Legendary,Creature
-26,Mesa Unicorn,W,2.0,{1}{W},2.0,2.0,,Lifelink,common,Lifelink,,Creature
+Other Angels you control get +1/+1 and have lifelink.",mythic,"First strike, Flying, Lifelink",Legendary,Creature,Angel
+26,Mesa Unicorn,W,2.0,{1}{W},2.0,2.0,,Lifelink,common,Lifelink,,Creature,Unicorn
 27,On Serra's Wings,W,4.0,{3}{W},,,,"Enchant creature
-Enchanted creature is legendary, gets +1/+1, and has flying, vigilance, and lifelink.",uncommon,Enchant,Legendary,Enchantment
+Enchanted creature is legendary, gets +1/+1, and has flying, vigilance, and lifelink.",uncommon,Enchant,Legendary,Enchantment,Aura
 28,Pegasus Courser,W,3.0,{2}{W},1.0,3.0,,"Flying
-Whenever Pegasus Courser attacks, another target attacking creature gains flying until end of turn.",common,Flying,,Creature
+Whenever Pegasus Courser attacks, another target attacking creature gains flying until end of turn.",common,Flying,,Creature,Pegasus
 29,Sanctum Spirit,W,4.0,{3}{W},3.0,2.0,,"Lifelink
-Discard a historic card: Sanctum Spirit gains indestructible until end of turn. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Lifelink,,Creature
+Discard a historic card: Sanctum Spirit gains indestructible until end of turn. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Lifelink,,Creature,Spirit
 30,Seal Away,W,2.0,{1}{W},,,,"Flash
-When Seal Away enters the battlefield, exile target tapped creature an opponent controls until Seal Away leaves the battlefield.",uncommon,Flash,,Enchantment
+When Seal Away enters the battlefield, exile target tapped creature an opponent controls until Seal Away leaves the battlefield.",uncommon,Flash,,Enchantment,
 31,Sergeant-at-Arms,W,3.0,{2}{W},2.0,3.0,,"Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
-When Sergeant-at-Arms enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens.",common,Kicker,,Creature
-32,Serra Angel,W,5.0,{3}{W}{W},4.0,4.0,,"Flying, vigilance",uncommon,"Flying, Vigilance",,Creature
+When Sergeant-at-Arms enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens.",common,Kicker,,Creature,"Human, Soldier"
+32,Serra Angel,W,5.0,{3}{W}{W},4.0,4.0,,"Flying, vigilance",uncommon,"Flying, Vigilance",,Creature,Angel
 33,Serra Disciple,W,2.0,{1}{W},1.0,1.0,,"Flying, first strike
-Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of turn. (Artifacts, legendaries, and Sagas are historic.)",common,"First strike, Flying",,Creature
+Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of turn. (Artifacts, legendaries, and Sagas are historic.)",common,"First strike, Flying",,Creature,"Bird, Cleric"
 34,"Shalai, Voice of Plenty",W,4.0,{3}{W},3.0,4.0,,"Flying
 You, planeswalkers you control, and other creatures you control have hexproof.
-{4}{G}{G}: Put a +1/+1 counter on each creature you control.",rare,Flying,Legendary,Creature
+{4}{G}{G}: Put a +1/+1 counter on each creature you control.",rare,Flying,Legendary,Creature,Angel
 35,"Teshar, Ancestor's Apostle",W,4.0,{3}{W},2.0,2.0,,"Flying
-Whenever you cast a historic spell, return target creature card with mana value 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)",rare,Flying,Legendary,Creature
-36,Tragic Poet,W,1.0,{W},1.0,1.0,,"{T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.",common,,,Creature
+Whenever you cast a historic spell, return target creature card with mana value 3 or less from your graveyard to the battlefield. (Artifacts, legendaries, and Sagas are historic.)",rare,Flying,Legendary,Creature,"Bird, Cleric"
+36,Tragic Poet,W,1.0,{W},1.0,1.0,,"{T}, Sacrifice Tragic Poet: Return target enchantment card from your graveyard to your hand.",common,,,Creature,Human
 37,Triumph of Gerrard,W,2.0,{1}{W},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Put a +1/+1 counter on target creature you control with the greatest power.
-III — Target creature you control with the greatest power gains flying, first strike, and lifelink until end of turn.",uncommon,,,Enchantment
+III — Target creature you control with the greatest power gains flying, first strike, and lifelink until end of turn.",uncommon,,,Enchantment,Saga
 38,Urza's Ruinous Blast,W,5.0,{4}{W},,,,"(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
-Exile all nonland permanents that aren't legendary.",rare,,Legendary,Sorcery
+Exile all nonland permanents that aren't legendary.",rare,,Legendary,Sorcery,
 39,Academy Drake,U,3.0,{2}{U},2.0,2.0,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
 Flying
-If Academy Drake was kicked, it enters the battlefield with two +1/+1 counters on it.",common,"Flying, Kicker",,Creature
+If Academy Drake was kicked, it enters the battlefield with two +1/+1 counters on it.",common,"Flying, Kicker",,Creature,Drake
 40,Academy Journeymage,U,5.0,{4}{U},3.0,2.0,,"This spell costs {1} less to cast if you control a Wizard.
-When Academy Journeymage enters the battlefield, return target creature an opponent controls to its owner's hand.",common,,,Creature
+When Academy Journeymage enters the battlefield, return target creature an opponent controls to its owner's hand.",common,,,Creature,"Human, Wizard"
 41,The Antiquities War,U,4.0,{3}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
-III — Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",rare,,,Enchantment
+III — Artifacts you control become artifact creatures with base power and toughness 5/5 until end of turn.",rare,,,Enchantment,Saga
 42,Arcane Flight,U,1.0,{U},,,,"Enchant creature
-Enchanted creature gets +1/+1 and has flying.",common,Enchant,,Enchantment
+Enchanted creature gets +1/+1 and has flying.",common,Enchant,,Enchantment,Aura
 43,Artificer's Assistant,U,1.0,{U},1.0,1.0,,"Flying
-Whenever you cast a historic spell, scry 1. (Artifacts, legendaries, and Sagas are historic. To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",common,"Flying, Scry",,Creature
+Whenever you cast a historic spell, scry 1. (Artifacts, legendaries, and Sagas are historic. To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",common,"Flying, Scry",,Creature,Bird
 44,Befuddle,U,3.0,{2}{U},,,,"Target creature gets -4/-0 until end of turn.
-Draw a card.",common,,,Instant
+Draw a card.",common,,,Instant,
 45,Blink of an Eye,U,2.0,{1}{U},,,,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
-Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",common,Kicker,,Instant
+Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.",common,Kicker,,Instant,
 46,Cloudreader Sphinx,U,5.0,{4}{U},3.0,4.0,,"Flying
-When Cloudreader Sphinx enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,"Flying, Scry",,Creature
-47,Cold-Water Snapper,U,6.0,{5}{U},4.0,5.0,,Hexproof (This creature can't be the target of spells or abilities your opponents control.),common,Hexproof,,Creature
+When Cloudreader Sphinx enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,"Flying, Scry",,Creature,Sphinx
+47,Cold-Water Snapper,U,6.0,{5}{U},4.0,5.0,,Hexproof (This creature can't be the target of spells or abilities your opponents control.),common,Hexproof,,Creature,Turtle
 48,Curator's Ward,U,3.0,{2}{U},,,,"Enchant permanent
 Enchanted permanent has hexproof.
-When enchanted permanent leaves the battlefield, if it was historic, draw two cards. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Enchant,,Enchantment
+When enchanted permanent leaves the battlefield, if it was historic, draw two cards. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Enchant,,Enchantment,Aura
 49,Deep Freeze,U,3.0,{2}{U},,,,"Enchant creature
-Enchanted creature has base power and toughness 0/4, has defender, loses all other abilities, and is a blue Wall in addition to its other colors and types.",common,Enchant,,Enchantment
-50,Diligent Excavator,U,2.0,{1}{U},1.0,3.0,,"Whenever you cast a historic spell, target player mills two cards. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Mill,,Creature
-51,Divination,U,3.0,{2}{U},,,,Draw two cards.,common,,,Sorcery
-52,Homarid Explorer,U,4.0,{3}{U},3.0,3.0,,"When Homarid Explorer enters the battlefield, target player mills four cards.",common,Mill,,Creature
+Enchanted creature has base power and toughness 0/4, has defender, loses all other abilities, and is a blue Wall in addition to its other colors and types.",common,Enchant,,Enchantment,Aura
+50,Diligent Excavator,U,2.0,{1}{U},1.0,3.0,,"Whenever you cast a historic spell, target player mills two cards. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Mill,,Creature,"Human, Artificer"
+51,Divination,U,3.0,{2}{U},,,,Draw two cards.,common,,,Sorcery,
+52,Homarid Explorer,U,4.0,{3}{U},3.0,3.0,,"When Homarid Explorer enters the battlefield, target player mills four cards.",common,Mill,,Creature,"Homarid, Scout"
 53,In Bolas's Clutches,U,6.0,{4}{U}{U},,,,"Enchant permanent
 You control enchanted permanent.
-Enchanted permanent is legendary.",uncommon,Enchant,Legendary,Enchantment
+Enchanted permanent is legendary.",uncommon,Enchant,Legendary,Enchantment,Aura
 54,Karn's Temporal Sundering,U,6.0,{4}{U}{U},,,,"(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
-Target player takes an extra turn after this one. Return up to one target nonland permanent to its owner's hand. Exile Karn's Temporal Sundering.",rare,,Legendary,Sorcery
+Target player takes an extra turn after this one. Return up to one target nonland permanent to its owner's hand. Exile Karn's Temporal Sundering.",rare,,Legendary,Sorcery,
 55,Merfolk Trickster,U,2.0,{U}{U},2.0,2.0,,"Flash
-When Merfolk Trickster enters the battlefield, tap target creature an opponent controls. It loses all abilities until end of turn.",uncommon,Flash,,Creature
+When Merfolk Trickster enters the battlefield, tap target creature an opponent controls. It loses all abilities until end of turn.",uncommon,Flash,,Creature,"Merfolk, Wizard"
 56,The Mirari Conjecture,U,5.0,{4}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Return target instant card from your graveyard to your hand.
 II — Return target sorcery card from your graveyard to your hand.
-III — Until end of turn, whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.",rare,,,Enchantment
-57,"Naban, Dean of Iteration",U,2.0,{1}{U},2.0,1.0,,"If a Wizard entering the battlefield under your control causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",rare,,Legendary,Creature
+III — Until end of turn, whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.",rare,,,Enchantment,Saga
+57,"Naban, Dean of Iteration",U,2.0,{1}{U},2.0,1.0,,"If a Wizard entering the battlefield under your control causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",rare,,Legendary,Creature,"Human, Wizard"
 58,"Naru Meha, Master Wizard",U,4.0,{2}{U}{U},3.0,3.0,,"Flash
 When Naru Meha, Master Wizard enters the battlefield, copy target instant or sorcery spell you control. You may choose new targets for the copy.
-Other Wizards you control get +1/+1.",mythic,Flash,Legendary,Creature
+Other Wizards you control get +1/+1.",mythic,Flash,Legendary,Creature,"Human, Wizard"
 59,Opt,U,1.0,{U},,,,"Scry 1.
-Draw a card.",common,Scry,,Instant
+Draw a card.",common,Scry,,Instant,
 60,Precognition Field,U,4.0,{3}{U},,,,"You may look at the top card of your library any time.
 You may cast instant and sorcery spells from the top of your library.
-{3}: Exile the top card of your library.",rare,,,Enchantment
-61,Relic Runner,U,2.0,{1}{U},2.0,1.0,,"Relic Runner can't be blocked if you've cast a historic spell this turn. (Artifacts, legendaries, and Sagas are historic.)",common,,,Creature
-62,Rescue,U,1.0,{U},,,,Return target permanent you control to its owner's hand.,common,,,Instant
-63,Sage of Lat-Nam,U,2.0,{1}{U},1.0,2.0,,"{T}, Sacrifice an artifact: Draw a card.",uncommon,,,Creature
+{3}: Exile the top card of your library.",rare,,,Enchantment,
+61,Relic Runner,U,2.0,{1}{U},2.0,1.0,,"Relic Runner can't be blocked if you've cast a historic spell this turn. (Artifacts, legendaries, and Sagas are historic.)",common,,,Creature,"Human, Rogue"
+62,Rescue,U,1.0,{U},,,,Return target permanent you control to its owner's hand.,common,,,Instant,
+63,Sage of Lat-Nam,U,2.0,{1}{U},1.0,2.0,,"{T}, Sacrifice an artifact: Draw a card.",uncommon,,,Creature,"Human, Artificer"
 64,Sentinel of the Pearl Trident,U,5.0,{4}{U},3.0,3.0,,"Flash
-When Sentinel of the Pearl Trident enters the battlefield, you may exile target historic permanent you control. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Flash,,Creature
+When Sentinel of the Pearl Trident enters the battlefield, you may exile target historic permanent you control. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Flash,,Creature,"Merfolk, Soldier"
 65,"Slinn Voda, the Rising Deep",U,8.0,{6}{U}{U},8.0,8.0,,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
-When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents.",uncommon,Kicker,Legendary,Creature
-66,Syncopate,U,1.0,{X}{U},,,,"Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",common,,,Instant
+When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents.",uncommon,Kicker,Legendary,Creature,Leviathan
+66,Syncopate,U,1.0,{X}{U},,,,"Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",common,,,Instant,
 67,Tempest Djinn,U,3.0,{U}{U}{U},0.0,4.0,,"Flying
-Tempest Djinn gets +1/+0 for each basic Island you control.",rare,Flying,,Creature
-68,"Tetsuko Umezawa, Fugitive",U,2.0,{1}{U},1.0,3.0,,Creatures you control with power or toughness 1 or less can't be blocked.,uncommon,,Legendary,Creature
+Tempest Djinn gets +1/+0 for each basic Island you control.",rare,Flying,,Creature,Djinn
+68,"Tetsuko Umezawa, Fugitive",U,2.0,{1}{U},1.0,3.0,,Creatures you control with power or toughness 1 or less can't be blocked.,uncommon,,Legendary,Creature,"Human, Rogue"
 69,Time of Ice,U,4.0,{3}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Tap target creature an opponent controls. It doesn't untap during its controller's untap step for as long as you control Time of Ice.
-III — Return all tapped creatures to their owners' hands.",uncommon,,,Enchantment
-70,Tolarian Scholar,U,3.0,{2}{U},2.0,3.0,,,common,,,Creature
-71,Unwind,U,3.0,{2}{U},,,,Counter target noncreature spell. Untap up to three lands.,common,,,Instant
-72,Vodalian Arcanist,U,2.0,{1}{U},1.0,3.0,,{T}: Add {C}. Spend this mana only to cast an instant or sorcery spell.,common,,,Creature
-73,Weight of Memory,U,5.0,{3}{U}{U},,,,Draw three cards. Target player mills three cards.,uncommon,Mill,,Sorcery
+III — Return all tapped creatures to their owners' hands.",uncommon,,,Enchantment,Saga
+70,Tolarian Scholar,U,3.0,{2}{U},2.0,3.0,,,common,,,Creature,"Human, Wizard"
+71,Unwind,U,3.0,{2}{U},,,,Counter target noncreature spell. Untap up to three lands.,common,,,Instant,
+72,Vodalian Arcanist,U,2.0,{1}{U},1.0,3.0,,{T}: Add {C}. Spend this mana only to cast an instant or sorcery spell.,common,,,Creature,"Merfolk, Wizard"
+73,Weight of Memory,U,5.0,{3}{U}{U},,,,Draw three cards. Target player mills three cards.,uncommon,Mill,,Sorcery,
 74,Wizard's Retort,U,3.0,{1}{U}{U},,,,"This spell costs {1} less to cast if you control a Wizard.
-Counter target spell.",uncommon,,,Instant
+Counter target spell.",uncommon,,,Instant,
 75,"Zahid, Djinn of the Lamp",U,6.0,{4}{U}{U},5.0,6.0,,"You may pay {3}{U} and tap an untapped artifact you control rather than pay this spell's mana cost.
-Flying",rare,Flying,Legendary,Creature
-76,Blessing of Belzenlok,B,1.0,{B},,,,"Target creature gets +2/+1 until end of turn. If it's legendary, it also gains lifelink until end of turn.",common,,,Instant
-77,Cabal Evangel,B,2.0,{1}{B},2.0,2.0,,,common,,,Creature
-78,Cabal Paladin,B,4.0,{3}{B},4.0,2.0,,"Whenever you cast a historic spell, Cabal Paladin deals 2 damage to each opponent. (Artifacts, legendaries, and Sagas are historic.)",common,,,Creature
+Flying",rare,Flying,Legendary,Creature,Djinn
+76,Blessing of Belzenlok,B,1.0,{B},,,,"Target creature gets +2/+1 until end of turn. If it's legendary, it also gains lifelink until end of turn.",common,,,Instant,
+77,Cabal Evangel,B,2.0,{1}{B},2.0,2.0,,,common,,,Creature,"Human, Cleric"
+78,Cabal Paladin,B,4.0,{3}{B},4.0,2.0,,"Whenever you cast a historic spell, Cabal Paladin deals 2 damage to each opponent. (Artifacts, legendaries, and Sagas are historic.)",common,,,Creature,"Human, Knight"
 79,Caligo Skin-Witch,B,2.0,{1}{B},1.0,3.0,,"Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)
-When Caligo Skin-Witch enters the battlefield, if it was kicked, each opponent discards two cards.",common,Kicker,,Creature
-80,Cast Down,B,2.0,{1}{B},,,,Destroy target nonlegendary creature.,uncommon,,,Instant
+When Caligo Skin-Witch enters the battlefield, if it was kicked, each opponent discards two cards.",common,Kicker,,Creature,"Human, Wizard"
+80,Cast Down,B,2.0,{1}{B},,,,Destroy target nonlegendary creature.,uncommon,,,Instant,
 81,Chainer's Torment,B,4.0,{3}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Chainer's Torment deals 2 damage to each opponent and you gain 2 life.
-III — Create an X/X black Nightmare Horror creature token, where X is half your life total, rounded up. It deals X damage to you.",uncommon,,,Enchantment
-82,Dark Bargain,B,4.0,{3}{B},,,,Look at the top three cards of your library. Put two of them into your hand and the other into your graveyard. Dark Bargain deals 2 damage to you.,common,,,Instant
-83,Deathbloom Thallid,B,3.0,{2}{B},3.0,2.0,,"When Deathbloom Thallid dies, create a 1/1 green Saproling creature token.",common,,,Creature
+III — Create an X/X black Nightmare Horror creature token, where X is half your life total, rounded up. It deals X damage to you.",uncommon,,,Enchantment,Saga
+82,Dark Bargain,B,4.0,{3}{B},,,,Look at the top three cards of your library. Put two of them into your hand and the other into your graveyard. Dark Bargain deals 2 damage to you.,common,,,Instant,
+83,Deathbloom Thallid,B,3.0,{2}{B},3.0,2.0,,"When Deathbloom Thallid dies, create a 1/1 green Saproling creature token.",common,,,Creature,Fungus
 84,Demonic Vigor,B,1.0,{B},,,,"Enchant creature
 Enchanted creature gets +1/+1.
-When enchanted creature dies, return that card to its owner's hand.",common,Enchant,,Enchantment
+When enchanted creature dies, return that card to its owner's hand.",common,Enchant,,Enchantment,Aura
 85,Demonlord Belzenlok,B,6.0,{4}{B}{B},6.0,6.0,,"Flying, trample
-When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's mana value is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way.",mythic,"Flying, Trample",Legendary,Creature
-86,Divest,B,1.0,{B},,,,Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.,common,,,Sorcery
-87,Dread Shade,B,3.0,{B}{B}{B},3.0,3.0,,{B}: Dread Shade gets +1/+1 until end of turn.,rare,,,Creature
-88,Drudge Sentinel,B,3.0,{2}{B},2.0,1.0,,"{3}: Tap Drudge Sentinel. It gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Creature
+When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's mana value is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way.",mythic,"Flying, Trample",Legendary,Creature,"Elder, Demon"
+86,Divest,B,1.0,{B},,,,Target player reveals their hand. You choose an artifact or creature card from it. That player discards that card.,common,,,Sorcery,
+87,Dread Shade,B,3.0,{B}{B}{B},3.0,3.0,,{B}: Dread Shade gets +1/+1 until end of turn.,rare,,,Creature,Shade
+88,Drudge Sentinel,B,3.0,{2}{B},2.0,1.0,,"{3}: Tap Drudge Sentinel. It gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Creature,"Skeleton, Warrior"
 89,The Eldest Reborn,B,5.0,{4}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Each opponent sacrifices a creature or planeswalker.
 II — Each opponent discards a card.
-III — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.",uncommon,,,Enchantment
-90,Eviscerate,B,4.0,{3}{B},,,,Destroy target creature.,common,,,Sorcery
-91,Feral Abomination,B,6.0,{5}{B},5.0,5.0,,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),common,Deathtouch,,Creature
-92,Final Parting,B,5.0,{3}{B}{B},,,,Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle.,uncommon,,,Sorcery
-93,Fungal Infection,B,1.0,{B},,,,Target creature gets -1/-1 until end of turn. Create a 1/1 green Saproling creature token.,common,,,Instant
+III — Put target creature or planeswalker card from a graveyard onto the battlefield under your control.",uncommon,,,Enchantment,Saga
+90,Eviscerate,B,4.0,{3}{B},,,,Destroy target creature.,common,,,Sorcery,
+91,Feral Abomination,B,6.0,{5}{B},5.0,5.0,,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),common,Deathtouch,,Creature,Thrull
+92,Final Parting,B,5.0,{3}{B}{B},,,,Search your library for two cards. Put one into your hand and the other into your graveyard. Then shuffle.,uncommon,,,Sorcery,
+93,Fungal Infection,B,1.0,{B},,,,Target creature gets -1/-1 until end of turn. Create a 1/1 green Saproling creature token.,common,,,Instant,
 94,"Josu Vess, Lich Knight",B,4.0,{2}{B}{B},4.0,5.0,,"Kicker {5}{B} (You may pay an additional {5}{B} as you cast this spell.)
 Menace
-When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create eight 2/2 black Zombie Knight creature tokens with menace.",rare,"Kicker, Menace",Legendary,Creature
+When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create eight 2/2 black Zombie Knight creature tokens with menace.",rare,"Kicker, Menace",Legendary,Creature,"Zombie, Knight"
 95,"Kazarov, Sengir Pureblood",B,7.0,{5}{B}{B},4.0,4.0,,"Flying
 Whenever a creature an opponent controls is dealt damage, put a +1/+1 counter on Kazarov, Sengir Pureblood.
-{3}{R}: Kazarov deals 2 damage to target creature.",rare,Flying,Legendary,Creature
+{3}{R}: Kazarov deals 2 damage to target creature.",rare,Flying,Legendary,Creature,Vampire
 96,Knight of Malice,B,2.0,{1}{B},2.0,2.0,,"First strike
 Hexproof from white (This creature can't be the target of white spells or abilities your opponents control.)
-Knight of Malice gets +1/+0 as long as any player controls a white permanent.",uncommon,"First strike, Hexproof, Hexproof from",,Creature
+Knight of Malice gets +1/+0 as long as any player controls a white permanent.",uncommon,"First strike, Hexproof, Hexproof from",,Creature,"Human, Knight"
 97,Lich's Mastery,B,6.0,{3}{B}{B}{B},,,,"Hexproof
 You can't lose the game.
 Whenever you gain life, draw that many cards.
 Whenever you lose life, for each 1 life you lost, exile a permanent you control or a card from your hand or graveyard.
-When Lich's Mastery leaves the battlefield, you lose the game.",rare,Hexproof,Legendary,Enchantment
-98,Lingering Phantom,B,6.0,{5}{B},5.0,4.0,,"Whenever you cast a historic spell, you may pay {B}. If you do, return Lingering Phantom from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Creature
+When Lich's Mastery leaves the battlefield, you lose the game.",rare,Hexproof,Legendary,Enchantment,
+98,Lingering Phantom,B,6.0,{5}{B},5.0,4.0,,"Whenever you cast a historic spell, you may pay {B}. If you do, return Lingering Phantom from your graveyard to your hand. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Creature,Spirit
 99,Phyrexian Scriptures,B,4.0,{2}{B}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Put a +1/+1 counter on up to one target creature. That creature becomes an artifact in addition to its other types.
 II — Destroy all nonartifact creatures.
-III — Exile all opponents' graveyards.",mythic,,,Enchantment
+III — Exile all opponents' graveyards.",mythic,,,Enchantment,Saga
 100,Rat Colony,B,2.0,{1}{B},2.0,1.0,,"Rat Colony gets +1/+0 for each other Rat you control.
-A deck can have any number of cards named Rat Colony.",common,,,Creature
+A deck can have any number of cards named Rat Colony.",common,,,Creature,Rat
 101,Rite of Belzenlok,B,4.0,{2}{B}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Create two 0/1 black Cleric creature tokens.
-III — Create a 6/6 black Demon creature token with flying, trample, and ""At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.""",rare,,,Enchantment
-102,Settle the Score,B,4.0,{2}{B}{B},,,,Exile target creature. Put two loyalty counters on a planeswalker you control.,uncommon,,,Sorcery
-103,Soul Salvage,B,3.0,{2}{B},,,,Return up to two target creature cards from your graveyard to your hand.,common,,,Sorcery
+III — Create a 6/6 black Demon creature token with flying, trample, and ""At the beginning of your upkeep, sacrifice another creature. If you can't, this creature deals 6 damage to you.""",rare,,,Enchantment,Saga
+102,Settle the Score,B,4.0,{2}{B}{B},,,,Exile target creature. Put two loyalty counters on a planeswalker you control.,uncommon,,,Sorcery,
+103,Soul Salvage,B,3.0,{2}{B},,,,Return up to two target creature cards from your graveyard to your hand.,common,,,Sorcery,
 104,Stronghold Confessor,B,1.0,{B},1.0,1.0,,"Kicker {3} (You may pay an additional {3} as you cast this spell.)
 Menace (This creature can't be blocked except by two or more creatures.)
-If Stronghold Confessor was kicked, it enters the battlefield with two +1/+1 counters on it.",common,"Kicker, Menace",,Creature
-105,Thallid Omnivore,B,4.0,{3}{B},3.0,3.0,,"{1}, Sacrifice another creature: Thallid Omnivore gets +2/+2 until end of turn. If a Saproling was sacrificed this way, you gain 2 life.",common,,,Creature
-106,Thallid Soothsayer,B,4.0,{3}{B},2.0,3.0,,"{2}, Sacrifice a creature: Draw a card.",uncommon,,,Creature
+If Stronghold Confessor was kicked, it enters the battlefield with two +1/+1 counters on it.",common,"Kicker, Menace",,Creature,"Human, Cleric"
+105,Thallid Omnivore,B,4.0,{3}{B},3.0,3.0,,"{1}, Sacrifice another creature: Thallid Omnivore gets +2/+2 until end of turn. If a Saproling was sacrificed this way, you gain 2 life.",common,,,Creature,Fungus
+106,Thallid Soothsayer,B,4.0,{3}{B},2.0,3.0,,"{2}, Sacrifice a creature: Draw a card.",uncommon,,,Creature,Fungus
 107,"Torgaar, Famine Incarnate",B,8.0,{6}{B}{B},7.0,6.0,,"As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
-When Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down.",rare,,Legendary,Creature
+When Torgaar, Famine Incarnate enters the battlefield, up to one target player's life total becomes half their starting life total, rounded down.",rare,,Legendary,Creature,Avatar
 108,"Urgoros, the Empty One",B,6.0,{4}{B}{B},4.0,3.0,,"Flying
-Whenever Urgoros, the Empty One deals combat damage to a player, that player discards a card at random. If the player can't, you draw a card.",uncommon,Flying,Legendary,Creature
+Whenever Urgoros, the Empty One deals combat damage to a player, that player discards a card at random. If the player can't, you draw a card.",uncommon,Flying,Legendary,Creature,Specter
 109,Vicious Offering,B,2.0,{1}{B},,,,"Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
-Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.",common,Kicker,,Instant
-110,"Whisper, Blood Liturgist",B,4.0,{3}{B},2.0,2.0,,"{T}, Sacrifice two creatures: Return target creature card from your graveyard to the battlefield.",uncommon,,Legendary,Creature
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.",common,Kicker,,Instant,
+110,"Whisper, Blood Liturgist",B,4.0,{3}{B},2.0,2.0,,"{T}, Sacrifice two creatures: Return target creature card from your graveyard to the battlefield.",uncommon,,Legendary,Creature,"Human, Cleric"
 111,Windgrace Acolyte,B,5.0,{4}{B},3.0,2.0,,"Flying
-When Windgrace Acolyte enters the battlefield, mill three cards and you gain 3 life.",common,"Flying, Mill",,Creature
-112,"Yargle, Glutton of Urborg",B,5.0,{4}{B},9.0,3.0,,,uncommon,,Legendary,Creature
+When Windgrace Acolyte enters the battlefield, mill three cards and you gain 3 life.",common,"Flying, Mill",,Creature,"Cat, Warrior"
+112,"Yargle, Glutton of Urborg",B,5.0,{4}{B},9.0,3.0,,,uncommon,,Legendary,Creature,"Frog, Spirit"
 113,Yawgmoth's Vile Offering,B,5.0,{4}{B},,,,"(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
-Put up to one target creature or planeswalker card from a graveyard onto the battlefield under your control. Destroy up to one target creature or planeswalker. Exile Yawgmoth's Vile Offering.",rare,,Legendary,Sorcery
-114,Bloodstone Goblin,R,2.0,{1}{R},2.0,2.0,,"Whenever you cast a spell, if that spell was kicked, Bloodstone Goblin gets +1/+1 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,,,Creature
+Put up to one target creature or planeswalker card from a graveyard onto the battlefield under your control. Destroy up to one target creature or planeswalker. Exile Yawgmoth's Vile Offering.",rare,,Legendary,Sorcery,
+114,Bloodstone Goblin,R,2.0,{1}{R},2.0,2.0,,"Whenever you cast a spell, if that spell was kicked, Bloodstone Goblin gets +1/+1 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Goblin, Warrior"
 115,Champion of the Flame,R,2.0,{1}{R},1.0,1.0,,"Trample
-Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it.",uncommon,Trample,,Creature
-116,Fervent Strike,R,1.0,{R},,,,Target creature gets +1/+0 and gains first strike and haste until end of turn.,common,,,Instant
+Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it.",uncommon,Trample,,Creature,"Human, Warrior"
+116,Fervent Strike,R,1.0,{R},,,,Target creature gets +1/+0 and gains first strike and haste until end of turn.,common,,,Instant,
 117,Fiery Intervention,R,5.0,{4}{R},,,,"Choose one —
 • Fiery Intervention deals 5 damage to target creature.
-• Destroy target artifact.",common,,,Sorcery
+• Destroy target artifact.",common,,,Sorcery,
 118,Fight with Fire,R,3.0,{2}{R},,,,"Kicker {5}{R} (You may pay an additional {5}{R} as you cast this spell.)
-Fight with Fire deals 5 damage to target creature. If this spell was kicked, it deals 10 damage divided as you choose among any number of targets instead. (Those targets can include players and planeswalkers.)",uncommon,Kicker,,Sorcery
-119,Fire Elemental,R,5.0,{3}{R}{R},5.0,4.0,,,common,,,Creature
-120,Firefist Adept,R,5.0,{4}{R},3.0,3.0,,"When Firefist Adept enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of Wizards you control.",uncommon,,,Creature
+Fight with Fire deals 5 damage to target creature. If this spell was kicked, it deals 10 damage divided as you choose among any number of targets instead. (Those targets can include players and planeswalkers.)",uncommon,Kicker,,Sorcery,
+119,Fire Elemental,R,5.0,{3}{R}{R},5.0,4.0,,,common,,,Creature,Elemental
+120,Firefist Adept,R,5.0,{4}{R},3.0,3.0,,"When Firefist Adept enters the battlefield, it deals X damage to target creature an opponent controls, where X is the number of Wizards you control.",uncommon,,,Creature,"Human, Wizard"
 121,The First Eruption,R,3.0,{2}{R},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — The First Eruption deals 1 damage to each creature without flying.
 II — Add {R}{R}.
-III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to each creature.",rare,,,Enchantment
+III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to each creature.",rare,,,Enchantment,Saga
 122,The Flame of Keld,R,2.0,{1}{R},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Discard your hand.
 II — Draw two cards.
-III — If a red source you control would deal damage to a permanent or player this turn, it deals that much damage plus 2 to that permanent or player instead.",uncommon,,,Enchantment
+III — If a red source you control would deal damage to a permanent or player this turn, it deals that much damage plus 2 to that permanent or player instead.",uncommon,,,Enchantment,Saga
 123,Frenzied Rage,R,2.0,{1}{R},,,,"Enchant creature
-Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",common,Enchant,,Enchantment
+Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",common,Enchant,,Enchantment,Aura
 124,Ghitu Chronicler,R,2.0,{1}{R},1.0,3.0,,"Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
-When Ghitu Chronicler enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand.",common,Kicker,,Creature
-125,Ghitu Journeymage,R,3.0,{2}{R},3.0,2.0,,"When Ghitu Journeymage enters the battlefield, if you control another Wizard, Ghitu Journeymage deals 2 damage to each opponent.",common,,,Creature
-126,Ghitu Lavarunner,R,1.0,{R},1.0,2.0,,"As long as there are two or more instant and/or sorcery cards in your graveyard, Ghitu Lavarunner gets +1/+0 and has haste.",common,,,Creature
+When Ghitu Chronicler enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand.",common,Kicker,,Creature,"Human, Wizard"
+125,Ghitu Journeymage,R,3.0,{2}{R},3.0,2.0,,"When Ghitu Journeymage enters the battlefield, if you control another Wizard, Ghitu Journeymage deals 2 damage to each opponent.",common,,,Creature,"Human, Wizard"
+126,Ghitu Lavarunner,R,1.0,{R},1.0,2.0,,"As long as there are two or more instant and/or sorcery cards in your graveyard, Ghitu Lavarunner gets +1/+0 and has haste.",common,,,Creature,"Human, Wizard"
 127,Goblin Barrage,R,4.0,{3}{R},,,,"Kicker—Sacrifice an artifact or Goblin. (You may sacrifice an artifact or Goblin in addition to any other costs as you cast this spell.)
-Goblin Barrage deals 4 damage to target creature. If this spell was kicked, it also deals 4 damage to target player or planeswalker.",uncommon,Kicker,,Sorcery
+Goblin Barrage deals 4 damage to target creature. If this spell was kicked, it also deals 4 damage to target player or planeswalker.",uncommon,Kicker,,Sorcery,
 128,Goblin Chainwhirler,R,3.0,{R}{R}{R},3.0,3.0,,"First strike
-When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each opponent and each creature and planeswalker they control.",rare,First strike,,Creature
+When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each opponent and each creature and planeswalker they control.",rare,First strike,,Creature,"Goblin, Warrior"
 129,Goblin Warchief,R,3.0,{1}{R}{R},2.0,2.0,,"Goblin spells you cast cost {1} less to cast.
-Goblins you control have haste.",uncommon,,,Creature
+Goblins you control have haste.",uncommon,,,Creature,"Goblin, Warrior"
 130,Haphazard Bombardment,R,6.0,{5}{R},,,,"When Haphazard Bombardment enters the battlefield, choose four nonenchantment permanents you don't control and put an aim counter on each of them.
-At the beginning of your end step, if two or more permanents you don't control have an aim counter on them, destroy one of those permanents at random.",rare,,,Enchantment
+At the beginning of your end step, if two or more permanents you don't control have an aim counter on them, destroy one of those permanents at random.",rare,,,Enchantment,
 131,Jaya Ballard,R,5.0,{2}{R}{R}{R},,,5.0,"[+1]: Add {R}{R}{R}. Spend this mana only to cast instant or sorcery spells.
 [+1]: Discard up to three cards, then draw that many cards.
-[−8]: You get an emblem with ""You may cast instant and sorcery spells from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.""",mythic,,Legendary,Planeswalker
+[−8]: You get an emblem with ""You may cast instant and sorcery spells from your graveyard. If a spell cast this way would be put into your graveyard, exile it instead.""",mythic,,Legendary,Planeswalker,Jaya
 132,Jaya's Immolating Inferno,R,2.0,{X}{R}{R},,,,"(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
-Jaya's Immolating Inferno deals X damage to each of up to three targets.",rare,,Legendary,Sorcery
+Jaya's Immolating Inferno deals X damage to each of up to three targets.",rare,,Legendary,Sorcery,
 133,Keldon Overseer,R,3.0,{2}{R},3.0,1.0,,"Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
 Haste
-When Keldon Overseer enters the battlefield, if it was kicked, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",common,"Haste, Kicker",,Creature
-134,Keldon Raider,R,4.0,{2}{R}{R},4.0,3.0,,"When Keldon Raider enters the battlefield, you may discard a card. If you do, draw a card.",common,,,Creature
-135,Keldon Warcaller,R,2.0,{1}{R},2.0,2.0,,"Whenever Keldon Warcaller attacks, put a lore counter on target Saga you control.",common,,,Creature
-136,Orcish Vandal,R,2.0,{1}{R},1.0,1.0,,"{T}, Sacrifice an artifact: Orcish Vandal deals 2 damage to any target.",uncommon,,,Creature
-137,Radiating Lightning,R,4.0,{3}{R},,,,Radiating Lightning deals 3 damage to target player and 1 damage to each creature that player controls.,common,,,Instant
-138,Rampaging Cyclops,R,4.0,{3}{R},4.0,4.0,,Rampaging Cyclops gets -2/-0 as long as two or more creatures are blocking it.,common,,,Creature
-139,Run Amok,R,2.0,{1}{R},,,,Target attacking creature gets +3/+3 and gains trample until end of turn.,common,,,Instant
-140,Seismic Shift,R,4.0,{3}{R},,,,Destroy target land. Up to two target creatures can't block this turn.,common,,,Sorcery
+When Keldon Overseer enters the battlefield, if it was kicked, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",common,"Haste, Kicker",,Creature,"Human, Warrior"
+134,Keldon Raider,R,4.0,{2}{R}{R},4.0,3.0,,"When Keldon Raider enters the battlefield, you may discard a card. If you do, draw a card.",common,,,Creature,"Human, Warrior"
+135,Keldon Warcaller,R,2.0,{1}{R},2.0,2.0,,"Whenever Keldon Warcaller attacks, put a lore counter on target Saga you control.",common,,,Creature,"Human, Warrior"
+136,Orcish Vandal,R,2.0,{1}{R},1.0,1.0,,"{T}, Sacrifice an artifact: Orcish Vandal deals 2 damage to any target.",uncommon,,,Creature,"Orc, Warrior"
+137,Radiating Lightning,R,4.0,{3}{R},,,,Radiating Lightning deals 3 damage to target player and 1 damage to each creature that player controls.,common,,,Instant,
+138,Rampaging Cyclops,R,4.0,{3}{R},4.0,4.0,,Rampaging Cyclops gets -2/-0 as long as two or more creatures are blocking it.,common,,,Creature,Cyclops
+139,Run Amok,R,2.0,{1}{R},,,,Target attacking creature gets +3/+3 and gains trample until end of turn.,common,,,Instant,
+140,Seismic Shift,R,4.0,{3}{R},,,,Destroy target land. Up to two target creatures can't block this turn.,common,,,Sorcery,
 141,Shivan Fire,R,1.0,{R},,,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
-Shivan Fire deals 2 damage to target creature. If this spell was kicked, it deals 4 damage instead.",common,Kicker,,Instant
+Shivan Fire deals 2 damage to target creature. If this spell was kicked, it deals 4 damage instead.",common,Kicker,,Instant,
 142,Siege-Gang Commander,R,5.0,{3}{R}{R},2.0,2.0,,"When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
-{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.",rare,,,Creature
-143,Skirk Prospector,R,1.0,{R},1.0,1.0,,Sacrifice a Goblin: Add {R}.,common,,,Creature
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.",rare,,,Creature,Goblin
+143,Skirk Prospector,R,1.0,{R},1.0,1.0,,Sacrifice a Goblin: Add {R}.,common,,,Creature,Goblin
 144,Skizzik,R,4.0,{3}{R},5.0,3.0,,"Kicker {R} (You may pay an additional {R} as you cast this spell.)
 Trample, haste
-At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it.",uncommon,"Haste, Kicker, Trample",,Creature
-145,"Squee, the Immortal",R,3.0,{1}{R}{R},2.0,1.0,,"You may cast Squee, the Immortal from your graveyard or from exile.",rare,,Legendary,Creature
-146,Two-Headed Giant,R,4.0,{2}{R}{R},4.0,4.0,,"Whenever Two-Headed Giant attacks, flip two coins. If both coins come up heads, Two-Headed Giant gains double strike until end of turn. If both coins come up tails, Two-Headed Giant gains menace until end of turn.",rare,,,Creature
-147,"Valduk, Keeper of the Flame",R,3.0,{2}{R},3.0,2.0,,"At the beginning of combat on your turn, for each Aura and Equipment attached to Valduk, Keeper of the Flame, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.",uncommon,,Legendary,Creature
+At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it.",uncommon,"Haste, Kicker, Trample",,Creature,Elemental
+145,"Squee, the Immortal",R,3.0,{1}{R}{R},2.0,1.0,,"You may cast Squee, the Immortal from your graveyard or from exile.",rare,,Legendary,Creature,Goblin
+146,Two-Headed Giant,R,4.0,{2}{R}{R},4.0,4.0,,"Whenever Two-Headed Giant attacks, flip two coins. If both coins come up heads, Two-Headed Giant gains double strike until end of turn. If both coins come up tails, Two-Headed Giant gains menace until end of turn.",rare,,,Creature,"Giant, Warrior"
+147,"Valduk, Keeper of the Flame",R,3.0,{2}{R},3.0,2.0,,"At the beginning of combat on your turn, for each Aura and Equipment attached to Valduk, Keeper of the Flame, create a 3/1 red Elemental creature token with trample and haste. Exile those tokens at the beginning of the next end step.",uncommon,,Legendary,Creature,"Human, Shaman"
 148,Verix Bladewing,R,4.0,{2}{R}{R},4.0,4.0,,"Kicker {3} (You may pay an additional {3} as you cast this spell.)
 Flying
-When Verix Bladewing enters the battlefield, if it was kicked, create Karox Bladewing, a legendary 4/4 red Dragon creature token with flying.",mythic,"Flying, Kicker",Legendary,Creature
+When Verix Bladewing enters the battlefield, if it was kicked, create Karox Bladewing, a legendary 4/4 red Dragon creature token with flying.",mythic,"Flying, Kicker",Legendary,Creature,Dragon
 149,Warcry Phoenix,R,4.0,{3}{R},2.0,2.0,,"Flying, haste
-Whenever you attack with three or more creatures, you may pay {2}{R}. If you do, return Warcry Phoenix from your graveyard to the battlefield tapped and attacking.",uncommon,"Flying, Haste",,Creature
+Whenever you attack with three or more creatures, you may pay {2}{R}. If you do, return Warcry Phoenix from your graveyard to the battlefield tapped and attacking.",uncommon,"Flying, Haste",,Creature,Phoenix
 150,Warlord's Fury,R,1.0,{R},,,,"Creatures you control gain first strike until end of turn.
-Draw a card.",common,,,Sorcery
+Draw a card.",common,,,Sorcery,
 151,Wizard's Lightning,R,3.0,{2}{R},,,,"This spell costs {2} less to cast if you control a Wizard.
-Wizard's Lightning deals 3 damage to any target.",uncommon,,,Instant
-152,Adventurous Impulse,G,1.0,{G},,,,Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,common,,,Sorcery
-153,Ancient Animus,G,2.0,{1}{G},,,,Put a +1/+1 counter on target creature you control if it's legendary. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.),common,Fight,,Instant
-154,Arbor Armament,G,1.0,{G},,,,Put a +1/+1 counter on target creature. That creature gains reach until end of turn.,common,,,Instant
+Wizard's Lightning deals 3 damage to any target.",uncommon,,,Instant,
+152,Adventurous Impulse,G,1.0,{G},,,,Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,common,,,Sorcery,
+153,Ancient Animus,G,2.0,{1}{G},,,,Put a +1/+1 counter on target creature you control if it's legendary. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.),common,Fight,,Instant,
+154,Arbor Armament,G,1.0,{G},,,,Put a +1/+1 counter on target creature. That creature gains reach until end of turn.,common,,,Instant,
 155,Baloth Gorger,G,4.0,{2}{G}{G},4.0,4.0,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
-If Baloth Gorger was kicked, it enters the battlefield with three +1/+1 counters on it.",common,Kicker,,Creature
-156,Broken Bond,G,2.0,{1}{G},,,,Destroy target artifact or enchantment. You may put a land card from your hand onto the battlefield.,common,,,Sorcery
-157,Corrosive Ooze,G,2.0,{1}{G},2.0,2.0,,"Whenever Corrosive Ooze blocks or becomes blocked by an equipped creature, destroy all Equipment attached to that creature at end of combat.",common,,,Creature
+If Baloth Gorger was kicked, it enters the battlefield with three +1/+1 counters on it.",common,Kicker,,Creature,Beast
+156,Broken Bond,G,2.0,{1}{G},,,,Destroy target artifact or enchantment. You may put a land card from your hand onto the battlefield.,common,,,Sorcery,
+157,Corrosive Ooze,G,2.0,{1}{G},2.0,2.0,,"Whenever Corrosive Ooze blocks or becomes blocked by an equipped creature, destroy all Equipment attached to that creature at end of combat.",common,,,Creature,Ooze
 158,Elfhame Druid,G,2.0,{1}{G},0.0,2.0,,"{T}: Add {G}.
-{T}: Add {G}{G}. Spend this mana only to cast kicked spells.",uncommon,,,Creature
+{T}: Add {G}{G}. Spend this mana only to cast kicked spells.",uncommon,,,Creature,"Elf, Druid"
 159,Fungal Plots,G,2.0,{1}{G},,,,"{1}{G}, Exile a creature card from your graveyard: Create a 1/1 green Saproling creature token.
-Sacrifice two Saprolings: You gain 2 life and draw a card.",uncommon,,,Enchantment
+Sacrifice two Saprolings: You gain 2 life and draw a card.",uncommon,,,Enchantment,
 160,Gaea's Blessing,G,2.0,{1}{G},,,,"Target player shuffles up to three target cards from their graveyard into their library.
 Draw a card.
-When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.",uncommon,,,Sorcery
-161,Gaea's Protector,G,4.0,{3}{G},4.0,2.0,,Gaea's Protector must be blocked if able.,common,,,Creature
+When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.",uncommon,,,Sorcery,
+161,Gaea's Protector,G,4.0,{3}{G},4.0,2.0,,Gaea's Protector must be blocked if able.,common,,,Creature,"Elemental, Warrior"
 162,Gift of Growth,G,2.0,{1}{G},,,,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
-Untap target creature. It gets +2/+2 until end of turn. If this spell was kicked, that creature gets +4/+4 until end of turn instead.",common,Kicker,,Instant
+Untap target creature. It gets +2/+2 until end of turn. If this spell was kicked, that creature gets +4/+4 until end of turn instead.",common,Kicker,,Instant,
 163,Grow from the Ashes,G,3.0,{2}{G},,,,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
-Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.",common,Kicker,,Sorcery
+Search your library for a basic land card, put it onto the battlefield, then shuffle. If this spell was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle.",common,Kicker,,Sorcery,
 164,"Grunn, the Lonely King",G,6.0,{4}{G}{G},5.0,5.0,,"Kicker {3} (You may pay an additional {3} as you cast this spell.)
 If Grunn, the Lonely King was kicked, it enters the battlefield with five +1/+1 counters on it.
-Whenever Grunn attacks alone, double its power and toughness until end of turn.",uncommon,Kicker,Legendary,Creature
+Whenever Grunn attacks alone, double its power and toughness until end of turn.",uncommon,Kicker,Legendary,Creature,"Ape, Warrior"
 165,Kamahl's Druidic Vow,G,2.0,{X}{G}{G},,,,"(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
-Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with mana value X or less from among them onto the battlefield. Put the rest into your graveyard.",rare,,Legendary,Sorcery
+Look at the top X cards of your library. You may put any number of land and/or legendary permanent cards with mana value X or less from among them onto the battlefield. Put the rest into your graveyard.",rare,,Legendary,Sorcery,
 166,Krosan Druid,G,3.0,{2}{G},2.0,3.0,,"Kicker {4}{G} (You may pay an additional {4}{G} as you cast this spell.)
-When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life.",common,Kicker,,Creature
-167,Llanowar Elves,G,1.0,{G},1.0,1.0,,{T}: Add {G}.,common,,,Creature
-168,Llanowar Envoy,G,3.0,{2}{G},3.0,2.0,,{1}{G}: Add one mana of any color.,common,,,Creature
-169,Llanowar Scout,G,2.0,{1}{G},1.0,3.0,,{T}: You may put a land card from your hand onto the battlefield.,common,,,Creature
-170,Mammoth Spider,G,5.0,{4}{G},3.0,5.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature
+When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life.",common,Kicker,,Creature,"Centaur, Druid"
+167,Llanowar Elves,G,1.0,{G},1.0,1.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"
+168,Llanowar Envoy,G,3.0,{2}{G},3.0,2.0,,{1}{G}: Add one mana of any color.,common,,,Creature,"Elf, Scout"
+169,Llanowar Scout,G,2.0,{1}{G},1.0,3.0,,{T}: You may put a land card from your hand onto the battlefield.,common,,,Creature,"Elf, Scout"
+170,Mammoth Spider,G,5.0,{4}{G},3.0,5.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Spider
 171,"Marwyn, the Nurturer",G,3.0,{2}{G},1.0,1.0,,"Whenever another Elf enters the battlefield under your control, put a +1/+1 counter on Marwyn, the Nurturer.
-{T}: Add an amount of {G} equal to Marwyn's power.",rare,,Legendary,Creature
+{T}: Add an amount of {G} equal to Marwyn's power.",rare,,Legendary,Creature,"Elf, Druid"
 172,The Mending of Dominaria,G,5.0,{3}{G}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Mill two cards, then you may return a creature card from your graveyard to your hand.
-III — Return all land cards from your graveyard to the battlefield, then shuffle your graveyard into your library.",rare,Mill,,Enchantment
+III — Return all land cards from your graveyard to the battlefield, then shuffle your graveyard into your library.",rare,Mill,,Enchantment,Saga
 173,"Multani, Yavimaya's Avatar",G,6.0,{4}{G}{G},0.0,0.0,,"Reach, trample
 Multani, Yavimaya's Avatar gets +1/+1 for each land you control and each land card in your graveyard.
-{1}{G}, Return two lands you control to their owner's hand: Return Multani from your graveyard to your hand.",mythic,"Reach, Trample",Legendary,Creature
-174,Nature's Spiral,G,2.0,{1}{G},,,,Return target permanent card from your graveyard to your hand.,uncommon,,,Sorcery
-175,Pierce the Sky,G,2.0,{1}{G},,,,Pierce the Sky deals 7 damage to target creature with flying.,common,,,Instant
-176,Primordial Wurm,G,6.0,{4}{G}{G},7.0,6.0,,,common,,,Creature
+{1}{G}, Return two lands you control to their owner's hand: Return Multani from your graveyard to your hand.",mythic,"Reach, Trample",Legendary,Creature,"Elemental, Avatar"
+174,Nature's Spiral,G,2.0,{1}{G},,,,Return target permanent card from your graveyard to your hand.,uncommon,,,Sorcery,
+175,Pierce the Sky,G,2.0,{1}{G},,,,Pierce the Sky deals 7 damage to target creature with flying.,common,,,Instant,
+176,Primordial Wurm,G,6.0,{4}{G}{G},7.0,6.0,,,common,,,Creature,Wurm
 177,Saproling Migration,G,2.0,{1}{G},,,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
-Create two 1/1 green Saproling creature tokens. If this spell was kicked, create four of those tokens instead.",common,Kicker,,Sorcery
+Create two 1/1 green Saproling creature tokens. If this spell was kicked, create four of those tokens instead.",common,Kicker,,Sorcery,
 178,Song of Freyalise,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Until your next turn, creatures you control gain ""{T}: Add one mana of any color.""
-III — Put a +1/+1 counter on each creature you control. Those creatures gain vigilance, trample, and indestructible until end of turn.",uncommon,,,Enchantment
-179,Spore Swarm,G,4.0,{3}{G},,,,Create three 1/1 green Saproling creature tokens.,uncommon,,,Instant
-180,Sporecrown Thallid,G,2.0,{1}{G},2.0,2.0,,Each other creature you control that's a Fungus or Saproling gets +1/+1.,uncommon,,,Creature
-181,Steel Leaf Champion,G,3.0,{G}{G}{G},5.0,4.0,,Steel Leaf Champion can't be blocked by creatures with power 2 or less.,rare,,,Creature
-182,Sylvan Awakening,G,3.0,{2}{G},,,,"Until your next turn, all lands you control become 2/2 Elemental creatures with reach, indestructible, and haste. They're still lands.",rare,Indestructible,,Sorcery
+III — Put a +1/+1 counter on each creature you control. Those creatures gain vigilance, trample, and indestructible until end of turn.",uncommon,,,Enchantment,Saga
+179,Spore Swarm,G,4.0,{3}{G},,,,Create three 1/1 green Saproling creature tokens.,uncommon,,,Instant,
+180,Sporecrown Thallid,G,2.0,{1}{G},2.0,2.0,,Each other creature you control that's a Fungus or Saproling gets +1/+1.,uncommon,,,Creature,Fungus
+181,Steel Leaf Champion,G,3.0,{G}{G}{G},5.0,4.0,,Steel Leaf Champion can't be blocked by creatures with power 2 or less.,rare,,,Creature,"Elf, Knight"
+182,Sylvan Awakening,G,3.0,{2}{G},,,,"Until your next turn, all lands you control become 2/2 Elemental creatures with reach, indestructible, and haste. They're still lands.",rare,Indestructible,,Sorcery,
 183,Territorial Allosaurus,G,4.0,{2}{G}{G},5.0,5.0,,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
-When Territorial Allosaurus enters the battlefield, if it was kicked, it fights another target creature.",rare,"Fight, Kicker",,Creature
-184,Thorn Elemental,G,7.0,{5}{G}{G},7.0,7.0,,You may have Thorn Elemental assign its combat damage as though it weren't blocked.,uncommon,,,Creature
+When Territorial Allosaurus enters the battlefield, if it was kicked, it fights another target creature.",rare,"Fight, Kicker",,Creature,Dinosaur
+184,Thorn Elemental,G,7.0,{5}{G}{G},7.0,7.0,,You may have Thorn Elemental assign its combat damage as though it weren't blocked.,uncommon,,,Creature,Elemental
 185,Untamed Kavu,G,2.0,{1}{G},2.0,2.0,,"Kicker {3} (You may pay an additional {3} as you cast this spell.)
 Vigilance, trample
-If Untamed Kavu was kicked, it enters the battlefield with three +1/+1 counters on it.",uncommon,"Kicker, Trample, Vigilance",,Creature
-186,Verdant Force,G,8.0,{5}{G}{G}{G},7.0,7.0,,"At the beginning of each upkeep, create a 1/1 green Saproling creature token.",rare,,,Creature
+If Untamed Kavu was kicked, it enters the battlefield with three +1/+1 counters on it.",uncommon,"Kicker, Trample, Vigilance",,Creature,Kavu
+186,Verdant Force,G,8.0,{5}{G}{G}{G},7.0,7.0,,"At the beginning of each upkeep, create a 1/1 green Saproling creature token.",rare,,,Creature,Elemental
 187,Wild Onslaught,G,4.0,{3}{G},,,,"Kicker {4} (You may pay an additional {4} as you cast this spell.)
-Put a +1/+1 counter on each creature you control. If this spell was kicked, put two +1/+1 counters on each creature you control instead.",uncommon,Kicker,,Instant
-188,Yavimaya Sapherd,G,3.0,{2}{G},2.0,2.0,,"When Yavimaya Sapherd enters the battlefield, create a 1/1 green Saproling creature token.",common,,,Creature
+Put a +1/+1 counter on each creature you control. If this spell was kicked, put two +1/+1 counters on each creature you control instead.",uncommon,Kicker,,Instant,
+188,Yavimaya Sapherd,G,3.0,{2}{G},2.0,2.0,,"When Yavimaya Sapherd enters the battlefield, create a 1/1 green Saproling creature token.",common,,,Creature,Fungus
 189,"Adeliz, the Cinder Wind","R, U",3.0,{1}{U}{R},2.0,2.0,,"Flying, haste
-Whenever you cast an instant or sorcery spell, Wizards you control get +1/+1 until end of turn.",uncommon,"Flying, Haste",Legendary,Creature
+Whenever you cast an instant or sorcery spell, Wizards you control get +1/+1 until end of turn.",uncommon,"Flying, Haste",Legendary,Creature,"Human, Wizard"
 190,Arvad the Cursed,"B, W",5.0,{3}{W}{B},3.0,3.0,,"Deathtouch, lifelink
-Other legendary creatures you control get +2/+2.",uncommon,"Deathtouch, Lifelink",Legendary,Creature
+Other legendary creatures you control get +2/+2.",uncommon,"Deathtouch, Lifelink",Legendary,Creature,"Vampire, Knight"
 191,"Aryel, Knight of Windgrace","B, W",4.0,{2}{W}{B},4.0,4.0,,"Vigilance
 {2}{W}, {T}: Create a 2/2 white Knight creature token with vigilance.
-{B}, {T}, Tap X untapped Knights you control: Destroy target creature with power X or less.",rare,Vigilance,Legendary,Creature
+{B}, {T}, Tap X untapped Knights you control: Destroy target creature with power X or less.",rare,Vigilance,Legendary,Creature,"Human, Knight"
 192,Darigaaz Reincarnated,"B, G, R",7.0,{4}{B}{R}{G},7.0,7.0,,"Flying, trample, haste
 If Darigaaz Reincarnated would die, instead exile it with three egg counters on it.
-At the beginning of your upkeep, if Darigaaz is exiled with an egg counter on it, remove an egg counter from it. Then if Darigaaz has no egg counters on it, return it to the battlefield.",mythic,"Flying, Haste, Trample",Legendary,Creature
+At the beginning of your upkeep, if Darigaaz is exiled with an egg counter on it, remove an egg counter from it. Then if Darigaaz has no egg counters on it, return it to the battlefield.",mythic,"Flying, Haste, Trample",Legendary,Creature,Dragon
 193,"Garna, the Bloodflame","B, R",5.0,{3}{B}{R},3.0,3.0,,"Flash
 When Garna, the Bloodflame enters the battlefield, return to your hand all creature cards in your graveyard that were put there from anywhere this turn.
-Other creatures you control have haste.",uncommon,Flash,Legendary,Creature
+Other creatures you control have haste.",uncommon,Flash,Legendary,Creature,"Human, Warrior"
 194,Grand Warlord Radha,"G, R",4.0,{2}{R}{G},3.0,4.0,,"Haste
-Whenever one or more creatures you control attack, add that much mana in any combination of {R} and/or {G}. Until end of turn, you don't lose this mana as steps and phases end.",rare,Haste,Legendary,Creature
+Whenever one or more creatures you control attack, add that much mana in any combination of {R} and/or {G}. Until end of turn, you don't lose this mana as steps and phases end.",rare,Haste,Legendary,Creature,"Elf, Warrior"
 195,"Hallar, the Firefletcher","G, R",3.0,{1}{R}{G},3.0,3.0,,"Trample
-Whenever you cast a spell, if that spell was kicked, put a +1/+1 counter on Hallar, the Firefletcher, then Hallar deals damage equal to the number of +1/+1 counters on it to each opponent.",uncommon,Trample,Legendary,Creature
-196,"Jhoira, Weatherlight Captain","R, U",4.0,{2}{U}{R},3.0,3.0,,"Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)",mythic,,Legendary,Creature
+Whenever you cast a spell, if that spell was kicked, put a +1/+1 counter on Hallar, the Firefletcher, then Hallar deals damage equal to the number of +1/+1 counters on it to each opponent.",uncommon,Trample,Legendary,Creature,"Elf, Archer"
+196,"Jhoira, Weatherlight Captain","R, U",4.0,{2}{U}{R},3.0,3.0,,"Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)",mythic,,Legendary,Creature,"Human, Artificer"
 197,"Jodah, Archmage Eternal","R, U, W",4.0,{1}{U}{R}{W},4.0,3.0,,"Flying
-You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.",rare,Flying,Legendary,Creature
-198,"Muldrotha, the Gravetide","B, G, U",6.0,{3}{B}{G}{U},6.0,6.0,,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)",mythic,,Legendary,Creature
+You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.",rare,Flying,Legendary,Creature,"Human, Wizard"
+198,"Muldrotha, the Gravetide","B, G, U",6.0,{3}{B}{G}{U},6.0,6.0,,"During each of your turns, you may play a land and cast a permanent spell of each permanent type from your graveyard. (If a card has multiple permanent types, choose one as you play it.)",mythic,,Legendary,Creature,"Elemental, Avatar"
 199,Oath of Teferi,"U, W",5.0,{3}{W}{U},,,,"When Oath of Teferi enters the battlefield, exile another target permanent you control. Return it to the battlefield under its owner's control at the beginning of the next end step.
-You may activate the loyalty abilities of planeswalkers you control twice each turn rather than only once.",rare,,Legendary,Enchantment
+You may activate the loyalty abilities of planeswalkers you control twice each turn rather than only once.",rare,,Legendary,Enchantment,
 200,Primevals' Glorious Rebirth,"B, W",7.0,{5}{W}{B},,,,"(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
-Return all legendary permanent cards from your graveyard to the battlefield.",rare,,Legendary,Sorcery
+Return all legendary permanent cards from your graveyard to the battlefield.",rare,,Legendary,Sorcery,
 201,"Raff Capashen, Ship's Mage","U, W",4.0,{2}{W}{U},3.0,3.0,,"Flash
 Flying
-You may cast historic spells as though they had flash. (Artifacts, legendaries, and Sagas are historic.)",uncommon,"Flash, Flying",Legendary,Creature
+You may cast historic spells as though they had flash. (Artifacts, legendaries, and Sagas are historic.)",uncommon,"Flash, Flying",Legendary,Creature,"Human, Wizard"
 202,"Rona, Disciple of Gix","B, U",3.0,{1}{U}{B},2.0,2.0,,"When Rona, Disciple of Gix enters the battlefield, you may exile target historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)
 You may cast spells from among cards exiled with Rona.
-{4}, {T}: Exile the top card of your library.",uncommon,,Legendary,Creature
+{4}, {T}: Exile the top card of your library.",uncommon,,Legendary,Creature,"Human, Artificer"
 203,"Shanna, Sisay's Legacy","G, W",2.0,{G}{W},0.0,0.0,,"Shanna, Sisay's Legacy can't be the target of abilities your opponents control.
-Shanna gets +1/+1 for each creature you control.",uncommon,,Legendary,Creature
+Shanna gets +1/+1 for each creature you control.",uncommon,,Legendary,Creature,"Human, Warrior"
 204,"Slimefoot, the Stowaway","B, G",3.0,{1}{B}{G},2.0,3.0,,"Whenever a Saproling you control dies, Slimefoot, the Stowaway deals 1 damage to each opponent and you gain 1 life.
-{4}: Create a 1/1 green Saproling creature token.",uncommon,,Legendary,Creature
-205,"Tatyova, Benthic Druid","G, U",5.0,{3}{G}{U},3.0,3.0,,"Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.",uncommon,,Legendary,Creature
+{4}: Create a 1/1 green Saproling creature token.",uncommon,,Legendary,Creature,Fungus
+205,"Tatyova, Benthic Druid","G, U",5.0,{3}{G}{U},3.0,3.0,,"Whenever a land enters the battlefield under your control, you gain 1 life and draw a card.",uncommon,,Legendary,Creature,"Merfolk, Druid"
 206,"Teferi, Hero of Dominaria","U, W",5.0,{3}{W}{U},,,4.0,"[+1]: Draw a card. At the beginning of the next end step, untap up to two lands.
 [−3]: Put target nonland permanent into its owner's library third from the top.
-[−8]: You get an emblem with ""Whenever you draw a card, exile target permanent an opponent controls.""",mythic,,Legendary,Planeswalker
+[−8]: You get an emblem with ""Whenever you draw a card, exile target permanent an opponent controls.""",mythic,,Legendary,Planeswalker,Teferi
 207,"Tiana, Ship's Caretaker","R, W",5.0,{3}{R}{W},3.0,3.0,,"Flying, first strike
-Whenever an Aura or Equipment you control is put into a graveyard from the battlefield, you may return that card to its owner's hand at the beginning of the next end step.",uncommon,"First strike, Flying",Legendary,Creature
+Whenever an Aura or Equipment you control is put into a graveyard from the battlefield, you may return that card to its owner's hand at the beginning of the next end step.",uncommon,"First strike, Flying",Legendary,Creature,"Angel, Artificer"
 208,Aesthir Glider,C,3.0,{3},2.0,1.0,,"Flying
-Aesthir Glider can't block.",common,Flying,,"Artifact, Creature"
+Aesthir Glider can't block.",common,Flying,,"Artifact, Creature","Bird, Construct"
 209,Amaranthine Wall,C,4.0,{4},0.0,6.0,,"Defender
-{2}: Amaranthine Wall gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,Defender,,"Artifact, Creature"
+{2}: Amaranthine Wall gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,Defender,,"Artifact, Creature",Wall
 210,Blackblade Reforged,C,2.0,{2},,,,"Equipped creature gets +1/+1 for each land you control.
 Equip legendary creature {3}
-Equip {7}",rare,Equip,Legendary,Artifact
-211,Bloodtallow Candle,C,1.0,{1},,,,"{6}, {T}, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 until end of turn.",common,,,Artifact
+Equip {7}",rare,Equip,Legendary,Artifact,Equipment
+211,Bloodtallow Candle,C,1.0,{1},,,,"{6}, {T}, Sacrifice Bloodtallow Candle: Target creature gets -5/-5 until end of turn.",common,,,Artifact,
 212,Damping Sphere,C,2.0,{2},,,,"If a land is tapped for two or more mana, it produces {C} instead of any other type and amount.
-Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn.",uncommon,,,Artifact
+Each spell a player casts costs {1} more to cast for each other spell that player has cast this turn.",uncommon,,,Artifact,
 213,Forebear's Blade,C,3.0,{3},,,,"Equipped creature gets +3/+0 and has vigilance and trample.
 Whenever equipped creature dies, attach Forebear's Blade to target creature you control.
-Equip {3}",rare,Equip,,Artifact
-214,Gilded Lotus,C,5.0,{5},,,,{T}: Add three mana of any one color.,rare,,,Artifact
-215,Guardians of Koilos,C,5.0,{5},4.0,4.0,,"When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)",common,,,"Artifact, Creature"
+Equip {3}",rare,Equip,,Artifact,Equipment
+214,Gilded Lotus,C,5.0,{5},,,,{T}: Add three mana of any one color.,rare,,,Artifact,
+215,Guardians of Koilos,C,5.0,{5},4.0,4.0,,"When Guardians of Koilos enters the battlefield, you may return another target historic permanent you control to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)",common,,,"Artifact, Creature",Construct
 216,Helm of the Host,C,4.0,{4},,,,"At the beginning of combat on your turn, create a token that's a copy of equipped creature, except the token isn't legendary if equipped creature is legendary. That token gains haste.
-Equip {5}",rare,Equip,Legendary,Artifact
-217,Howling Golem,C,3.0,{3},2.0,3.0,,"Whenever Howling Golem attacks or blocks, each player draws a card.",uncommon,,,"Artifact, Creature"
-218,Icy Manipulator,C,4.0,{4},,,,"{1}, {T}: Tap target artifact, creature, or land.",uncommon,,,Artifact
+Equip {5}",rare,Equip,Legendary,Artifact,Equipment
+217,Howling Golem,C,3.0,{3},2.0,3.0,,"Whenever Howling Golem attacks or blocks, each player draws a card.",uncommon,,,"Artifact, Creature",Golem
+218,Icy Manipulator,C,4.0,{4},,,,"{1}, {T}: Tap target artifact, creature, or land.",uncommon,,,Artifact,
 219,Jhoira's Familiar,C,4.0,{4},2.0,2.0,,"Flying
-Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Flying,,"Artifact, Creature"
+Historic spells you cast cost {1} less to cast. (Artifacts, legendaries, and Sagas are historic.)",uncommon,Flying,,"Artifact, Creature",Bird
 220,Jousting Lance,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 As long as it's your turn, equipped creature has first strike.
-Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
 221,Juggernaut,C,4.0,{4},5.0,3.0,,"Juggernaut attacks each combat if able.
-Juggernaut can't be blocked by Walls.",uncommon,,,"Artifact, Creature"
-222,Mishra's Self-Replicator,C,5.0,{5},2.0,2.0,,"Whenever you cast a historic spell, you may pay {1}. If you do, create a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, and Sagas are historic.)",rare,,,"Artifact, Creature"
-223,Mox Amber,C,0.0,{0},,,,{T}: Add one mana of any color among legendary creatures and planeswalkers you control.,mythic,,Legendary,Artifact
+Juggernaut can't be blocked by Walls.",uncommon,,,"Artifact, Creature",Juggernaut
+222,Mishra's Self-Replicator,C,5.0,{5},2.0,2.0,,"Whenever you cast a historic spell, you may pay {1}. If you do, create a token that's a copy of Mishra's Self-Replicator. (Artifacts, legendaries, and Sagas are historic.)",rare,,,"Artifact, Creature",Assembly-Worker
+223,Mox Amber,C,0.0,{0},,,,{T}: Add one mana of any color among legendary creatures and planeswalkers you control.,mythic,,Legendary,Artifact,
 224,Navigator's Compass,C,1.0,{1},,,,"When Navigator's Compass enters the battlefield, you gain 3 life.
-{T}: Until end of turn, target land you control becomes the basic land type of your choice in addition to its other types.",common,,,Artifact
-225,Pardic Wanderer,C,6.0,{6},5.0,5.0,,Trample,common,Trample,,"Artifact, Creature"
-226,Powerstone Shard,C,3.0,{3},,,,{T}: Add {C} for each artifact you control named Powerstone Shard.,common,,,Artifact
+{T}: Until end of turn, target land you control becomes the basic land type of your choice in addition to its other types.",common,,,Artifact,
+225,Pardic Wanderer,C,6.0,{6},5.0,5.0,,Trample,common,Trample,,"Artifact, Creature",Golem
+226,Powerstone Shard,C,3.0,{3},,,,{T}: Add {C} for each artifact you control named Powerstone Shard.,common,,,Artifact,
 227,Shield of the Realm,C,2.0,{2},,,,"If a source would deal damage to equipped creature, prevent 2 of that damage.
-Equip {1}",uncommon,Equip,,Artifact
+Equip {1}",uncommon,Equip,,Artifact,Equipment
 228,Short Sword,C,1.0,{1},,,,"Equipped creature gets +1/+1.
-Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact
-229,Skittering Surveyor,C,3.0,{3},1.0,2.0,,"When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature"
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
+229,Skittering Surveyor,C,3.0,{3},1.0,2.0,,"When Skittering Surveyor enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature",Construct
 230,Sorcerer's Wand,C,1.0,{1},,,,"Equipped creature has ""{T}: This creature deals 1 damage to target player or planeswalker. If this creature is a Wizard, it deals 2 damage instead.""
-Equip {3}",uncommon,Equip,,Artifact
-231,Sparring Construct,C,1.0,{1},1.0,1.0,,"When Sparring Construct dies, put a +1/+1 counter on target creature you control.",common,,,"Artifact, Creature"
-232,Thran Temporal Gateway,C,4.0,{4},,,,"{4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)",rare,,Legendary,Artifact
+Equip {3}",uncommon,Equip,,Artifact,Equipment
+231,Sparring Construct,C,1.0,{1},1.0,1.0,,"When Sparring Construct dies, put a +1/+1 counter on target creature you control.",common,,,"Artifact, Creature",Construct
+232,Thran Temporal Gateway,C,4.0,{4},,,,"{4}, {T}: You may put a historic permanent card from your hand onto the battlefield. (Artifacts, legendaries, and Sagas are historic.)",rare,,Legendary,Artifact,
 233,"Traxos, Scourge of Kroog",C,4.0,{4},7.0,7.0,,"Trample
 Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap during your untap step.
-Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and Sagas are historic.)",rare,Trample,Legendary,"Artifact, Creature"
-234,Urza's Tome,C,2.0,{2},,,,"{3}, {T}: Draw a card. Then discard a card unless you exile a historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Artifact
-235,Voltaic Servant,C,2.0,{2},1.0,3.0,,"At the beginning of your end step, untap target artifact.",common,,,"Artifact, Creature"
+Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and Sagas are historic.)",rare,Trample,Legendary,"Artifact, Creature",Construct
+234,Urza's Tome,C,2.0,{2},,,,"{3}, {T}: Draw a card. Then discard a card unless you exile a historic card from your graveyard. (Artifacts, legendaries, and Sagas are historic.)",uncommon,,,Artifact,
+235,Voltaic Servant,C,2.0,{2},1.0,3.0,,"At the beginning of your end step, untap target artifact.",common,,,"Artifact, Creature",Construct
 236,Weatherlight,C,4.0,{4},4.0,5.0,,"Flying
 Whenever Weatherlight deals combat damage to a player, look at the top five cards of your library. You may reveal a historic card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Artifacts, legendaries, and Sagas are historic.)
-Crew 3",mythic,"Crew, Flying",Legendary,Artifact
+Crew 3",mythic,"Crew, Flying",Legendary,Artifact,Vehicle
 237,Cabal Stronghold,L,0.0,,,,,"{T}: Add {C}.
-{3}, {T}: Add {B} for each basic Swamp you control.",rare,,,Land
+{3}, {T}: Add {B} for each basic Swamp you control.",rare,,,Land,
 238,Clifftop Retreat,L,0.0,,,,,"Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.
-{T}: Add {R} or {W}.",rare,,,Land
+{T}: Add {R} or {W}.",rare,,,Land,
 239,Hinterland Harbor,L,0.0,,,,,"Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.
-{T}: Add {G} or {U}.",rare,,,Land
+{T}: Add {G} or {U}.",rare,,,Land,
 240,Isolated Chapel,L,0.0,,,,,"Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.
-{T}: Add {W} or {B}.",rare,,,Land
+{T}: Add {W} or {B}.",rare,,,Land,
 241,Memorial to Folly,L,0.0,,,,,"Memorial to Folly enters the battlefield tapped.
 {T}: Add {B}.
-{2}{B}, {T}, Sacrifice Memorial to Folly: Return target creature card from your graveyard to your hand.",uncommon,,,Land
+{2}{B}, {T}, Sacrifice Memorial to Folly: Return target creature card from your graveyard to your hand.",uncommon,,,Land,
 242,Memorial to Genius,L,0.0,,,,,"Memorial to Genius enters the battlefield tapped.
 {T}: Add {U}.
-{4}{U}, {T}, Sacrifice Memorial to Genius: Draw two cards.",uncommon,,,Land
+{4}{U}, {T}, Sacrifice Memorial to Genius: Draw two cards.",uncommon,,,Land,
 243,Memorial to Glory,L,0.0,,,,,"Memorial to Glory enters the battlefield tapped.
 {T}: Add {W}.
-{3}{W}, {T}, Sacrifice Memorial to Glory: Create two 1/1 white Soldier creature tokens.",uncommon,,,Land
+{3}{W}, {T}, Sacrifice Memorial to Glory: Create two 1/1 white Soldier creature tokens.",uncommon,,,Land,
 244,Memorial to Unity,L,0.0,,,,,"Memorial to Unity enters the battlefield tapped.
 {T}: Add {G}.
-{2}{G}, {T}, Sacrifice Memorial to Unity: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.",uncommon,,,Land
+{2}{G}, {T}, Sacrifice Memorial to Unity: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.",uncommon,,,Land,
 245,Memorial to War,L,0.0,,,,,"Memorial to War enters the battlefield tapped.
 {T}: Add {R}.
-{4}{R}, {T}, Sacrifice Memorial to War: Destroy target land.",uncommon,,,Land
+{4}{R}, {T}, Sacrifice Memorial to War: Destroy target land.",uncommon,,,Land,
 246,Sulfur Falls,L,0.0,,,,,"Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.
-{T}: Add {U} or {R}.",rare,,,Land
+{T}: Add {U} or {R}.",rare,,,Land,
 247,Woodland Cemetery,L,0.0,,,,,"Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.
-{T}: Add {B} or {G}.",rare,,,Land
+{T}: Add {B} or {G}.",rare,,,Land,
 248,Zhalfirin Void,L,0.0,,,,,"When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
-{T}: Add {C}.",uncommon,Scry,,Land
+{T}: Add {C}.",uncommon,Scry,,Land,
 249,"Teferi, Timebender","U, W",6.0,{4}{W}{U},,,5.0,"[+2]: Untap up to one target artifact or creature.
 [−3]: You gain 2 life and draw two cards.
-[−9]: Take an extra turn after this one.",mythic,,Legendary,Planeswalker
-250,Temporal Machinations,U,3.0,{2}{U},,,,"Return target creature to its owner's hand. If you control an artifact, draw a card.",common,,,Sorcery
-251,"Niambi, Faithful Healer","U, W",3.0,{1}{W}{U},2.0,2.0,,"When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,Legendary,Creature
-252,Teferi's Sentinel,C,5.0,{5},2.0,6.0,,"As long as you control a Teferi planeswalker, Teferi's Sentinel gets +4/+0.",uncommon,,,"Artifact, Creature"
+[−9]: Take an extra turn after this one.",mythic,,Legendary,Planeswalker,Teferi
+250,Temporal Machinations,U,3.0,{2}{U},,,,"Return target creature to its owner's hand. If you control an artifact, draw a card.",common,,,Sorcery,
+251,"Niambi, Faithful Healer","U, W",3.0,{1}{W}{U},2.0,2.0,,"When Niambi, Faithful Healer enters the battlefield, you may search your library and/or graveyard for a card named Teferi, Timebender, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,Legendary,Creature,"Human, Cleric"
+252,Teferi's Sentinel,C,5.0,{5},2.0,6.0,,"As long as you control a Teferi planeswalker, Teferi's Sentinel gets +4/+0.",uncommon,,,"Artifact, Creature",Golem
 253,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
-{T}: Add {W} or {U}.",common,,,Land
+{T}: Add {W} or {U}.",common,,,Land,
 254,"Chandra, Bold Pyromancer",R,6.0,{4}{R}{R},,,5.0,"[+1]: Add {R}{R}. Chandra, Bold Pyromancer deals 2 damage to target player.
 [−3]: Chandra, Bold Pyromancer deals 3 damage to target creature or planeswalker.
-[−7]: Chandra, Bold Pyromancer deals 10 damage to target player and each creature and planeswalker they control.",mythic,,Legendary,Planeswalker
+[−7]: Chandra, Bold Pyromancer deals 10 damage to target player and each creature and planeswalker they control.",mythic,,Legendary,Planeswalker,Chandra
 255,Chandra's Outburst,R,5.0,{3}{R}{R},,,,"Chandra's Outburst deals 4 damage to target player or planeswalker.
-Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery
-256,Karplusan Hound,R,4.0,{3}{R},3.0,3.0,,"Whenever Karplusan Hound attacks, if you control a Chandra planeswalker, this creature deals 2 damage to any target.",uncommon,,,Creature
-257,Pyromantic Pilgrim,R,3.0,{2}{R},3.0,1.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature
+Search your library and/or graveyard for a card named Chandra, Bold Pyromancer, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery,
+256,Karplusan Hound,R,4.0,{3}{R},3.0,3.0,,"Whenever Karplusan Hound attacks, if you control a Chandra planeswalker, this creature deals 2 damage to any target.",uncommon,,,Creature,Dog
+257,Pyromantic Pilgrim,R,3.0,{2}{R},3.0,1.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature,"Human, Wizard"
 258,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
-{T}: Add {R} or {G}.",common,,,Land
+{T}: Add {R} or {G}.",common,,,Land,
