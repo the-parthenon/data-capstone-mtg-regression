@@ -65,606 +65,589 @@ When Kyodai, Soul of Kamigawa enters the battlefield, another target permanent g
 Equipped creature gets +1/+1 for each +1/+1 counter on Lion Sash.
 Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",rare,Reconfigure,,"Artifact, Creature","Equipment, Cat"
 29,Lucky Offering,W,1.0,{W},,,,Destroy target artifact with mana value 3 or less. You gain 3 life.,common,,,Sorcery,
-30,March of Otherworldly Light,W,1.0,{X}{W},,,,"As an additional cost to cast this spell, you may exile any number of white cards from your hand. This spell costs {2} less to cast for each card exiled this way.
-Exile target artifact, creature, or enchantment with mana value X or less.",rare,,,Instant,
-31,Michiko's Reign of Truth,W,2.0,{1}{W},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+30,Michiko's Reign of Truth,W,2.0,{1}{W},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Target creature gets +1/+1 until end of turn for each artifact and/or enchantment you control.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,Transform,,Enchantment,Saga
-32,Portrait of Michiko,W,2.0,,0.0,0.0,,Portrait of Michiko gets +1/+1 for each artifact and/or enchantment you control.,uncommon,,,"Enchantment, Creature","Human, Noble"
-33,Mothrider Patrol,W,1.0,{W},1.0,1.0,,"Flying
+31,Portrait of Michiko,W,2.0,,0.0,0.0,,Portrait of Michiko gets +1/+1 for each artifact and/or enchantment you control.,uncommon,,,"Enchantment, Creature","Human, Noble"
+32,Mothrider Patrol,W,1.0,{W},1.0,1.0,,"Flying
 {3}{W}, {T}: Tap target creature.",common,Flying,,Creature,"Fox, Warrior"
-34,"Norika Yamazaki, the Poet",W,3.0,{2}{W},3.0,2.0,,"Vigilance
+33,"Norika Yamazaki, the Poet",W,3.0,{2}{W},3.0,2.0,,"Vigilance
 Whenever a Samurai or Warrior you control attacks alone, you may cast target enchantment card from your graveyard this turn.",uncommon,Vigilance,Legendary,Creature,"Human, Samurai"
-35,Regent's Authority,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's an enchantment creature or legendary creature, instead put a +1/+1 counter on it and it gets +1/+1 until end of turn.",common,,,Instant,
-36,Repel the Vile,W,4.0,{3}{W},,,,"Choose one —
+34,Regent's Authority,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's an enchantment creature or legendary creature, instead put a +1/+1 counter on it and it gets +1/+1 until end of turn.",common,,,Instant,
+35,Repel the Vile,W,4.0,{3}{W},,,,"Choose one —
 • Exile target creature with power 4 or greater.
 • Exile target enchantment.",common,,,Instant,
-37,The Restoration of Eiganjo,W,3.0,{2}{W},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+36,The Restoration of Eiganjo,W,3.0,{2}{W},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
 II — You may discard a card. When you do, return target permanent card with mana value 2 or less from your graveyard to the battlefield tapped.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",rare,Transform,,Enchantment,Saga
-38,Architect of Restoration,W,3.0,,3.0,4.0,,"Vigilance
+37,Architect of Restoration,W,3.0,,3.0,4.0,,"Vigilance
 Whenever Architect of Restoration attacks or blocks, create a 1/1 colorless Spirit creature token.",rare,Vigilance,,"Enchantment, Creature","Fox, Monk"
-39,Selfless Samurai,W,2.0,{1}{W},2.0,2.0,,"Whenever a Samurai or Warrior you control attacks alone, it gains lifelink until end of turn.
+38,Selfless Samurai,W,2.0,{1}{W},2.0,2.0,,"Whenever a Samurai or Warrior you control attacks alone, it gains lifelink until end of turn.
 Sacrifice Selfless Samurai: Another target creature you control gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,,,Creature,"Fox, Samurai"
-40,Seven-Tail Mentor,W,4.0,{3}{W},2.0,3.0,,"When Seven-Tail Mentor enters the battlefield or dies, put a +1/+1 counter on target creature or Vehicle you control.",common,,,Creature,"Fox, Samurai"
-41,Sky-Blessed Samurai,W,7.0,{6}{W},4.0,4.0,,"This spell costs {1} less to cast for each enchantment you control.
+39,Seven-Tail Mentor,W,4.0,{3}{W},2.0,3.0,,"When Seven-Tail Mentor enters the battlefield or dies, put a +1/+1 counter on target creature or Vehicle you control.",common,,,Creature,"Fox, Samurai"
+40,Sky-Blessed Samurai,W,7.0,{6}{W},4.0,4.0,,"This spell costs {1} less to cast for each enchantment you control.
 Flying",uncommon,Flying,,"Enchantment, Creature","Human, Samurai"
-42,Spirited Companion,W,2.0,{1}{W},1.0,1.0,,"When Spirited Companion enters the battlefield, draw a card.",common,,,"Enchantment, Creature",Dog
-43,Sunblade Samurai,W,5.0,{4}{W},4.0,4.0,,"Vigilance
+41,Spirited Companion,W,2.0,{1}{W},1.0,1.0,,"When Spirited Companion enters the battlefield, draw a card.",common,,,"Enchantment, Creature",Dog
+42,Sunblade Samurai,W,5.0,{4}{W},4.0,4.0,,"Vigilance
 Channel — {2}, Discard Sunblade Samurai: Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. You gain 2 life.",common,"Channel, Vigilance",,"Enchantment, Creature","Human, Samurai"
-44,Touch the Spirit Realm,W,3.0,{2}{W},,,,"When Touch the Spirit Realm enters the battlefield, exile up to one target artifact or creature until Touch the Spirit Realm leaves the battlefield.
+43,Touch the Spirit Realm,W,3.0,{2}{W},,,,"When Touch the Spirit Realm enters the battlefield, exile up to one target artifact or creature until Touch the Spirit Realm leaves the battlefield.
 Channel — {1}{W}, Discard Touch the Spirit Realm: Exile target artifact or creature. Return it to the battlefield under its owner's control at the beginning of the next end step.",uncommon,Channel,,Enchantment,
-45,Wanderer's Intervention,W,2.0,{1}{W},,,,Wanderer's Intervention deals 4 damage to target attacking or blocking creature.,common,,,Instant,
-46,The Wandering Emperor,W,4.0,{2}{W}{W},,,3.0,"Flash
+44,Wanderer's Intervention,W,2.0,{1}{W},,,,Wanderer's Intervention deals 4 damage to target attacking or blocking creature.,common,,,Instant,
+45,The Wandering Emperor,W,4.0,{2}{W}{W},,,3.0,"Flash
 As long as The Wandering Emperor entered the battlefield this turn, you may activate her loyalty abilities any time you could cast an instant.
 [+1]: Put a +1/+1 counter on up to one target creature. It gains first strike until end of turn.
 [−1]: Create a 2/2 white Samurai creature token with vigilance.
 [−2]: Exile target tapped creature. You gain 2 life.",mythic,Flash,Legendary,Planeswalker,
-47,When We Were Young,W,4.0,{3}{W},,,,"Up to two target creatures each get +2/+2 until end of turn. If you control an artifact and an enchantment, those creatures also gain lifelink until end of turn.",uncommon,,,Instant,
-48,Acquisition Octopus,U,3.0,{2}{U},2.0,2.0,,"Whenever Acquisition Octopus or equipped creature deals combat damage to a player, draw a card.
+46,When We Were Young,W,4.0,{3}{W},,,,"Up to two target creatures each get +2/+2 until end of turn. If you control an artifact and an enchantment, those creatures also gain lifelink until end of turn.",uncommon,,,Instant,
+47,Acquisition Octopus,U,3.0,{2}{U},2.0,2.0,,"Whenever Acquisition Octopus or equipped creature deals combat damage to a player, draw a card.
 Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",uncommon,Reconfigure,,"Artifact, Creature","Equipment, Octopus"
-49,Anchor to Reality,U,4.0,{2}{U}{U},,,,"As an additional cost to cast this spell, sacrifice an artifact or creature.
+48,Anchor to Reality,U,4.0,{2}{U}{U},,,,"As an additional cost to cast this spell, sacrifice an artifact or creature.
 Search your library for an Equipment or Vehicle card, put that card onto the battlefield, then shuffle. If it has mana value less than the sacrificed permanent's mana value, scry 2.",uncommon,Scry,,Sorcery,
-50,Armguard Familiar,U,2.0,{1}{U},2.0,1.0,,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+49,Armguard Familiar,U,2.0,{1}{U},2.0,1.0,,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Equipped creature gets +2/+1 and has ward {2}.
 Reconfigure {4} ({4}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",common,"Reconfigure, Ward",,"Artifact, Creature","Equipment, Beast"
-51,Awakened Awareness,U,2.0,{X}{U}{U},,,,"Enchant artifact or creature
-When Awakened Awareness enters the battlefield, put X +1/+1 counters on enchanted permanent.
-As long as enchanted permanent is a creature, it has base power and toughness 1/1.",uncommon,Enchant,,Enchantment,Aura
-52,Behold the Unspeakable,U,5.0,{3}{U}{U},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+50,Behold the Unspeakable,U,5.0,{3}{U}{U},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Creatures you don't control get -2/-0 until your next turn.
 II — If you have one or fewer cards in hand, draw four cards. Otherwise, scry 2, then draw two cards.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,"Scry, Transform",,Enchantment,Saga
-53,Vision of the Unspeakable,U,5.0,,0.0,0.0,,"Flying, trample
+51,Vision of the Unspeakable,U,5.0,,0.0,0.0,,"Flying, trample
 Vision of the Unspeakable gets +1/+1 for each card in your hand.",uncommon,"Flying, Trample",,"Enchantment, Creature",Spirit
-54,Covert Technician,U,3.0,{2}{U},2.0,4.0,,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+52,Covert Technician,U,3.0,{2}{U},2.0,4.0,,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Covert Technician deals combat damage to a player, you may put an artifact card with mana value less than or equal to that damage from your hand onto the battlefield.",uncommon,Ninjutsu,,"Artifact, Creature","Human, Ninja"
-55,Discover the Impossible,U,3.0,{2}{U},,,,"Look at the top five cards of your library. Exile one of them face down and put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost if it's an instant spell with mana value 2 or less. If you don't, put that card into your hand.",uncommon,,,Instant,
-56,Disruption Protocol,U,2.0,{U}{U},,,,"As an additional cost to cast this spell, tap an untapped artifact you control or pay {1}.
+53,Discover the Impossible,U,3.0,{2}{U},,,,"Look at the top five cards of your library. Exile one of them face down and put the rest on the bottom of your library in a random order. You may cast the exiled card without paying its mana cost if it's an instant spell with mana value 2 or less. If you don't, put that card into your hand.",uncommon,,,Instant,
+54,Disruption Protocol,U,2.0,{U}{U},,,,"As an additional cost to cast this spell, tap an untapped artifact you control or pay {1}.
 Counter target spell.",common,,,Instant,
-57,Essence Capture,U,2.0,{U}{U},,,,Counter target creature spell. Put a +1/+1 counter on up to one target creature you control.,uncommon,,,Instant,
-58,Futurist Operative,U,4.0,{3}{U},3.0,4.0,,"As long as Futurist Operative is tapped, it's a Human Citizen with base power and toughness 1/1 and can't be blocked.
+55,Essence Capture,U,2.0,{U}{U},,,,Counter target creature spell. Put a +1/+1 counter on up to one target creature you control.,uncommon,,,Instant,
+56,Futurist Operative,U,4.0,{3}{U},3.0,4.0,,"As long as Futurist Operative is tapped, it's a Human Citizen with base power and toughness 1/1 and can't be blocked.
 {2}{U}: Untap Futurist Operative.",uncommon,,,Creature,"Human, Ninja"
-59,Futurist Sentinel,U,4.0,{3}{U},6.0,6.0,,Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.),common,Crew,,Artifact,Vehicle
-60,Go-Shintai of Lost Wisdom,U,2.0,{1}{U},0.0,4.0,,"Flying
+57,Futurist Sentinel,U,4.0,{3}{U},6.0,6.0,,Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.),common,Crew,,Artifact,Vehicle
+58,Go-Shintai of Lost Wisdom,U,2.0,{1}{U},0.0,4.0,,"Flying
 At the beginning of your end step, you may pay {1}. When you do, target player mills X cards, where X is the number of Shrines you control. (To mill a card, a player puts the top card of their library into their graveyard.)",uncommon,"Flying, Mill",Legendary,"Enchantment, Creature",Shrine
-61,Guardians of Oboro,U,3.0,{2}{U},3.0,4.0,,"Defender
+59,Guardians of Oboro,U,3.0,{2}{U},3.0,4.0,,"Defender
 Modified creatures you control can attack as though they didn't have defender. (Equipment, Auras you control, and counters are modifications.)",common,Defender,,Creature,"Moonfolk, Samurai"
-62,Inventive Iteration,U,4.0,{3}{U},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+60,Inventive Iteration,U,4.0,{3}{U},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Return up to one target creature or planeswalker to its owner's hand.
 II — Return an artifact card from your graveyard to your hand. If you can't, draw a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",rare,Transform,,Enchantment,Saga
-63,Living Breakthrough,U,4.0,,3.0,3.0,,"Flying
+61,Living Breakthrough,U,4.0,,3.0,3.0,,"Flying
 Whenever you cast a spell, your opponents can't cast spells with the same mana value as that spell until your next turn.",rare,Flying,,"Enchantment, Creature",Moonfolk
-64,Invoke the Winds,U,5.0,{1}{U}{U}{U}{U},,,,Gain control of target artifact or creature. Untap it.,rare,,,Sorcery,
-65,"Jin-Gitaxias, Progress Tyrant",U,7.0,{5}{U}{U},5.0,5.0,,"Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. (A copy of a permanent spell becomes a token.)
+62,Invoke the Winds,U,5.0,{1}{U}{U}{U}{U},,,,Gain control of target artifact or creature. Untap it.,rare,,,Sorcery,
+63,"Jin-Gitaxias, Progress Tyrant",U,7.0,{5}{U}{U},5.0,5.0,,"Whenever you cast an artifact, instant, or sorcery spell, copy that spell. You may choose new targets for the copy. This ability triggers only once each turn. (A copy of a permanent spell becomes a token.)
 Whenever an opponent casts an artifact, instant, or sorcery spell, counter that spell. This ability triggers only once each turn.",mythic,,Legendary,Creature,"Phyrexian, Praetor"
-66,"Kairi, the Swirling Sky",U,6.0,{4}{U}{U},6.0,6.0,,"Flying, ward {3}
+64,"Kairi, the Swirling Sky",U,6.0,{4}{U}{U},6.0,6.0,,"Flying, ward {3}
 When Kairi, the Swirling Sky dies, choose one —
 • Return any number of target nonland permanents with total mana value 6 or less to their owners' hands.
 • Mill six cards, then return up to two instant and/or sorcery cards from your graveyard to your hand.",mythic,"Flying, Mill, Ward",Legendary,Creature,"Dragon, Spirit"
-67,March of Swirling Mist,U,1.0,{X}{U},,,,"As an additional cost to cast this spell, you may exile any number of blue cards from your hand. This spell costs {2} less to cast for each card exiled this way.
-Up to X target creatures phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during their next untap step.)",rare,,,Instant,
-68,Mindlink Mech,U,3.0,{2}{U},4.0,3.0,,"Flying
+65,Mindlink Mech,U,3.0,{2}{U},4.0,3.0,,"Flying
 Whenever Mindlink Mech becomes crewed for the first time each turn, until end of turn, Mindlink Mech becomes a copy of target nonlegendary creature that crewed it this turn, except it's 4/3, it's a Vehicle artifact in addition to its other types, and it has flying.
 Crew 1",rare,"Crew, Flying",,Artifact,Vehicle
-69,Mirrorshell Crab,U,7.0,{5}{U}{U},5.0,7.0,,"Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+66,Mirrorshell Crab,U,7.0,{5}{U}{U},5.0,7.0,,"Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
 Channel — {2}{U}, Discard Mirrorshell Crab: Counter target spell or ability unless its controller pays {3}.",common,"Channel, Ward",,"Artifact, Creature",Crab
-70,Mnemonic Sphere,U,2.0,{1}{U},,,,"{1}{U}, Sacrifice Mnemonic Sphere: Draw two cards.
+67,Mnemonic Sphere,U,2.0,{1}{U},,,,"{1}{U}, Sacrifice Mnemonic Sphere: Draw two cards.
 Channel — {U}, Discard Mnemonic Sphere: Draw a card.",common,Channel,,Artifact,
-71,Mobilizer Mech,U,2.0,{1}{U},3.0,4.0,,"Flying
+68,Mobilizer Mech,U,2.0,{1}{U},3.0,4.0,,"Flying
 Whenever Mobilizer Mech becomes crewed, up to one other target Vehicle you control becomes an artifact creature until end of turn.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Flying",,Artifact,Vehicle
-72,The Modern Age,U,2.0,{1}{U},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+69,The Modern Age,U,2.0,{1}{U},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Draw a card, then discard a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",common,Transform,,Enchantment,Saga
-73,Vector Glider,U,2.0,,2.0,3.0,,Flying,common,Flying,,"Enchantment, Creature",Spirit
-74,Moon-Circuit Hacker,U,2.0,{1}{U},2.0,1.0,,"Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+70,Vector Glider,U,2.0,,2.0,3.0,,Flying,common,Flying,,"Enchantment, Creature",Spirit
+71,Moon-Circuit Hacker,U,2.0,{1}{U},2.0,1.0,,"Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Moon-Circuit Hacker deals combat damage to a player, you may draw a card. If you do, discard a card unless Moon-Circuit Hacker entered the battlefield this turn.",common,Ninjutsu,,"Enchantment, Creature","Human, Ninja"
-75,Moonfolk Puzzlemaker,U,3.0,{2}{U},1.0,4.0,,"Flying
+72,Moonfolk Puzzlemaker,U,3.0,{2}{U},1.0,4.0,,"Flying
 Whenever Moonfolk Puzzlemaker becomes tapped, scry 1.",common,"Flying, Scry",,"Artifact, Creature","Moonfolk, Wizard"
-76,Moonsnare Prototype,U,1.0,{U},,,,"{T}, Tap an untapped artifact or creature you control: Add {C}.
+73,Moonsnare Prototype,U,1.0,{U},,,,"{T}, Tap an untapped artifact or creature you control: Add {C}.
 Channel — {4}{U}, Discard Moonsnare Prototype: The owner of target nonland permanent puts it on the top or bottom of their library.",common,Channel,,Artifact,
-77,Moonsnare Specialist,U,4.0,{3}{U},2.0,2.0,,"Ninjutsu {2}{U} ({2}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+74,Moonsnare Specialist,U,4.0,{3}{U},2.0,2.0,,"Ninjutsu {2}{U} ({2}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 When Moonsnare Specialist enters the battlefield, return up to one target creature to its owner's hand.",common,Ninjutsu,,Creature,"Human, Ninja"
-78,Network Disruptor,U,1.0,{U},1.0,1.0,,"Flying
+75,Network Disruptor,U,1.0,{U},1.0,1.0,,"Flying
 When Network Disruptor enters the battlefield, tap target permanent.",common,Flying,,"Artifact, Creature","Moonfolk, Rogue"
-79,Planar Incision,U,2.0,{1}{U},,,,"Exile target artifact or creature, then return it to the battlefield under its owner's control with a +1/+1 counter on it.",common,,,Instant,
-80,Prosperous Thief,U,3.0,{2}{U},3.0,2.0,,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+76,Planar Incision,U,2.0,{1}{U},,,,"Exile target artifact or creature, then return it to the battlefield under its owner's control with a +1/+1 counter on it.",common,,,Instant,
+77,Prosperous Thief,U,3.0,{2}{U},3.0,2.0,,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever one or more Ninja or Rogue creatures you control deal combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,Ninjutsu,,Creature,"Human, Ninja"
-81,The Reality Chip,U,2.0,{1}{U},0.0,4.0,,"You may look at the top card of your library any time.
+78,The Reality Chip,U,2.0,{1}{U},0.0,4.0,,"You may look at the top card of your library any time.
 As long as The Reality Chip is attached to a creature, you may play lands and cast spells from the top of your library.
 Reconfigure {2}{U} ({2}{U}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",rare,Reconfigure,Legendary,"Artifact, Creature","Equipment, Jellyfish"
-82,Reality Heist,U,7.0,{5}{U}{U},,,,"This spell costs {1} less to cast for each artifact you control.
+79,Reality Heist,U,7.0,{5}{U}{U},,,,"This spell costs {1} less to cast for each artifact you control.
 Look at the top seven cards of your library. You may reveal up to two artifact cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",uncommon,,,Instant,
-83,Replication Specialist,U,5.0,{4}{U},3.0,4.0,,"Flying
+80,Replication Specialist,U,5.0,{4}{U},3.0,4.0,,"Flying
 Whenever a nontoken artifact enters the battlefield under your control, you may pay {1}{U}. If you do, create a token that's a copy of that artifact.",uncommon,Flying,,Creature,"Moonfolk, Artificer"
-84,Saiba Trespassers,U,5.0,{4}{U},3.0,5.0,,"Channel — {3}{U}, Discard Saiba Trespassers: Tap up to two target creatures you don't control. Those creatures don't untap during their controller's next untap step.",common,Channel,,"Artifact, Creature","Moonfolk, Rogue"
-85,Short Circuit,U,2.0,{1}{U},,,,"Flash
+81,Saiba Trespassers,U,5.0,{4}{U},3.0,5.0,,"Channel — {3}{U}, Discard Saiba Trespassers: Tap up to two target creatures you don't control. Those creatures don't untap during their controller's next untap step.",common,Channel,,"Artifact, Creature","Moonfolk, Rogue"
+82,Short Circuit,U,2.0,{1}{U},,,,"Flash
 Enchant artifact or creature
 As long as enchanted permanent is a creature, it gets -3/-0 and loses flying.",common,"Enchant, Flash",,Enchantment,Aura
-86,Skyswimmer Koi,U,4.0,{3}{U},3.0,3.0,,"Flying
+83,Skyswimmer Koi,U,4.0,{3}{U},3.0,3.0,,"Flying
 Whenever an artifact enters the battlefield under your control, you may draw a card. If you do, discard a card.",common,Flying,,Creature,Fish
-87,Spell Pierce,U,1.0,{U},,,,Counter target noncreature spell unless its controller pays {2}.,common,,,Instant,
-88,Suit Up,U,3.0,{2}{U},,,,"Until end of turn, target creature or Vehicle becomes an artifact creature with base power and toughness 4/5.
+84,Spell Pierce,U,1.0,{U},,,,Counter target noncreature spell unless its controller pays {2}.,common,,,Instant,
+85,Suit Up,U,3.0,{2}{U},,,,"Until end of turn, target creature or Vehicle becomes an artifact creature with base power and toughness 4/5.
 Draw a card.",common,,,Instant,
-89,"Tameshi, Reality Architect",U,3.0,{2}{U},2.0,3.0,,"Whenever one or more noncreature permanents are returned to hand, draw a card. This ability triggers only once each turn.
+86,"Tameshi, Reality Architect",U,3.0,{2}{U},2.0,3.0,,"Whenever one or more noncreature permanents are returned to hand, draw a card. This ability triggers only once each turn.
 {X}{W}, Return a land you control to its owner's hand: Return target artifact or enchantment card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",rare,,Legendary,Creature,"Moonfolk, Wizard"
-90,Tamiyo's Compleation,U,4.0,{3}{U},,,,"Flash
+87,Tamiyo's Compleation,U,4.0,{3}{U},,,,"Flash
 Enchant artifact, creature, or planeswalker
 When Tamiyo's Compleation enters the battlefield, tap enchanted permanent. If it's an Equipment, unattach it.
 Enchanted permanent loses all abilities and doesn't untap during its controller's untap step.",common,"Enchant, Flash",,Enchantment,Aura
-91,"Tezzeret, Betrayer of Flesh",U,4.0,{2}{U}{U},,,4.0,"The first activated ability of an artifact you activate each turn costs {2} less to activate.
+88,"Tezzeret, Betrayer of Flesh",U,4.0,{2}{U}{U},,,4.0,"The first activated ability of an artifact you activate each turn costs {2} less to activate.
 [+1]: Draw two cards. Then discard two cards unless you discard an artifact card.
 [−2]: Target artifact becomes an artifact creature. If it isn't a Vehicle, it has base power and toughness 4/4.
 [−6]: You get an emblem with ""Whenever an artifact you control becomes tapped, draw a card.""",mythic,,Legendary,Planeswalker,Tezzeret
-92,Thirst for Knowledge,U,3.0,{2}{U},,,,Draw three cards. Then discard two cards unless you discard an artifact card.,uncommon,,,Instant,
-93,Thousand-Faced Shadow,U,1.0,{U},1.0,1.0,,"Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+89,Thirst for Knowledge,U,3.0,{2}{U},,,,Draw three cards. Then discard two cards unless you discard an artifact card.,uncommon,,,Instant,
+90,Thousand-Faced Shadow,U,1.0,{U},1.0,1.0,,"Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Flying
 When Thousand-Faced Shadow enters the battlefield from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters the battlefield tapped and attacking.",rare,"Flying, Ninjutsu",,Creature,"Human, Ninja"
-94,Assassin's Ink,B,4.0,{2}{B}{B},,,,"This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.
+91,Assassin's Ink,B,4.0,{2}{B}{B},,,,"This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.
 Destroy target creature or planeswalker.",uncommon,,,Instant,
-95,Biting-Palm Ninja,B,3.0,{2}{B},3.0,3.0,,"Ninjutsu {2}{B}
+92,Biting-Palm Ninja,B,3.0,{2}{B},3.0,3.0,,"Ninjutsu {2}{B}
 Biting-Palm Ninja enters the battlefield with a menace counter on it.
 Whenever Biting-Palm Ninja deals combat damage to a player, you may remove a menace counter from it. When you do, that player reveals their hand and you choose a nonland card from it. Exile that card.",rare,Ninjutsu,,Creature,"Human, Ninja"
-96,Blade of the Oni,B,2.0,{1}{B},3.0,1.0,,"Menace
+93,Blade of the Oni,B,2.0,{1}{B},3.0,1.0,,"Menace
 Equipped creature has base power and toughness 5/5, has menace, and is a black Demon in addition to its other colors and types.
 Reconfigure {2}{B}{B} ({2}{B}{B}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",mythic,"Menace, Reconfigure",,"Artifact, Creature","Equipment, Demon"
-97,Chainflail Centipede,B,3.0,{2}{B},2.0,2.0,,"Whenever Chainflail Centipede or equipped creature attacks, it gets +2/+0 until end of turn.
+94,Chainflail Centipede,B,3.0,{2}{B},2.0,2.0,,"Whenever Chainflail Centipede or equipped creature attacks, it gets +2/+0 until end of turn.
 Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",common,Reconfigure,,"Artifact, Creature","Equipment, Insect"
-98,Clawing Torment,B,1.0,{B},,,,"Enchant artifact or creature
+95,Clawing Torment,B,1.0,{B},,,,"Enchant artifact or creature
 As long as enchanted permanent is a creature, it gets -1/-1 and can't block.
 Enchanted permanent has ""At the beginning of your upkeep, you lose 1 life.""",common,Enchant,,Enchantment,Aura
-99,Debt to the Kami,B,3.0,{2}{B},,,,"Choose one —
+96,Debt to the Kami,B,3.0,{2}{B},,,,"Choose one —
 • Target opponent exiles a creature they control.
 • Target opponent exiles an enchantment they control.",common,,,Instant,
-100,Dockside Chef,B,1.0,{B},1.0,2.0,,"{1}{B}, Sacrifice an artifact or creature: Draw a card.",uncommon,,,"Enchantment, Creature","Human, Citizen"
-101,Dokuchi Shadow-Walker,B,6.0,{4}{B}{B},5.0,5.0,,"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)",common,Ninjutsu,,Creature,"Ogre, Ninja"
-102,Dokuchi Silencer,B,2.0,{1}{B},2.0,1.0,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+97,Dockside Chef,B,1.0,{B},1.0,2.0,,"{1}{B}, Sacrifice an artifact or creature: Draw a card.",uncommon,,,"Enchantment, Creature","Human, Citizen"
+98,Dokuchi Shadow-Walker,B,6.0,{4}{B}{B},5.0,5.0,,"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)",common,Ninjutsu,,Creature,"Ogre, Ninja"
+99,Dokuchi Silencer,B,2.0,{1}{B},2.0,1.0,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Dokuchi Silencer deals combat damage to a player, you may discard a creature card. When you do, destroy target creature or planeswalker that player controls.",uncommon,Ninjutsu,,Creature,"Human, Ninja"
-103,Enormous Energy Blade,B,3.0,{2}{B},,,,"Equipped creature gets +4/+0.
+100,Enormous Energy Blade,B,3.0,{2}{B},,,,"Equipped creature gets +4/+0.
 Whenever Enormous Energy Blade becomes attached to a creature, tap that creature.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-104,Go-Shintai of Hidden Cruelty,B,4.0,{3}{B},2.0,2.0,,"Deathtouch
+101,Go-Shintai of Hidden Cruelty,B,4.0,{3}{B},2.0,2.0,,"Deathtouch
 At the beginning of your end step, you may pay {1}. When you do, destroy target creature with toughness X or less, where X is the number of Shrines you control.",uncommon,Deathtouch,Legendary,"Enchantment, Creature",Shrine
-105,Gravelighter,B,3.0,{2}{B},2.0,2.0,,"Flying
+102,Gravelighter,B,3.0,{2}{B},2.0,2.0,,"Flying
 When Gravelighter enters the battlefield, draw a card if a creature died this turn. Otherwise, each player sacrifices a creature.",uncommon,Flying,,Creature,Spirit
-106,"Hidetsugu, Devouring Chaos",B,4.0,{3}{B},4.0,4.0,,"{B}, Sacrifice a creature: Scry 2.
+103,"Hidetsugu, Devouring Chaos",B,4.0,{3}{B},4.0,4.0,,"{B}, Sacrifice a creature: Scry 2.
 {2}{R}, {T}: Exile the top card of your library. You may play that card this turn. When you exile a nonland card this way, Hidetsugu, Devouring Chaos deals damage equal to the exiled card's mana value to any target.",rare,Scry,Legendary,Creature,"Ogre, Demon"
-107,Inkrise Infiltrator,B,2.0,{1}{B},1.0,2.0,,"Flying
+104,Inkrise Infiltrator,B,2.0,{1}{B},1.0,2.0,,"Flying
 {3}{B}: Inkrise Infiltrator gets +2/+2 until end of turn.",common,Flying,,Creature,"Human, Ninja"
-108,Invoke Despair,B,5.0,{1}{B}{B}{B}{B},,,,"Target opponent sacrifices a creature. If they can't, they lose 2 life and you draw a card. Then repeat this process for an enchantment and a planeswalker.",rare,,,Sorcery,
-109,"Junji, the Midnight Sky",B,5.0,{3}{B}{B},5.0,5.0,,"Flying, menace
+105,Invoke Despair,B,5.0,{1}{B}{B}{B}{B},,,,"Target opponent sacrifices a creature. If they can't, they lose 2 life and you draw a card. Then repeat this process for an enchantment and a planeswalker.",rare,,,Sorcery,
+106,"Junji, the Midnight Sky",B,5.0,{3}{B}{B},5.0,5.0,,"Flying, menace
 When Junji, the Midnight Sky dies, choose one —
 • Each opponent discards two cards and loses 2 life.
 • Put target non-Dragon creature card from a graveyard onto the battlefield under your control. You lose 2 life.",mythic,"Flying, Menace",Legendary,Creature,"Dragon, Spirit"
-110,Kaito's Pursuit,B,3.0,{2}{B},,,,Target player discards two cards. Ninjas and Rogues you control gain menace until end of turn. (They can't be blocked except by two or more creatures.),common,,,Sorcery,
-111,Kami of Restless Shadows,B,5.0,{4}{B},3.0,3.0,,"When Kami of Restless Shadows enters the battlefield, choose one —
+107,Kaito's Pursuit,B,3.0,{2}{B},,,,Target player discards two cards. Ninjas and Rogues you control gain menace until end of turn. (They can't be blocked except by two or more creatures.),common,,,Sorcery,
+108,Kami of Restless Shadows,B,5.0,{4}{B},3.0,3.0,,"When Kami of Restless Shadows enters the battlefield, choose one —
 • Return up to one target Ninja or Rogue creature card from your graveyard to your hand.
 • Put target creature card from your graveyard on top of your library.",common,,,Creature,Spirit
-112,Kami of Terrible Secrets,B,4.0,{3}{B},3.0,4.0,,"When Kami of Terrible Secrets enters the battlefield, if you control an artifact and an enchantment, you draw a card and you gain 1 life.",common,,,Creature,Spirit
-113,Leech Gauntlet,B,2.0,{1}{B},2.0,2.0,,"Lifelink
+109,Kami of Terrible Secrets,B,4.0,{3}{B},3.0,4.0,,"When Kami of Terrible Secrets enters the battlefield, if you control an artifact and an enchantment, you draw a card and you gain 1 life.",common,,,Creature,Spirit
+110,Leech Gauntlet,B,2.0,{1}{B},2.0,2.0,,"Lifelink
 Equipped creature has lifelink.
 Reconfigure {4} ({4}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",uncommon,"Lifelink, Reconfigure",,"Artifact, Creature","Equipment, Leech"
-114,Lethal Exploit,B,2.0,{1}{B},,,,"Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each modified creature you controlled as you cast this spell. (Equipment, Auras you control, and counters are modifications.)",common,,,Instant,
-115,Life of Toshiro Umezawa,B,2.0,{1}{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+111,Lethal Exploit,B,2.0,{1}{B},,,,"Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 until end of turn for each modified creature you controlled as you cast this spell. (Equipment, Auras you control, and counters are modifications.)",common,,,Instant,
+112,Life of Toshiro Umezawa,B,2.0,{1}{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Choose one —
 • Target creature gets +2/+2 until end of turn.
 • Target creature gets -1/-1 until end of turn.
 • You gain 2 life.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,Transform,,Enchantment,Saga
-116,Memory of Toshiro,B,2.0,,2.0,3.0,,"{T}, Pay 1 life: Add {B}. Spend this mana only to cast an instant or sorcery spell.",uncommon,,,"Enchantment, Creature","Human, Samurai"
-117,The Long Reach of Night,B,4.0,{3}{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+113,Memory of Toshiro,B,2.0,,2.0,3.0,,"{T}, Pay 1 life: Add {B}. Spend this mana only to cast an instant or sorcery spell.",uncommon,,,"Enchantment, Creature","Human, Samurai"
+114,The Long Reach of Night,B,4.0,{3}{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Each opponent sacrifices a creature unless they discard a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,Transform,,Enchantment,Saga
-118,Animus of Night's Reach,B,4.0,,0.0,4.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+115,Animus of Night's Reach,B,4.0,,0.0,4.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Whenever Animus of Night's Reach attacks, it gets +X/+0 until end of turn, where X is the number of creature cards in defending player's graveyard.",uncommon,Menace,,"Enchantment, Creature",Spirit
-119,Malicious Malfunction,B,3.0,{1}{B}{B},,,,"All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.",uncommon,,,Sorcery,
-120,March of Wretched Sorrow,B,1.0,{X}{B},,,,"As an additional cost to cast this spell, you may exile any number of black cards from your hand. This spell costs {2} less to cast for each card exiled this way.
-March of Wretched Sorrow deals X damage to target creature or planeswalker and you gain X life.",rare,,,Instant,
-121,Mukotai Ambusher,B,4.0,{3}{B},3.0,2.0,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+116,Malicious Malfunction,B,3.0,{1}{B}{B},,,,"All creatures get -2/-2 until end of turn. If a creature would die this turn, exile it instead.",uncommon,,,Sorcery,
+117,Mukotai Ambusher,B,4.0,{3}{B},3.0,2.0,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Lifelink",common,"Lifelink, Ninjutsu",,"Artifact, Creature","Rat, Ninja"
-122,Mukotai Soulripper,B,2.0,{1}{B},4.0,3.0,,"Whenever Mukotai Soulripper attacks, you may sacrifice another artifact or creature. If you do, put a +1/+1 counter on Mukotai Soulripper and it gains menace until end of turn.
+118,Mukotai Soulripper,B,2.0,{1}{B},4.0,3.0,,"Whenever Mukotai Soulripper attacks, you may sacrifice another artifact or creature. If you do, put a +1/+1 counter on Mukotai Soulripper and it gains menace until end of turn.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact,Vehicle
-123,"Nashi, Moon Sage's Scion",B,3.0,{1}{B}{B},3.0,2.0,,"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+119,"Nashi, Moon Sage's Scion",B,3.0,{1}{B}{B},3.0,2.0,,"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Nashi, Moon Sage's Scion deals combat damage to a player, exile the top card of each player's library. Until end of turn, you may play one of those cards. If you cast a spell this way, pay life equal to its mana value rather than paying its mana cost.",mythic,Ninjutsu,Legendary,Creature,"Rat, Ninja"
-124,Nezumi Bladeblesser,B,3.0,{2}{B},3.0,2.0,,"Nezumi Bladeblesser has deathtouch as long as you control an artifact.
+120,Nezumi Bladeblesser,B,3.0,{2}{B},3.0,2.0,,"Nezumi Bladeblesser has deathtouch as long as you control an artifact.
 Nezumi Bladeblesser has menace as long as you control an enchantment. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Rat, Samurai"
-125,Nezumi Prowler,B,2.0,{1}{B},3.0,1.0,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+121,Nezumi Prowler,B,2.0,{1}{B},3.0,1.0,,"Ninjutsu {1}{B} ({1}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 When Nezumi Prowler enters the battlefield, target creature you control gains deathtouch and lifelink until end of turn.",uncommon,Ninjutsu,,"Artifact, Creature","Rat, Ninja"
-126,Okiba Reckoner Raid,B,1.0,{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+122,Okiba Reckoner Raid,B,1.0,{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Each opponent loses 1 life and you gain 1 life.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",common,Transform,,Enchantment,Saga
-127,Nezumi Road Captain,B,1.0,,2.0,2.0,,"Menace
+123,Nezumi Road Captain,B,1.0,,2.0,2.0,,"Menace
 Vehicles you control have menace. (They can't be blocked except by two or more creatures.)",common,Menace,,"Enchantment, Creature","Rat, Rogue"
-128,Okiba Salvage,B,5.0,{4}{B},,,,Return target creature or Vehicle card from your graveyard to the battlefield. Then put two +1/+1 counters on that permanent if you control an artifact and an enchantment.,uncommon,,,Sorcery,
-129,Reckoner Shakedown,B,3.0,{2}{B},,,,"Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. If you don't, put two +1/+1 counters on a creature or Vehicle you control.",common,,,Sorcery,
-130,Reckoner's Bargain,B,2.0,{1}{B},,,,"As an additional cost to cast this spell, sacrifice an artifact or creature.
+124,Okiba Salvage,B,5.0,{4}{B},,,,Return target creature or Vehicle card from your graveyard to the battlefield. Then put two +1/+1 counters on that permanent if you control an artifact and an enchantment.,uncommon,,,Sorcery,
+125,Reckoner Shakedown,B,3.0,{2}{B},,,,"Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player discards that card. If you don't, put two +1/+1 counters on a creature or Vehicle you control.",common,,,Sorcery,
+126,Reckoner's Bargain,B,2.0,{1}{B},,,,"As an additional cost to cast this spell, sacrifice an artifact or creature.
 You gain life equal to the sacrificed permanent's mana value. Draw two cards.",common,,,Instant,
-131,Return to Action,B,2.0,{1}{B},,,,"Until end of turn, target creature gets +1/+0 and gains lifelink and ""When this creature dies, return it to the battlefield tapped under its owner's control.""",common,,,Instant,
-132,Soul Transfer,B,3.0,{1}{B}{B},,,,"Choose one. If you control an artifact and an enchantment as you cast this spell, you may choose both.
+127,Return to Action,B,2.0,{1}{B},,,,"Until end of turn, target creature gets +1/+0 and gains lifelink and ""When this creature dies, return it to the battlefield tapped under its owner's control.""",common,,,Instant,
+128,Soul Transfer,B,3.0,{1}{B}{B},,,,"Choose one. If you control an artifact and an enchantment as you cast this spell, you may choose both.
 • Exile target creature or planeswalker.
 • Return target creature or planeswalker card from your graveyard to your hand.",rare,,,Sorcery,
-133,"Tatsunari, Toad Rider",B,3.0,{2}{B},3.0,3.0,,"Whenever you cast an enchantment spell, if you don't control a creature named Keimi, create Keimi, a legendary 3/3 black and green Frog creature token with ""Whenever you cast an enchantment spell, each opponent loses 1 life and you gain 1 life.""
+129,"Tatsunari, Toad Rider",B,3.0,{2}{B},3.0,3.0,,"Whenever you cast an enchantment spell, if you don't control a creature named Keimi, create Keimi, a legendary 3/3 black and green Frog creature token with ""Whenever you cast an enchantment spell, each opponent loses 1 life and you gain 1 life.""
 {1}{G/U}: Tatsunari, Toad Rider and target Frog you control can't be blocked this turn except by creatures with flying or reach.",rare,,Legendary,Creature,"Human, Ninja"
-134,Tribute to Horobi,B,2.0,{1}{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+130,Tribute to Horobi,B,2.0,{1}{B},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Each opponent creates a 1/1 black Rat Rogue creature token.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",rare,Transform,,Enchantment,Saga
-135,Echo of Death's Wail,B,2.0,,3.0,3.0,,"Flying, haste
+131,Echo of Death's Wail,B,2.0,,3.0,3.0,,"Flying, haste
 When Echo of Death's Wail enters the battlefield, gain control of all Rat tokens.
 Whenever Echo of Death's Wail attacks, you may sacrifice another creature. If you do, draw a card.",rare,"Flying, Haste",,"Enchantment, Creature",Spirit
-136,Twisted Embrace,B,4.0,{2}{B}{B},,,,"Enchant artifact or creature you control
+132,Twisted Embrace,B,4.0,{2}{B}{B},,,,"Enchant artifact or creature you control
 When Twisted Embrace enters the battlefield, destroy target creature or planeswalker an opponent controls.
 As long as enchanted permanent is a creature, it gets +1/+1.",common,Enchant,,Enchantment,Aura
-137,Undercity Scrounger,B,3.0,{2}{B},1.0,4.0,,"{T}: Create a Treasure token. Activate only if a creature died this turn. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,"Artifact, Creature","Human, Rogue"
-138,Unforgiving One,B,3.0,{2}{B},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+133,Undercity Scrounger,B,3.0,{2}{B},1.0,4.0,,"{T}: Create a Treasure token. Activate only if a creature died this turn. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,"Artifact, Creature","Human, Rogue"
+134,Unforgiving One,B,3.0,{2}{B},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Whenever Unforgiving One attacks, return target creature card with mana value X or less from your graveyard to the battlefield, where X is the number of modified creatures you control. (Equipment, Auras you control, and counters are modifications.)",uncommon,Menace,,Creature,Spirit
-139,Virus Beetle,B,2.0,{1}{B},1.0,1.0,,"When Virus Beetle enters the battlefield, each opponent discards a card.",common,,,"Artifact, Creature",Insect
-140,You Are Already Dead,B,1.0,{B},,,,"Destroy target creature that was dealt damage this turn.
+135,Virus Beetle,B,2.0,{1}{B},1.0,1.0,,"When Virus Beetle enters the battlefield, each opponent discards a card.",common,,,"Artifact, Creature",Insect
+136,You Are Already Dead,B,1.0,{B},,,,"Destroy target creature that was dealt damage this turn.
 Draw a card.",common,,,Instant,
-141,Akki Ember-Keeper,R,2.0,{1}{R},2.0,1.0,,"Whenever a nontoken modified creature you control dies, create a 1/1 colorless Spirit creature token. (Equipment, Auras you control, and counters are modifications.)",common,,,"Enchantment, Creature","Goblin, Warrior"
-142,Akki Ronin,R,2.0,{1}{R},1.0,3.0,,"Whenever a Samurai or Warrior you control attacks alone, you may discard a card. If you do, draw a card.",common,,,Creature,"Goblin, Samurai"
-143,Akki War Paint,R,1.0,{R},,,,"Enchant artifact or creature
+137,Akki Ember-Keeper,R,2.0,{1}{R},2.0,1.0,,"Whenever a nontoken modified creature you control dies, create a 1/1 colorless Spirit creature token. (Equipment, Auras you control, and counters are modifications.)",common,,,"Enchantment, Creature","Goblin, Warrior"
+138,Akki Ronin,R,2.0,{1}{R},1.0,3.0,,"Whenever a Samurai or Warrior you control attacks alone, you may discard a card. If you do, draw a card.",common,,,Creature,"Goblin, Samurai"
+139,Akki War Paint,R,1.0,{R},,,,"Enchant artifact or creature
 As long as enchanted permanent is a creature, it gets +2/+1.",common,Enchant,,Enchantment,Aura
-144,Ambitious Assault,R,3.0,{2}{R},,,,"Creatures you control get +2/+0 until end of turn. If you control a modified creature, draw a card. (Equipment, Auras you control, and counters are modifications.)",common,,,Instant,
-145,"Atsushi, the Blazing Sky",R,4.0,{2}{R}{R},4.0,4.0,,"Flying, trample
+140,Ambitious Assault,R,3.0,{2}{R},,,,"Creatures you control get +2/+0 until end of turn. If you control a modified creature, draw a card. (Equipment, Auras you control, and counters are modifications.)",common,,,Instant,
+141,"Atsushi, the Blazing Sky",R,4.0,{2}{R}{R},4.0,4.0,,"Flying, trample
 When Atsushi, the Blazing Sky dies, choose one —
 • Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
 • Create three Treasure tokens.",mythic,"Flying, Trample",Legendary,Creature,"Dragon, Spirit"
-146,Bronzeplate Boar,R,3.0,{2}{R},3.0,2.0,,"Trample
+142,Bronzeplate Boar,R,3.0,{2}{R},3.0,2.0,,"Trample
 Equipped creature gets +3/+2 and has trample.
 Reconfigure {5} ({5}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",uncommon,"Reconfigure, Trample",,"Artifact, Creature","Equipment, Boar"
-147,Crackling Emergence,R,2.0,{1}{R},,,,"Enchant land you control
+143,Crackling Emergence,R,2.0,{1}{R},,,,"Enchant land you control
 Enchanted land is a 3/3 red Spirit creature with haste. It's still a land.
 If enchanted land would be destroyed, instead sacrifice Crackling Emergence and that land gains indestructible until end of turn.",common,Enchant,,Enchantment,Aura
-148,Dragonspark Reactor,R,2.0,{1}{R},,,,"Whenever Dragonspark Reactor or another artifact enters the battlefield under your control, put a charge counter on Dragonspark Reactor.
+144,Dragonspark Reactor,R,2.0,{1}{R},,,,"Whenever Dragonspark Reactor or another artifact enters the battlefield under your control, put a charge counter on Dragonspark Reactor.
 {4}, Sacrifice Dragonspark Reactor: It deals damage equal to the number of charge counters on it to target player and that much damage to up to one target creature.",uncommon,,,Artifact,
-149,Experimental Synthesizer,R,1.0,{R},,,,"When Experimental Synthesizer enters or leaves the battlefield, exile the top card of your library. Until end of turn, you may play that card.
+145,Experimental Synthesizer,R,1.0,{R},,,,"When Experimental Synthesizer enters or leaves the battlefield, exile the top card of your library. Until end of turn, you may play that card.
 {2}{R}, Sacrifice Experimental Synthesizer: Create a 2/2 white Samurai creature token with vigilance. Activate only as a sorcery.",common,,,Artifact,
-150,Explosive Entry,R,2.0,{1}{R},,,,Destroy up to one target artifact. Put a +1/+1 counter on up to one target creature.,common,,,Sorcery,
-151,Explosive Singularity,R,10.0,{8}{R}{R},,,,"As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.
+146,Explosive Entry,R,2.0,{1}{R},,,,Destroy up to one target artifact. Put a +1/+1 counter on up to one target creature.,common,,,Sorcery,
+147,Explosive Singularity,R,10.0,{8}{R}{R},,,,"As an additional cost to cast this spell, you may tap any number of untapped creatures you control. This spell costs {1} less to cast for each creature tapped this way.
 Explosive Singularity deals 10 damage to any target.",mythic,,,Sorcery,
-152,Fable of the Mirror-Breaker,R,3.0,{2}{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+148,Fable of the Mirror-Breaker,R,3.0,{2}{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Create a 2/2 red Goblin Shaman creature token with ""Whenever this creature attacks, create a Treasure token.""
 II — You may discard up to two cards. If you do, draw that many cards.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",rare,Transform,,Enchantment,Saga
-153,Reflection of Kiki-Jiki,R,3.0,,2.0,2.0,,"{1}, {T}: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",rare,,,"Enchantment, Creature","Goblin, Shaman"
-154,Flame Discharge,R,1.0,{X}{R},,,,"Flame Discharge deals X damage to target creature or planeswalker. If you controlled a modified creature as you cast this spell, it deals X plus 2 damage instead. (Equipment, Auras you control, and counters are modifications.)",uncommon,,,Instant,
-155,Gift of Wrath,R,4.0,{3}{R},,,,"Enchant artifact or creature
+149,Reflection of Kiki-Jiki,R,3.0,,2.0,2.0,,"{1}, {T}: Create a token that's a copy of another target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step.",rare,,,"Enchantment, Creature","Goblin, Shaman"
+150,Gift of Wrath,R,4.0,{3}{R},,,,"Enchant artifact or creature
 As long as enchanted permanent is a creature, it gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
 When Gift of Wrath leaves the battlefield, create a 2/2 red Spirit creature token with menace.",common,Enchant,,Enchantment,Aura
-156,Go-Shintai of Ancient Wars,R,3.0,{2}{R},2.0,2.0,,"First strike
+151,Go-Shintai of Ancient Wars,R,3.0,{2}{R},2.0,2.0,,"First strike
 At the beginning of your end step, you may pay {1}. When you do, Go-Shintai of Ancient Wars deals X damage to target player or planeswalker, where X is the number of Shrines you control.",uncommon,First strike,Legendary,"Enchantment, Creature",Shrine
-157,"Goro-Goro, Disciple of Ryusei",R,2.0,{1}{R},2.0,2.0,,"{R}: Creatures you control gain haste until end of turn.
+152,"Goro-Goro, Disciple of Ryusei",R,2.0,{1}{R},2.0,2.0,,"{R}: Creatures you control gain haste until end of turn.
 {3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)",rare,,Legendary,Creature,"Goblin, Samurai"
-158,"Heiko Yamazaki, the General",R,4.0,{3}{R},3.0,3.0,,"Trample
+153,"Heiko Yamazaki, the General",R,4.0,{3}{R},3.0,3.0,,"Trample
 Whenever a Samurai or Warrior you control attacks alone, you may cast target artifact card from your graveyard this turn.",uncommon,Trample,Legendary,Creature,"Human, Samurai"
-159,Invoke Calamity,R,5.0,{1}{R}{R}{R}{R},,,,"You may cast up to two instant and/or sorcery spells with total mana value 6 or less from your graveyard and/or hand without paying their mana costs. If those spells would be put into your graveyard, exile them instead. Exile Invoke Calamity.",rare,,,Instant,
-160,Ironhoof Boar,R,6.0,{5}{R},5.0,4.0,,"Trample, haste
+154,Invoke Calamity,R,5.0,{1}{R}{R}{R}{R},,,,"You may cast up to two instant and/or sorcery spells with total mana value 6 or less from your graveyard and/or hand without paying their mana costs. If those spells would be put into your graveyard, exile them instead. Exile Invoke Calamity.",rare,,,Instant,
+155,Ironhoof Boar,R,6.0,{5}{R},5.0,4.0,,"Trample, haste
 Channel — {1}{R}, Discard Ironhoof Boar: Target creature gets +3/+1 and gains trample until end of turn.",common,"Channel, Haste, Trample",,"Artifact, Creature",Boar
-161,Kami of Industry,R,5.0,{4}{R},3.0,6.0,,"When Kami of Industry enters the battlefield, return target artifact card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.",common,,,Creature,Spirit
-162,Kami's Flare,R,2.0,{1}{R},,,,"Kami's Flare deals 3 damage to target creature or planeswalker. Kami's Flare also deals 2 damage to that permanent's controller if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)",common,,,Instant,
-163,Kindled Fury,R,1.0,{R},,,,Target creature gets +1/+0 and gains first strike until end of turn.,common,,,Instant,
-164,Kumano Faces Kakkazan,R,1.0,{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+156,Kami of Industry,R,5.0,{4}{R},3.0,6.0,,"When Kami of Industry enters the battlefield, return target artifact card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at the beginning of the next end step.",common,,,Creature,Spirit
+157,Kami's Flare,R,2.0,{1}{R},,,,"Kami's Flare deals 3 damage to target creature or planeswalker. Kami's Flare also deals 2 damage to that permanent's controller if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)",common,,,Instant,
+158,Kindled Fury,R,1.0,{R},,,,Target creature gets +1/+0 and gains first strike until end of turn.,common,,,Instant,
+159,Kumano Faces Kakkazan,R,1.0,{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Kumano Faces Kakkazan deals 1 damage to each opponent and each planeswalker they control.
 II — When you cast your next creature spell this turn, that creature enters the battlefield with an additional +1/+1 counter on it.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,Transform,,Enchantment,Saga
-165,Etching of Kumano,R,1.0,,2.0,2.0,,"Haste
+160,Etching of Kumano,R,1.0,,2.0,2.0,,"Haste
 If a creature dealt damage this turn by a source you controlled would die, exile it instead.",uncommon,Haste,,"Enchantment, Creature","Human, Shaman"
-166,Lizard Blades,R,2.0,{1}{R},1.0,1.0,,"Double strike
+161,Lizard Blades,R,2.0,{1}{R},1.0,1.0,,"Double strike
 Equipped creature has double strike.
 Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",rare,"Double strike, Reconfigure",,"Artifact, Creature","Equipment, Lizard"
-167,March of Reckless Joy,R,1.0,{X}{R},,,,"As an additional cost to cast this spell, you may exile any number of red cards from your hand. This spell costs {2} less to cast for each card exiled this way.
-Exile the top X cards of your library. You may play up to two of those cards until the end of your next turn.",rare,,,Instant,
-168,Ogre-Head Helm,R,2.0,{1}{R},2.0,2.0,,"Equipped creature gets +2/+2.
+162,Ogre-Head Helm,R,2.0,{1}{R},2.0,2.0,,"Equipped creature gets +2/+2.
 Whenever Ogre-Head Helm or equipped creature deals combat damage to a player, you may sacrifice it. If you do, discard your hand, then draw three cards.
 Reconfigure {3} ({3}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",rare,Reconfigure,,"Artifact, Creature","Equipment, Ogre"
-169,Peerless Samurai,R,3.0,{2}{R},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+163,Peerless Samurai,R,3.0,{2}{R},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs {1} less to cast.",common,Menace,,Creature,"Human, Samurai"
-170,Rabbit Battery,R,1.0,{R},1.0,1.0,,"Haste
+164,Rabbit Battery,R,1.0,{R},1.0,1.0,,"Haste
 Equipped creature gets +1/+1 and has haste.
 Reconfigure {R} ({R}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",uncommon,"Haste, Reconfigure",,"Artifact, Creature","Equipment, Rabbit"
-171,Reinforced Ronin,R,1.0,{R},2.0,2.0,,"Haste
+165,Reinforced Ronin,R,1.0,{R},2.0,2.0,,"Haste
 At the beginning of your end step, return Reinforced Ronin to its owner's hand.
 Channel — {1}{R}, Discard Reinforced Ronin: Draw a card.",uncommon,"Channel, Haste",,"Artifact, Creature","Human, Samurai"
-172,Scrap Welder,R,3.0,{2}{R},3.0,3.0,,"{T}, Sacrifice an artifact with mana value X: Return target artifact card with mana value less than X from your graveyard to the battlefield. It gains haste until end of turn.",rare,,,Creature,"Goblin, Artificer"
-173,Scrapyard Steelbreaker,R,4.0,{3}{R},3.0,4.0,,"{1}, Sacrifice another artifact: Scrapyard Steelbreaker gets +2/+1 until end of turn.",common,,,"Artifact, Creature","Human, Warrior"
-174,Seismic Wave,R,3.0,{2}{R},,,,Seismic Wave deals 2 damage to any target and 1 damage to each nonartifact creature target opponent controls.,uncommon,,,Instant,
-175,The Shattered States Era,R,5.0,{4}{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+166,Scrap Welder,R,3.0,{2}{R},3.0,3.0,,"{T}, Sacrifice an artifact with mana value X: Return target artifact card with mana value less than X from your graveyard to the battlefield. It gains haste until end of turn.",rare,,,Creature,"Goblin, Artificer"
+167,Scrapyard Steelbreaker,R,4.0,{3}{R},3.0,4.0,,"{1}, Sacrifice another artifact: Scrapyard Steelbreaker gets +2/+1 until end of turn.",common,,,"Artifact, Creature","Human, Warrior"
+168,Seismic Wave,R,3.0,{2}{R},,,,Seismic Wave deals 2 damage to any target and 1 damage to each nonartifact creature target opponent controls.,uncommon,,,Instant,
+169,The Shattered States Era,R,5.0,{4}{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
 II — Creatures you control get +1/+0 until end of turn.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",common,"Haste, Transform",,Enchantment,Saga
-176,Nameless Conqueror,R,5.0,,3.0,3.0,,"Trample, haste",common,"Haste, Trample",,"Enchantment, Creature","Human, Samurai"
-177,Simian Sling,R,1.0,{R},1.0,1.0,,"Equipped creature gets +1/+1.
+170,Nameless Conqueror,R,5.0,,3.0,3.0,,"Trample, haste",common,"Haste, Trample",,"Enchantment, Creature","Human, Samurai"
+171,Simian Sling,R,1.0,{R},1.0,1.0,,"Equipped creature gets +1/+1.
 Whenever Simian Sling or equipped creature becomes blocked, it deals 1 damage to defending player.
 Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",common,Reconfigure,,"Artifact, Creature","Equipment, Monkey"
-178,Sokenzan Smelter,R,2.0,{1}{R},2.0,2.0,,"At the beginning of combat on your turn, you may pay {1} and sacrifice an artifact. If you do, create a 3/1 red Construct artifact creature token with haste.",uncommon,,,Creature,"Goblin, Artificer"
-179,Tempered in Solitude,R,2.0,{1}{R},,,,"Whenever a creature you control attacks alone, exile the top card of your library. You may play that card this turn.",uncommon,,,Enchantment,
-180,Thundering Raiju,R,4.0,{2}{R}{R},3.0,3.0,,"Haste
+172,Sokenzan Smelter,R,2.0,{1}{R},2.0,2.0,,"At the beginning of combat on your turn, you may pay {1} and sacrifice an artifact. If you do, create a 3/1 red Construct artifact creature token with haste.",uncommon,,,Creature,"Goblin, Artificer"
+173,Tempered in Solitude,R,2.0,{1}{R},,,,"Whenever a creature you control attacks alone, exile the top card of your library. You may play that card this turn.",uncommon,,,Enchantment,
+174,Thundering Raiju,R,4.0,{2}{R}{R},3.0,3.0,,"Haste
 Whenever Thundering Raiju attacks, put a +1/+1 counter on target creature you control. Then Thundering Raiju deals X damage to each opponent, where X is the number of modified creatures you control other than Thundering Raiju. (Equipment, Auras you control, and counters are modifications.)",rare,Haste,,Creature,Spirit
-181,Towashi Songshaper,R,2.0,{1}{R},2.0,2.0,,"Whenever another artifact enters the battlefield under your control, Towashi Songshaper gets +1/+0 until end of turn.",common,,,"Artifact, Creature","Human, Artificer"
-182,Twinshot Sniper,R,4.0,{3}{R},2.0,3.0,,"Reach
+175,Towashi Songshaper,R,2.0,{1}{R},2.0,2.0,,"Whenever another artifact enters the battlefield under your control, Towashi Songshaper gets +1/+0 until end of turn.",common,,,"Artifact, Creature","Human, Artificer"
+176,Twinshot Sniper,R,4.0,{3}{R},2.0,3.0,,"Reach
 When Twinshot Sniper enters the battlefield, it deals 2 damage to any target.
 Channel — {1}{R}, Discard Twinshot Sniper: It deals 2 damage to any target.",uncommon,"Channel, Reach",,"Artifact, Creature","Goblin, Archer"
-183,Unstoppable Ogre,R,3.0,{2}{R},4.0,1.0,,"When Unstoppable Ogre enters the battlefield, target creature can't block this turn.",common,,,"Artifact, Creature","Ogre, Warrior"
-184,Upriser Renegade,R,2.0,{1}{R},1.0,3.0,,"Upriser Renegade gets +2/+0 for each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)",uncommon,,,Creature,"Human, Samurai"
-185,Voltage Surge,R,1.0,{R},,,,"As an additional cost to cast this spell, you may sacrifice an artifact.
+177,Unstoppable Ogre,R,3.0,{2}{R},4.0,1.0,,"When Unstoppable Ogre enters the battlefield, target creature can't block this turn.",common,,,"Artifact, Creature","Ogre, Warrior"
+178,Upriser Renegade,R,2.0,{1}{R},1.0,3.0,,"Upriser Renegade gets +2/+0 for each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)",uncommon,,,Creature,"Human, Samurai"
+179,Voltage Surge,R,1.0,{R},,,,"As an additional cost to cast this spell, you may sacrifice an artifact.
 Voltage Surge deals 2 damage to target creature or planeswalker. If this spell's additional cost was paid, Voltage Surge deals 4 damage instead.",common,,,Instant,
-186,Azusa's Many Journeys,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+180,Azusa's Many Journeys,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — You may play an additional land this turn.
 II — You gain 3 life.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,Transform,,Enchantment,Saga
-187,Likeness of the Seeker,G,2.0,,3.0,3.0,,"Whenever Likeness of the Seeker becomes blocked, untap up to three lands you control.",uncommon,,,"Enchantment, Creature","Human, Monk"
-188,Bamboo Grove Archer,G,2.0,{1}{G},3.0,3.0,,"Defender, reach
+181,Likeness of the Seeker,G,2.0,,3.0,3.0,,"Whenever Likeness of the Seeker becomes blocked, untap up to three lands you control.",uncommon,,,"Enchantment, Creature","Human, Monk"
+182,Bamboo Grove Archer,G,2.0,{1}{G},3.0,3.0,,"Defender, reach
 Channel — {4}{G}, Discard Bamboo Grove Archer: Destroy target creature with flying.",common,"Channel, Defender, Reach",,"Enchantment, Creature","Snake, Archer"
-189,Bearer of Memory,G,3.0,{2}{G},3.0,2.0,,{5}{G}: Put a +1/+1 counter on target enchantment creature. It gains trample until end of turn.,common,,,"Enchantment, Creature","Human, Monk"
-190,Blossom Prancer,G,5.0,{3}{G}{G},4.0,4.0,,"Reach
+183,Bearer of Memory,G,3.0,{2}{G},3.0,2.0,,{5}{G}: Put a +1/+1 counter on target enchantment creature. It gains trample until end of turn.,common,,,"Enchantment, Creature","Human, Monk"
+184,Blossom Prancer,G,5.0,{3}{G}{G},4.0,4.0,,"Reach
 When Blossom Prancer enters the battlefield, look at the top five cards of your library. You may reveal a creature or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, you gain 4 life.",uncommon,Reach,,Creature,Spirit
-191,Boon of Boseiju,G,2.0,{1}{G},,,,"Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control. Untap it.",uncommon,,,Instant,
-192,Boseiju Reaches Skyward,G,4.0,{3}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+185,Boon of Boseiju,G,2.0,{1}{G},,,,"Target creature gets +X/+X until end of turn, where X is the greatest mana value among permanents you control. Untap it.",uncommon,,,Instant,
+186,Boseiju Reaches Skyward,G,4.0,{3}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Search your library for up to two basic Forest cards, reveal them, put them into your hand, then shuffle.
 II — Put up to one target land card from your graveyard on top of your library.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",uncommon,Transform,,Enchantment,Saga
-193,Branch of Boseiju,G,4.0,,0.0,0.0,,"Reach
+187,Branch of Boseiju,G,4.0,,0.0,0.0,,"Reach
 Branch of Boseiju gets +1/+1 for each land you control.",uncommon,Reach,,"Enchantment, Creature",Plant
-194,Careful Cultivation,G,3.0,{2}{G},,,,"Enchant artifact or creature
+188,Careful Cultivation,G,3.0,{2}{G},,,,"Enchant artifact or creature
 As long as enchanted permanent is a creature, it gets +1/+3 and has reach and ""{T}: Add {G}{G}.""
 Channel — {1}{G}, Discard Careful Cultivation: Create a 1/1 green Human Monk creature token with ""{T}: Add {G}.""",common,"Channel, Enchant",,Enchantment,Aura
-195,Coiling Stalker,G,2.0,{1}{G},2.0,1.0,,"Ninjutsu {1}{G} ({1}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+189,Coiling Stalker,G,2.0,{1}{G},2.0,1.0,,"Ninjutsu {1}{G} ({1}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Coiling Stalker deals combat damage to a player, put a +1/+1 counter on target creature you control that doesn't have a +1/+1 counter on it.",common,Ninjutsu,,Creature,"Snake, Ninja"
-196,Commune with Spirits,G,1.0,{G},,,,Look at the top four cards of your library. You may reveal an enchantment or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.,common,,,Sorcery,
-197,The Dragon-Kami Reborn,G,3.0,{2}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+190,Commune with Spirits,G,1.0,{G},,,,Look at the top four cards of your library. You may reveal an enchantment or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.,common,,,Sorcery,
+191,The Dragon-Kami Reborn,G,3.0,{2}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — You gain 2 life. Look at the top three cards of your library. Exile one of them face down with a hatching counter on it, then put the rest on the bottom of your library in any order.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",rare,Transform,,Enchantment,Saga
-198,Dragon-Kami's Egg,G,3.0,,0.0,1.0,,"Whenever Dragon-Kami's Egg or a Dragon you control dies, you may cast a creature spell from among cards you own in exile with hatching counters on them without paying its mana cost.",rare,,,"Enchantment, Creature",Egg
-199,Fade into Antiquity,G,3.0,{2}{G},,,,Exile target artifact or enchantment.,common,,,Sorcery,
-200,Fang of Shigeki,G,1.0,{G},1.0,1.0,,Deathtouch,common,Deathtouch,,"Enchantment, Creature","Snake, Ninja"
-201,Favor of Jukai,G,4.0,{3}{G},,,,"Enchant artifact or creature
+192,Dragon-Kami's Egg,G,3.0,,0.0,1.0,,"Whenever Dragon-Kami's Egg or a Dragon you control dies, you may cast a creature spell from among cards you own in exile with hatching counters on them without paying its mana cost.",rare,,,"Enchantment, Creature",Egg
+193,Fade into Antiquity,G,3.0,{2}{G},,,,Exile target artifact or enchantment.,common,,,Sorcery,
+194,Fang of Shigeki,G,1.0,{G},1.0,1.0,,Deathtouch,common,Deathtouch,,"Enchantment, Creature","Snake, Ninja"
+195,Favor of Jukai,G,4.0,{3}{G},,,,"Enchant artifact or creature
 As long as enchanted permanent is a creature, it gets +3/+3 and has reach.
 Channel — {1}{G}, Discard Favor of Jukai: Target creature gets +3/+3 and gains reach until end of turn.",common,"Channel, Enchant",,Enchantment,Aura
-202,Generous Visitor,G,1.0,{G},1.0,1.0,,"Whenever you cast an enchantment spell, put a +1/+1 counter on target creature.",uncommon,,,Creature,Spirit
-203,Geothermal Kami,G,4.0,{3}{G},4.0,3.0,,"When Geothermal Kami enters the battlefield, you may return an enchantment you control to its owner's hand. If you do, you gain 3 life.",common,,,Creature,Spirit
-204,Go-Shintai of Boundless Vigor,G,2.0,{1}{G},1.0,1.0,,"Trample
+196,Generous Visitor,G,1.0,{G},1.0,1.0,,"Whenever you cast an enchantment spell, put a +1/+1 counter on target creature.",uncommon,,,Creature,Spirit
+197,Geothermal Kami,G,4.0,{3}{G},4.0,3.0,,"When Geothermal Kami enters the battlefield, you may return an enchantment you control to its owner's hand. If you do, you gain 3 life.",common,,,Creature,Spirit
+198,Go-Shintai of Boundless Vigor,G,2.0,{1}{G},1.0,1.0,,"Trample
 At the beginning of your end step, you may pay {1}. When you do, put a +1/+1 counter on target Shrine for each Shrine you control.",uncommon,Trample,Legendary,"Enchantment, Creature",Shrine
-205,Grafted Growth,G,3.0,{2}{G},,,,"Enchant land
+199,Grafted Growth,G,3.0,{2}{G},,,,"Enchant land
 When Grafted Growth enters the battlefield, put a +1/+1 counter on target creature or Vehicle you control.
 Enchanted land has ""{T}: Add two mana of any one color.""",common,Enchant,,Enchantment,Aura
-206,Greater Tanuki,G,6.0,{4}{G}{G},6.0,5.0,,"Trample
+200,Greater Tanuki,G,6.0,{4}{G}{G},6.0,5.0,,"Trample
 Channel — {2}{G}, Discard Greater Tanuki: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,"Channel, Trample",,"Enchantment, Creature",Dog
-207,Harmonious Emergence,G,4.0,{3}{G},,,,"Enchant land you control
+201,Harmonious Emergence,G,4.0,{3}{G},,,,"Enchant land you control
 Enchanted land is a 4/5 green Spirit creature with vigilance and haste. It's still a land.
 If enchanted land would be destroyed, instead sacrifice Harmonious Emergence and that land gains indestructible until end of turn.",common,Enchant,,Enchantment,Aura
-208,Heir of the Ancient Fang,G,3.0,{2}{G},2.0,3.0,,"Heir of the Ancient Fang enters the battlefield with a +1/+1 counter on it if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)",common,,,Creature,"Snake, Samurai"
-209,Historian's Wisdom,G,3.0,{2}{G},,,,"Enchant artifact or creature
+202,Heir of the Ancient Fang,G,3.0,{2}{G},2.0,3.0,,"Heir of the Ancient Fang enters the battlefield with a +1/+1 counter on it if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)",common,,,Creature,"Snake, Samurai"
+203,Historian's Wisdom,G,3.0,{2}{G},,,,"Enchant artifact or creature
 When Historian's Wisdom enters the battlefield, if enchanted permanent is a creature with the greatest power among creatures on the battlefield, draw a card.
 As long as enchanted permanent is a creature, it gets +2/+1.",uncommon,Enchant,,Enchantment,Aura
-210,Invoke the Ancients,G,5.0,{1}{G}{G}{G}{G},,,,"Create two 4/5 green Spirit creature tokens. For each of them, put your choice of a vigilance counter, a reach counter, or a trample counter on it.",rare,,,Sorcery,
-211,Jugan Defends the Temple,G,3.0,{2}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+204,Invoke the Ancients,G,5.0,{1}{G}{G}{G}{G},,,,"Create two 4/5 green Spirit creature tokens. For each of them, put your choice of a vigilance counter, a reach counter, or a trample counter on it.",rare,,,Sorcery,
+205,Jugan Defends the Temple,G,3.0,{2}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Create a 1/1 green Human Monk creature token with ""{T}: Add {G}.""
 II — Put a +1/+1 counter on each of up to two target creatures.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",mythic,Transform,,Enchantment,Saga
-212,Remnant of the Rising Star,G,3.0,,2.0,2.0,,"Flying
+206,Remnant of the Rising Star,G,3.0,,2.0,2.0,,"Flying
 Whenever another creature enters the battlefield under your control, you may pay {X}. When you do, put X +1/+1 counters on that creature.
 As long as you control five or more modified creatures, Remnant of the Rising Star gets +5/+5 and has trample. (Equipment, Auras you control, and counters are modifications.)",mythic,Flying,,"Enchantment, Creature","Dragon, Spirit"
-213,Jukai Preserver,G,4.0,{3}{G},3.0,3.0,,"When Jukai Preserver enters the battlefield, put a +1/+1 counter on target creature you control.
+207,Jukai Preserver,G,4.0,{3}{G},3.0,3.0,,"When Jukai Preserver enters the battlefield, put a +1/+1 counter on target creature you control.
 Channel — {2}{G}, Discard Jukai Preserver: Put a +1/+1 counter on each of up to two target creatures you control.",common,Channel,,"Enchantment, Creature","Human, Druid"
-214,Jukai Trainee,G,2.0,{1}{G},2.0,2.0,,"Whenever Jukai Trainee blocks or becomes blocked, it gets +1/+1 until end of turn.",common,,,Creature,"Human, Samurai"
-215,Kami of Transience,G,2.0,{1}{G},2.0,2.0,,"Trample
+208,Jukai Trainee,G,2.0,{1}{G},2.0,2.0,,"Whenever Jukai Trainee blocks or becomes blocked, it gets +1/+1 until end of turn.",common,,,Creature,"Human, Samurai"
+209,Kami of Transience,G,2.0,{1}{G},2.0,2.0,,"Trample
 Whenever you cast an enchantment spell, put a +1/+1 counter on Kami of Transience.
 At the beginning of each end step, if an enchantment was put into your graveyard from the battlefield this turn, you may return Kami of Transience from your graveyard to your hand.",rare,Trample,,Creature,Spirit
-216,Kappa Tech-Wrecker,G,2.0,{1}{G},1.0,3.0,,"Ninjutsu {1}{G}
+210,Kappa Tech-Wrecker,G,2.0,{1}{G},1.0,3.0,,"Ninjutsu {1}{G}
 Kappa Tech-Wrecker enters the battlefield with a deathtouch counter on it.
 Whenever Kappa Tech-Wrecker deals combat damage to a player, you may remove a deathtouch counter from it. When you do, exile target artifact or enchantment that player controls.",uncommon,Ninjutsu,,Creature,"Turtle, Ninja"
-217,Kodama of the West Tree,G,3.0,{2}{G},3.0,3.0,,"Reach
+211,Kodama of the West Tree,G,3.0,{2}{G},3.0,3.0,,"Reach
 Modified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)
 Whenever a modified creature you control deals combat damage to a player, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",mythic,Reach,Legendary,Creature,Spirit
-218,"Kura, the Boundless Sky",G,5.0,{3}{G}{G},4.0,4.0,,"Flying, deathtouch
+212,"Kura, the Boundless Sky",G,5.0,{3}{G}{G},4.0,4.0,,"Flying, deathtouch
 When Kura, the Boundless Sky dies, choose one —
 • Search your library for up to three land cards, reveal them, put them into your hand, then shuffle.
 • Create an X/X green Spirit creature token, where X is the number of lands you control.",mythic,"Deathtouch, Flying",Legendary,Creature,"Dragon, Spirit"
-219,March of Burgeoning Life,G,1.0,{X}{G},,,,"As an additional cost to cast this spell, you may exile any number of green cards from your hand. This spell costs {2} less to cast for each card exiled this way.
-Choose target creature with mana value less than X. Search your library for a creature card with the same name as that creature, put it onto the battlefield tapped, then shuffle.",rare,,,Instant,
-220,Master's Rebuke,G,2.0,{1}{G},,,,Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.,common,,,Instant,
-221,Orochi Merge-Keeper,G,2.0,{1}{G},1.0,1.0,,"{T}: Add {G}.
+213,Master's Rebuke,G,2.0,{1}{G},,,,Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.,common,,,Instant,
+214,Orochi Merge-Keeper,G,2.0,{1}{G},1.0,1.0,,"{T}: Add {G}.
 As long as Orochi Merge-Keeper is modified, it has ""{T}: Add {G}{G}."" (Equipment, Auras you control, and counters are modifications.)",uncommon,,,Creature,"Snake, Druid"
-222,Roaring Earth,G,2.0,{1}{G},,,,"Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature or Vehicle you control.
+215,Roaring Earth,G,2.0,{1}{G},,,,"Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature or Vehicle you control.
 Channel — {X}{G}{G}, Discard Roaring Earth: Put X +1/+1 counters on target land you control. It becomes a 0/0 green Spirit creature with haste. It's still a land.",uncommon,Channel,,Enchantment,
-223,Season of Renewal,G,3.0,{2}{G},,,,"Choose one or both —
+216,Season of Renewal,G,3.0,{2}{G},,,,"Choose one or both —
 • Return target creature card from your graveyard to your hand.
 • Return target enchantment card from your graveyard to your hand.",common,,,Instant,
-224,"Shigeki, Jukai Visionary",G,2.0,{1}{G},1.0,3.0,,"{1}{G}, {T}, Return Shigeki, Jukai Visionary to its owner's hand: Reveal the top four cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest into your graveyard.
+217,"Shigeki, Jukai Visionary",G,2.0,{1}{G},1.0,3.0,,"{1}{G}, {T}, Return Shigeki, Jukai Visionary to its owner's hand: Reveal the top four cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest into your graveyard.
 Channel — {X}{X}{G}{G}, Discard Shigeki: Return X target nonlegendary cards from your graveyard to your hand.",rare,Channel,Legendary,"Enchantment, Creature","Snake, Druid"
-225,Spinning Wheel Kick,G,2.0,{X}{X}{G}{G},,,,Target creature you control deals damage equal to its power to each of X target creatures and/or planeswalkers.,uncommon,,,Sorcery,
-226,Spring-Leaf Avenger,G,5.0,{3}{G}{G},6.0,5.0,,"Ninjutsu {3}{G} ({3}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+218,Spring-Leaf Avenger,G,5.0,{3}{G}{G},6.0,5.0,,"Ninjutsu {3}{G} ({3}{G}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Whenever Spring-Leaf Avenger deals combat damage to a player, return target permanent card from your graveyard to your hand.",rare,Ninjutsu,,Creature,"Insect, Ninja"
-227,Storyweave,G,3.0,{2}{G},,,,"Choose one —
+219,Storyweave,G,3.0,{2}{G},,,,"Choose one —
 • Put two +1/+1 counters on target creature you control.
 • Put two lore counters on target Saga you control. The next time one or more enchantment creatures enter the battlefield under your control this turn, each enters with two additional +1/+1 counters on it.",uncommon,,,Instant,
-228,Tales of Master Seshiro,G,5.0,{4}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+220,Tales of Master Seshiro,G,5.0,{4}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I, II — Put a +1/+1 counter on target creature or Vehicle you control. It gains vigilance until end of turn.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",common,"Transform, Vigilance",,Enchantment,Saga
-229,Seshiro's Living Legacy,G,5.0,,5.0,5.0,,"Vigilance, haste",common,"Haste, Vigilance",,"Enchantment, Creature","Snake, Warrior"
-230,Tamiyo's Safekeeping,G,1.0,{G},,,,"Target permanent you control gains hexproof and indestructible until end of turn. You gain 2 life. (A permanent with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant,
-231,Teachings of the Kirin,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+221,Seshiro's Living Legacy,G,5.0,,5.0,5.0,,"Vigilance, haste",common,"Haste, Vigilance",,"Enchantment, Creature","Snake, Warrior"
+222,Tamiyo's Safekeeping,G,1.0,{G},,,,"Target permanent you control gains hexproof and indestructible until end of turn. You gain 2 life. (A permanent with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant,
+223,Teachings of the Kirin,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Mill three cards. Create a 1/1 colorless Spirit creature token.
 II — Put a +1/+1 counter on target creature you control.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",rare,"Mill, Transform",,Enchantment,Saga
-232,Kirin-Touched Orochi,G,2.0,,1.0,1.0,,"Whenever Kirin-Touched Orochi attacks, choose one —
+224,Kirin-Touched Orochi,G,2.0,,1.0,1.0,,"Whenever Kirin-Touched Orochi attacks, choose one —
 • Exile target creature card from a graveyard. When you do, create a 1/1 colorless Spirit creature token.
 • Exile target noncreature card from a graveyard. When you do, put a +1/+1 counter on target creature you control.",rare,,,"Enchantment, Creature","Snake, Monk"
-233,Weaver of Harmony,G,2.0,{1}{G},2.0,2.0,,"Other enchantment creatures you control get +1/+1.
+225,Weaver of Harmony,G,2.0,{1}{G},2.0,2.0,,"Other enchantment creatures you control get +1/+1.
 {G}, {T}: Copy target activated or triggered ability you control from an enchantment source. You may choose new targets for the copy. (Mana abilities can't be targeted.)",rare,,,"Enchantment, Creature","Snake, Druid"
-234,Webspinner Cuff,G,3.0,{2}{G},1.0,4.0,,"Reach
+226,Webspinner Cuff,G,3.0,{2}{G},1.0,4.0,,"Reach
 Equipped creature gets +1/+4 and has reach.
 Reconfigure {4} ({4}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)",uncommon,"Reach, Reconfigure",,"Artifact, Creature","Equipment, Spider"
-235,Asari Captain,"R, W",5.0,{3}{R}{W},4.0,3.0,,"Haste
+227,Asari Captain,"R, W",5.0,{3}{R}{W},4.0,3.0,,"Haste
 Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.",uncommon,Haste,,Creature,"Human, Samurai"
-236,Colossal Skyturtle,"G, U",7.0,{4}{G}{G}{U},6.0,5.0,,"Flying, ward {2}
+228,Colossal Skyturtle,"G, U",7.0,{4}{G}{G}{U},6.0,5.0,,"Flying, ward {2}
 Channel — {2}{G}, Discard Colossal Skyturtle: Return target card from your graveyard to your hand.
 Channel — {1}{U}, Discard Colossal Skyturtle: Return target creature to its owner's hand.",uncommon,"Channel, Flying, Ward",,"Enchantment, Creature",Turtle
-237,Eiganjo Uprising,"R, W",2.0,{X}{R}{W},,,,"Create X 2/2 white Samurai creature tokens with vigilance. They gain menace and haste until end of turn.
-Each opponent creates X minus one 2/2 white Samurai creature tokens with vigilance.",rare,,,Sorcery,
-238,Enthusiastic Mechanaut,"R, U",2.0,{U}{R},2.0,2.0,,"Flying
+229,Enthusiastic Mechanaut,"R, U",2.0,{U}{R},2.0,2.0,,"Flying
 Artifact spells you cast cost {1} less to cast.",uncommon,Flying,,"Artifact, Creature","Goblin, Artificer"
-239,Gloomshrieker,"B, G",3.0,{1}{B}{G},2.0,1.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+230,Gloomshrieker,"B, G",3.0,{1}{B}{G},2.0,1.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 When Gloomshrieker enters the battlefield, return target permanent card from your graveyard to your hand.
 If Gloomshrieker would die, exile it instead.",uncommon,Menace,,"Enchantment, Creature","Cat, Beast"
-240,"Greasefang, Okiba Boss","B, W",3.0,{1}{W}{B},4.0,3.0,,"At the beginning of combat on your turn, return target Vehicle card from your graveyard to the battlefield. It gains haste. Return it to its owner's hand at the beginning of your next end step.",rare,,Legendary,Creature,"Rat, Pilot"
-241,Hidetsugu Consumes All,"B, R",3.0,{1}{B}{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+231,"Greasefang, Okiba Boss","B, W",3.0,{1}{W}{B},4.0,3.0,,"At the beginning of combat on your turn, return target Vehicle card from your graveyard to the battlefield. It gains haste. Return it to its owner's hand at the beginning of your next end step.",rare,,Legendary,Creature,"Rat, Pilot"
+232,Hidetsugu Consumes All,"B, R",3.0,{1}{B}{R},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Destroy each nonland permanent with mana value 1 or less.
 II — Exile all graveyards.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",mythic,Transform,,Enchantment,Saga
-242,Vessel of the All-Consuming,"B, R",3.0,,3.0,3.0,,"Trample
+233,Vessel of the All-Consuming,"B, R",3.0,,3.0,3.0,,"Trample
 Whenever Vessel of the All-Consuming deals damage, put a +1/+1 counter on it.
 Whenever Vessel of the All-Consuming deals damage to a player, if it has dealt 10 or more damage to that player this turn, they lose the game.",mythic,Trample,,"Enchantment, Creature","Ogre, Shaman"
-243,"Hinata, Dawn-Crowned","R, U, W",4.0,{1}{U}{R}{W},4.0,4.0,,"Flying, trample
+234,"Hinata, Dawn-Crowned","R, U, W",4.0,{1}{U}{R}{W},4.0,4.0,,"Flying, trample
 Spells you cast cost {1} less to cast for each target.
 Spells your opponents cast cost {1} more to cast for each target.",rare,"Flying, Trample",Legendary,Creature,"Kirin, Spirit"
-244,Invigorating Hot Spring,"G, R",3.0,{1}{R}{G},,,,"Invigorating Hot Spring enters the battlefield with four +1/+1 counters on it.
+235,Invigorating Hot Spring,"G, R",3.0,{1}{R}{G},,,,"Invigorating Hot Spring enters the battlefield with four +1/+1 counters on it.
 Modified creatures you control have haste. (Equipment, Auras you control, and counters are modifications.)
 Remove a +1/+1 counter from Invigorating Hot Spring: Put a +1/+1 counter on target creature you control. Activate only as a sorcery and only once each turn.",uncommon,,,Enchantment,
-245,"Isshin, Two Heavens as One","B, R, W",3.0,{R}{W}{B},3.0,4.0,,"If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",rare,,Legendary,Creature,"Human, Samurai"
-246,Jukai Naturalist,"G, W",2.0,{G}{W},2.0,2.0,,"Lifelink
+236,"Isshin, Two Heavens as One","B, R, W",3.0,{R}{W}{B},3.0,4.0,,"If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",rare,,Legendary,Creature,"Human, Samurai"
+237,Jukai Naturalist,"G, W",2.0,{G}{W},2.0,2.0,,"Lifelink
 Enchantment spells you cast cost {1} less to cast.",uncommon,Lifelink,,"Enchantment, Creature","Human, Monk"
-247,Kaito Shizuki,"B, U",3.0,{1}{U}{B},,,3.0,"At the beginning of your end step, if Kaito Shizuki entered the battlefield this turn, he phases out.
+238,Kaito Shizuki,"B, U",3.0,{1}{U}{B},,,3.0,"At the beginning of your end step, if Kaito Shizuki entered the battlefield this turn, he phases out.
 [+1]: Draw a card. Then discard a card unless you attacked this turn.
 [−2]: Create a 1/1 blue Ninja creature token with ""This creature can't be blocked.""
 [−7]: You get an emblem with ""Whenever a creature you control deals combat damage to a player, search your library for a blue or black creature card, put it onto the battlefield, then shuffle.""",mythic,,Legendary,Planeswalker,Kaito
-248,The Kami War,"B, G, R, U, W",6.0,{1}{W}{U}{B}{R}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
+239,The Kami War,"B, G, R, U, W",6.0,{1}{W}{U}{B}{R}{G},,,,"(As this Saga enters and after your draw step, add a lore counter.)
 I — Exile target nonland permanent an opponent controls.
 II — Return up to one other target nonland permanent to its owner's hand. Then each opponent discards a card.
 III — Exile this Saga, then return it to the battlefield transformed under your control.",mythic,Transform,,Enchantment,Saga
-249,O-Kagachi Made Manifest,"B, G, R, U, W",6.0,,6.0,6.0,,"O-Kagachi Made Manifest is all colors.
+240,O-Kagachi Made Manifest,"B, G, R, U, W",6.0,,6.0,6.0,,"O-Kagachi Made Manifest is all colors.
 Flying, trample
 Whenever O-Kagachi Made Manifest attacks, defending player chooses a nonland card in your graveyard. Return that card to your hand. O-Kagachi Made Manifest gets +X/+0 until end of turn, where X is the mana value of that card.",mythic,"Flying, Trample",,"Enchantment, Creature","Dragon, Spirit"
-250,"Kotose, the Silent Spider","B, U",5.0,{3}{U}{B},4.0,4.0,,"When Kotose, the Silent Spider enters the battlefield, exile target card other than a basic land card from an opponent's graveyard. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. For as long as you control Kotose, you may play one of the exiled cards, and you may spend mana as though it were mana of any color to cast it.",rare,,Legendary,Creature,"Human, Ninja"
-251,"Naomi, Pillar of Order","B, W",5.0,{3}{W}{B},4.0,4.0,,"Whenever Naomi, Pillar of Order enters the battlefield or attacks, if you control an artifact and an enchantment, create a 2/2 white Samurai creature token with vigilance.",uncommon,,Legendary,Creature,"Human, Advisor"
-252,Oni-Cult Anvil,"B, R",2.0,{B}{R},,,,"Whenever one or more artifacts you control leave the battlefield during your turn, create a 1/1 colorless Construct artifact creature token. This ability triggers only once each turn.
+241,"Kotose, the Silent Spider","B, U",5.0,{3}{U}{B},4.0,4.0,,"When Kotose, the Silent Spider enters the battlefield, exile target card other than a basic land card from an opponent's graveyard. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. For as long as you control Kotose, you may play one of the exiled cards, and you may spend mana as though it were mana of any color to cast it.",rare,,Legendary,Creature,"Human, Ninja"
+242,"Naomi, Pillar of Order","B, W",5.0,{3}{W}{B},4.0,4.0,,"Whenever Naomi, Pillar of Order enters the battlefield or attacks, if you control an artifact and an enchantment, create a 2/2 white Samurai creature token with vigilance.",uncommon,,Legendary,Creature,"Human, Advisor"
+243,Oni-Cult Anvil,"B, R",2.0,{B}{R},,,,"Whenever one or more artifacts you control leave the battlefield during your turn, create a 1/1 colorless Construct artifact creature token. This ability triggers only once each turn.
 {T}, Sacrifice an artifact: Oni-Cult Anvil deals 1 damage to each opponent. You gain 1 life.",uncommon,,,Artifact,
-253,Prodigy's Prototype,"U, W",3.0,{1}{W}{U},3.0,4.0,,"Whenever one or more Vehicles you control attack, create a 1/1 colorless Pilot creature token with ""This creature crews Vehicles as though its power were 2 greater.""
+244,Prodigy's Prototype,"U, W",3.0,{1}{W}{U},3.0,4.0,,"Whenever one or more Vehicles you control attack, create a 1/1 colorless Pilot creature token with ""This creature crews Vehicles as though its power were 2 greater.""
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact,Vehicle
-254,"Raiyuu, Storm's Edge","R, W",4.0,{2}{R}{W},3.0,3.0,,"First strike
+245,"Raiyuu, Storm's Edge","R, W",4.0,{2}{R}{W},3.0,3.0,,"First strike
 Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.",rare,First strike,Legendary,Creature,"Human, Samurai"
-255,"Risona, Asari Commander","R, W",3.0,{1}{R}{W},3.0,3.0,,"Haste
+246,"Risona, Asari Commander","R, W",3.0,{1}{R}{W},3.0,3.0,,"Haste
 Whenever Risona, Asari Commander deals combat damage to a player, if it doesn't have an indestructible counter on it, put an indestructible counter on it.
 Whenever combat damage is dealt to you, remove an indestructible counter from Risona.",rare,Haste,Legendary,Creature,"Human, Samurai"
-256,Satoru Umezawa,"B, U",3.0,{1}{U}{B},2.0,4.0,,"Whenever you activate a ninjutsu ability, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. This ability triggers only once each turn.
+247,Satoru Umezawa,"B, U",3.0,{1}{U}{B},2.0,4.0,,"Whenever you activate a ninjutsu ability, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. This ability triggers only once each turn.
 Each creature card in your hand has ninjutsu {2}{U}{B}.",rare,,Legendary,Creature,"Human, Ninja"
-257,"Satsuki, the Living Lore","G, W",2.0,{G}{W},1.0,3.0,,"{T}: Put a lore counter on each Saga you control. Activate only as a sorcery.
+248,"Satsuki, the Living Lore","G, W",2.0,{G}{W},1.0,3.0,,"{T}: Put a lore counter on each Saga you control. Activate only as a sorcery.
 When Satsuki, the Living Lore dies, choose up to one —
 • Return target Saga or enchantment creature you control to its owner's hand.
 • Return target Saga card from your graveyard to your hand.",rare,,Legendary,Creature,"Human, Druid"
-258,Silver-Fur Master,"B, U",2.0,{U}{B},2.0,2.0,,"Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+249,Silver-Fur Master,"B, U",2.0,{U}{B},2.0,2.0,,"Ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Ninjutsu abilities you activate cost {1} less to activate.
 Other Ninja and Rogue creatures you control get +1/+1.",uncommon,Ninjutsu,,Creature,"Rat, Ninja"
-259,Spirit-Sister's Call,"B, W",5.0,{3}{W}{B},,,,"At the beginning of your end step, choose target permanent card in your graveyard. You may sacrifice a permanent that shares a card type with the chosen card. If you do, return the chosen card from your graveyard to the battlefield and it gains ""If this permanent would leave the battlefield, exile it instead of putting it anywhere else.""",mythic,,,Enchantment,
-260,"Tamiyo, Compleated Sage","G, U",5.0,{2}{G}{G/U/P}{U},,,5.0,"Compleated ({G/U/P} can be paid with {G}, {U}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
+250,Spirit-Sister's Call,"B, W",5.0,{3}{W}{B},,,,"At the beginning of your end step, choose target permanent card in your graveyard. You may sacrifice a permanent that shares a card type with the chosen card. If you do, return the chosen card from your graveyard to the battlefield and it gains ""If this permanent would leave the battlefield, exile it instead of putting it anywhere else.""",mythic,,,Enchantment,
+251,"Tamiyo, Compleated Sage","G, U",5.0,{2}{G}{G/U/P}{U},,,5.0,"Compleated ({G/U/P} can be paid with {G}, {U}, or 2 life. If life was paid, this planeswalker enters with two fewer loyalty counters.)
 [+1]: Tap up to one target artifact or creature. It doesn't untap during its controller's next untap step.
 [−X]: Exile target nonland permanent card with mana value X from your graveyard. Create a token that's a copy of that card.
 [−7]: Create Tamiyo's Notebook, a legendary colorless artifact token with ""Spells you cast cost {2} less to cast"" and ""{T}: Draw a card.""",mythic,Compleated,Legendary,Planeswalker,Tamiyo
-261,Automated Artificer,C,2.0,{2},1.0,3.0,,{T}: Add {C}. Spend this mana only to activate an ability or cast an artifact spell.,common,,,"Artifact, Creature",Artificer
-262,Bronze Cudgels,C,1.0,{1},,,,"{2}: Until end of turn, equipped creature gets +X/+0, where X is the number of times this ability has resolved this turn.
+252,Automated Artificer,C,2.0,{2},1.0,3.0,,{T}: Add {C}. Spend this mana only to activate an ability or cast an artifact spell.,common,,,"Artifact, Creature",Artificer
+253,Bronze Cudgels,C,1.0,{1},,,,"{2}: Until end of turn, equipped creature gets +X/+0, where X is the number of times this ability has resolved this turn.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-263,Brute Suit,C,3.0,{3},4.0,3.0,,"Vigilance
+254,Brute Suit,C,3.0,{3},4.0,3.0,,"Vigilance
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Vigilance",,Artifact,Vehicle
-264,Circuit Mender,C,3.0,{3},2.0,3.0,,"When Circuit Mender enters the battlefield, you gain 2 life.
+255,Circuit Mender,C,3.0,{3},2.0,3.0,,"When Circuit Mender enters the battlefield, you gain 2 life.
 When Circuit Mender leaves the battlefield, draw a card.",uncommon,,,"Artifact, Creature",Insect
-265,Containment Construct,C,2.0,{2},2.0,1.0,,"Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.",uncommon,,,"Artifact, Creature",Construct
-266,Dramatist's Puppet,C,4.0,{4},2.0,4.0,,"When Dramatist's Puppet enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.",common,,,"Artifact, Creature",Construct
-267,Eater of Virtue,C,1.0,{1},,,,"Whenever equipped creature dies, exile it.
+256,Containment Construct,C,2.0,{2},2.0,1.0,,"Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.",uncommon,,,"Artifact, Creature",Construct
+257,Dramatist's Puppet,C,4.0,{4},2.0,4.0,,"When Dramatist's Puppet enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.",common,,,"Artifact, Creature",Construct
+258,Eater of Virtue,C,1.0,{1},,,,"Whenever equipped creature dies, exile it.
 Equipped creature gets +2/+0.
 As long as a card exiled with Eater of Virtue has flying, equipped creature has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.
 Equip {1}",rare,Equip,Legendary,Artifact,Equipment
-268,Ecologist's Terrarium,C,2.0,{2},,,,"When Ecologist's Terrarium enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+259,Ecologist's Terrarium,C,2.0,{2},,,,"When Ecologist's Terrarium enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {2}, {T}, Sacrifice Ecologist's Terrarium: Put a +1/+1 counter on target creature. Activate only as a sorcery.",common,,,Artifact,
-269,High-Speed Hoverbike,C,2.0,{2},2.0,2.0,,"Flash
+260,High-Speed Hoverbike,C,2.0,{2},2.0,2.0,,"Flash
 Flying
 When High-Speed Hoverbike enters the battlefield, tap up to one target creature.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Flash, Flying",,Artifact,Vehicle
-270,Iron Apprentice,C,1.0,{1},0.0,0.0,,"Iron Apprentice enters the battlefield with a +1/+1 counter on it.
+261,Iron Apprentice,C,1.0,{1},0.0,0.0,,"Iron Apprentice enters the battlefield with a +1/+1 counter on it.
 When Iron Apprentice dies, if it had counters on it, put those counters on target creature you control.",common,,,"Artifact, Creature",Construct
-271,Mechtitan Core,C,2.0,{2},2.0,4.0,,"{5}, Exile Mechtitan Core and four other artifact creatures and/or Vehicles you control: Create Mechtitan, a legendary 10/10 Construct artifact creature token with flying, vigilance, trample, lifelink, and haste that's all colors. When that token leaves the battlefield, return all cards exiled with Mechtitan Core except Mechtitan Core to the battlefield tapped under their owners' control.
+262,Mechtitan Core,C,2.0,{2},2.0,4.0,,"{5}, Exile Mechtitan Core and four other artifact creatures and/or Vehicles you control: Create Mechtitan, a legendary 10/10 Construct artifact creature token with flying, vigilance, trample, lifelink, and haste that's all colors. When that token leaves the battlefield, return all cards exiled with Mechtitan Core except Mechtitan Core to the battlefield tapped under their owners' control.
 Crew 2",rare,Crew,,Artifact,Vehicle
-272,Mirror Box,C,3.0,{3},,,,"The ""legend rule"" doesn't apply to permanents you control.
+263,Mirror Box,C,3.0,{3},,,,"The ""legend rule"" doesn't apply to permanents you control.
 Each legendary creature you control gets +1/+1.
 Each nontoken creature you control gets +1/+1 for each other creature you control with the same name as that creature.",rare,,,Artifact,
-273,Network Terminal,C,3.0,{3},,,,"{T}: Add one mana of any color.
+264,Network Terminal,C,3.0,{3},,,,"{T}: Add one mana of any color.
 {1}, {T}, Tap another untapped artifact you control: Draw a card, then discard a card.",common,,,Artifact,
-274,Ninja's Kunai,C,1.0,{1},,,,"Equipped creature has ""{1}, {T}, Sacrifice Ninja's Kunai: Ninja's Kunai deals 3 damage to any target.""
+265,Ninja's Kunai,C,1.0,{1},,,,"Equipped creature has ""{1}, {T}, Sacrifice Ninja's Kunai: Ninja's Kunai deals 3 damage to any target.""
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-275,Papercraft Decoy,C,2.0,{2},2.0,1.0,,"When Papercraft Decoy leaves the battlefield, you may pay {2}. If you do, draw a card.",common,,,"Artifact, Creature",Frog
-276,Patchwork Automaton,C,2.0,{2},1.0,1.0,,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+266,Papercraft Decoy,C,2.0,{2},2.0,1.0,,"When Papercraft Decoy leaves the battlefield, you may pay {2}. If you do, draw a card.",common,,,"Artifact, Creature",Frog
+267,Patchwork Automaton,C,2.0,{2},1.0,1.0,,"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Whenever you cast an artifact spell, put a +1/+1 counter on Patchwork Automaton.",uncommon,Ward,,"Artifact, Creature",Construct
-277,Reckoner Bankbuster,C,2.0,{2},4.0,4.0,,"Reckoner Bankbuster enters the battlefield with three charge counters on it.
+268,Reckoner Bankbuster,C,2.0,{2},4.0,4.0,,"Reckoner Bankbuster enters the battlefield with three charge counters on it.
 {2}, {T}, Remove a charge counter from Reckoner Bankbuster: Draw a card. Then if there are no charge counters on Reckoner Bankbuster, create a Treasure token and a 1/1 colorless Pilot creature token with ""This creature crews Vehicles as though its power were 2 greater.""
 Crew 3",rare,Crew,,Artifact,Vehicle
-278,Reito Sentinel,C,3.0,{3},3.0,3.0,,"Defender
+269,Reito Sentinel,C,3.0,{3},3.0,3.0,,"Defender
 When Reito Sentinel enters the battlefield, target player mills three cards. (They put the top three cards of their library into their graveyard.)
 {3}: Put target card from a graveyard on the bottom of its owner's library.",uncommon,"Defender, Mill",,"Artifact, Creature",Construct
-279,Runaway Trash-Bot,C,3.0,{3},0.0,4.0,,"Trample
+270,Runaway Trash-Bot,C,3.0,{3},0.0,4.0,,"Trample
 Runaway Trash-Bot gets +1/+0 for each artifact and/or enchantment card in your graveyard.",uncommon,Trample,,"Artifact, Creature",Construct
-280,Searchlight Companion,C,3.0,{3},1.0,1.0,,"Flying
+271,Searchlight Companion,C,3.0,{3},1.0,1.0,,"Flying
 When Searchlight Companion enters the battlefield, create a 1/1 colorless Spirit creature token.",common,Flying,,"Artifact, Creature",Drone
-281,Shrine Steward,C,5.0,{5},3.0,2.0,,"When Shrine Steward enters the battlefield, you may search your library for an Aura or Shrine card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature",Construct
-282,Surgehacker Mech,C,4.0,{4},5.0,5.0,,"Menace
+272,Shrine Steward,C,5.0,{5},3.0,2.0,,"When Shrine Steward enters the battlefield, you may search your library for an Aura or Shrine card, reveal it, put it into your hand, then shuffle.",common,,,"Artifact, Creature",Construct
+273,Surgehacker Mech,C,4.0,{4},5.0,5.0,,"Menace
 When Surgehacker Mech enters the battlefield, it deals damage equal to twice the number of Vehicles you control to target creature or planeswalker an opponent controls.
 Crew 4",rare,"Crew, Menace",,Artifact,Vehicle
-283,Thundersteel Colossus,C,7.0,{7},7.0,7.0,,"Trample, haste
+274,Thundersteel Colossus,C,7.0,{7},7.0,7.0,,"Trample, haste
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Haste, Trample",,Artifact,Vehicle
-284,Towashi Guide-Bot,C,4.0,{4},2.0,1.0,,"When Towashi Guide-Bot enters the battlefield, put a +1/+1 counter on target creature you control.
+275,Towashi Guide-Bot,C,4.0,{4},2.0,1.0,,"When Towashi Guide-Bot enters the battlefield, put a +1/+1 counter on target creature you control.
 {4}, {T}: Draw a card. This ability costs {1} less to activate for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)",uncommon,,,"Artifact, Creature",Construct
-285,Walking Skyscraper,C,8.0,{8},8.0,8.0,,"This spell costs {1} less to cast for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
+276,Walking Skyscraper,C,8.0,{8},8.0,8.0,,"This spell costs {1} less to cast for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
 Trample
 Walking Skyscraper has hexproof as long as it's untapped. (It can't be the target of spells or abilities your opponents control.)",uncommon,Trample,,"Artifact, Creature",Construct
-286,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+277,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
 {T}: Add {B} or {R}.",common,,,Land,
-287,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+278,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
 {T}: Add {G} or {W}.",common,,,Land,
-288,"Boseiju, Who Endures",L,0.0,,,,,"{T}: Add {G}.
+279,"Boseiju, Who Endures",L,0.0,,,,,"{T}: Add {G}.
 Channel — {1}{G}, Discard Boseiju, Who Endures: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land,
-289,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+280,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
 {T}: Add {U} or {B}.",common,,,Land,
-290,"Eiganjo, Seat of the Empire",L,0.0,,,,,"{T}: Add {W}.
+281,"Eiganjo, Seat of the Empire",L,0.0,,,,,"{T}: Add {W}.
 Channel — {2}{W}, Discard Eiganjo, Seat of the Empire: It deals 4 damage to target attacking or blocking creature. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land,
-291,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+282,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
 {T}: Add {B} or {G}.",common,,,Land,
-292,Mech Hangar,L,0.0,,,,,"{T}: Add {C}.
+283,Mech Hangar,L,0.0,,,,,"{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a Pilot or Vehicle spell.
 {3}, {T}: Target Vehicle becomes an artifact creature until end of turn.",uncommon,,,Land,
-293,"Otawara, Soaring City",L,0.0,,,,,"{T}: Add {U}.
+284,"Otawara, Soaring City",L,0.0,,,,,"{T}: Add {U}.
 Channel — {3}{U}, Discard Otawara, Soaring City: Return target artifact, creature, enchantment, or planeswalker to its owner's hand. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land,
-294,Roadside Reliquary,L,0.0,,,,,"{T}: Add {C}.
+285,Roadside Reliquary,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Roadside Reliquary: Draw a card if you control an artifact. Draw a card if you control an enchantment.",uncommon,,,Land,
-295,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+286,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
 {T}: Add {R} or {G}.",common,,,Land,
-296,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+287,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
 {T}: Add {W} or {B}.",common,,,Land,
-297,Secluded Courtyard,L,0.0,,,,,"As Secluded Courtyard enters the battlefield, choose a creature type.
+288,Secluded Courtyard,L,0.0,,,,,"As Secluded Courtyard enters the battlefield, choose a creature type.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature or creature card of the chosen type.",uncommon,,,Land,
-298,"Sokenzan, Crucible of Defiance",L,0.0,,,,,"{T}: Add {R}.
+289,"Sokenzan, Crucible of Defiance",L,0.0,,,,,"{T}: Add {R}.
 Channel — {3}{R}, Discard Sokenzan, Crucible of Defiance: Create two 1/1 colorless Spirit creature tokens. They gain haste until end of turn. This ability costs {1} less to activate for each legendary creature you control.",rare,Channel,Legendary,Land,
-299,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+290,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 {T}: Add {U} or {R}.",common,,,Land,
-300,"Takenuma, Abandoned Mire",L,0.0,,,,,"{T}: Add {B}.
+291,"Takenuma, Abandoned Mire",L,0.0,,,,,"{T}: Add {B}.
 Channel — {3}{B}, Discard Takenuma, Abandoned Mire: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control.",rare,"Channel, Mill",Legendary,Land,
-301,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+292,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land,
-302,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+293,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
 {T}: Add {W} or {U}.",common,,,Land,
-303,Uncharted Haven,L,0.0,,,,,"Uncharted Haven enters the battlefield tapped.
+294,Uncharted Haven,L,0.0,,,,,"Uncharted Haven enters the battlefield tapped.
 As Uncharted Haven enters the battlefield, choose a color.
 {T}: Add one mana of the chosen color.",common,,,Land,
-304,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+295,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land,

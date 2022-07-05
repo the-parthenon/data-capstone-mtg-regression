@@ -476,132 +476,128 @@ Whenever a land enters the battlefield under your control, create a 1/1 white Hu
 You may have Moritte of the Frost enter the battlefield as a copy of a permanent you control, except it's legendary and snow in addition to its other types and, if it's a creature, it enters with two additional +1/+1 counters on it and has changeling.",uncommon,Changeling,"Legendary, Snow",Creature,Shapeshifter
 235,"Narfi, Betrayer King","B, U",5.0,{3}{U}{B},4.0,3.0,,"Other snow and Zombie creatures you control get +1/+1.
 {S}{S}{S}: Return Narfi, Betrayer King from your graveyard to the battlefield tapped. ({S} can be paid with one mana from a snow source.)",uncommon,,"Legendary, Snow",Creature,"Zombie, Wizard"
-236,Niko Aris,"U, W",3.0,{X}{W}{U}{U},,,3.0,"When Niko Aris enters the battlefield, create X Shard tokens. (They're enchantments with ""{2}, Sacrifice this enchantment: Scry 1, then draw a card."")
-[+1]: Up to one target creature you control can't be blocked this turn. Whenever that creature deals damage this turn, return it to its owner's hand.
-[−1]: Niko Aris deals 2 damage to target tapped creature for each card you've drawn this turn.
-[−1]: Create a Shard token.",mythic,Scry,Legendary,Planeswalker,Niko
-237,Niko Defies Destiny,"U, W",3.0,{1}{W}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+236,Niko Defies Destiny,"U, W",3.0,{1}{W}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — You gain 2 life for each foretold card you own in exile.
 II — Add {W}{U}. Spend this mana only to foretell cards or cast spells that have foretell.
 III — Return target card with foretell from your graveyard to your hand.",uncommon,,,Enchantment,Saga
-238,The Raven's Warning,"U, W",3.0,{1}{W}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+237,The Raven's Warning,"U, W",3.0,{1}{W}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 1/1 blue Bird creature token with flying. You gain 2 life.
 II — Whenever one or more creatures you control with flying deal combat damage to a player this turn, look at that player's hand and draw a card.
 III — You may put a card you own from outside the game on top of your library.",rare,,,Enchantment,Saga
-239,"Sarulf, Realm Eater","B, G",3.0,{1}{B}{G},3.0,3.0,,"Whenever a permanent an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on Sarulf, Realm Eater.
+238,"Sarulf, Realm Eater","B, G",3.0,{1}{B}{G},3.0,3.0,,"Whenever a permanent an opponent controls is put into a graveyard from the battlefield, put a +1/+1 counter on Sarulf, Realm Eater.
 At the beginning of your upkeep, if Sarulf has one or more +1/+1 counters on it, you may remove all of them. If you do, exile each other nonland permanent with mana value less than or equal to the number of counters removed this way.",rare,,Legendary,Creature,Wolf
-240,Showdown of the Skalds,"R, W",4.0,{2}{R}{W},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+239,Showdown of the Skalds,"R, W",4.0,{2}{R}{W},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Exile the top four cards of your library. Until the end of your next turn, you may play those cards.
 II, III — Whenever you cast a spell this turn, put a +1/+1 counter on target creature you control.",rare,,,Enchantment,Saga
-241,"Svella, Ice Shaper","G, R",3.0,{1}{R}{G},2.0,4.0,,"{3}, {T}: Create a colorless snow artifact token named Icy Manalith with ""{T}: Add one mana of any color.""
+240,"Svella, Ice Shaper","G, R",3.0,{1}{R}{G},2.0,4.0,,"{3}, {T}: Create a colorless snow artifact token named Icy Manalith with ""{T}: Add one mana of any color.""
 {6}{R}{G}, {T}: Look at the top four cards of your library. You may cast a spell from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.",uncommon,,"Legendary, Snow",Creature,"Troll, Warrior"
-242,The Three Seasons,"G, U",2.0,{G}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+241,The Three Seasons,"G, U",2.0,{G}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Mill three cards.
 II — Return up to two target snow permanent cards from your graveyard to your hand.
 III — Choose three cards in each graveyard. Their owners shuffle those cards into their libraries.",uncommon,Mill,,Enchantment,Saga
-243,The Trickster-God's Heist,"B, U",4.0,{2}{U}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+242,The Trickster-God's Heist,"B, U",4.0,{2}{U}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — You may exchange control of two target creatures.
 II — You may exchange control of two target nonbasic, noncreature permanents that share a card type.
 III — Target player loses 3 life and you gain 3 life.",uncommon,,,Enchantment,Saga
-244,"Vega, the Watcher","U, W",3.0,{1}{W}{U},2.0,2.0,,"Flying
+243,"Vega, the Watcher","U, W",3.0,{1}{W}{U},2.0,2.0,,"Flying
 Whenever you cast a spell from anywhere other than your hand, draw a card.",uncommon,Flying,Legendary,Creature,"Bird, Spirit"
-245,Waking the Trolls,"G, R",6.0,{4}{R}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+244,Waking the Trolls,"G, R",6.0,{4}{R}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Destroy target land.
 II — Put target land card from a graveyard onto the battlefield under your control.
 III — Choose target opponent. If they control fewer lands than you, create a number of 4/4 green Troll Warrior creature tokens with trample equal to the difference.",rare,,,Enchantment,Saga
-246,Bloodline Pretender,C,3.0,{3},2.0,2.0,,"Changeling (This card is every creature type.)
+245,Bloodline Pretender,C,3.0,{3},2.0,2.0,,"Changeling (This card is every creature type.)
 As Bloodline Pretender enters the battlefield, choose a creature type.
 Whenever another creature of the chosen type enters the battlefield under your control, put a +1/+1 counter on Bloodline Pretender.",uncommon,Changeling,,"Artifact, Creature",Shapeshifter
-247,Colossal Plow,C,2.0,{2},6.0,3.0,,"Whenever Colossal Plow attacks, add {W}{W}{W} and you gain 3 life. Until end of turn, you don't lose this mana as steps and phases end.
+246,Colossal Plow,C,2.0,{2},6.0,3.0,,"Whenever Colossal Plow attacks, add {W}{W}{W} and you gain 3 life. Until end of turn, you don't lose this mana as steps and phases end.
 Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact,Vehicle
-248,Cosmos Elixir,C,4.0,{4},,,,"At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.",rare,,,Artifact,
-249,Funeral Longboat,C,2.0,{2},3.0,3.0,,"Vigilance
+247,Cosmos Elixir,C,4.0,{4},,,,"At the beginning of your end step, draw a card if your life total is greater than your starting life total. Otherwise, you gain 2 life.",rare,,,Artifact,
+248,Funeral Longboat,C,2.0,{2},3.0,3.0,,"Vigilance
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",common,"Crew, Vigilance",,Artifact,Vehicle
-250,Goldvein Pick,C,2.0,{2},,,,"Equipped creature gets +1/+1.
+249,Goldvein Pick,C,2.0,{2},,,,"Equipped creature gets +1/+1.
 Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-251,Maskwood Nexus,C,4.0,{4},,,,"Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
+250,Maskwood Nexus,C,4.0,{4},,,,"Creatures you control are every creature type. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
 {3}, {T}: Create a 2/2 blue Shapeshifter creature token with changeling. (It is every creature type.)",rare,,,Artifact,
-252,Pyre of Heroes,C,2.0,{2},,,,"{2}, {T}, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has mana value equal to 1 plus that creature's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.",rare,,,Artifact,
-253,Raiders' Karve,C,3.0,{3},4.0,4.0,,"Whenever Raiders' Karve attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+251,Pyre of Heroes,C,2.0,{2},,,,"{2}, {T}, Sacrifice a creature: Search your library for a creature card that shares a creature type with the sacrificed creature and has mana value equal to 1 plus that creature's mana value. Put that card onto the battlefield, then shuffle. Activate only as a sorcery.",rare,,,Artifact,
+252,Raiders' Karve,C,3.0,{3},4.0,4.0,,"Whenever Raiders' Karve attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",common,Crew,,Artifact,Vehicle
-254,Raven Wings,C,2.0,{2},,,,"Equipped creature gets +1/+0, has flying, and is a Bird in addition to its other types.
+253,Raven Wings,C,2.0,{2},,,,"Equipped creature gets +1/+0, has flying, and is a Bird in addition to its other types.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-255,Replicating Ring,C,3.0,{3},,,,"{T}: Add one mana of any color.
+254,Replicating Ring,C,3.0,{3},,,,"{T}: Add one mana of any color.
 At the beginning of your upkeep, put a night counter on Replicating Ring. Then if it has eight or more night counters on it, remove all of them and create eight colorless snow artifact tokens named Replicated Ring with ""{T}: Add one mana of any color.""",uncommon,,Snow,Artifact,
-256,Runed Crown,C,3.0,{3},,,,"When Runed Crown enters the battlefield, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to Runed Crown. If you search your library this way, shuffle.
+255,Runed Crown,C,3.0,{3},,,,"When Runed Crown enters the battlefield, you may search your library, hand, and/or graveyard for a Rune card and put it onto the battlefield attached to Runed Crown. If you search your library this way, shuffle.
 Equipped creature gets +1/+1.
 Equip {2}",uncommon,Equip,,Artifact,Equipment
-257,Scorn Effigy,C,3.0,{3},2.0,3.0,,"Foretell {0} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",common,Foretell,,"Artifact, Creature",Scarecrow
-258,Weathered Runestone,C,2.0,{2},,,,"Nonland permanent cards in graveyards and libraries can't enter the battlefield.
+256,Scorn Effigy,C,3.0,{3},2.0,3.0,,"Foretell {0} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",common,Foretell,,"Artifact, Creature",Scarecrow
+257,Weathered Runestone,C,2.0,{2},,,,"Nonland permanent cards in graveyards and libraries can't enter the battlefield.
 Players can't cast spells from graveyards or libraries.",uncommon,,,Artifact,
-259,Alpine Meadow,L,0.0,,,,,"({T}: Add {R} or {W}.)
+258,Alpine Meadow,L,0.0,,,,,"({T}: Add {R} or {W}.)
 Alpine Meadow enters the battlefield tapped.",common,,Snow,Land,"Mountain, Plains"
-260,Arctic Treeline,L,0.0,,,,,"({T}: Add {G} or {W}.)
+259,Arctic Treeline,L,0.0,,,,,"({T}: Add {G} or {W}.)
 Arctic Treeline enters the battlefield tapped.",common,,Snow,Land,"Forest, Plains"
-261,Axgard Armory,L,0.0,,,,,"Axgard Armory enters the battlefield tapped.
+260,Axgard Armory,L,0.0,,,,,"Axgard Armory enters the battlefield tapped.
 {T}: Add {W}.
 {1}{R}{R}{W}, {T}, Sacrifice Axgard Armory: Search your library for an Aura card and/or an Equipment card, reveal them, put them into your hand, then shuffle.",uncommon,,,Land,
-262,Barkchannel Pathway,L,0.0,,,,,{T}: Add {G}.,rare,,,Land,
-263,Tidechannel Pathway,L,0.0,,,,,{T}: Add {U}.,rare,,,Land,
-264,Blightstep Pathway,L,0.0,,,,,{T}: Add {B}.,rare,,,Land,
-265,Searstep Pathway,L,0.0,,,,,{T}: Add {R}.,rare,,,Land,
-266,Bretagard Stronghold,L,0.0,,,,,"Bretagard Stronghold enters the battlefield tapped.
+261,Barkchannel Pathway,L,0.0,,,,,{T}: Add {G}.,rare,,,Land,
+262,Tidechannel Pathway,L,0.0,,,,,{T}: Add {U}.,rare,,,Land,
+263,Blightstep Pathway,L,0.0,,,,,{T}: Add {B}.,rare,,,Land,
+264,Searstep Pathway,L,0.0,,,,,{T}: Add {R}.,rare,,,Land,
+265,Bretagard Stronghold,L,0.0,,,,,"Bretagard Stronghold enters the battlefield tapped.
 {T}: Add {G}.
 {G}{W}{W}, {T}, Sacrifice Bretagard Stronghold: Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance and lifelink until end of turn. Activate only as a sorcery.",uncommon,,,Land,
-267,Darkbore Pathway,L,0.0,,,,,{T}: Add {B}.,rare,,,Land,
-268,Slitherbore Pathway,L,0.0,,,,,{T}: Add {G}.,rare,,,Land,
-269,Faceless Haven,L,0.0,,,,,"{T}: Add {C}.
+266,Darkbore Pathway,L,0.0,,,,,{T}: Add {B}.,rare,,,Land,
+267,Slitherbore Pathway,L,0.0,,,,,{T}: Add {G}.,rare,,,Land,
+268,Faceless Haven,L,0.0,,,,,"{T}: Add {C}.
 {S}{S}{S}: Faceless Haven becomes a 4/3 creature with vigilance and all creature types until end of turn. It's still a land. ({S} can be paid with one mana from a snow source.)",rare,,Snow,Land,
-270,Gates of Istfell,L,0.0,,,,,"Gates of Istfell enters the battlefield tapped.
+269,Gates of Istfell,L,0.0,,,,,"Gates of Istfell enters the battlefield tapped.
 {T}: Add {W}.
 {2}{W}{U}{U}, {T}, Sacrifice Gates of Istfell: You gain 2 life and draw two cards.",uncommon,,,Land,
-271,Glacial Floodplain,L,0.0,,,,,"({T}: Add {W} or {U}.)
+270,Glacial Floodplain,L,0.0,,,,,"({T}: Add {W} or {U}.)
 Glacial Floodplain enters the battlefield tapped.",common,,Snow,Land,"Plains, Island"
-272,Gnottvold Slumbermound,L,0.0,,,,,"Gnottvold Slumbermound enters the battlefield tapped.
+271,Gnottvold Slumbermound,L,0.0,,,,,"Gnottvold Slumbermound enters the battlefield tapped.
 {T}: Add {R}.
 {3}{R}{G}{G}, {T}, Sacrifice Gnottvold Slumbermound: Destroy target land. Create a 4/4 green Troll Warrior creature token with trample.",uncommon,,,Land,
-273,Great Hall of Starnheim,L,0.0,,,,,"Great Hall of Starnheim enters the battlefield tapped.
+272,Great Hall of Starnheim,L,0.0,,,,,"Great Hall of Starnheim enters the battlefield tapped.
 {T}: Add {B}.
 {W}{W}{B}, {T}, Sacrifice Great Hall of Starnheim and a creature you control: Create a 4/4 white Angel Warrior creature token with flying and vigilance. Activate only as a sorcery.",uncommon,,,Land,
-274,Hengegate Pathway,L,0.0,,,,,{T}: Add {W}.,rare,,,Land,
-275,Mistgate Pathway,L,0.0,,,,,{T}: Add {U}.,rare,,,Land,
-276,Highland Forest,L,0.0,,,,,"({T}: Add {R} or {G}.)
+273,Hengegate Pathway,L,0.0,,,,,{T}: Add {W}.,rare,,,Land,
+274,Mistgate Pathway,L,0.0,,,,,{T}: Add {U}.,rare,,,Land,
+275,Highland Forest,L,0.0,,,,,"({T}: Add {R} or {G}.)
 Highland Forest enters the battlefield tapped.",common,,Snow,Land,"Mountain, Forest"
-277,Ice Tunnel,L,0.0,,,,,"({T}: Add {U} or {B}.)
+276,Ice Tunnel,L,0.0,,,,,"({T}: Add {U} or {B}.)
 Ice Tunnel enters the battlefield tapped.",common,,Snow,Land,"Island, Swamp"
-278,Immersturm Skullcairn,L,0.0,,,,,"Immersturm Skullcairn enters the battlefield tapped.
+277,Immersturm Skullcairn,L,0.0,,,,,"Immersturm Skullcairn enters the battlefield tapped.
 {T}: Add {B}.
 {1}{B}{R}{R}, {T}, Sacrifice Immersturm Skullcairn: It deals 3 damage to target player. That player discards a card. Activate only as a sorcery.",uncommon,,,Land,
-279,Littjara Mirrorlake,L,0.0,,,,,"Littjara Mirrorlake enters the battlefield tapped.
+278,Littjara Mirrorlake,L,0.0,,,,,"Littjara Mirrorlake enters the battlefield tapped.
 {T}: Add {U}.
 {2}{G}{G}{U}, {T}, Sacrifice Littjara Mirrorlake: Create a token that's a copy of target creature you control, except it enters the battlefield with an additional +1/+1 counter on it. Activate only as a sorcery.",uncommon,,,Land,
-280,Port of Karfell,L,0.0,,,,,"Port of Karfell enters the battlefield tapped.
+279,Port of Karfell,L,0.0,,,,,"Port of Karfell enters the battlefield tapped.
 {T}: Add {U}.
 {3}{U}{B}{B}, {T}, Sacrifice Port of Karfell: Mill four cards, then return a creature card from your graveyard to the battlefield tapped. (To mill a card, put the top card of your library into your graveyard.)",uncommon,Mill,,Land,
-281,Rimewood Falls,L,0.0,,,,,"({T}: Add {G} or {U}.)
+280,Rimewood Falls,L,0.0,,,,,"({T}: Add {G} or {U}.)
 Rimewood Falls enters the battlefield tapped.",common,,Snow,Land,"Forest, Island"
-282,Shimmerdrift Vale,L,0.0,,,,,"Shimmerdrift Vale enters the battlefield tapped.
+281,Shimmerdrift Vale,L,0.0,,,,,"Shimmerdrift Vale enters the battlefield tapped.
 As Shimmerdrift Vale enters the battlefield, choose a color.
 {T}: Add one mana of the chosen color.",common,,Snow,Land,
-283,Skemfar Elderhall,L,0.0,,,,,"Skemfar Elderhall enters the battlefield tapped.
+282,Skemfar Elderhall,L,0.0,,,,,"Skemfar Elderhall enters the battlefield tapped.
 {T}: Add {G}.
 {2}{B}{B}{G}, {T}, Sacrifice Skemfar Elderhall: Up to one target creature you don't control gets -2/-2 until end of turn. Create two 1/1 green Elf Warrior creature tokens. Activate only as a sorcery.",uncommon,,,Land,
-284,Snowfield Sinkhole,L,0.0,,,,,"({T}: Add {W} or {B}.)
+283,Snowfield Sinkhole,L,0.0,,,,,"({T}: Add {W} or {B}.)
 Snowfield Sinkhole enters the battlefield tapped.",common,,Snow,Land,"Plains, Swamp"
-285,Sulfurous Mire,L,0.0,,,,,"({T}: Add {B} or {R}.)
+284,Sulfurous Mire,L,0.0,,,,,"({T}: Add {B} or {R}.)
 Sulfurous Mire enters the battlefield tapped.",common,,Snow,Land,"Swamp, Mountain"
-286,Surtland Frostpyre,L,0.0,,,,,"Surtland Frostpyre enters the battlefield tapped.
+285,Surtland Frostpyre,L,0.0,,,,,"Surtland Frostpyre enters the battlefield tapped.
 {T}: Add {R}.
 {2}{U}{U}{R}, {T}, Sacrifice Surtland Frostpyre: Scry 2. Surtland Frostpyre deals 2 damage to each creature. Activate only as a sorcery.",uncommon,Scry,,Land,
-287,Tyrite Sanctum,L,0.0,,,,,"{T}: Add {C}.
+286,Tyrite Sanctum,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}: Target legendary creature becomes a God in addition to its other types. Put a +1/+1 counter on it.
 {4}, {T}, Sacrifice Tyrite Sanctum: Put an indestructible counter on target God.",rare,,,Land,
-288,Volatile Fjord,L,0.0,,,,,"({T}: Add {U} or {R}.)
+287,Volatile Fjord,L,0.0,,,,,"({T}: Add {U} or {R}.)
 Volatile Fjord enters the battlefield tapped.",common,,Snow,Land,"Island, Mountain"
-289,Woodland Chasm,L,0.0,,,,,"({T}: Add {B} or {G}.)
+288,Woodland Chasm,L,0.0,,,,,"({T}: Add {B} or {G}.)
 Woodland Chasm enters the battlefield tapped.",common,,Snow,Land,"Swamp, Forest"
-290,The World Tree,L,0.0,,,,,"The World Tree enters the battlefield tapped.
+289,The World Tree,L,0.0,,,,,"The World Tree enters the battlefield tapped.
 {T}: Add {G}.
 As long as you control six or more lands, lands you control have ""{T}: Add one mana of any color.""
 {W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice The World Tree: Search your library for any number of God cards, put them onto the battlefield, then shuffle.",rare,,,Land,

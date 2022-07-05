@@ -190,281 +190,276 @@ When Vampire Sovereign enters the battlefield, target opponent loses 3 life and 
 Lands your opponents control with the chosen name lose all land types and abilities, and they gain ""{T}: Add one mana of any color.""",rare,,,Enchantment,
 128,Apex of Power,R,10.0,{7}{R}{R}{R},,,,"Exile the top seven cards of your library. Until end of turn, you may cast spells from among them.
 If this spell was cast from your hand, add ten mana of any one color.",mythic,,,Sorcery,
-129,Banefire,R,1.0,{X}{R},,,,"Banefire deals X damage to any target.
-If X is 5 or more, this spell can't be countered and the damage can't be prevented.",rare,,,Sorcery,
-130,Boggart Brute,R,3.0,{2}{R},3.0,2.0,,Menace (This creature can't be blocked except by two or more creatures.),common,Menace,,Creature,"Goblin, Warrior"
-131,Catalyst Elemental,R,3.0,{2}{R},2.0,2.0,,Sacrifice Catalyst Elemental: Add {R}{R}.,common,,,Creature,Elemental
-132,Crash Through,R,1.0,{R},,,,"Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
+129,Boggart Brute,R,3.0,{2}{R},3.0,2.0,,Menace (This creature can't be blocked except by two or more creatures.),common,Menace,,Creature,"Goblin, Warrior"
+130,Catalyst Elemental,R,3.0,{2}{R},2.0,2.0,,Sacrifice Catalyst Elemental: Add {R}{R}.,common,,,Creature,Elemental
+131,Crash Through,R,1.0,{R},,,,"Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
 Draw a card.",common,,,Sorcery,
-133,Dark-Dweller Oracle,R,2.0,{1}{R},2.0,2.0,,"{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn. (You still pay its costs. You can play a land this way only if you have an available land play remaining.)",rare,,,Creature,"Goblin, Shaman"
-134,Demanding Dragon,R,5.0,{3}{R}{R},5.0,5.0,,"Flying
+132,Dark-Dweller Oracle,R,2.0,{1}{R},2.0,2.0,,"{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn. (You still pay its costs. You can play a land this way only if you have an available land play remaining.)",rare,,,Creature,"Goblin, Shaman"
+133,Demanding Dragon,R,5.0,{3}{R}{R},5.0,5.0,,"Flying
 When Demanding Dragon enters the battlefield, it deals 5 damage to target opponent unless that player sacrifices a creature.",rare,Flying,,Creature,Dragon
-135,Dismissive Pyromancer,R,2.0,{1}{R},2.0,2.0,,"{R}, {T}, Discard a card: Draw a card.
+134,Dismissive Pyromancer,R,2.0,{1}{R},2.0,2.0,,"{R}, {T}, Discard a card: Draw a card.
 {2}{R}, {T}, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature.",rare,,,Creature,"Human, Wizard"
-136,Doublecast,R,2.0,{R}{R},,,,"When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",uncommon,,,Sorcery,
-137,Dragon Egg,R,3.0,{2}{R},0.0,2.0,,"Defender
+135,Doublecast,R,2.0,{R}{R},,,,"When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.",uncommon,,,Sorcery,
+136,Dragon Egg,R,3.0,{2}{R},0.0,2.0,,"Defender
 When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and ""{R}: This creature gets +1/+0 until end of turn.""",uncommon,Defender,,Creature,"Dragon, Egg"
-138,Electrify,R,4.0,{3}{R},,,,Electrify deals 4 damage to target creature.,common,,,Instant,
-139,Fiery Finish,R,6.0,{4}{R}{R},,,,Fiery Finish deals 7 damage to target creature.,uncommon,,,Sorcery,
-140,Fire Elemental,R,5.0,{3}{R}{R},5.0,4.0,,,common,,,Creature,Elemental
-141,Goblin Instigator,R,2.0,{1}{R},1.0,1.0,,"When Goblin Instigator enters the battlefield, create a 1/1 red Goblin creature token.",common,,,Creature,"Goblin, Rogue"
-142,Goblin Motivator,R,1.0,{R},1.0,1.0,,{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.),common,,,Creature,"Goblin, Warrior"
-143,Goblin Trashmaster,R,4.0,{2}{R}{R},3.0,3.0,,"Other Goblins you control get +1/+1.
+137,Electrify,R,4.0,{3}{R},,,,Electrify deals 4 damage to target creature.,common,,,Instant,
+138,Fiery Finish,R,6.0,{4}{R}{R},,,,Fiery Finish deals 7 damage to target creature.,uncommon,,,Sorcery,
+139,Fire Elemental,R,5.0,{3}{R}{R},5.0,4.0,,,common,,,Creature,Elemental
+140,Goblin Instigator,R,2.0,{1}{R},1.0,1.0,,"When Goblin Instigator enters the battlefield, create a 1/1 red Goblin creature token.",common,,,Creature,"Goblin, Rogue"
+141,Goblin Motivator,R,1.0,{R},1.0,1.0,,{T}: Target creature gains haste until end of turn. (It can attack and {T} this turn.),common,,,Creature,"Goblin, Warrior"
+142,Goblin Trashmaster,R,4.0,{2}{R}{R},3.0,3.0,,"Other Goblins you control get +1/+1.
 Sacrifice a Goblin: Destroy target artifact.",rare,,,Creature,"Goblin, Warrior"
-144,Guttersnipe,R,3.0,{2}{R},2.0,2.0,,"Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",uncommon,,,Creature,"Goblin, Shaman"
-145,Havoc Devils,R,4.0,{2}{R}{R},4.0,3.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Devil
-146,Hostile Minotaur,R,4.0,{3}{R},3.0,3.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature,Minotaur
-147,Inferno Hellion,R,4.0,{3}{R},7.0,3.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+143,Guttersnipe,R,3.0,{2}{R},2.0,2.0,,"Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent.",uncommon,,,Creature,"Goblin, Shaman"
+144,Havoc Devils,R,4.0,{2}{R}{R},4.0,3.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Devil
+145,Hostile Minotaur,R,4.0,{3}{R},3.0,3.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature,Minotaur
+146,Inferno Hellion,R,4.0,{3}{R},7.0,3.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 At the beginning of each end step, if Inferno Hellion attacked or blocked this turn, its owner shuffles it into their library.",uncommon,Trample,,Creature,Hellion
-148,"Lathliss, Dragon Queen",R,6.0,{4}{R}{R},6.0,6.0,,"Flying
+147,"Lathliss, Dragon Queen",R,6.0,{4}{R}{R},6.0,6.0,,"Flying
 Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.
 {1}{R}: Dragons you control get +1/+0 until end of turn.",rare,Flying,Legendary,Creature,Dragon
-149,Lava Axe,R,5.0,{4}{R},,,,Lava Axe deals 5 damage to target player or planeswalker.,common,,,Sorcery,
-150,Lightning Mare,R,2.0,{R}{R},3.0,1.0,,"This spell can't be countered.
+148,Lava Axe,R,5.0,{4}{R},,,,Lava Axe deals 5 damage to target player or planeswalker.,common,,,Sorcery,
+149,Lightning Mare,R,2.0,{R}{R},3.0,1.0,,"This spell can't be countered.
 Lightning Mare can't be blocked by blue creatures.
 {1}{R}: Lightning Mare gets +1/+0 until end of turn.",uncommon,,,Creature,"Elemental, Horse"
-151,Lightning Strike,R,2.0,{1}{R},,,,Lightning Strike deals 3 damage to any target.,uncommon,,,Instant,
-152,Onakke Ogre,R,3.0,{2}{R},4.0,2.0,,,common,,,Creature,"Ogre, Warrior"
-153,"Sarkhan, Fireblood",R,3.0,{1}{R}{R},,,3.0,"[+1]: You may discard a card. If you do, draw a card.
+150,Lightning Strike,R,2.0,{1}{R},,,,Lightning Strike deals 3 damage to any target.,uncommon,,,Instant,
+151,Onakke Ogre,R,3.0,{2}{R},4.0,2.0,,,common,,,Creature,"Ogre, Warrior"
+152,"Sarkhan, Fireblood",R,3.0,{1}{R}{R},,,3.0,"[+1]: You may discard a card. If you do, draw a card.
 [+1]: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells.
 [−7]: Create four 5/5 red Dragon creature tokens with flying.",mythic,,Legendary,Planeswalker,Sarkhan
-154,Sarkhan's Unsealing,R,4.0,{3}{R},,,,"Whenever you cast a creature spell with power 4, 5, or 6, Sarkhan's Unsealing deals 4 damage to any target.
+153,Sarkhan's Unsealing,R,4.0,{3}{R},,,,"Whenever you cast a creature spell with power 4, 5, or 6, Sarkhan's Unsealing deals 4 damage to any target.
 Whenever you cast a creature spell with power 7 or greater, Sarkhan's Unsealing deals 4 damage to each opponent and each creature and planeswalker they control.",rare,,,Enchantment,
-155,Shock,R,1.0,{R},,,,Shock deals 2 damage to any target.,common,,,Instant,
-156,Siegebreaker Giant,R,5.0,{3}{R}{R},6.0,3.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+154,Shock,R,1.0,{R},,,,Shock deals 2 damage to any target.,common,,,Instant,
+155,Siegebreaker Giant,R,5.0,{3}{R}{R},6.0,3.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 {3}{R}: Target creature can't block this turn.",uncommon,Trample,,Creature,"Giant, Warrior"
-157,Smelt,R,1.0,{R},,,,Destroy target artifact.,common,,,Instant,
-158,Sparktongue Dragon,R,5.0,{3}{R}{R},3.0,3.0,,"Flying
+156,Smelt,R,1.0,{R},,,,Destroy target artifact.,common,,,Instant,
+157,Sparktongue Dragon,R,5.0,{3}{R}{R},3.0,3.0,,"Flying
 When Sparktongue Dragon enters the battlefield, you may pay {2}{R}. When you do, it deals 3 damage to any target.",common,Flying,,Creature,Dragon
-159,Spit Flame,R,3.0,{2}{R},,,,"Spit Flame deals 4 damage to target creature.
+158,Spit Flame,R,3.0,{2}{R},,,,"Spit Flame deals 4 damage to target creature.
 Whenever a Dragon enters the battlefield under your control, you may pay {R}. If you do, return Spit Flame from your graveyard to your hand.",rare,,,Instant,
-160,Sure Strike,R,2.0,{1}{R},,,,Target creature gets +3/+0 and gains first strike until end of turn.,common,,,Instant,
-161,Tectonic Rift,R,4.0,{3}{R},,,,Destroy target land. Creatures without flying can't block this turn.,uncommon,,,Sorcery,
-162,Thud,R,1.0,{R},,,,"As an additional cost to cast this spell, sacrifice a creature.
+159,Sure Strike,R,2.0,{1}{R},,,,Target creature gets +3/+0 and gains first strike until end of turn.,common,,,Instant,
+160,Tectonic Rift,R,4.0,{3}{R},,,,Destroy target land. Creatures without flying can't block this turn.,uncommon,,,Sorcery,
+161,Thud,R,1.0,{R},,,,"As an additional cost to cast this spell, sacrifice a creature.
 Thud deals damage equal to the sacrificed creature's power to any target.",uncommon,,,Sorcery,
-163,Tormenting Voice,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard a card.
+162,Tormenting Voice,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard a card.
 Draw two cards.",common,,,Sorcery,
-164,Trumpet Blast,R,3.0,{2}{R},,,,Attacking creatures get +2/+0 until end of turn.,common,,,Instant,
-165,Viashino Pyromancer,R,2.0,{1}{R},2.0,1.0,,"When Viashino Pyromancer enters the battlefield, it deals 2 damage to target player or planeswalker.",common,,,Creature,"Viashino, Wizard"
-166,Volcanic Dragon,R,6.0,{4}{R}{R},4.0,4.0,,"Flying, haste",uncommon,"Flying, Haste",,Creature,Dragon
-167,Volley Veteran,R,4.0,{3}{R},4.0,2.0,,"When Volley Veteran enters the battlefield, it deals damage to target creature an opponent controls equal to the number of Goblins you control.",uncommon,,,Creature,"Goblin, Warrior"
-168,Blanchwood Armor,G,3.0,{2}{G},,,,"Enchant creature
+163,Trumpet Blast,R,3.0,{2}{R},,,,Attacking creatures get +2/+0 until end of turn.,common,,,Instant,
+164,Viashino Pyromancer,R,2.0,{1}{R},2.0,1.0,,"When Viashino Pyromancer enters the battlefield, it deals 2 damage to target player or planeswalker.",common,,,Creature,"Viashino, Wizard"
+165,Volcanic Dragon,R,6.0,{4}{R}{R},4.0,4.0,,"Flying, haste",uncommon,"Flying, Haste",,Creature,Dragon
+166,Volley Veteran,R,4.0,{3}{R},4.0,2.0,,"When Volley Veteran enters the battlefield, it deals damage to target creature an opponent controls equal to the number of Goblins you control.",uncommon,,,Creature,"Goblin, Warrior"
+167,Blanchwood Armor,G,3.0,{2}{G},,,,"Enchant creature
 Enchanted creature gets +1/+1 for each Forest you control.",uncommon,Enchant,,Enchantment,Aura
-169,Bristling Boar,G,4.0,{3}{G},4.0,3.0,,Bristling Boar can't be blocked by more than one creature.,common,,,Creature,Boar
-170,Centaur Courser,G,3.0,{2}{G},3.0,3.0,,,common,,,Creature,"Centaur, Warrior"
-171,Colossal Dreadmaw,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Dinosaur
-172,Colossal Majesty,G,3.0,{2}{G},,,,"At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.",uncommon,,,Enchantment,
-173,Daggerback Basilisk,G,3.0,{2}{G},2.0,2.0,,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),common,Deathtouch,,Creature,Basilisk
-174,Declare Dominance,G,5.0,{3}{G}{G},,,,Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.,uncommon,,,Sorcery,
-175,Druid of Horns,G,4.0,{3}{G},2.0,3.0,,"Whenever you cast an Aura spell that targets Druid of Horns, create a 3/3 green Beast creature token.",uncommon,,,Creature,"Human, Druid"
-176,Druid of the Cowl,G,2.0,{1}{G},1.0,3.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"
-177,Dryad Greenseeker,G,2.0,{1}{G},1.0,3.0,,"{T}: Look at the top card of your library. If it's a land card, you may reveal it and put it into your hand.",uncommon,,,Creature,Dryad
-178,Elvish Clancaller,G,2.0,{G}{G},1.0,1.0,,"Other Elves you control get +1/+1.
+168,Bristling Boar,G,4.0,{3}{G},4.0,3.0,,Bristling Boar can't be blocked by more than one creature.,common,,,Creature,Boar
+169,Centaur Courser,G,3.0,{2}{G},3.0,3.0,,,common,,,Creature,"Centaur, Warrior"
+170,Colossal Dreadmaw,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Dinosaur
+171,Colossal Majesty,G,3.0,{2}{G},,,,"At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.",uncommon,,,Enchantment,
+172,Daggerback Basilisk,G,3.0,{2}{G},2.0,2.0,,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),common,Deathtouch,,Creature,Basilisk
+173,Declare Dominance,G,5.0,{3}{G}{G},,,,Target creature gets +3/+3 until end of turn. All creatures able to block it this turn do so.,uncommon,,,Sorcery,
+174,Druid of Horns,G,4.0,{3}{G},2.0,3.0,,"Whenever you cast an Aura spell that targets Druid of Horns, create a 3/3 green Beast creature token.",uncommon,,,Creature,"Human, Druid"
+175,Druid of the Cowl,G,2.0,{1}{G},1.0,3.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"
+176,Dryad Greenseeker,G,2.0,{1}{G},1.0,3.0,,"{T}: Look at the top card of your library. If it's a land card, you may reveal it and put it into your hand.",uncommon,,,Creature,Dryad
+177,Elvish Clancaller,G,2.0,{G}{G},1.0,1.0,,"Other Elves you control get +1/+1.
 {4}{G}{G}, {T}: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle.",rare,,,Creature,"Elf, Druid"
-179,Elvish Rejuvenator,G,3.0,{2}{G},1.0,1.0,,"When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.",common,,,Creature,"Elf, Druid"
-180,Ghastbark Twins,G,7.0,{5}{G}{G},7.0,7.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+178,Elvish Rejuvenator,G,3.0,{2}{G},1.0,1.0,,"When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.",common,,,Creature,"Elf, Druid"
+179,Ghastbark Twins,G,7.0,{5}{G}{G},7.0,7.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 Ghastbark Twins can block an additional creature each combat.",uncommon,Trample,,Creature,Treefolk
-181,Ghirapur Guide,G,3.0,{2}{G},3.0,2.0,,{2}{G}: Target creature you control can't be blocked by creatures with power 2 or less this turn.,uncommon,,,Creature,"Elf, Scout"
-182,Giant Spider,G,4.0,{3}{G},2.0,4.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Spider
-183,Gift of Paradise,G,3.0,{2}{G},,,,"Enchant land
+180,Ghirapur Guide,G,3.0,{2}{G},3.0,2.0,,{2}{G}: Target creature you control can't be blocked by creatures with power 2 or less this turn.,uncommon,,,Creature,"Elf, Scout"
+181,Giant Spider,G,4.0,{3}{G},2.0,4.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Spider
+182,Gift of Paradise,G,3.0,{2}{G},,,,"Enchant land
 When Gift of Paradise enters the battlefield, you gain 3 life.
 Enchanted land has ""{T}: Add two mana of any one color.""",uncommon,Enchant,,Enchantment,Aura
-184,Gigantosaurus,G,5.0,{G}{G}{G}{G}{G},10.0,10.0,,,rare,,,Creature,Dinosaur
-185,"Goreclaw, Terror of Qal Sisma",G,4.0,{3}{G},4.0,3.0,,"Creature spells you cast with power 4 or greater cost {2} less to cast.
+183,Gigantosaurus,G,5.0,{G}{G}{G}{G}{G},10.0,10.0,,,rare,,,Creature,Dinosaur
+184,"Goreclaw, Terror of Qal Sisma",G,4.0,{3}{G},4.0,3.0,,"Creature spells you cast with power 4 or greater cost {2} less to cast.
 Whenever Goreclaw, Terror of Qal Sisma attacks, each creature you control with power 4 or greater gets +1/+1 and gains trample until end of turn.",rare,,Legendary,Creature,Bear
-186,Greenwood Sentinel,G,2.0,{1}{G},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature,"Elf, Scout"
-187,Highland Game,G,2.0,{1}{G},2.0,1.0,,"When Highland Game dies, you gain 2 life.",common,,,Creature,Elk
-188,Hungering Hydra,G,1.0,{X}{G},0.0,0.0,,"Hungering Hydra enters the battlefield with X +1/+1 counters on it.
-Hungering Hydra can't be blocked by more than one creature.
-Whenever Hungering Hydra is dealt damage, put that many +1/+1 counters on it. (It must survive the damage to get the counters.)",rare,,,Creature,Hydra
-189,Naturalize,G,2.0,{1}{G},,,,Destroy target artifact or enchantment.,common,,,Instant,
-190,Oakenform,G,3.0,{2}{G},,,,"Enchant creature
+185,Greenwood Sentinel,G,2.0,{1}{G},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature,"Elf, Scout"
+186,Highland Game,G,2.0,{1}{G},2.0,1.0,,"When Highland Game dies, you gain 2 life.",common,,,Creature,Elk
+187,Naturalize,G,2.0,{1}{G},,,,Destroy target artifact or enchantment.,common,,,Instant,
+188,Oakenform,G,3.0,{2}{G},,,,"Enchant creature
 Enchanted creature gets +3/+3.",common,Enchant,,Enchantment,Aura
-191,Pelakka Wurm,G,7.0,{4}{G}{G}{G},7.0,7.0,,"Trample
+189,Pelakka Wurm,G,7.0,{4}{G}{G}{G},7.0,7.0,,"Trample
 When Pelakka Wurm enters the battlefield, you gain 7 life.
 When Pelakka Wurm dies, draw a card.",rare,Trample,,Creature,Wurm
-192,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant,
-193,Prodigious Growth,G,6.0,{4}{G}{G},,,,"Enchant creature
+190,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant,
+191,Prodigious Growth,G,6.0,{4}{G}{G},,,,"Enchant creature
 Enchanted creature gets +7/+7 and has trample.",rare,Enchant,,Enchantment,Aura
-194,Rabid Bite,G,2.0,{1}{G},,,,Target creature you control deals damage equal to its power to target creature you don't control.,common,,,Sorcery,
-195,Reclamation Sage,G,3.0,{2}{G},2.0,1.0,,"When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.",uncommon,,,Creature,"Elf, Shaman"
-196,Recollect,G,3.0,{2}{G},,,,Return target card from your graveyard to your hand.,uncommon,,,Sorcery,
-197,Rhox Oracle,G,5.0,{4}{G},4.0,2.0,,"When Rhox Oracle enters the battlefield, draw a card.",common,,,Creature,"Rhino, Monk"
-198,Root Snare,G,2.0,{1}{G},,,,Prevent all combat damage that would be dealt this turn.,common,,,Instant,
-199,Runic Armasaur,G,3.0,{1}{G}{G},2.0,5.0,,"Whenever an opponent activates an ability of a creature or land that isn't a mana ability, you may draw a card.",rare,,,Creature,Dinosaur
-200,Scapeshift,G,4.0,{2}{G}{G},,,,"Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.",mythic,,,Sorcery,
-201,Talons of Wildwood,G,2.0,{1}{G},,,,"Enchant creature
+192,Rabid Bite,G,2.0,{1}{G},,,,Target creature you control deals damage equal to its power to target creature you don't control.,common,,,Sorcery,
+193,Reclamation Sage,G,3.0,{2}{G},2.0,1.0,,"When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.",uncommon,,,Creature,"Elf, Shaman"
+194,Recollect,G,3.0,{2}{G},,,,Return target card from your graveyard to your hand.,uncommon,,,Sorcery,
+195,Rhox Oracle,G,5.0,{4}{G},4.0,2.0,,"When Rhox Oracle enters the battlefield, draw a card.",common,,,Creature,"Rhino, Monk"
+196,Root Snare,G,2.0,{1}{G},,,,Prevent all combat damage that would be dealt this turn.,common,,,Instant,
+197,Runic Armasaur,G,3.0,{1}{G}{G},2.0,5.0,,"Whenever an opponent activates an ability of a creature or land that isn't a mana ability, you may draw a card.",rare,,,Creature,Dinosaur
+198,Scapeshift,G,4.0,{2}{G}{G},,,,"Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.",mythic,,,Sorcery,
+199,Talons of Wildwood,G,2.0,{1}{G},,,,"Enchant creature
 Enchanted creature gets +1/+1 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)
 {2}{G}: Return Talons of Wildwood from your graveyard to your hand.",common,Enchant,,Enchantment,Aura
-202,Thorn Lieutenant,G,2.0,{1}{G},2.0,3.0,,"Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
+200,Thorn Lieutenant,G,2.0,{1}{G},2.0,3.0,,"Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
 {5}{G}: Thorn Lieutenant gets +4/+4 until end of turn.",rare,,,Creature,"Elf, Warrior"
-203,Thornhide Wolves,G,5.0,{4}{G},4.0,5.0,,,common,,,Creature,Wolf
-204,Titanic Growth,G,2.0,{1}{G},,,,Target creature gets +4/+4 until end of turn.,common,,,Instant,
-205,Vigilant Baloth,G,5.0,{3}{G}{G},5.0,5.0,,Vigilance (Attacking doesn't cause this creature to tap.),uncommon,Vigilance,,Creature,Beast
-206,Vine Mare,G,4.0,{2}{G}{G},5.0,3.0,,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+201,Thornhide Wolves,G,5.0,{4}{G},4.0,5.0,,,common,,,Creature,Wolf
+202,Titanic Growth,G,2.0,{1}{G},,,,Target creature gets +4/+4 until end of turn.,common,,,Instant,
+203,Vigilant Baloth,G,5.0,{3}{G}{G},5.0,5.0,,Vigilance (Attacking doesn't cause this creature to tap.),uncommon,Vigilance,,Creature,Beast
+204,Vine Mare,G,4.0,{2}{G}{G},5.0,3.0,,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 Vine Mare can't be blocked by black creatures.",uncommon,Hexproof,,Creature,"Elemental, Horse"
-207,Vivien Reid,G,5.0,{3}{G}{G},,,5.0,"[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+205,Vivien Reid,G,5.0,{3}{G}{G},,,5.0,"[+1]: Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 [−3]: Destroy target artifact, enchantment, or creature with flying.
 [−8]: You get an emblem with ""Creatures you control get +2/+2 and have vigilance, trample, and indestructible.""",mythic,,Legendary,Planeswalker,Vivien
-208,Vivien's Invocation,G,7.0,{5}{G}{G},,,,"Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When a creature is put onto the battlefield this way, it deals damage equal to its power to target creature an opponent controls.",rare,,,Sorcery,
-209,Wall of Vines,G,1.0,{G},0.0,3.0,,"Defender (This creature can't attack.)
+206,Vivien's Invocation,G,7.0,{5}{G}{G},,,,"Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in a random order. When a creature is put onto the battlefield this way, it deals damage equal to its power to target creature an opponent controls.",rare,,,Sorcery,
+207,Wall of Vines,G,1.0,{G},0.0,3.0,,"Defender (This creature can't attack.)
 Reach (This creature can block creatures with flying.)",common,"Defender, Reach",,Creature,"Plant, Wall"
-210,Aerial Engineer,"U, W",4.0,{2}{W}{U},2.0,4.0,,"As long as you control an artifact, Aerial Engineer gets +2/+0 and has flying.",uncommon,,,Creature,"Human, Artificer"
-211,"Arcades, the Strategist","G, U, W",4.0,{1}{G}{W}{U},3.0,5.0,,"Flying, vigilance
+208,Aerial Engineer,"U, W",4.0,{2}{W}{U},2.0,4.0,,"As long as you control an artifact, Aerial Engineer gets +2/+0 and has flying.",uncommon,,,Creature,"Human, Artificer"
+209,"Arcades, the Strategist","G, U, W",4.0,{1}{G}{W}{U},3.0,5.0,,"Flying, vigilance
 Whenever a creature with defender enters the battlefield under your control, draw a card.
 Each creature you control with defender assigns combat damage equal to its toughness rather than its power and can attack as though it didn't have defender.",mythic,"Flying, Vigilance",Legendary,Creature,"Elder, Dragon"
-212,Brawl-Bash Ogre,"B, R",4.0,{2}{B}{R},3.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+210,Brawl-Bash Ogre,"B, R",4.0,{2}{B}{R},3.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Whenever Brawl-Bash Ogre attacks, you may sacrifice another creature. If you do, Brawl-Bash Ogre gets +2/+2 until end of turn.",uncommon,Menace,,Creature,"Ogre, Warrior"
-213,"Chromium, the Mutable","B, U, W",7.0,{4}{W}{U}{B},7.0,7.0,,"Flash
+211,"Chromium, the Mutable","B, U, W",7.0,{4}{W}{U}{B},7.0,7.0,,"Flash
 This spell can't be countered.
 Flying
 Discard a card: Until end of turn, Chromium, the Mutable becomes a Human with base power and toughness 1/1, loses all abilities, and gains hexproof. It can't be blocked this turn.",mythic,"Flash, Flying",Legendary,Creature,"Elder, Dragon"
-214,Draconic Disciple,"G, R",3.0,{1}{R}{G},2.0,2.0,,"{T}: Add one mana of any color.
+212,Draconic Disciple,"G, R",3.0,{1}{R}{G},2.0,2.0,,"{T}: Add one mana of any color.
 {7}, {T}, Sacrifice Draconic Disciple: Create a 5/5 red Dragon creature token with flying.",uncommon,,,Creature,"Human, Shaman"
-215,Enigma Drake,"R, U",3.0,{1}{U}{R},,4.0,,"Flying
+213,Enigma Drake,"R, U",3.0,{1}{U}{R},,4.0,,"Flying
 Enigma Drake's power is equal to the number of instant and sorcery cards in your graveyard.",uncommon,Flying,,Creature,Drake
-216,Heroic Reinforcements,"R, W",4.0,{2}{R}{W},,,,"Create two 1/1 white Soldier creature tokens. Until end of turn, creatures you control get +1/+1 and gain haste. (They can attack and {T} this turn.)",uncommon,,,Sorcery,
-217,"Nicol Bolas, the Ravager","B, R, U",4.0,{1}{U}{B}{R},4.0,4.0,,"Flying
+214,Heroic Reinforcements,"R, W",4.0,{2}{R}{W},,,,"Create two 1/1 white Soldier creature tokens. Until end of turn, creatures you control get +1/+1 and gain haste. (They can attack and {T} this turn.)",uncommon,,,Sorcery,
+215,"Nicol Bolas, the Ravager","B, R, U",4.0,{1}{U}{B}{R},4.0,4.0,,"Flying
 When Nicol Bolas, the Ravager enters the battlefield, each opponent discards a card.
 {4}{U}{B}{R}: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate only as a sorcery.",mythic,"Flying, Transform",Legendary,Creature,"Elder, Dragon"
-218,"Nicol Bolas, the Arisen","B, R, U",4.0,,,,7.0,"[+2]: Draw two cards.
+216,"Nicol Bolas, the Arisen","B, R, U",4.0,,,,7.0,"[+2]: Draw two cards.
 [−3]: Nicol Bolas, the Arisen deals 10 damage to target creature or planeswalker.
 [−4]: Put target creature or planeswalker card from a graveyard onto the battlefield under your control.
 [−12]: Exile all but the bottom card of target player's library.",mythic,,Legendary,Planeswalker,Bolas
-219,"Palladia-Mors, the Ruiner","G, R, W",6.0,{3}{R}{G}{W},6.0,6.0,,"Flying, vigilance, trample
+217,"Palladia-Mors, the Ruiner","G, R, W",6.0,{3}{R}{G}{W},6.0,6.0,,"Flying, vigilance, trample
 Palladia-Mors, the Ruiner has hexproof if it hasn't dealt damage yet.",mythic,"Flying, Trample, Vigilance",Legendary,Creature,"Elder, Dragon"
-220,Poison-Tip Archer,"B, G",4.0,{2}{B}{G},2.0,3.0,,"Reach (This creature can block creatures with flying.)
+218,Poison-Tip Archer,"B, G",4.0,{2}{B}{G},2.0,3.0,,"Reach (This creature can block creatures with flying.)
 Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 Whenever another creature dies, each opponent loses 1 life.",uncommon,"Deathtouch, Reach",,Creature,"Elf, Archer"
-221,Psychic Symbiont,"B, U",6.0,{4}{U}{B},3.0,3.0,,"Flying
+219,Psychic Symbiont,"B, U",6.0,{4}{U}{B},3.0,3.0,,"Flying
 When Psychic Symbiont enters the battlefield, target opponent discards a card and you draw a card.",uncommon,Flying,,Creature,"Nightmare, Horror"
-222,Regal Bloodlord,"B, W",5.0,{3}{W}{B},2.0,4.0,,"Flying
+220,Regal Bloodlord,"B, W",5.0,{3}{W}{B},2.0,4.0,,"Flying
 At the beginning of each end step, if you gained life this turn, create a 1/1 black Bat creature token with flying.",uncommon,Flying,,Creature,"Vampire, Soldier"
-223,Satyr Enchanter,"G, W",3.0,{1}{G}{W},2.0,2.0,,"Whenever you cast an enchantment spell, draw a card.",uncommon,,,Creature,"Satyr, Druid"
-224,Skyrider Patrol,"G, U",4.0,{2}{G}{U},2.0,3.0,,"Flying
+221,Satyr Enchanter,"G, W",3.0,{1}{G}{W},2.0,2.0,,"Whenever you cast an enchantment spell, draw a card.",uncommon,,,Creature,"Satyr, Druid"
+222,Skyrider Patrol,"G, U",4.0,{2}{G}{U},2.0,3.0,,"Flying
 At the beginning of combat on your turn, you may pay {G}{U}. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn.",uncommon,Flying,,Creature,"Elf, Scout"
-225,"Vaevictis Asmadi, the Dire","B, G, R",6.0,{3}{B}{R}{G},6.0,6.0,,"Flying
+223,"Vaevictis Asmadi, the Dire","B, G, R",6.0,{3}{B}{R}{G},6.0,6.0,,"Flying
 Whenever Vaevictis Asmadi, the Dire attacks, for each player, choose target permanent that player controls. Those players sacrifice those permanents. Each player who sacrificed a permanent this way reveals the top card of their library, then puts it onto the battlefield if it's a permanent card.",mythic,Flying,Legendary,Creature,"Elder, Dragon"
-226,Amulet of Safekeeping,C,2.0,{2},,,,"Whenever you become the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
+224,Amulet of Safekeeping,C,2.0,{2},,,,"Whenever you become the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {1}.
 Creature tokens get -1/-0.",rare,,,Artifact,
-227,Arcane Encyclopedia,C,3.0,{3},,,,"{3}, {T}: Draw a card.",uncommon,,,Artifact,
-228,Chaos Wand,C,3.0,{3},,,,"{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.",rare,,,Artifact,
-229,Crucible of Worlds,C,3.0,{3},,,,You may play lands from your graveyard.,mythic,,,Artifact,
-230,Desecrated Tomb,C,3.0,{3},,,,"Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.",rare,,,Artifact,
-231,Diamond Mare,C,2.0,{2},1.0,3.0,,"As Diamond Mare enters the battlefield, choose a color.
+225,Arcane Encyclopedia,C,3.0,{3},,,,"{3}, {T}: Draw a card.",uncommon,,,Artifact,
+226,Chaos Wand,C,3.0,{3},,,,"{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.",rare,,,Artifact,
+227,Crucible of Worlds,C,3.0,{3},,,,You may play lands from your graveyard.,mythic,,,Artifact,
+228,Desecrated Tomb,C,3.0,{3},,,,"Whenever one or more creature cards leave your graveyard, create a 1/1 black Bat creature token with flying.",rare,,,Artifact,
+229,Diamond Mare,C,2.0,{2},1.0,3.0,,"As Diamond Mare enters the battlefield, choose a color.
 Whenever you cast a spell of the chosen color, you gain 1 life.",uncommon,,,"Artifact, Creature",Horse
-232,Dragon's Hoard,C,3.0,{3},,,,"Whenever a Dragon enters the battlefield under your control, put a gold counter on Dragon's Hoard.
+230,Dragon's Hoard,C,3.0,{3},,,,"Whenever a Dragon enters the battlefield under your control, put a gold counter on Dragon's Hoard.
 {T}, Remove a gold counter from Dragon's Hoard: Draw a card.
 {T}: Add one mana of any color.",rare,,,Artifact,
-233,Explosive Apparatus,C,1.0,{1},,,,"{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.",common,,,Artifact,
-234,Field Creeper,C,2.0,{2},2.0,1.0,,,common,,,"Artifact, Creature",Scarecrow
-235,Fountain of Renewal,C,1.0,{1},,,,"At the beginning of your upkeep, you gain 1 life.
+231,Explosive Apparatus,C,1.0,{1},,,,"{3}, {T}, Sacrifice Explosive Apparatus: It deals 2 damage to any target.",common,,,Artifact,
+232,Field Creeper,C,2.0,{2},2.0,1.0,,,common,,,"Artifact, Creature",Scarecrow
+233,Fountain of Renewal,C,1.0,{1},,,,"At the beginning of your upkeep, you gain 1 life.
 {3}, Sacrifice Fountain of Renewal: Draw a card.",uncommon,,,Artifact,
-236,Gargoyle Sentinel,C,3.0,{3},3.0,3.0,,"Defender (This creature can't attack.)
+234,Gargoyle Sentinel,C,3.0,{3},3.0,3.0,,"Defender (This creature can't attack.)
 {3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.",uncommon,Defender,,"Artifact, Creature",Gargoyle
-237,Gearsmith Guardian,C,5.0,{5},3.0,5.0,,Gearsmith Guardian gets +2/+0 as long as you control a blue creature.,common,,,"Artifact, Creature",Construct
-238,Magistrate's Scepter,C,3.0,{3},,,,"{4}, {T}: Put a charge counter on Magistrate's Scepter.
+235,Gearsmith Guardian,C,5.0,{5},3.0,5.0,,Gearsmith Guardian gets +2/+0 as long as you control a blue creature.,common,,,"Artifact, Creature",Construct
+236,Magistrate's Scepter,C,3.0,{3},,,,"{4}, {T}: Put a charge counter on Magistrate's Scepter.
 {T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.",rare,,,Artifact,
-239,Manalith,C,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact,
-240,Marauder's Axe,C,2.0,{2},,,,"Equipped creature gets +2/+0.
+237,Manalith,C,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact,
+238,Marauder's Axe,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-241,Meteor Golem,C,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature",Golem
-242,Millstone,C,2.0,{2},,,,"{2}, {T}: Target player mills two cards.",uncommon,Mill,,Artifact,
-243,Rogue's Gloves,C,2.0,{2},,,,"Whenever equipped creature deals combat damage to a player, you may draw a card.
+239,Meteor Golem,C,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature",Golem
+240,Millstone,C,2.0,{2},,,,"{2}, {T}: Target player mills two cards.",uncommon,Mill,,Artifact,
+241,Rogue's Gloves,C,2.0,{2},,,,"Whenever equipped creature deals combat damage to a player, you may draw a card.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-244,Sigiled Sword of Valeron,C,3.0,{3},,,,"Equipped creature gets +2/+0, has vigilance, and is a Knight in addition to its other types.
+242,Sigiled Sword of Valeron,C,3.0,{3},,,,"Equipped creature gets +2/+0, has vigilance, and is a Knight in addition to its other types.
 Whenever equipped creature attacks, create a 2/2 white Knight creature token with vigilance that's attacking.
 Equip {3}",rare,Equip,,Artifact,Equipment
-245,Skyscanner,C,3.0,{3},1.0,1.0,,"Flying
+243,Skyscanner,C,3.0,{3},1.0,1.0,,"Flying
 When Skyscanner enters the battlefield, draw a card.",common,Flying,,"Artifact, Creature",Thopter
-246,Suspicious Bookcase,C,2.0,{2},0.0,4.0,,"Defender
+244,Suspicious Bookcase,C,2.0,{2},0.0,4.0,,"Defender
 {3}, {T}: Target creature can't be blocked this turn.",uncommon,Defender,,"Artifact, Creature",Wall
-247,Transmogrifying Wand,C,3.0,{3},,,,"Transmogrifying Wand enters the battlefield with three charge counters on it.
+245,Transmogrifying Wand,C,3.0,{3},,,,"Transmogrifying Wand enters the battlefield with three charge counters on it.
 {1}, {T}, Remove a charge counter from Transmogrifying Wand: Destroy target creature. Its controller creates a 2/4 white Ox creature token. Activate only as a sorcery.",rare,,,Artifact,
-248,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+246,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land,
-249,Detection Tower,L,0.0,,,,,"{T}: Add {C}.
+247,Detection Tower,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Until end of turn, your opponents and creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.",rare,,,Land,
-250,Forsaken Sanctuary,L,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
+248,Forsaken Sanctuary,L,0.0,,,,,"Forsaken Sanctuary enters the battlefield tapped.
 {T}: Add {W} or {B}.",common,,,Land,
-251,Foul Orchard,L,0.0,,,,,"Foul Orchard enters the battlefield tapped.
+249,Foul Orchard,L,0.0,,,,,"Foul Orchard enters the battlefield tapped.
 {T}: Add {B} or {G}.",common,,,Land,
-252,Highland Lake,L,0.0,,,,,"Highland Lake enters the battlefield tapped.
+250,Highland Lake,L,0.0,,,,,"Highland Lake enters the battlefield tapped.
 {T}: Add {U} or {R}.",common,,,Land,
-253,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
+251,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
 {T}: Add {W} or {U}.",common,,,Land,
-254,Reliquary Tower,L,0.0,,,,,"You have no maximum hand size.
+252,Reliquary Tower,L,0.0,,,,,"You have no maximum hand size.
 {T}: Add {C}.",uncommon,,,Land,
-255,Rupture Spire,L,0.0,,,,,"Rupture Spire enters the battlefield tapped.
+253,Rupture Spire,L,0.0,,,,,"Rupture Spire enters the battlefield tapped.
 When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
 {T}: Add one mana of any color.",uncommon,,,Land,
-256,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+254,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land,
-257,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
+255,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
 {T}: Add {U} or {B}.",common,,,Land,
-258,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
+256,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
 {T}: Add {R} or {G}.",common,,,Land,
-259,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
+257,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
 {T}: Add {G} or {W}.",common,,,Land,
-260,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+258,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land,
-261,"Ajani, Wise Counselor",W,5.0,{3}{W}{W},,,5.0,"[+2]: You gain 1 life for each creature you control.
+259,"Ajani, Wise Counselor",W,5.0,{3}{W}{W},,,5.0,"[+2]: You gain 1 life for each creature you control.
 [−3]: Creatures you control get +2/+2 until end of turn.
 [−9]: Put X +1/+1 counters on target creature, where X is your life total.",mythic,,Legendary,Planeswalker,Ajani
-262,Ajani's Influence,W,4.0,{2}{W}{W},,,,"Put two +1/+1 counters on target creature.
+260,Ajani's Influence,W,4.0,{2}{W}{W},,,,"Put two +1/+1 counters on target creature.
 Look at the top five cards of your library. You may reveal a white card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Sorcery,
-263,Court Cleric,W,1.0,{W},1.0,1.0,,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+261,Court Cleric,W,1.0,{W},1.0,1.0,,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 Court Cleric gets +1/+1 as long as you control an Ajani planeswalker.",uncommon,Lifelink,,Creature,"Human, Cleric"
-264,Serra's Guardian,W,6.0,{4}{W}{W},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+262,Serra's Guardian,W,6.0,{4}{W}{W},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 Vigilance (Attacking doesn't cause this creature to tap.)
 Other creatures you control have vigilance.",rare,"Flying, Vigilance",,Creature,Angel
-265,Silverbeak Griffin,W,2.0,{W}{W},2.0,2.0,,Flying (This creature can't be blocked except by creatures with flying or reach.),common,Flying,,Creature,Griffin
-266,"Tezzeret, Cruel Machinist",U,6.0,{4}{U}{U},,,4.0,"[+1]: Draw a card.
+263,Silverbeak Griffin,W,2.0,{W}{W},2.0,2.0,,Flying (This creature can't be blocked except by creatures with flying or reach.),common,Flying,,Creature,Griffin
+264,"Tezzeret, Cruel Machinist",U,6.0,{4}{U}{U},,,4.0,"[+1]: Draw a card.
 [0]: Until your next turn, target artifact you control becomes a 5/5 creature in addition to its other types.
 [−7]: Put any number of cards from your hand onto the battlefield face down. They're 5/5 artifact creatures.",mythic,,Legendary,Planeswalker,Tezzeret
-267,Riddlemaster Sphinx,U,6.0,{4}{U}{U},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+265,Riddlemaster Sphinx,U,6.0,{4}{U}{U},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 When Riddlemaster Sphinx enters the battlefield, you may return target creature an opponent controls to its owner's hand.",rare,Flying,,Creature,Sphinx
-268,Pendulum of Patterns,C,2.0,{2},,,,"When Pendulum of Patterns enters the battlefield, you gain 3 life.
+266,Pendulum of Patterns,C,2.0,{2},,,,"When Pendulum of Patterns enters the battlefield, you gain 3 life.
 {5}, {T}, Sacrifice Pendulum of Patterns: Draw a card.",common,,,Artifact,
-269,Tezzeret's Gatebreaker,C,4.0,{4},,,,"When Tezzeret's Gatebreaker enters the battlefield, look at the top five cards of your library. You may reveal a blue or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+267,Tezzeret's Gatebreaker,C,4.0,{4},,,,"When Tezzeret's Gatebreaker enters the battlefield, look at the top five cards of your library. You may reveal a blue or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 {5}{U}, {T}, Sacrifice Tezzeret's Gatebreaker: Creatures you control can't be blocked this turn.",rare,,,Artifact,
-270,Tezzeret's Strider,C,3.0,{3},3.0,1.0,,"As long as you control a Tezzeret planeswalker, Tezzeret's Strider has menace. (It can't be blocked except by two or more creatures.)",uncommon,,,"Artifact, Creature",Golem
-271,"Liliana, the Necromancer",B,5.0,{3}{B}{B},,,4.0,"[+1]: Target player loses 2 life.
+268,Tezzeret's Strider,C,3.0,{3},3.0,1.0,,"As long as you control a Tezzeret planeswalker, Tezzeret's Strider has menace. (It can't be blocked except by two or more creatures.)",uncommon,,,"Artifact, Creature",Golem
+269,"Liliana, the Necromancer",B,5.0,{3}{B}{B},,,4.0,"[+1]: Target player loses 2 life.
 [−1]: Return target creature card from your graveyard to your hand.
 [−7]: Destroy up to two target creatures. Put up to two creature cards from graveyards onto the battlefield under your control.",mythic,,Legendary,Planeswalker,Liliana
-272,Arisen Gorgon,B,3.0,{1}{B}{B},3.0,3.0,,Arisen Gorgon has deathtouch as long as you control a Liliana planeswalker. (Any amount of damage this deals to a creature is enough to destroy it.),uncommon,,,Creature,"Zombie, Gorgon"
-273,Gravewaker,B,6.0,{4}{B}{B},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+270,Arisen Gorgon,B,3.0,{1}{B}{B},3.0,3.0,,Arisen Gorgon has deathtouch as long as you control a Liliana planeswalker. (Any amount of damage this deals to a creature is enough to destroy it.),uncommon,,,Creature,"Zombie, Gorgon"
+271,Gravewaker,B,6.0,{4}{B}{B},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 {5}{B}{B}: Return target creature card from your graveyard to the battlefield tapped.",rare,Flying,,Creature,"Bird, Spirit"
-274,Liliana's Spoils,B,4.0,{3}{B},,,,"Target opponent discards a card.
+272,Liliana's Spoils,B,4.0,{3}{B},,,,"Target opponent discards a card.
 Look at the top five cards of your library. You may reveal a black card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Sorcery,
-275,Tattered Mummy,B,2.0,{1}{B},1.0,2.0,,"When Tattered Mummy dies, each opponent loses 2 life.",common,,,Creature,"Zombie, Jackal"
-276,"Sarkhan, Dragonsoul",R,6.0,{4}{R}{R},,,5.0,"[+2]: Sarkhan, Dragonsoul deals 1 damage to each opponent and each creature your opponents control.
+273,Tattered Mummy,B,2.0,{1}{B},1.0,2.0,,"When Tattered Mummy dies, each opponent loses 2 life.",common,,,Creature,"Zombie, Jackal"
+274,"Sarkhan, Dragonsoul",R,6.0,{4}{R}{R},,,5.0,"[+2]: Sarkhan, Dragonsoul deals 1 damage to each opponent and each creature your opponents control.
 [−3]: Sarkhan, Dragonsoul deals 4 damage to target player or planeswalker.
 [−9]: Search your library for any number of Dragon creature cards, put them onto the battlefield, then shuffle.",mythic,,Legendary,Planeswalker,Sarkhan
-277,Kargan Dragonrider,R,2.0,{1}{R},2.0,2.0,,"As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be blocked except by creatures with flying or reach.)",common,,,Creature,"Human, Warrior"
-278,Sarkhan's Dragonfire,R,5.0,{3}{R}{R},,,,"Sarkhan's Dragonfire deals 3 damage to any target.
+275,Kargan Dragonrider,R,2.0,{1}{R},2.0,2.0,,"As long as you control a Dragon, Kargan Dragonrider has flying. (It can't be blocked except by creatures with flying or reach.)",common,,,Creature,"Human, Warrior"
+276,Sarkhan's Dragonfire,R,5.0,{3}{R}{R},,,,"Sarkhan's Dragonfire deals 3 damage to any target.
 Look at the top five cards of your library. You may reveal a red card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Sorcery,
-279,Sarkhan's Whelp,R,3.0,{2}{R},2.0,2.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+277,Sarkhan's Whelp,R,3.0,{2}{R},2.0,2.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 Whenever you activate an ability of a Sarkhan planeswalker, Sarkhan's Whelp deals 1 damage to any target.",uncommon,Flying,,Creature,Dragon
-280,Shivan Dragon,R,6.0,{4}{R}{R},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+278,Shivan Dragon,R,6.0,{4}{R}{R},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 {R}: Shivan Dragon gets +1/+0 until end of turn.",rare,Flying,,Creature,Dragon
-281,Vivien of the Arkbow,G,6.0,{4}{G}{G},,,5.0,"[+2]: Put two +1/+1 counters on up to one target creature.
+279,Vivien of the Arkbow,G,6.0,{4}{G}{G},,,5.0,"[+2]: Put two +1/+1 counters on up to one target creature.
 [−3]: Target creature you control deals damage equal to its power to target creature you don't control.
 [−9]: Creatures you control get +4/+4 and gain trample until end of turn.",mythic,,Legendary,Planeswalker,Vivien
-282,Aggressive Mammoth,G,6.0,{3}{G}{G}{G},8.0,8.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+280,Aggressive Mammoth,G,6.0,{3}{G}{G}{G},8.0,8.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 Other creatures you control have trample.",rare,Trample,,Creature,Elephant
-283,Skalla Wolf,G,5.0,{3}{G}{G},3.0,3.0,,"When Skalla Wolf enters the battlefield, look at the top five cards of your library. You may reveal a green card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Creature,"Wolf, Spirit"
-284,Ursine Champion,G,2.0,{1}{G},2.0,2.0,,{5}{G}: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate only once each turn.,common,,,Creature,"Human, Berserker"
-285,Vivien's Jaguar,G,3.0,{2}{G},3.0,2.0,,"Reach (This creature can block creatures with flying.)
+281,Skalla Wolf,G,5.0,{3}{G}{G},3.0,3.0,,"When Skalla Wolf enters the battlefield, look at the top five cards of your library. You may reveal a green card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Creature,"Wolf, Spirit"
+282,Ursine Champion,G,2.0,{1}{G},2.0,2.0,,{5}{G}: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate only once each turn.,common,,,Creature,"Human, Berserker"
+283,Vivien's Jaguar,G,3.0,{2}{G},3.0,2.0,,"Reach (This creature can block creatures with flying.)
 {2}{G}: Return Vivien's Jaguar from your graveyard to your hand. Activate only if you control a Vivien planeswalker.",uncommon,Reach,,Creature,"Cat, Spirit"
-286,Sun Sentinel,W,2.0,{1}{W},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature,"Human, Soldier"
-287,Air Elemental,U,5.0,{3}{U}{U},4.0,4.0,,Flying,uncommon,Flying,,Creature,Elemental
-288,Befuddle,U,3.0,{2}{U},,,,"Target creature gets -4/-0 until end of turn.
+284,Sun Sentinel,W,2.0,{1}{W},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature,"Human, Soldier"
+285,Air Elemental,U,5.0,{3}{U}{U},4.0,4.0,,Flying,uncommon,Flying,,Creature,Elemental
+286,Befuddle,U,3.0,{2}{U},,,,"Target creature gets -4/-0 until end of turn.
 Draw a card.",common,,,Instant,
-289,Mist-Cloaked Herald,U,1.0,{U},1.0,1.0,,Mist-Cloaked Herald can't be blocked.,common,,,Creature,"Merfolk, Warrior"
-290,Waterknot,U,3.0,{1}{U}{U},,,,"Enchant creature
+287,Mist-Cloaked Herald,U,1.0,{U},1.0,1.0,,Mist-Cloaked Herald can't be blocked.,common,,,Creature,"Merfolk, Warrior"
+288,Waterknot,U,3.0,{1}{U}{U},,,,"Enchant creature
 When Waterknot enters the battlefield, tap enchanted creature.
 Enchanted creature doesn't untap during its controller's untap step.",common,Enchant,,Enchantment,Aura
-291,Grasping Scoundrel,B,1.0,{B},1.0,1.0,,Grasping Scoundrel gets +1/+0 as long as it's attacking.,common,,,Creature,"Human, Pirate"
-292,Radiating Lightning,R,4.0,{3}{R},,,,Radiating Lightning deals 3 damage to target player and 1 damage to each creature that player controls.,common,,,Instant,
-293,Llanowar Elves,G,1.0,{G},1.0,1.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"
+289,Grasping Scoundrel,B,1.0,{B},1.0,1.0,,Grasping Scoundrel gets +1/+0 as long as it's attacking.,common,,,Creature,"Human, Pirate"
+290,Radiating Lightning,R,4.0,{3}{R},,,,Radiating Lightning deals 3 damage to target player and 1 damage to each creature that player controls.,common,,,Instant,
+291,Llanowar Elves,G,1.0,{G},1.0,1.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"

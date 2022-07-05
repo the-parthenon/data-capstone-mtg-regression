@@ -63,305 +63,302 @@ Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant,
 Whenever Eternal of Harsh Truths attacks and isn't blocked, draw a card.",uncommon,Afflict,,Creature,"Zombie, Cleric"
 34,Fraying Sanity,U,3.0,{2}{U},,,,"Enchant player
 At the beginning of each end step, enchanted player mills X cards, where X is the number of cards put into their graveyard from anywhere this turn.",rare,"Enchant, Mill",,Enchantment,"Aura, Curse"
-35,Hour of Eternity,U,3.0,{X}{X}{U}{U}{U},,,,"Exile X target creature cards from your graveyard. For each card exiled this way, create a token that's a copy of that card, except it's a 4/4 black Zombie.",rare,,,Sorcery,
-36,Imaginary Threats,U,4.0,{2}{U}{U},,,,"Creatures target opponent controls attack this turn if able. During that player's next untap step, creatures they control don't untap.
+35,Imaginary Threats,U,4.0,{2}{U}{U},,,,"Creatures target opponent controls attack this turn if able. During that player's next untap step, creatures they control don't untap.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Instant,
-37,Jace's Defeat,U,2.0,{1}{U},,,,"Counter target blue spell. If it was a Jace planeswalker spell, scry 2.",uncommon,Scry,,Instant,
-38,Kefnet's Last Word,U,4.0,{2}{U}{U},,,,"Gain control of target artifact, creature, or enchantment. Lands you control don't untap during your next untap step.",rare,,,Sorcery,
-39,Nimble Obstructionist,U,3.0,{2}{U},3.0,1.0,,"Flash
+36,Jace's Defeat,U,2.0,{1}{U},,,,"Counter target blue spell. If it was a Jace planeswalker spell, scry 2.",uncommon,Scry,,Instant,
+37,Kefnet's Last Word,U,4.0,{2}{U}{U},,,,"Gain control of target artifact, creature, or enchantment. Lands you control don't untap during your next untap step.",rare,,,Sorcery,
+38,Nimble Obstructionist,U,3.0,{2}{U},3.0,1.0,,"Flash
 Flying
 Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
 When you cycle Nimble Obstructionist, counter target activated or triggered ability you don't control.",rare,"Cycling, Flash, Flying",,Creature,"Bird, Wizard"
-40,Ominous Sphinx,U,5.0,{3}{U}{U},4.0,4.0,,"Flying
+39,Ominous Sphinx,U,5.0,{3}{U}{U},4.0,4.0,,"Flying
 Whenever you cycle or discard a card, target creature an opponent controls gets -2/-0 until end of turn.",uncommon,Flying,,Creature,Sphinx
-41,Proven Combatant,U,1.0,{U},1.0,1.0,,"Eternalize {4}{U}{U} ({4}{U}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as a sorcery.)",common,Eternalize,,Creature,"Human, Warrior"
-42,Riddleform,U,2.0,{1}{U},,,,"Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.
+40,Proven Combatant,U,1.0,{U},1.0,1.0,,"Eternalize {4}{U}{U} ({4}{U}{U}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as a sorcery.)",common,Eternalize,,Creature,"Human, Warrior"
+41,Riddleform,U,2.0,{1}{U},,,,"Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.
 {2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",uncommon,Scry,,Enchantment,
-43,Seer of the Last Tomorrow,U,3.0,{2}{U},1.0,4.0,,"{U}, {T}, Discard a card: Target player mills three cards.",common,Mill,,Creature,"Naga, Cleric"
-44,Sinuous Striker,U,3.0,{2}{U},2.0,2.0,,"{U}: Sinuous Striker gets +1/-1 until end of turn.
+42,Seer of the Last Tomorrow,U,3.0,{2}{U},1.0,4.0,,"{U}, {T}, Discard a card: Target player mills three cards.",common,Mill,,Creature,"Naga, Cleric"
+43,Sinuous Striker,U,3.0,{2}{U},2.0,2.0,,"{U}: Sinuous Striker gets +1/-1 until end of turn.
 Eternalize—{3}{U}{U}, Discard a card. ({3}{U}{U}, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no mana cost. Eternalize only as a sorcery.)",uncommon,Eternalize,,Creature,"Naga, Warrior"
-45,Spellweaver Eternal,U,2.0,{1}{U},2.0,1.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+44,Spellweaver Eternal,U,2.0,{1}{U},2.0,1.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)",common,"Afflict, Prowess",,Creature,"Zombie, Naga, Wizard"
-46,Strategic Planning,U,2.0,{1}{U},,,,Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.,common,,,Sorcery,
-47,Striped Riverwinder,U,7.0,{6}{U},5.0,5.0,,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+45,Strategic Planning,U,2.0,{1}{U},,,,Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.,common,,,Sorcery,
+46,Striped Riverwinder,U,7.0,{6}{U},5.0,5.0,,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 Cycling {U} ({U}, Discard this card: Draw a card.)",common,"Cycling, Hexproof",,Creature,Serpent
-48,Supreme Will,U,3.0,{2}{U},,,,"Choose one —
+47,Supreme Will,U,3.0,{2}{U},,,,"Choose one —
 • Counter target spell unless its controller pays {3}.
 • Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",uncommon,,,Instant,
-49,Swarm Intelligence,U,7.0,{6}{U},,,,"Whenever you cast an instant or sorcery spell, you may copy that spell. You may choose new targets for the copy.",rare,,,Enchantment,
-50,Tragic Lesson,U,3.0,{2}{U},,,,Draw two cards. Then discard a card unless you return a land you control to its owner's hand.,common,,,Instant,
-51,"Unesh, Criosphinx Sovereign",U,6.0,{4}{U}{U},4.0,4.0,,"Flying
+48,Swarm Intelligence,U,7.0,{6}{U},,,,"Whenever you cast an instant or sorcery spell, you may copy that spell. You may choose new targets for the copy.",rare,,,Enchantment,
+49,Tragic Lesson,U,3.0,{2}{U},,,,Draw two cards. Then discard a card unless you return a land you control to its owner's hand.,common,,,Instant,
+50,"Unesh, Criosphinx Sovereign",U,6.0,{4}{U}{U},4.0,4.0,,"Flying
 Sphinx spells you cast cost {2} less to cast.
 Whenever Unesh, Criosphinx Sovereign or another Sphinx enters the battlefield under your control, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",mythic,Flying,Legendary,Creature,Sphinx
-52,Unquenchable Thirst,U,2.0,{1}{U},,,,"Enchant creature
+51,Unquenchable Thirst,U,2.0,{1}{U},,,,"Enchant creature
 When Unquenchable Thirst enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, tap enchanted creature.
 Enchanted creature doesn't untap during its controller's untap step.",common,Enchant,,Enchantment,Aura
-53,Unsummon,U,1.0,{U},,,,Return target creature to its owner's hand.,common,,,Instant,
-54,Vizier of the Anointed,U,4.0,{3}{U},2.0,4.0,,"When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle.
+52,Unsummon,U,1.0,{U},,,,Return target creature to its owner's hand.,common,,,Instant,
+53,Vizier of the Anointed,U,4.0,{3}{U},2.0,4.0,,"When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle.
 Whenever you activate an eternalize or embalm ability, draw a card.",uncommon,,,Creature,"Human, Cleric"
-55,Accursed Horde,B,4.0,{3}{B},3.0,3.0,,"{1}{B}: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",uncommon,,,Creature,Zombie
-56,Ammit Eternal,B,3.0,{2}{B},5.0,5.0,,"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
+54,Accursed Horde,B,4.0,{3}{B},3.0,3.0,,"{1}{B}: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",uncommon,,,Creature,Zombie
+55,Ammit Eternal,B,3.0,{2}{B},5.0,5.0,,"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
 Whenever an opponent casts a spell, put a -1/-1 counter on Ammit Eternal.
 Whenever Ammit Eternal deals combat damage to a player, remove all -1/-1 counters from it.",rare,Afflict,,Creature,"Zombie, Crocodile, Demon"
-57,Apocalypse Demon,B,6.0,{4}{B}{B},,,,"Flying
+56,Apocalypse Demon,B,6.0,{4}{B}{B},,,,"Flying
 Apocalypse Demon's power and toughness are each equal to the number of cards in your graveyard.
 At the beginning of your upkeep, tap Apocalypse Demon unless you sacrifice another creature.",rare,Flying,,Creature,Demon
-58,Banewhip Punisher,B,3.0,{2}{B},2.0,2.0,,"When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.
+57,Banewhip Punisher,B,3.0,{2}{B},2.0,2.0,,"When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.
 {B}, Sacrifice Banewhip Punisher: Destroy target creature that has a -1/-1 counter on it.",uncommon,,,Creature,"Human, Warrior"
-59,Bontu's Last Reckoning,B,3.0,{1}{B}{B},,,,Destroy all creatures. Lands you control don't untap during your next untap step.,rare,,,Sorcery,
-60,Carrion Screecher,B,4.0,{3}{B},3.0,1.0,,Flying,common,Flying,,Creature,"Zombie, Bird"
-61,Doomfall,B,3.0,{2}{B},,,,"Choose one —
+58,Bontu's Last Reckoning,B,3.0,{1}{B}{B},,,,Destroy all creatures. Lands you control don't untap during your next untap step.,rare,,,Sorcery,
+59,Carrion Screecher,B,4.0,{3}{B},3.0,1.0,,Flying,common,Flying,,Creature,"Zombie, Bird"
+60,Doomfall,B,3.0,{2}{B},,,,"Choose one —
 • Target opponent exiles a creature they control.
 • Target opponent reveals their hand. You choose a nonland card from it. Exile that card.",uncommon,,,Sorcery,
-62,Dreamstealer,B,3.0,{2}{B},1.0,2.0,,"Menace
+61,Dreamstealer,B,3.0,{2}{B},1.0,2.0,,"Menace
 Whenever Dreamstealer deals combat damage to a player, that player discards that many cards.
 Eternalize {4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)",rare,"Eternalize, Menace",,Creature,"Human, Wizard"
-63,Grisly Survivor,B,3.0,{2}{B},2.0,3.0,,"Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end of turn.",common,,,Creature,"Minotaur, Warrior"
-64,Hour of Glory,B,4.0,{3}{B},,,,"Exile target creature. If that creature was a God, its controller reveals their hand and exiles all cards from it with the same name as that creature.",rare,,,Instant,
-65,Khenra Eternal,B,2.0,{1}{B},2.0,2.0,,"Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)",common,Afflict,,Creature,"Zombie, Jackal, Warrior"
-66,Lethal Sting,B,3.0,{2}{B},,,,"As an additional cost to cast this spell, put a -1/-1 counter on a creature you control.
+62,Grisly Survivor,B,3.0,{2}{B},2.0,3.0,,"Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end of turn.",common,,,Creature,"Minotaur, Warrior"
+63,Hour of Glory,B,4.0,{3}{B},,,,"Exile target creature. If that creature was a God, its controller reveals their hand and exiles all cards from it with the same name as that creature.",rare,,,Instant,
+64,Khenra Eternal,B,2.0,{1}{B},2.0,2.0,,"Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)",common,Afflict,,Creature,"Zombie, Jackal, Warrior"
+65,Lethal Sting,B,3.0,{2}{B},,,,"As an additional cost to cast this spell, put a -1/-1 counter on a creature you control.
 Destroy target creature.",common,,,Sorcery,
-67,Liliana's Defeat,B,1.0,{B},,,,"Destroy target black creature or black planeswalker. If that permanent was a Liliana planeswalker, her controller loses 3 life.",uncommon,,,Sorcery,
-68,Lurching Rotbeast,B,4.0,{3}{B},4.0,2.0,,"Cycling {B} ({B}, Discard this card: Draw a card.)",common,Cycling,,Creature,"Zombie, Beast"
-69,Marauding Boneslasher,B,3.0,{2}{B},3.0,3.0,,Marauding Boneslasher can't block unless you control another Zombie.,common,,,Creature,"Zombie, Minotaur"
-70,Merciless Eternal,B,3.0,{2}{B},2.0,2.0,,"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
+66,Liliana's Defeat,B,1.0,{B},,,,"Destroy target black creature or black planeswalker. If that permanent was a Liliana planeswalker, her controller loses 3 life.",uncommon,,,Sorcery,
+67,Lurching Rotbeast,B,4.0,{3}{B},4.0,2.0,,"Cycling {B} ({B}, Discard this card: Draw a card.)",common,Cycling,,Creature,"Zombie, Beast"
+68,Marauding Boneslasher,B,3.0,{2}{B},3.0,3.0,,Marauding Boneslasher can't block unless you control another Zombie.,common,,,Creature,"Zombie, Minotaur"
+69,Merciless Eternal,B,3.0,{2}{B},2.0,2.0,,"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
 {2}{B}, Discard a card: Merciless Eternal gets +2/+2 until end of turn.",uncommon,Afflict,,Creature,"Zombie, Cleric"
-71,Moaning Wall,B,3.0,{2}{B},0.0,5.0,,"Defender
+70,Moaning Wall,B,3.0,{2}{B},0.0,5.0,,"Defender
 Cycling {2} ({2}, Discard this card: Draw a card.)",common,"Cycling, Defender",,Creature,"Zombie, Wall"
-72,"Razaketh, the Foulblooded",B,8.0,{5}{B}{B}{B},8.0,8.0,,"Flying, trample
+71,"Razaketh, the Foulblooded",B,8.0,{5}{B}{B}{B},8.0,8.0,,"Flying, trample
 Pay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle.",mythic,"Flying, Trample",Legendary,Creature,Demon
-73,Razaketh's Rite,B,5.0,{3}{B}{B},,,,"Search your library for a card, put that card into your hand, then shuffle.
+72,Razaketh's Rite,B,5.0,{3}{B}{B},,,,"Search your library for a card, put that card into your hand, then shuffle.
 Cycling {B} ({B}, Discard this card: Draw a card.)",uncommon,Cycling,,Sorcery,
-74,Ruin Rat,B,2.0,{1}{B},1.0,1.0,,"Deathtouch
+73,Ruin Rat,B,2.0,{1}{B},1.0,1.0,,"Deathtouch
 When Ruin Rat dies, exile target card from an opponent's graveyard.",common,Deathtouch,,Creature,Rat
-75,Scrounger of Souls,B,5.0,{4}{B},3.0,4.0,,Lifelink (Damage dealt by this creature also causes you to gain that much life.),common,Lifelink,,Creature,Horror
-76,Torment of Hailfire,B,2.0,{X}{B}{B},,,,Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.,rare,,,Sorcery,
-77,Torment of Scarabs,B,4.0,{3}{B},,,,"Enchant player
+74,Scrounger of Souls,B,5.0,{4}{B},3.0,4.0,,Lifelink (Damage dealt by this creature also causes you to gain that much life.),common,Lifelink,,Creature,Horror
+75,Torment of Scarabs,B,4.0,{3}{B},,,,"Enchant player
 At the beginning of enchanted player's upkeep, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.",uncommon,Enchant,,Enchantment,"Aura, Curse"
-78,Torment of Venom,B,4.0,{2}{B}{B},,,,Put three -1/-1 counters on target creature. Its controller loses 3 life unless they sacrifice another nonland permanent or discards a card.,common,,,Instant,
-79,Vile Manifestation,B,2.0,{1}{B},0.0,4.0,,"Vile Manifestation gets +1/+0 for each card with cycling in your graveyard.
+76,Torment of Venom,B,4.0,{2}{B}{B},,,,Put three -1/-1 counters on target creature. Its controller loses 3 life unless they sacrifice another nonland permanent or discards a card.,common,,,Instant,
+77,Vile Manifestation,B,2.0,{1}{B},0.0,4.0,,"Vile Manifestation gets +1/+0 for each card with cycling in your graveyard.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Creature,Horror
-80,Without Weakness,B,2.0,{1}{B},,,,"Target creature you control gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+78,Without Weakness,B,2.0,{1}{B},,,,"Target creature you control gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
 Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Instant,
-81,Wretched Camel,B,2.0,{1}{B},2.0,1.0,,"When Wretched Camel dies, if you control a Desert or there is a Desert card in your graveyard, target player discards a card.",common,,,Creature,"Zombie, Camel"
-82,Abrade,R,2.0,{1}{R},,,,"Choose one —
+79,Wretched Camel,B,2.0,{1}{B},2.0,1.0,,"When Wretched Camel dies, if you control a Desert or there is a Desert card in your graveyard, target player discards a card.",common,,,Creature,"Zombie, Camel"
+80,Abrade,R,2.0,{1}{R},,,,"Choose one —
 • Abrade deals 3 damage to target creature.
 • Destroy target artifact.",uncommon,,,Instant,
-83,Blur of Blades,R,2.0,{1}{R},,,,Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to that creature's controller.,common,,,Instant,
-84,Burning-Fist Minotaur,R,2.0,{1}{R},2.0,1.0,,"First strike
+81,Blur of Blades,R,2.0,{1}{R},,,,Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to that creature's controller.,common,,,Instant,
+82,Burning-Fist Minotaur,R,2.0,{1}{R},2.0,1.0,,"First strike
 {1}{R}, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn.",uncommon,First strike,,Creature,"Minotaur, Wizard"
-85,Chandra's Defeat,R,1.0,{R},,,,"Chandra's Defeat deals 5 damage to target red creature or red planeswalker. If that permanent is a Chandra planeswalker, you may discard a card. If you do, draw a card.",uncommon,,,Instant,
-86,Chaos Maw,R,7.0,{5}{R}{R},6.0,6.0,,"When Chaos Maw enters the battlefield, it deals 3 damage to each other creature.",rare,,,Creature,Hellion
-87,Crash Through,R,1.0,{R},,,,"Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
+83,Chandra's Defeat,R,1.0,{R},,,,"Chandra's Defeat deals 5 damage to target red creature or red planeswalker. If that permanent is a Chandra planeswalker, you may discard a card. If you do, draw a card.",uncommon,,,Instant,
+84,Chaos Maw,R,7.0,{5}{R}{R},6.0,6.0,,"When Chaos Maw enters the battlefield, it deals 3 damage to each other creature.",rare,,,Creature,Hellion
+85,Crash Through,R,1.0,{R},,,,"Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
 Draw a card.",common,,,Sorcery,
-88,Defiant Khenra,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature,"Jackal, Warrior"
-89,Earthshaker Khenra,R,2.0,{1}{R},2.0,1.0,,"Haste
+86,Defiant Khenra,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature,"Jackal, Warrior"
+87,Earthshaker Khenra,R,2.0,{1}{R},2.0,1.0,,"Haste
 When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra's power can't block this turn.
 Eternalize {4}{R}{R} ({4}{R}{R}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)",rare,"Eternalize, Haste",,Creature,"Jackal, Warrior"
-90,Fervent Paincaster,R,3.0,{2}{R},3.0,1.0,,"{T}: Fervent Paincaster deals 1 damage to target player or planeswalker.
+88,Fervent Paincaster,R,3.0,{2}{R},3.0,1.0,,"{T}: Fervent Paincaster deals 1 damage to target player or planeswalker.
 {T}, Exert Fervent Paincaster: It deals 1 damage to target creature. (An exerted creature won't untap during your next untap step.)",uncommon,Exert,,Creature,"Human, Wizard"
-91,Firebrand Archer,R,2.0,{1}{R},2.0,1.0,,"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.",common,,,Creature,"Human, Archer"
-92,Frontline Devastator,R,4.0,{3}{R},3.0,3.0,,"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
+89,Firebrand Archer,R,2.0,{1}{R},2.0,1.0,,"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.",common,,,Creature,"Human, Archer"
+90,Frontline Devastator,R,4.0,{3}{R},3.0,3.0,,"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
 {1}{R}: Frontline Devastator gets +1/+0 until end of turn.",common,Afflict,,Creature,"Zombie, Minotaur, Warrior"
-93,Gilded Cerodon,R,5.0,{4}{R},4.0,4.0,,"Whenever Gilded Cerodon attacks, if you control a Desert or there is a Desert card in your graveyard, target creature can't block this turn.",common,,,Creature,Beast
-94,Granitic Titan,R,6.0,{4}{R}{R},5.0,4.0,,"Menace
+91,Gilded Cerodon,R,5.0,{4}{R},4.0,4.0,,"Whenever Gilded Cerodon attacks, if you control a Desert or there is a Desert card in your graveyard, target creature can't block this turn.",common,,,Creature,Beast
+92,Granitic Titan,R,6.0,{4}{R}{R},5.0,4.0,,"Menace
 Cycling {2} ({2}, Discard this card: Draw a card.)",common,"Cycling, Menace",,Creature,Elemental
-95,Hazoret's Undying Fury,R,6.0,{4}{R}{R},,,,"Shuffle your library, then exile the top four cards. You may cast any number of spells with mana value 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step.",rare,,,Sorcery,
-96,Hour of Devastation,R,5.0,{3}{R}{R},,,,All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.,rare,,,Sorcery,
-97,Imminent Doom,R,3.0,{2}{R},,,,"Imminent Doom enters the battlefield with a doom counter on it.
+93,Hazoret's Undying Fury,R,6.0,{4}{R}{R},,,,"Shuffle your library, then exile the top four cards. You may cast any number of spells with mana value 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step.",rare,,,Sorcery,
+94,Hour of Devastation,R,5.0,{3}{R}{R},,,,All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.,rare,,,Sorcery,
+95,Imminent Doom,R,3.0,{2}{R},,,,"Imminent Doom enters the battlefield with a doom counter on it.
 Whenever you cast a spell with mana value equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom.",rare,,,Enchantment,
-98,Inferno Jet,R,6.0,{5}{R},,,,"Inferno Jet deals 6 damage to target opponent or planeswalker.
+96,Inferno Jet,R,6.0,{5}{R},,,,"Inferno Jet deals 6 damage to target opponent or planeswalker.
 Cycling {2} ({2}, Discard this card: Draw a card.)",uncommon,Cycling,,Sorcery,
-99,Khenra Scrapper,R,3.0,{2}{R},2.0,3.0,,"Menace
+97,Khenra Scrapper,R,3.0,{2}{R},2.0,3.0,,"Menace
 You may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 until end of turn. (An exerted creature won't untap during your next untap step.)",common,"Exert, Menace",,Creature,"Jackal, Warrior"
-100,Kindled Fury,R,1.0,{R},,,,Target creature gets +1/+0 and gains first strike until end of turn.,common,,,Instant,
-101,Magmaroth,R,4.0,{3}{R},5.0,5.0,,"At the beginning of your upkeep, put a -1/-1 counter on Magmaroth.
+98,Kindled Fury,R,1.0,{R},,,,Target creature gets +1/+0 and gains first strike until end of turn.,common,,,Instant,
+99,Magmaroth,R,4.0,{3}{R},5.0,5.0,,"At the beginning of your upkeep, put a -1/-1 counter on Magmaroth.
 Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth.",uncommon,,,Creature,Elemental
-102,Manticore Eternal,R,5.0,{3}{R}{R},5.0,4.0,,"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
+100,Manticore Eternal,R,5.0,{3}{R}{R},5.0,4.0,,"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
 Manticore Eternal attacks each combat if able.",uncommon,Afflict,,Creature,"Zombie, Manticore"
-103,"Neheb, the Eternal",R,5.0,{3}{R}{R},4.0,6.0,,"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
+101,"Neheb, the Eternal",R,5.0,{3}{R}{R},4.0,6.0,,"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
 At the beginning of your postcombat main phase, add {R} for each 1 life your opponents have lost this turn.",mythic,Afflict,Legendary,Creature,"Zombie, Minotaur, Warrior"
-104,Open Fire,R,3.0,{2}{R},,,,Open Fire deals 3 damage to any target.,common,,,Instant,
-105,Puncturing Blow,R,4.0,{2}{R}{R},,,,"Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead.",common,,,Sorcery,
-106,Sand Strangler,R,4.0,{3}{R},3.0,3.0,,"When Sand Strangler enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you may have Sand Strangler deal 3 damage to target creature.",uncommon,,,Creature,Beast
-107,Thorned Moloch,R,3.0,{2}{R},2.0,2.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+102,Open Fire,R,3.0,{2}{R},,,,Open Fire deals 3 damage to any target.,common,,,Instant,
+103,Puncturing Blow,R,4.0,{2}{R}{R},,,,"Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead.",common,,,Sorcery,
+104,Sand Strangler,R,4.0,{3}{R},3.0,3.0,,"When Sand Strangler enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you may have Sand Strangler deal 3 damage to target creature.",uncommon,,,Creature,Beast
+105,Thorned Moloch,R,3.0,{2}{R},2.0,2.0,,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Thorned Moloch has first strike as long as it's attacking.",common,Prowess,,Creature,Lizard
-108,Wildfire Eternal,R,4.0,{3}{R},1.0,4.0,,"Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)
+106,Wildfire Eternal,R,4.0,{3}{R},1.0,4.0,,"Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)
 Whenever Wildfire Eternal attacks and isn't blocked, you may cast an instant or sorcery spell from your hand without paying its mana cost.",rare,Afflict,,Creature,"Zombie, Jackal, Cleric"
-109,Ambuscade,G,3.0,{2}{G},,,,Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.,common,,,Instant,
-110,Beneath the Sands,G,3.0,{2}{G},,,,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+107,Ambuscade,G,3.0,{2}{G},,,,Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.,common,,,Instant,
+108,Beneath the Sands,G,3.0,{2}{G},,,,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 Cycling {2} ({2}, Discard this card: Draw a card.)",common,Cycling,,Sorcery,
-111,Bitterbow Sharpshooters,G,5.0,{4}{G},4.0,4.0,,"Vigilance, reach",common,"Reach, Vigilance",,Creature,"Jackal, Archer"
-112,Devotee of Strength,G,3.0,{2}{G},3.0,2.0,,{4}{G}: Target creature gets +2/+2 until end of turn.,uncommon,,,Creature,"Naga, Wizard"
-113,Dune Diviner,G,3.0,{2}{G},2.0,3.0,,"{1}, Tap an untapped Desert you control: You gain 1 life.",uncommon,,,Creature,"Naga, Cleric"
-114,Feral Prowler,G,2.0,{1}{G},1.0,3.0,,"When Feral Prowler dies, draw a card.",common,,,Creature,Cat
-115,Frilled Sandwalla,G,1.0,{G},1.0,1.0,,{1}{G}: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.,common,,,Creature,Lizard
-116,Gift of Strength,G,2.0,{1}{G},,,,Target creature gets +3/+3 and gains reach until end of turn.,common,,,Instant,
-117,Harrier Naga,G,3.0,{2}{G},3.0,3.0,,,common,,,Creature,"Naga, Warrior"
-118,Hope Tender,G,2.0,{1}{G},2.0,2.0,,"{1}, {T}: Untap target land.
+109,Bitterbow Sharpshooters,G,5.0,{4}{G},4.0,4.0,,"Vigilance, reach",common,"Reach, Vigilance",,Creature,"Jackal, Archer"
+110,Devotee of Strength,G,3.0,{2}{G},3.0,2.0,,{4}{G}: Target creature gets +2/+2 until end of turn.,uncommon,,,Creature,"Naga, Wizard"
+111,Dune Diviner,G,3.0,{2}{G},2.0,3.0,,"{1}, Tap an untapped Desert you control: You gain 1 life.",uncommon,,,Creature,"Naga, Cleric"
+112,Feral Prowler,G,2.0,{1}{G},1.0,3.0,,"When Feral Prowler dies, draw a card.",common,,,Creature,Cat
+113,Frilled Sandwalla,G,1.0,{G},1.0,1.0,,{1}{G}: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.,common,,,Creature,Lizard
+114,Gift of Strength,G,2.0,{1}{G},,,,Target creature gets +3/+3 and gains reach until end of turn.,common,,,Instant,
+115,Harrier Naga,G,3.0,{2}{G},3.0,3.0,,,common,,,Creature,"Naga, Warrior"
+116,Hope Tender,G,2.0,{1}{G},2.0,2.0,,"{1}, {T}: Untap target land.
 {1}, {T}, Exert Hope Tender: Untap two target lands. (An exerted creature won't untap during your next untap step.)",uncommon,Exert,,Creature,"Human, Druid"
-119,Hour of Promise,G,5.0,{4}{G},,,,"Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.",rare,,,Sorcery,
-120,Life Goes On,G,1.0,{G},,,,"You gain 4 life. If a creature died this turn, you gain 8 life instead.",common,,,Instant,
-121,Majestic Myriarch,G,5.0,{4}{G},,,,"Majestic Myriarch's power and toughness are each equal to twice the number of creatures you control.
+117,Hour of Promise,G,5.0,{4}{G},,,,"Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.",rare,,,Sorcery,
+118,Life Goes On,G,1.0,{G},,,,"You gain 4 life. If a creature died this turn, you gain 8 life instead.",common,,,Instant,
+119,Majestic Myriarch,G,5.0,{4}{G},,,,"Majestic Myriarch's power and toughness are each equal to twice the number of creatures you control.
 At the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.",mythic,,,Creature,Chimera
-122,Nissa's Defeat,G,3.0,{2}{G},,,,"Destroy target Forest, green enchantment, or green planeswalker. If that permanent was a Nissa planeswalker, draw a card.",uncommon,,,Sorcery,
-123,Oasis Ritualist,G,4.0,{3}{G},2.0,4.0,,"{T}: Add one mana of any color.
+120,Nissa's Defeat,G,3.0,{2}{G},,,,"Destroy target Forest, green enchantment, or green planeswalker. If that permanent was a Nissa planeswalker, draw a card.",uncommon,,,Sorcery,
+121,Oasis Ritualist,G,4.0,{3}{G},2.0,4.0,,"{T}: Add one mana of any color.
 {T}, Exert Oasis Ritualist: Add two mana of any one color. (An exerted creature won't untap during your next untap step.)",common,Exert,,Creature,"Naga, Druid"
-124,Overcome,G,5.0,{3}{G}{G},,,,Creatures you control get +2/+2 and gain trample until end of turn. (They can deal excess combat damage to the player or planeswalker they're attacking.),uncommon,,,Sorcery,
-125,Pride Sovereign,G,3.0,{2}{G},2.0,2.0,,"Pride Sovereign gets +1/+1 for each other Cat you control.
+122,Overcome,G,5.0,{3}{G}{G},,,,Creatures you control get +2/+2 and gain trample until end of turn. (They can deal excess combat damage to the player or planeswalker they're attacking.),uncommon,,,Sorcery,
+123,Pride Sovereign,G,3.0,{2}{G},2.0,2.0,,"Pride Sovereign gets +1/+1 for each other Cat you control.
 {W}, {T}, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with lifelink. (An exerted creature won't untap during your next untap step.)",rare,Exert,,Creature,Cat
-126,Quarry Beetle,G,5.0,{4}{G},4.0,5.0,,"When Quarry Beetle enters the battlefield, you may return target land card from your graveyard to the battlefield.",uncommon,,,Creature,Insect
-127,Rampaging Hippo,G,6.0,{4}{G}{G},5.0,6.0,,"Trample
+124,Quarry Beetle,G,5.0,{4}{G},4.0,5.0,,"When Quarry Beetle enters the battlefield, you may return target land card from your graveyard to the battlefield.",uncommon,,,Creature,Insect
+125,Rampaging Hippo,G,6.0,{4}{G}{G},5.0,6.0,,"Trample
 Cycling {2} ({2}, Discard this card: Draw a card.)",common,"Cycling, Trample",,Creature,Hippo
-128,Ramunap Excavator,G,3.0,{2}{G},2.0,3.0,,You may play lands from your graveyard.,rare,,,Creature,"Naga, Cleric"
-129,Ramunap Hydra,G,4.0,{3}{G},3.0,3.0,,"Vigilance, reach, trample
+126,Ramunap Excavator,G,3.0,{2}{G},2.0,3.0,,You may play lands from your graveyard.,rare,,,Creature,"Naga, Cleric"
+127,Ramunap Hydra,G,4.0,{3}{G},3.0,3.0,,"Vigilance, reach, trample
 Ramunap Hydra gets +1/+1 as long as you control a Desert.
 Ramunap Hydra gets +1/+1 as long as there is a Desert card in your graveyard.",rare,"Reach, Trample, Vigilance",,Creature,"Snake, Hydra"
-130,Resilient Khenra,G,2.0,{1}{G},2.0,2.0,,"When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.
+128,Resilient Khenra,G,2.0,{1}{G},2.0,2.0,,"When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.
 Eternalize {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)",rare,Eternalize,,Creature,"Jackal, Wizard"
-131,Rhonas's Last Stand,G,2.0,{G}{G},,,,Create a 5/4 green Snake creature token. Lands you control don't untap during your next untap step.,rare,,,Sorcery,
-132,Rhonas's Stalwart,G,2.0,{1}{G},2.0,2.0,,"You may exert Rhonas's Stalwart as it attacks. When you do, it gets +1/+1 until end of turn and can't be blocked by creatures with power 2 or less this turn. (An exerted creature won't untap during your next untap step.)",common,Exert,,Creature,"Human, Warrior"
-133,Sidewinder Naga,G,3.0,{2}{G},3.0,2.0,,"As long as you control a Desert or there is a Desert card in your graveyard, Sidewinder Naga gets +1/+0 and has trample.",common,,,Creature,"Naga, Warrior"
-134,Sifter Wurm,G,7.0,{5}{G}{G},7.0,7.0,,"Trample
+129,Rhonas's Last Stand,G,2.0,{G}{G},,,,Create a 5/4 green Snake creature token. Lands you control don't untap during your next untap step.,rare,,,Sorcery,
+130,Rhonas's Stalwart,G,2.0,{1}{G},2.0,2.0,,"You may exert Rhonas's Stalwart as it attacks. When you do, it gets +1/+1 until end of turn and can't be blocked by creatures with power 2 or less this turn. (An exerted creature won't untap during your next untap step.)",common,Exert,,Creature,"Human, Warrior"
+131,Sidewinder Naga,G,3.0,{2}{G},3.0,2.0,,"As long as you control a Desert or there is a Desert card in your graveyard, Sidewinder Naga gets +1/+0 and has trample.",common,,,Creature,"Naga, Warrior"
+132,Sifter Wurm,G,7.0,{5}{G}{G},7.0,7.0,,"Trample
 When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's mana value.",uncommon,"Scry, Trample",,Creature,Wurm
-135,Tenacious Hunter,G,4.0,{2}{G}{G},4.0,4.0,,"As long as a creature has a -1/-1 counter on it, Tenacious Hunter has vigilance and deathtouch.",uncommon,,,Creature,Crocodile
-136,Uncage the Menagerie,G,2.0,{X}{G}{G},,,,"Search your library for up to X creature cards with different names that each have mana value X, reveal them, put them into your hand, then shuffle.",mythic,,,Sorcery,
-137,Bloodwater Entity,"R, U",3.0,{1}{U}{R},2.0,2.0,,"Flying
+133,Tenacious Hunter,G,4.0,{2}{G}{G},4.0,4.0,,"As long as a creature has a -1/-1 counter on it, Tenacious Hunter has vigilance and deathtouch.",uncommon,,,Creature,Crocodile
+134,Bloodwater Entity,"R, U",3.0,{1}{U}{R},2.0,2.0,,"Flying
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 When Bloodwater Entity enters the battlefield, you may put target instant or sorcery card from your graveyard on top of your library.",uncommon,"Flying, Prowess",,Creature,Elemental
-138,The Locust God,"R, U",6.0,{4}{U}{R},4.0,4.0,,"Flying
+135,The Locust God,"R, U",6.0,{4}{U}{R},4.0,4.0,,"Flying
 Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.
 {2}{U}{R}: Draw a card, then discard a card.
 When The Locust God dies, return it to its owner's hand at the beginning of the next end step.",mythic,Flying,Legendary,Creature,God
-139,"Nicol Bolas, God-Pharaoh","B, R, U",7.0,{4}{U}{B}{R},,,7.0,"[+2]: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
+136,"Nicol Bolas, God-Pharaoh","B, R, U",7.0,{4}{U}{B}{R},,,7.0,"[+2]: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
 [+1]: Each opponent exiles two cards from their hand.
 [−4]: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
 [−12]: Exile each nonland permanent your opponents control.",mythic,,Legendary,Planeswalker,Bolas
-140,Obelisk Spider,"B, G",3.0,{1}{B}{G},1.0,4.0,,"Reach
+137,Obelisk Spider,"B, G",3.0,{1}{B}{G},1.0,4.0,,"Reach
 Whenever Obelisk Spider deals combat damage to a creature, put a -1/-1 counter on that creature.
 Whenever you put one or more -1/-1 counters on a creature, each opponent loses 1 life and you gain 1 life.",uncommon,Reach,,Creature,Spider
-141,Resolute Survivors,"R, W",3.0,{1}{R}{W},3.0,3.0,,"You may exert Resolute Survivors as it attacks. (It won't untap during your next untap step.)
+138,Resolute Survivors,"R, W",3.0,{1}{R}{W},3.0,3.0,,"You may exert Resolute Survivors as it attacks. (It won't untap during your next untap step.)
 Whenever you exert a creature, Resolute Survivors deals 1 damage to each opponent and you gain 1 life.",uncommon,Exert,,Creature,"Human, Warrior"
-142,River Hoopoe,"G, U",2.0,{G}{U},1.0,3.0,,"Flying
+139,River Hoopoe,"G, U",2.0,{G}{U},1.0,3.0,,"Flying
 {3}{G}{U}: You gain 2 life and draw a card.",uncommon,Flying,,Creature,Bird
-143,"Samut, the Tested","G, R",4.0,{2}{R}{G},,,4.0,"[+1]: Up to one target creature gains double strike until end of turn.
+140,"Samut, the Tested","G, R",4.0,{2}{R}{G},,,4.0,"[+1]: Up to one target creature gains double strike until end of turn.
 [−2]: Samut, the Tested deals 2 damage divided as you choose among one or two targets.
 [−7]: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle.",mythic,,Legendary,Planeswalker,Samut
-144,The Scarab God,"B, U",5.0,{3}{U}{B},5.0,5.0,,"At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.
+141,The Scarab God,"B, U",5.0,{3}{U}{B},5.0,5.0,,"At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.
 {2}{U}{B}: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.
 When The Scarab God dies, return it to its owner's hand at the beginning of the next end step.",mythic,Scry,Legendary,Creature,God
-145,The Scorpion God,"B, R",5.0,{3}{B}{R},6.0,5.0,,"Whenever a creature with a -1/-1 counter on it dies, draw a card.
+142,The Scorpion God,"B, R",5.0,{3}{B}{R},6.0,5.0,,"Whenever a creature with a -1/-1 counter on it dies, draw a card.
 {1}{B}{R}: Put a -1/-1 counter on another target creature.
 When The Scorpion God dies, return it to its owner's hand at the beginning of the next end step.",mythic,,Legendary,Creature,God
-146,Unraveling Mummy,"B, W",3.0,{1}{W}{B},2.0,3.0,,"{1}{W}: Target attacking Zombie gains lifelink until end of turn.
+143,Unraveling Mummy,"B, W",3.0,{1}{W}{B},2.0,3.0,,"{1}{W}: Target attacking Zombie gains lifelink until end of turn.
 {1}{B}: Target attacking Zombie gains deathtouch until end of turn.",uncommon,,,Creature,Zombie
-147,Farm,W,6.0,{2}{W},,,,Destroy target attacking or blocking creature.,uncommon,,,Instant,
-148,Market,U,6.0,{2}{U},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+144,Farm,W,6.0,{2}{W},,,,Destroy target attacking or blocking creature.,uncommon,,,Instant,
+145,Market,U,6.0,{2}{U},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Draw two cards, then discard two cards.",uncommon,Aftermath,,Sorcery,
-149,Consign,U,7.0,{1}{U},,,,Return target nonland permanent to its owner's hand.,uncommon,,,Instant,
-150,Oblivion,B,7.0,{4}{B},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+146,Consign,U,7.0,{1}{U},,,,Return target nonland permanent to its owner's hand.,uncommon,,,Instant,
+147,Oblivion,B,7.0,{4}{B},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Target opponent discards two cards.",uncommon,Aftermath,,Sorcery,
-151,Claim,B,3.0,{B},,,,Return target creature card with mana value 2 or less from your graveyard to the battlefield.,uncommon,,,Sorcery,
-152,Fame,R,3.0,{1}{R},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+148,Claim,B,3.0,{B},,,,Return target creature card with mana value 2 or less from your graveyard to the battlefield.,uncommon,,,Sorcery,
+149,Fame,R,3.0,{1}{R},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Target creature gets +2/+0 and gains haste until end of turn.",uncommon,Aftermath,,Sorcery,
-153,Struggle,R,5.0,{2}{R},,,,Struggle deals damage to target creature equal to the number of lands you control.,uncommon,,,Instant,
-154,Survive,G,5.0,{1}{G},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+150,Struggle,R,5.0,{2}{R},,,,Struggle deals damage to target creature equal to the number of lands you control.,uncommon,,,Instant,
+151,Survive,G,5.0,{1}{G},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Each player shuffles their graveyard into their library.",uncommon,Aftermath,,Sorcery,
-155,Appeal,G,3.0,{G},,,,"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creatures you control.",uncommon,,,Sorcery,
-156,Authority,W,3.0,{1}{W},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+152,Appeal,G,3.0,{G},,,,"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creatures you control.",uncommon,,,Sorcery,
+153,Authority,W,3.0,{1}{W},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Tap up to two target creatures your opponents control. Creatures you control gain vigilance until end of turn.",uncommon,Aftermath,,Sorcery,
-157,Leave,W,6.0,{1}{W},,,,Return any number of target permanents you own to your hand.,rare,,,Instant,
-158,Chance,R,6.0,{3}{R},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+154,Leave,W,6.0,{1}{W},,,,Return any number of target permanents you own to your hand.,rare,,,Instant,
+155,Chance,R,6.0,{3}{R},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Discard any number of cards, then draw that many cards.",rare,Aftermath,,Sorcery,
-159,Reason,U,6.0,{U},,,,Scry 3.,rare,Scry,,Sorcery,
-160,Believe,G,6.0,{4}{G},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+156,Reason,U,6.0,{U},,,,Scry 3.,rare,Scry,,Sorcery,
+157,Believe,G,6.0,{4}{G},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Look at the top card of your library. You may put it onto the battlefield if it's a creature card. If you don't, put it into your hand.",rare,Aftermath,,Sorcery,
-161,Grind,B,6.0,{1}{B},,,,Put a -1/-1 counter on each of up to two target creatures.,rare,,,Sorcery,
-162,Dust,W,6.0,{3}{W},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+158,Grind,B,6.0,{1}{B},,,,Put a -1/-1 counter on each of up to two target creatures.,rare,,,Sorcery,
+159,Dust,W,6.0,{3}{W},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Exile any number of target creatures that have -1/-1 counters on them.",rare,Aftermath,,Sorcery,
-163,Refuse,R,7.0,{3}{R},,,,Refuse deals damage to target spell's controller equal to that spell's mana value.,rare,,,Instant,
-164,Cooperate,U,7.0,{2}{U},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+160,Refuse,R,7.0,{3}{R},,,,Refuse deals damage to target spell's controller equal to that spell's mana value.,rare,,,Instant,
+161,Cooperate,U,7.0,{2}{U},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Copy target instant or sorcery spell. You may choose new targets for the copy.",rare,Aftermath,,Instant,
-165,Driven,G,4.0,{1}{G},,,,"Until end of turn, creatures you control gain trample and ""Whenever this creature deals combat damage to a player, draw a card.""",rare,,,Sorcery,
-166,Despair,B,4.0,{1}{B},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
+162,Driven,G,4.0,{1}{G},,,,"Until end of turn, creatures you control gain trample and ""Whenever this creature deals combat damage to a player, draw a card.""",rare,,,Sorcery,
+163,Despair,B,4.0,{1}{B},,,,"Aftermath (Cast this spell only from your graveyard. Then exile it.)
 Until end of turn, creatures you control gain menace and ""Whenever this creature deals combat damage to a player, that player discards a card.""",rare,Aftermath,,Sorcery,
-167,Abandoned Sarcophagus,C,3.0,{3},,,,"You may cast spells that have a cycling ability from your graveyard.
+164,Abandoned Sarcophagus,C,3.0,{3},,,,"You may cast spells that have a cycling ability from your graveyard.
 If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn't cycled, exile it instead.",rare,,,Artifact,
-168,Crook of Condemnation,C,2.0,{2},,,,"{1}, {T}: Exile target card from a graveyard.
+165,Crook of Condemnation,C,2.0,{2},,,,"{1}, {T}: Exile target card from a graveyard.
 {1}, Exile Crook of Condemnation: Exile all graveyards.",uncommon,,,Artifact,
-169,Dagger of the Worthy,C,2.0,{2},,,,"Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)
+166,Dagger of the Worthy,C,2.0,{2},,,,"Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-170,God-Pharaoh's Gift,C,7.0,{7},,,,"At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.",rare,,,Artifact,
-171,Graven Abomination,C,3.0,{3},3.0,1.0,,"Whenever Graven Abomination attacks, exile target card from defending player's graveyard.",common,,,"Artifact, Creature",Horror
-172,Hollow One,C,5.0,{5},4.0,4.0,,"This spell costs {2} less to cast for each card you've cycled or discarded this turn.
+167,God-Pharaoh's Gift,C,7.0,{7},,,,"At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.",rare,,,Artifact,
+168,Graven Abomination,C,3.0,{3},3.0,1.0,,"Whenever Graven Abomination attacks, exile target card from defending player's graveyard.",common,,,"Artifact, Creature",Horror
+169,Hollow One,C,5.0,{5},4.0,4.0,,"This spell costs {2} less to cast for each card you've cycled or discarded this turn.
 Cycling {2} ({2}, Discard this card: Draw a card.)",rare,Cycling,,"Artifact, Creature",Golem
-173,Manalith,C,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact,
-174,Mirage Mirror,C,3.0,{3},,,,"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.",rare,,,Artifact,
-175,Sunset Pyramid,C,2.0,{2},,,,"Sunset Pyramid enters the battlefield with three brick counters on it.
+170,Manalith,C,3.0,{3},,,,{T}: Add one mana of any color.,common,,,Artifact,
+171,Mirage Mirror,C,3.0,{3},,,,"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.",rare,,,Artifact,
+172,Sunset Pyramid,C,2.0,{2},,,,"Sunset Pyramid enters the battlefield with three brick counters on it.
 {2}, {T}, Remove a brick counter from Sunset Pyramid: Draw a card.
 {2}, {T}: Scry 1.",uncommon,Scry,,Artifact,
-176,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact,
-177,Wall of Forgotten Pharaohs,C,2.0,{2},0.0,4.0,,"Defender
+173,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact,
+174,Wall of Forgotten Pharaohs,C,2.0,{2},0.0,4.0,,"Defender
 {T}: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate only if you control a Desert or there is a Desert card in your graveyard.",common,Defender,,"Artifact, Creature",Wall
-178,Crypt of the Eternals,L,0.0,,,,,"When Crypt of the Eternals enters the battlefield, you gain 1 life.
+175,Crypt of the Eternals,L,0.0,,,,,"When Crypt of the Eternals enters the battlefield, you gain 1 life.
 {T}: Add {C}.
 {1}, {T}: Add {U}, {B}, or {R}.",uncommon,,,Land,
-179,Desert of the Fervent,L,0.0,,,,,"Desert of the Fervent enters the battlefield tapped.
+176,Desert of the Fervent,L,0.0,,,,,"Desert of the Fervent enters the battlefield tapped.
 {T}: Add {R}.
 Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)",common,Cycling,,Land,Desert
-180,Desert of the Glorified,L,0.0,,,,,"Desert of the Glorified enters the battlefield tapped.
+177,Desert of the Glorified,L,0.0,,,,,"Desert of the Glorified enters the battlefield tapped.
 {T}: Add {B}.
 Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)",common,Cycling,,Land,Desert
-181,Desert of the Indomitable,L,0.0,,,,,"Desert of the Indomitable enters the battlefield tapped.
+178,Desert of the Indomitable,L,0.0,,,,,"Desert of the Indomitable enters the battlefield tapped.
 {T}: Add {G}.
 Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)",common,Cycling,,Land,Desert
-182,Desert of the Mindful,L,0.0,,,,,"Desert of the Mindful enters the battlefield tapped.
+179,Desert of the Mindful,L,0.0,,,,,"Desert of the Mindful enters the battlefield tapped.
 {T}: Add {U}.
 Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)",common,Cycling,,Land,Desert
-183,Desert of the True,L,0.0,,,,,"Desert of the True enters the battlefield tapped.
+180,Desert of the True,L,0.0,,,,,"Desert of the True enters the battlefield tapped.
 {T}: Add {W}.
 Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)",common,Cycling,,Land,Desert
-184,Dunes of the Dead,L,0.0,,,,,"{T}: Add {C}.
+181,Dunes of the Dead,L,0.0,,,,,"{T}: Add {C}.
 When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/2 black Zombie creature token.",uncommon,,,Land,Desert
-185,Endless Sands,L,0.0,,,,,"{T}: Add {C}.
+182,Endless Sands,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}: Exile target creature you control.
 {4}, {T}, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner's control.",rare,,,Land,Desert
-186,Hashep Oasis,L,0.0,,,,,"{T}: Add {C}.
+183,Hashep Oasis,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {G}.
 {1}{G}{G}, {T}, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate only as a sorcery.",uncommon,,,Land,Desert
-187,Hostile Desert,L,0.0,,,,,"{T}: Add {C}.
+184,Hostile Desert,L,0.0,,,,,"{T}: Add {C}.
 {2}, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 Elemental creature until end of turn. It's still a land.",rare,,,Land,Desert
-188,Ifnir Deadlands,L,0.0,,,,,"{T}: Add {C}.
+185,Ifnir Deadlands,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {B}.
 {2}{B}{B}, {T}, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate only as a sorcery.",uncommon,,,Land,Desert
-189,Ipnu Rivulet,L,0.0,,,,,"{T}: Add {C}.
+186,Ipnu Rivulet,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {U}.
 {1}{U}, {T}, Sacrifice a Desert: Target player mills four cards.",uncommon,Mill,,Land,Desert
-190,Ramunap Ruins,L,0.0,,,,,"{T}: Add {C}.
+187,Ramunap Ruins,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {R}.
 {2}{R}{R}, {T}, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.",uncommon,,,Land,Desert
-191,Scavenger Grounds,L,0.0,,,,,"{T}: Add {C}.
+188,Scavenger Grounds,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice a Desert: Exile all graveyards.",rare,,,Land,Desert
-192,Shefet Dunes,L,0.0,,,,,"{T}: Add {C}.
+189,Shefet Dunes,L,0.0,,,,,"{T}: Add {C}.
 {T}, Pay 1 life: Add {W}.
 {2}{W}{W}, {T}, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate only as a sorcery.",uncommon,,,Land,Desert
-193,Survivors' Encampment,L,0.0,,,,,"{T}: Add {C}.
+190,Survivors' Encampment,L,0.0,,,,,"{T}: Add {C}.
 {T}, Tap an untapped creature you control: Add one mana of any color.",common,,,Land,Desert
-194,"Nissa, Genesis Mage",G,7.0,{5}{G}{G},,,5.0,"[+2]: Untap up to two target creatures and up to two target lands.
+191,"Nissa, Genesis Mage",G,7.0,{5}{G}{G},,,5.0,"[+2]: Untap up to two target creatures and up to two target lands.
 [−3]: Target creature gets +5/+5 until end of turn.
 [−10]: Look at the top ten cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.",mythic,,Legendary,Planeswalker,Nissa
-195,Avid Reclaimer,G,3.0,{2}{G},2.0,2.0,,"{T}: Add {G} or {U}. If you control a Nissa planeswalker, you gain 2 life.",uncommon,,,Creature,"Human, Druid"
-196,Brambleweft Behemoth,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Elemental
-197,Nissa's Encouragement,G,5.0,{4}{G},,,,"Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle.",rare,,,Sorcery,
-198,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+192,Avid Reclaimer,G,3.0,{2}{G},2.0,2.0,,"{T}: Add {G} or {U}. If you control a Nissa planeswalker, you gain 2 life.",uncommon,,,Creature,"Human, Druid"
+193,Brambleweft Behemoth,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Elemental
+194,Nissa's Encouragement,G,5.0,{4}{G},,,,"Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle.",rare,,,Sorcery,
+195,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land,
-199,"Nicol Bolas, the Deceiver","B, R, U",8.0,{5}{U}{B}{R},,,5.0,"[+3]: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
+196,"Nicol Bolas, the Deceiver","B, R, U",8.0,{5}{U}{B}{R},,,5.0,"[+3]: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
 [−3]: Destroy target creature. Draw a card.
 [−11]: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw seven cards.",mythic,,Legendary,Planeswalker,Bolas
-200,Wasp of the Bitter End,B,2.0,{1}{B},2.0,1.0,,"Flying
+197,Wasp of the Bitter End,B,2.0,{1}{B},2.0,1.0,,"Flying
 Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the Bitter End. If you do, destroy target creature.",uncommon,Flying,,Creature,"Insect, Horror"
-201,Zealot of the God-Pharaoh,R,4.0,{3}{R},4.0,3.0,,{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.,common,,,Creature,"Minotaur, Archer"
-202,Visage of Bolas,C,4.0,{4},,,,"When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle.
+198,Zealot of the God-Pharaoh,R,4.0,{3}{R},4.0,3.0,,{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.,common,,,Creature,"Minotaur, Archer"
+199,Visage of Bolas,C,4.0,{4},,,,"When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle.
 {T}: Add {U}, {B}, or {R}.",rare,,,Artifact,
-203,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+200,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",common,,,Land,

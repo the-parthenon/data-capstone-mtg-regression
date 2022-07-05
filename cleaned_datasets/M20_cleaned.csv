@@ -332,229 +332,224 @@ Other Elementals you control have trample.",common,Trample,,Creature,"Elemental,
 198,"Vivien, Arkbow Ranger",G,4.0,{1}{G}{G}{G},,,4.0,"[+1]: Distribute two +1/+1 counters among up to two target creatures. They gain trample until end of turn.
 [−3]: Target creature you control deals damage equal to its power to target creature or planeswalker.
 [−5]: You may reveal a creature card you own from outside the game and put it into your hand.",mythic,,Legendary,Planeswalker,Vivien
-199,Voracious Hydra,G,2.0,{X}{G}{G},0.0,1.0,,"Trample
-Voracious Hydra enters the battlefield with X +1/+1 counters on it.
-When Voracious Hydra enters the battlefield, choose one —
-• Double the number of +1/+1 counters on Voracious Hydra.
-• Voracious Hydra fights target creature you don't control.",rare,"Fight, Trample",,Creature,Hydra
-200,Vorstclaw,G,6.0,{4}{G}{G},7.0,7.0,,,common,,,Creature,"Elemental, Horror"
-201,Wakeroot Elemental,G,6.0,{4}{G}{G},5.0,5.0,,{G}{G}{G}{G}{G}: Untap target land you control. It becomes a 5/5 Elemental creature with haste. It's still a land. (This effect lasts as long as that land remains on the battlefield.),rare,,,Creature,Elemental
-202,Wolfkin Bond,G,5.0,{4}{G},,,,"Enchant creature
+199,Vorstclaw,G,6.0,{4}{G}{G},7.0,7.0,,,common,,,Creature,"Elemental, Horror"
+200,Wakeroot Elemental,G,6.0,{4}{G}{G},5.0,5.0,,{G}{G}{G}{G}{G}: Untap target land you control. It becomes a 5/5 Elemental creature with haste. It's still a land. (This effect lasts as long as that land remains on the battlefield.),rare,,,Creature,Elemental
+201,Wolfkin Bond,G,5.0,{4}{G},,,,"Enchant creature
 When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf creature token.
 Enchanted creature gets +2/+2.",common,Enchant,,Enchantment,Aura
-203,Wolfrider's Saddle,G,4.0,{3}{G},,,,"When Wolfrider's Saddle enters the battlefield, create a 2/2 green Wolf creature token, then attach Wolfrider's Saddle to it.
+202,Wolfrider's Saddle,G,4.0,{3}{G},,,,"When Wolfrider's Saddle enters the battlefield, create a 2/2 green Wolf creature token, then attach Wolfrider's Saddle to it.
 Equipped creature gets +1/+1 and can't be blocked by more than one creature.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-204,Woodland Champion,G,2.0,{1}{G},2.0,2.0,,"Whenever one or more tokens enter the battlefield under your control, put that many +1/+1 counters on Woodland Champion.",uncommon,,,Creature,"Elf, Scout"
-205,Corpse Knight,"B, W",2.0,{W}{B},2.0,2.0,,"Whenever another creature enters the battlefield under your control, each opponent loses 1 life.",uncommon,,,Creature,"Zombie, Knight"
-206,Creeping Trailblazer,"G, R",2.0,{R}{G},2.0,2.0,,"Other Elementals you control get +1/+0.
+203,Woodland Champion,G,2.0,{1}{G},2.0,2.0,,"Whenever one or more tokens enter the battlefield under your control, put that many +1/+1 counters on Woodland Champion.",uncommon,,,Creature,"Elf, Scout"
+204,Corpse Knight,"B, W",2.0,{W}{B},2.0,2.0,,"Whenever another creature enters the battlefield under your control, each opponent loses 1 life.",uncommon,,,Creature,"Zombie, Knight"
+205,Creeping Trailblazer,"G, R",2.0,{R}{G},2.0,2.0,,"Other Elementals you control get +1/+0.
 {2}{R}{G}: Creeping Trailblazer gets +1/+1 until end of turn for each Elemental you control.",uncommon,,,Creature,Elemental
-207,Empyrean Eagle,"U, W",3.0,{1}{W}{U},2.0,3.0,,"Flying
+206,Empyrean Eagle,"U, W",3.0,{1}{W}{U},2.0,3.0,,"Flying
 Other creatures you control with flying get +1/+1.",uncommon,Flying,,Creature,"Bird, Spirit"
-208,Ironroot Warlord,"G, W",3.0,{1}{G}{W},,5.0,,"Ironroot Warlord's power is equal to the number of creatures you control.
+207,Ironroot Warlord,"G, W",3.0,{1}{G}{W},,5.0,,"Ironroot Warlord's power is equal to the number of creatures you control.
 {3}{G}{W}: Create a 1/1 white Soldier creature token.",uncommon,,,Creature,"Treefolk, Soldier"
-209,"Kaalia, Zenith Seeker","B, R, W",3.0,{R}{W}{B},3.0,3.0,,"Flying, vigilance
+208,"Kaalia, Zenith Seeker","B, R, W",3.0,{R}{W}{B},3.0,3.0,,"Flying, vigilance
 When Kaalia, Zenith Seeker enters the battlefield, look at the top six cards of your library. You may reveal an Angel card, a Demon card, and/or a Dragon card from among them and put them into your hand. Put the rest on the bottom of your library in a random order.",mythic,"Flying, Vigilance",Legendary,Creature,"Human, Cleric"
-210,"Kethis, the Hidden Hand","B, G, W",3.0,{W}{B}{G},3.0,4.0,,"Legendary spells you cast cost {1} less to cast.
+209,"Kethis, the Hidden Hand","B, G, W",3.0,{W}{B}{G},3.0,4.0,,"Legendary spells you cast cost {1} less to cast.
 Exile two legendary cards from your graveyard: Until end of turn, each legendary card in your graveyard gains ""You may play this card from your graveyard.""",mythic,,Legendary,Creature,"Elf, Advisor"
-211,"Kykar, Wind's Fury","R, U, W",4.0,{1}{U}{R}{W},3.0,3.0,,"Flying
+210,"Kykar, Wind's Fury","R, U, W",4.0,{1}{U}{R}{W},3.0,3.0,,"Flying
 Whenever you cast a noncreature spell, create a 1/1 white Spirit creature token with flying.
 Sacrifice a Spirit: Add {R}.",mythic,Flying,Legendary,Creature,"Bird, Wizard"
-212,Lightning Stormkin,"R, U",2.0,{U}{R},2.0,2.0,,"Flying
+211,Lightning Stormkin,"R, U",2.0,{U}{R},2.0,2.0,,"Flying
 Haste (This creature can attack and {T} as soon as it comes under your control.)",uncommon,"Flying, Haste",,Creature,"Elemental, Wizard"
-213,Moldervine Reclamation,"B, G",5.0,{3}{B}{G},,,,"Whenever a creature you control dies, you gain 1 life and draw a card.",uncommon,,,Enchantment,
-214,Ogre Siegebreaker,"B, R",4.0,{2}{B}{R},4.0,3.0,,{2}{B}{R}: Destroy target creature that was dealt damage this turn.,uncommon,,,Creature,"Ogre, Berserker"
-215,"Omnath, Locus of the Roil","G, R, U",4.0,{1}{G}{U}{R},3.0,3.0,,"When Omnath, Locus of the Roil enters the battlefield, it deals damage to any target equal to the number of Elementals you control.
+212,Moldervine Reclamation,"B, G",5.0,{3}{B}{G},,,,"Whenever a creature you control dies, you gain 1 life and draw a card.",uncommon,,,Enchantment,
+213,Ogre Siegebreaker,"B, R",4.0,{2}{B}{R},4.0,3.0,,{2}{B}{R}: Destroy target creature that was dealt damage this turn.,uncommon,,,Creature,"Ogre, Berserker"
+214,"Omnath, Locus of the Roil","G, R, U",4.0,{1}{G}{U}{R},3.0,3.0,,"When Omnath, Locus of the Roil enters the battlefield, it deals damage to any target equal to the number of Elementals you control.
 Whenever a land enters the battlefield under your control, put a +1/+1 counter on target Elemental you control. If you control eight or more lands, draw a card.",mythic,,Legendary,Creature,Elemental
-216,Risen Reef,"G, U",3.0,{1}{G}{U},1.0,1.0,,"Whenever Risen Reef or another Elemental enters the battlefield under your control, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand.",uncommon,,,Creature,Elemental
-217,Skyknight Vanguard,"R, W",2.0,{R}{W},1.0,2.0,,"Flying
+215,Risen Reef,"G, U",3.0,{1}{G}{U},1.0,1.0,,"Whenever Risen Reef or another Elemental enters the battlefield under your control, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped. If you don't put the card onto the battlefield, put it into your hand.",uncommon,,,Creature,Elemental
+216,Skyknight Vanguard,"R, W",2.0,{R}{W},1.0,2.0,,"Flying
 Whenever Skyknight Vanguard attacks, create a 1/1 white Soldier creature token that's tapped and attacking.",uncommon,Flying,,Creature,"Human, Knight"
-218,Tomebound Lich,"B, U",3.0,{1}{U}{B},1.0,3.0,,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+217,Tomebound Lich,"B, U",3.0,{1}{U}{B},1.0,3.0,,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 Whenever Tomebound Lich enters the battlefield or deals combat damage to a player, draw a card, then discard a card.",uncommon,"Deathtouch, Lifelink",,Creature,"Zombie, Wizard"
-219,"Yarok, the Desecrated","B, G, U",5.0,{2}{B}{G}{U},3.0,5.0,,"Deathtouch, lifelink
+218,"Yarok, the Desecrated","B, G, U",5.0,{2}{B}{G}{U},3.0,5.0,,"Deathtouch, lifelink
 If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",mythic,"Deathtouch, Lifelink",Legendary,Creature,"Elemental, Horror"
-220,Anvilwrought Raptor,C,4.0,{4},2.0,1.0,,"Flying
+219,Anvilwrought Raptor,C,4.0,{4},2.0,1.0,,"Flying
 First strike (This creature deals combat damage before creatures without first strike.)",common,"First strike, Flying",,"Artifact, Creature",Bird
-221,Bag of Holding,C,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
+220,Bag of Holding,C,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
 {2}, {T}: Draw a card, then discard a card.
 {4}, {T}, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand.",rare,,,Artifact,
-222,Colossus Hammer,C,1.0,{1},,,,"Equipped creature gets +10/+10 and loses flying.
+221,Colossus Hammer,C,1.0,{1},,,,"Equipped creature gets +10/+10 and loses flying.
 Equip {8} ({8}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-223,Diamond Knight,C,3.0,{3},1.0,1.0,,"Vigilance (Attacking doesn't cause this creature to tap.)
+222,Diamond Knight,C,3.0,{3},1.0,1.0,,"Vigilance (Attacking doesn't cause this creature to tap.)
 As Diamond Knight enters the battlefield, choose a color.
 Whenever you cast a spell of the chosen color, put a +1/+1 counter on Diamond Knight.",uncommon,Vigilance,,"Artifact, Creature",Knight
-224,Diviner's Lockbox,C,4.0,{4},,,,"{1}, {T}: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate only as a sorcery.",uncommon,,,Artifact,
-225,"Golos, Tireless Pilgrim",C,5.0,{5},3.0,5.0,,"When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+223,Diviner's Lockbox,C,4.0,{4},,,,"{1}, {T}: Choose a card name, then reveal the top card of your library. If that card has the chosen name, sacrifice Diviner's Lockbox and draw three cards. Activate only as a sorcery.",uncommon,,,Artifact,
+224,"Golos, Tireless Pilgrim",C,5.0,{5},3.0,5.0,,"When Golos, Tireless Pilgrim enters the battlefield, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
 {2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.",rare,,Legendary,"Artifact, Creature",Scout
-226,Grafdigger's Cage,C,1.0,{1},,,,"Creature cards in graveyards and libraries can't enter the battlefield.
+225,Grafdigger's Cage,C,1.0,{1},,,,"Creature cards in graveyards and libraries can't enter the battlefield.
 Players can't cast spells from graveyards or libraries.",rare,,,Artifact,
-227,Heart-Piercer Bow,C,2.0,{2},,,,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
+226,Heart-Piercer Bow,C,2.0,{2},,,,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-228,Icon of Ancestry,C,3.0,{3},,,,"As Icon of Ancestry enters the battlefield, choose a creature type.
+227,Icon of Ancestry,C,3.0,{3},,,,"As Icon of Ancestry enters the battlefield, choose a creature type.
 Creatures you control of the chosen type get +1/+1.
 {3}, {T}: Look at the top three cards of your library. You may reveal a creature card of the chosen type from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Artifact,
-229,Manifold Key,C,1.0,{1},,,,"{1}, {T}: Untap another target artifact.
+228,Manifold Key,C,1.0,{1},,,,"{1}, {T}: Untap another target artifact.
 {3}, {T}: Target creature can't be blocked this turn.",uncommon,,,Artifact,
-230,Marauder's Axe,C,2.0,{2},,,,"Equipped creature gets +2/+0.
+229,Marauder's Axe,C,2.0,{2},,,,"Equipped creature gets +2/+0.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-231,Meteor Golem,C,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature",Golem
-232,Mystic Forge,C,4.0,{4},,,,"You may look at the top card of your library any time.
+230,Meteor Golem,C,7.0,{7},3.0,3.0,,"When Meteor Golem enters the battlefield, destroy target nonland permanent an opponent controls.",uncommon,,,"Artifact, Creature",Golem
+231,Mystic Forge,C,4.0,{4},,,,"You may look at the top card of your library any time.
 You may cast artifact spells and colorless spells from the top of your library.
 {T}, Pay 1 life: Exile the top card of your library.",rare,,,Artifact,
-233,Pattern Matcher,C,4.0,{4},3.0,3.0,,"When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle.",uncommon,,,"Artifact, Creature",Golem
-234,Prismite,C,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature",Golem
-235,Retributive Wand,C,3.0,{3},,,,"{3}, {T}: Retributive Wand deals 1 damage to any target.
+232,Pattern Matcher,C,4.0,{4},3.0,3.0,,"When Pattern Matcher enters the battlefield, you may search your library for a card with the same name as another creature you control, reveal it, put it into your hand, then shuffle.",uncommon,,,"Artifact, Creature",Golem
+233,Prismite,C,2.0,{2},2.0,1.0,,{2}: Add one mana of any color.,common,,,"Artifact, Creature",Golem
+234,Retributive Wand,C,3.0,{3},,,,"{3}, {T}: Retributive Wand deals 1 damage to any target.
 When Retributive Wand is put into a graveyard from the battlefield, it deals 5 damage to any target.",uncommon,,,Artifact,
-236,Salvager of Ruin,C,3.0,{3},2.0,1.0,,Sacrifice Salvager of Ruin: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.,uncommon,,,"Artifact, Creature",Construct
-237,Scuttlemutt,C,3.0,{3},2.0,2.0,,"{T}: Add one mana of any color.
+235,Salvager of Ruin,C,3.0,{3},2.0,1.0,,Sacrifice Salvager of Ruin: Choose target permanent card in your graveyard that was put there from the battlefield this turn. Return it to your hand.,uncommon,,,"Artifact, Creature",Construct
+236,Scuttlemutt,C,3.0,{3},2.0,2.0,,"{T}: Add one mana of any color.
 {T}: Target creature becomes the color or colors of your choice until end of turn.",uncommon,,,"Artifact, Creature",Scarecrow
-238,Steel Overseer,C,2.0,{2},1.0,1.0,,{T}: Put a +1/+1 counter on each artifact creature you control.,rare,,,"Artifact, Creature",Construct
-239,Stone Golem,C,5.0,{5},4.0,4.0,,,common,,,"Artifact, Creature",Golem
-240,Vial of Dragonfire,C,2.0,{2},,,,"{2}, {T}, Sacrifice Vial of Dragonfire: It deals 2 damage to target creature.",common,,,Artifact,
-241,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
+237,Steel Overseer,C,2.0,{2},1.0,1.0,,{T}: Put a +1/+1 counter on each artifact creature you control.,rare,,,"Artifact, Creature",Construct
+238,Stone Golem,C,5.0,{5},4.0,4.0,,,common,,,"Artifact, Creature",Golem
+239,Vial of Dragonfire,C,2.0,{2},,,,"{2}, {T}, Sacrifice Vial of Dragonfire: It deals 2 damage to target creature.",common,,,Artifact,
+240,Bloodfell Caves,L,0.0,,,,,"Bloodfell Caves enters the battlefield tapped.
 When Bloodfell Caves enters the battlefield, you gain 1 life.
 {T}: Add {B} or {R}.",common,,,Land,
-242,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
+241,Blossoming Sands,L,0.0,,,,,"Blossoming Sands enters the battlefield tapped.
 When Blossoming Sands enters the battlefield, you gain 1 life.
 {T}: Add {G} or {W}.",common,,,Land,
-243,Cryptic Caves,L,0.0,,,,,"{T}: Add {C}.
+242,Cryptic Caves,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}, Sacrifice Cryptic Caves: Draw a card. Activate only if you control five or more lands.",uncommon,,,Land,
-244,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
+243,Dismal Backwater,L,0.0,,,,,"Dismal Backwater enters the battlefield tapped.
 When Dismal Backwater enters the battlefield, you gain 1 life.
 {T}: Add {U} or {B}.",common,,,Land,
-245,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land,
-246,Field of the Dead,L,0.0,,,,,"Field of the Dead enters the battlefield tapped.
+244,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land,
+245,Field of the Dead,L,0.0,,,,,"Field of the Dead enters the battlefield tapped.
 {T}: Add {C}.
 Whenever Field of the Dead or another land enters the battlefield under your control, if you control seven or more lands with different names, create a 2/2 black Zombie creature token.",rare,,,Land,
-247,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
+246,Jungle Hollow,L,0.0,,,,,"Jungle Hollow enters the battlefield tapped.
 When Jungle Hollow enters the battlefield, you gain 1 life.
 {T}: Add {B} or {G}.",common,,,Land,
-248,Lotus Field,L,0.0,,,,,"Hexproof
+247,Lotus Field,L,0.0,,,,,"Hexproof
 Lotus Field enters the battlefield tapped.
 When Lotus Field enters the battlefield, sacrifice two lands.
 {T}: Add three mana of any one color.",rare,Hexproof,,Land,
-249,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
+248,Rugged Highlands,L,0.0,,,,,"Rugged Highlands enters the battlefield tapped.
 When Rugged Highlands enters the battlefield, you gain 1 life.
 {T}: Add {R} or {G}.",common,,,Land,
-250,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
+249,Scoured Barrens,L,0.0,,,,,"Scoured Barrens enters the battlefield tapped.
 When Scoured Barrens enters the battlefield, you gain 1 life.
 {T}: Add {W} or {B}.",common,,,Land,
-251,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
+250,Swiftwater Cliffs,L,0.0,,,,,"Swiftwater Cliffs enters the battlefield tapped.
 When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 {T}: Add {U} or {R}.",common,,,Land,
-252,Temple of Epiphany,L,0.0,,,,,"Temple of Epiphany enters the battlefield tapped.
+251,Temple of Epiphany,L,0.0,,,,,"Temple of Epiphany enters the battlefield tapped.
 When Temple of Epiphany enters the battlefield, scry 1.
 {T}: Add {U} or {R}.",rare,Scry,,Land,
-253,Temple of Malady,L,0.0,,,,,"Temple of Malady enters the battlefield tapped.
+252,Temple of Malady,L,0.0,,,,,"Temple of Malady enters the battlefield tapped.
 When Temple of Malady enters the battlefield, scry 1.
 {T}: Add {B} or {G}.",rare,Scry,,Land,
-254,Temple of Mystery,L,0.0,,,,,"Temple of Mystery enters the battlefield tapped.
+253,Temple of Mystery,L,0.0,,,,,"Temple of Mystery enters the battlefield tapped.
 When Temple of Mystery enters the battlefield, scry 1.
 {T}: Add {G} or {U}.",rare,Scry,,Land,
-255,Temple of Silence,L,0.0,,,,,"Temple of Silence enters the battlefield tapped.
+254,Temple of Silence,L,0.0,,,,,"Temple of Silence enters the battlefield tapped.
 When Temple of Silence enters the battlefield, scry 1.
 {T}: Add {W} or {B}.",rare,Scry,,Land,
-256,Temple of Triumph,L,0.0,,,,,"Temple of Triumph enters the battlefield tapped.
+255,Temple of Triumph,L,0.0,,,,,"Temple of Triumph enters the battlefield tapped.
 When Temple of Triumph enters the battlefield, scry 1.
 {T}: Add {R} or {W}.",rare,Scry,,Land,
-257,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+256,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land,
-258,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
+257,Tranquil Cove,L,0.0,,,,,"Tranquil Cove enters the battlefield tapped.
 When Tranquil Cove enters the battlefield, you gain 1 life.
 {T}: Add {W} or {U}.",common,,,Land,
-259,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+258,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land,
-260,"Ajani, Inspiring Leader",W,6.0,{4}{W}{W},,,5.0,"[+2]: You gain 2 life. Put two +1/+1 counters on up to one target creature.
+259,"Ajani, Inspiring Leader",W,6.0,{4}{W}{W},,,5.0,"[+2]: You gain 2 life. Put two +1/+1 counters on up to one target creature.
 [−3]: Exile target creature. Its controller gains 2 life.
 [−10]: Creatures you control gain flying and double strike until end of turn.",mythic,,Legendary,Planeswalker,Ajani
-261,Goldmane Griffin,W,5.0,{3}{W}{W},3.0,2.0,,"Flying, vigilance
+260,Goldmane Griffin,W,5.0,{3}{W}{W},3.0,2.0,,"Flying, vigilance
 When Goldmane Griffin enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Inspiring Leader, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,"Flying, Vigilance",,Creature,Griffin
-262,Savannah Sage,W,2.0,{1}{W},2.0,2.0,,"When Savannah Sage enters the battlefield, you gain 2 life.",common,,,Creature,"Cat, Cleric"
-263,Twinblade Paladin,W,4.0,{3}{W},3.0,3.0,,"Whenever you gain life, put a +1/+1 counter on Twinblade Paladin.
+261,Savannah Sage,W,2.0,{1}{W},2.0,2.0,,"When Savannah Sage enters the battlefield, you gain 2 life.",common,,,Creature,"Cat, Cleric"
+262,Twinblade Paladin,W,4.0,{3}{W},3.0,3.0,,"Whenever you gain life, put a +1/+1 counter on Twinblade Paladin.
 As long as you have 25 or more life, Twinblade Paladin has double strike. (It deals both first-strike and regular combat damage.)",uncommon,,,Creature,"Human, Knight"
-264,"Mu Yanling, Celestial Wind",U,6.0,{4}{U}{U},,,5.0,"[+1]: Until your next turn, up to one target creature gets -5/-0.
+263,"Mu Yanling, Celestial Wind",U,6.0,{4}{U}{U},,,5.0,"[+1]: Until your next turn, up to one target creature gets -5/-0.
 [−3]: Return up to two target creatures to their owners' hands.
 [−7]: Creatures you control with flying get +5/+5 until end of turn.",mythic,,Legendary,Planeswalker,Yanling
-265,Celestial Messenger,U,4.0,{2}{U}{U},3.0,2.0,,"Flash (You may cast this card any time you could cast an instant.)
+264,Celestial Messenger,U,4.0,{2}{U}{U},3.0,2.0,,"Flash (You may cast this card any time you could cast an instant.)
 Flying
 Celestial Messenger gets +1/+1 as long as you control a Yanling planeswalker.",common,"Flash, Flying",,Creature,"Bird, Spirit"
-266,Waterkin Shaman,U,2.0,{1}{U},2.0,1.0,,"Whenever a creature with flying enters the battlefield under your control, Waterkin Shaman gets +1/+1 until end of turn.",uncommon,,,Creature,"Elemental, Shaman"
-267,Yanling's Harbinger,U,5.0,{3}{U}{U},2.0,4.0,,"Flying
+265,Waterkin Shaman,U,2.0,{1}{U},2.0,1.0,,"Whenever a creature with flying enters the battlefield under your control, Waterkin Shaman gets +1/+1 until end of turn.",uncommon,,,Creature,"Elemental, Shaman"
+266,Yanling's Harbinger,U,5.0,{3}{U}{U},2.0,4.0,,"Flying
 When Yanling's Harbinger enters the battlefield, you may search your library and/or graveyard for a card named Mu Yanling, Celestial Wind, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,Flying,,Creature,Bird
-268,"Sorin, Vampire Lord",B,6.0,{4}{B}{B},,,4.0,"[+1]: Up to one target creature gets +2/+0 until end of turn.
+267,"Sorin, Vampire Lord",B,6.0,{4}{B}{B},,,4.0,"[+1]: Up to one target creature gets +2/+0 until end of turn.
 [−2]: Sorin, Vampire Lord deals 4 damage to any target. You gain 4 life.
 [−8]: Until end of turn, each Vampire you control gains ""{T}: Gain control of target creature.""",mythic,,Legendary,Planeswalker,Sorin
-269,Savage Gorger,B,3.0,{1}{B}{B},1.0,1.0,,"Flying
+268,Savage Gorger,B,3.0,{1}{B}{B},1.0,1.0,,"Flying
 At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on Savage Gorger. (Damage causes loss of life.)",common,Flying,,Creature,Vampire
-270,Sorin's Guide,B,5.0,{3}{B}{B},4.0,2.0,,"When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature,Vampire
-271,Thirsting Bloodlord,B,4.0,{2}{B}{B},3.0,3.0,,Other Vampires you control get +1/+1.,uncommon,,,Creature,Vampire
-272,"Chandra, Flame's Fury",R,6.0,{4}{R}{R},,,4.0,"[+1]: Chandra, Flame's Fury deals 2 damage to any target.
+269,Sorin's Guide,B,5.0,{3}{B}{B},4.0,2.0,,"When Sorin's Guide enters the battlefield, you may search your library and/or graveyard for a card named Sorin, Vampire Lord, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature,Vampire
+270,Thirsting Bloodlord,B,4.0,{2}{B}{B},3.0,3.0,,Other Vampires you control get +1/+1.,uncommon,,,Creature,Vampire
+271,"Chandra, Flame's Fury",R,6.0,{4}{R}{R},,,4.0,"[+1]: Chandra, Flame's Fury deals 2 damage to any target.
 [−2]: Chandra, Flame's Fury deals 4 damage to target creature and 2 damage to that creature's controller.
 [−8]: Chandra, Flame's Fury deals 10 damage to target player and each creature that player controls.",mythic,,Legendary,Planeswalker,Chandra
-273,Chandra's Flame Wave,R,5.0,{3}{R}{R},,,,"Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery,
-274,Pyroclastic Elemental,R,5.0,{3}{R}{R},5.0,4.0,,{1}{R}{R}: Pyroclastic Elemental deals 1 damage to target player.,uncommon,,,Creature,Elemental
-275,Wildfire Elemental,R,4.0,{2}{R}{R},3.0,3.0,,"Whenever an opponent is dealt noncombat damage, creatures you control get +1/+0 until end of turn.",common,,,Creature,Elemental
-276,"Vivien, Nature's Avenger",G,6.0,{4}{G}{G},,,3.0,"[+1]: Put three +1/+1 counters on up to one target creature.
+272,Chandra's Flame Wave,R,5.0,{3}{R}{R},,,,"Chandra's Flame Wave deals 2 damage to target player and each creature that player controls. Search your library and/or graveyard for a card named Chandra, Flame's Fury, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Sorcery,
+273,Pyroclastic Elemental,R,5.0,{3}{R}{R},5.0,4.0,,{1}{R}{R}: Pyroclastic Elemental deals 1 damage to target player.,uncommon,,,Creature,Elemental
+274,Wildfire Elemental,R,4.0,{2}{R}{R},3.0,3.0,,"Whenever an opponent is dealt noncombat damage, creatures you control get +1/+0 until end of turn.",common,,,Creature,Elemental
+275,"Vivien, Nature's Avenger",G,6.0,{4}{G}{G},,,3.0,"[+1]: Put three +1/+1 counters on up to one target creature.
 [−1]: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
 [−6]: Target creature gets +10/+10 and gains trample until end of turn.",mythic,,Legendary,Planeswalker,Vivien
-277,Ethereal Elk,G,5.0,{3}{G}{G},3.0,3.0,,"Trample
+276,Ethereal Elk,G,5.0,{3}{G}{G},3.0,3.0,,"Trample
 When Ethereal Elk enters the battlefield, you may search your library and/or graveyard for a card named Vivien, Nature's Avenger, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,Trample,,Creature,"Elk, Spirit"
-278,Gnarlback Rhino,G,4.0,{2}{G}{G},4.0,4.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+277,Gnarlback Rhino,G,4.0,{2}{G}{G},4.0,4.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 Whenever you cast a spell that targets Gnarlback Rhino, draw a card.",uncommon,Trample,,Creature,Rhino
-279,Vivien's Crocodile,G,3.0,{2}{G},3.0,3.0,,Vivien's Crocodile gets +1/+1 as long as you control a Vivien planeswalker.,common,,,Creature,"Crocodile, Spirit"
-280,Angelic Guardian,W,6.0,{4}{W}{W},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+278,Vivien's Crocodile,G,3.0,{2}{G},3.0,3.0,,Vivien's Crocodile gets +1/+1 as long as you control a Vivien planeswalker.,common,,,Creature,"Crocodile, Spirit"
+279,Angelic Guardian,W,6.0,{4}{W}{W},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 Whenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy them.)",rare,Flying,,Creature,Angel
-281,Bastion Enforcer,W,3.0,{2}{W},3.0,2.0,,,common,,,Creature,"Dwarf, Soldier"
-282,Concordia Pegasus,W,2.0,{1}{W},1.0,3.0,,Flying,common,Flying,,Creature,Pegasus
-283,Haazda Officer,W,3.0,{2}{W},3.0,2.0,,"When Haazda Officer enters the battlefield, target creature you control gets +1/+1 until end of turn.",common,,,Creature,"Human, Soldier"
-284,Impassioned Orator,W,2.0,{1}{W},2.0,2.0,,"Whenever another creature enters the battlefield under your control, you gain 1 life.",common,,,Creature,"Human, Cleric"
-285,Imperial Outrider,W,4.0,{3}{W},1.0,5.0,,,common,,,Creature,"Human, Knight"
-286,Ironclad Krovod,W,4.0,{3}{W},2.0,5.0,,,common,,,Creature,Beast
-287,Prowling Caracal,W,2.0,{1}{W},3.0,1.0,,,common,,,Creature,Cat
-288,Serra's Guardian,W,6.0,{4}{W}{W},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+280,Bastion Enforcer,W,3.0,{2}{W},3.0,2.0,,,common,,,Creature,"Dwarf, Soldier"
+281,Concordia Pegasus,W,2.0,{1}{W},1.0,3.0,,Flying,common,Flying,,Creature,Pegasus
+282,Haazda Officer,W,3.0,{2}{W},3.0,2.0,,"When Haazda Officer enters the battlefield, target creature you control gets +1/+1 until end of turn.",common,,,Creature,"Human, Soldier"
+283,Impassioned Orator,W,2.0,{1}{W},2.0,2.0,,"Whenever another creature enters the battlefield under your control, you gain 1 life.",common,,,Creature,"Human, Cleric"
+284,Imperial Outrider,W,4.0,{3}{W},1.0,5.0,,,common,,,Creature,"Human, Knight"
+285,Ironclad Krovod,W,4.0,{3}{W},2.0,5.0,,,common,,,Creature,Beast
+286,Prowling Caracal,W,2.0,{1}{W},3.0,1.0,,,common,,,Creature,Cat
+287,Serra's Guardian,W,6.0,{4}{W}{W},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 Vigilance (Attacking doesn't cause this creature to tap.)
 Other creatures you control have vigilance.",rare,"Flying, Vigilance",,Creature,Angel
-289,Show of Valor,W,2.0,{1}{W},,,,Target creature gets +2/+4 until end of turn.,common,,,Instant,
-290,Siege Mastodon,W,5.0,{4}{W},3.0,5.0,,,common,,,Creature,Elephant
-291,Take Vengeance,W,2.0,{1}{W},,,,Destroy target tapped creature.,common,,,Sorcery,
-292,Trusted Pegasus,W,3.0,{2}{W},2.0,2.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+288,Show of Valor,W,2.0,{1}{W},,,,Target creature gets +2/+4 until end of turn.,common,,,Instant,
+289,Siege Mastodon,W,5.0,{4}{W},3.0,5.0,,,common,,,Creature,Elephant
+290,Take Vengeance,W,2.0,{1}{W},,,,Destroy target tapped creature.,common,,,Sorcery,
+291,Trusted Pegasus,W,3.0,{2}{W},2.0,2.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.",common,Flying,,Creature,Pegasus
-293,Coral Merfolk,U,2.0,{1}{U},2.0,1.0,,,common,,,Creature,Merfolk
-294,Phantom Warrior,U,3.0,{1}{U}{U},2.0,2.0,,Phantom Warrior can't be blocked.,common,,,Creature,"Illusion, Warrior"
-295,Riddlemaster Sphinx,U,6.0,{4}{U}{U},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+292,Coral Merfolk,U,2.0,{1}{U},2.0,1.0,,,common,,,Creature,Merfolk
+293,Phantom Warrior,U,3.0,{1}{U}{U},2.0,2.0,,Phantom Warrior can't be blocked.,common,,,Creature,"Illusion, Warrior"
+294,Riddlemaster Sphinx,U,6.0,{4}{U}{U},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 When Riddlemaster Sphinx enters the battlefield, you may return target creature an opponent controls to its owner's hand.",rare,Flying,,Creature,Sphinx
-296,Snapping Drake,U,4.0,{3}{U},3.0,2.0,,Flying (This creature can't be blocked except by creatures with flying or reach.),common,Flying,,Creature,Drake
-297,Bartizan Bats,B,4.0,{3}{B},3.0,1.0,,Flying (This creature can't be blocked except by creatures with flying or reach.),common,Flying,,Creature,Bat
-298,Bogstomper,B,6.0,{4}{B}{B},6.0,5.0,,,common,,,Creature,Beast
-299,Dark Remedy,B,2.0,{1}{B},,,,Target creature gets +1/+3 until end of turn.,common,,,Instant,
-300,Disentomb,B,1.0,{B},,,,Return target creature card from your graveyard to your hand.,common,,,Sorcery,
-301,Gravewaker,B,6.0,{4}{B}{B},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+295,Snapping Drake,U,4.0,{3}{U},3.0,2.0,,Flying (This creature can't be blocked except by creatures with flying or reach.),common,Flying,,Creature,Drake
+296,Bartizan Bats,B,4.0,{3}{B},3.0,1.0,,Flying (This creature can't be blocked except by creatures with flying or reach.),common,Flying,,Creature,Bat
+297,Bogstomper,B,6.0,{4}{B}{B},6.0,5.0,,,common,,,Creature,Beast
+298,Dark Remedy,B,2.0,{1}{B},,,,Target creature gets +1/+3 until end of turn.,common,,,Instant,
+299,Disentomb,B,1.0,{B},,,,Return target creature card from your graveyard to your hand.,common,,,Sorcery,
+300,Gravewaker,B,6.0,{4}{B}{B},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 {5}{B}{B}: Return target creature card from your graveyard to the battlefield tapped.",rare,Flying,,Creature,"Bird, Spirit"
-302,Skeleton Archer,B,4.0,{3}{B},3.0,3.0,,"When Skeleton Archer enters the battlefield, it deals 1 damage to any target.",common,,,Creature,"Skeleton, Archer"
-303,Sorin's Thirst,B,2.0,{B}{B},,,,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,common,,,Instant,
-304,Vampire Opportunist,B,2.0,{1}{B},2.0,1.0,,{6}{B}: Each opponent loses 2 life and you gain 2 life.,common,,,Creature,Vampire
-305,Walking Corpse,B,2.0,{1}{B},2.0,2.0,,,common,,,Creature,Zombie
-306,Engulfing Eruption,R,4.0,{2}{R}{R},,,,Engulfing Eruption deals 5 damage to target creature.,common,,,Sorcery,
-307,Fearless Halberdier,R,3.0,{2}{R},3.0,2.0,,,common,,,Creature,"Human, Warrior"
-308,Goblin Assailant,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature,"Goblin, Warrior"
-309,Hostile Minotaur,R,4.0,{3}{R},3.0,3.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature,Minotaur
-310,Immortal Phoenix,R,6.0,{4}{R}{R},5.0,3.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+301,Skeleton Archer,B,4.0,{3}{B},3.0,3.0,,"When Skeleton Archer enters the battlefield, it deals 1 damage to any target.",common,,,Creature,"Skeleton, Archer"
+302,Sorin's Thirst,B,2.0,{B}{B},,,,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,common,,,Instant,
+303,Vampire Opportunist,B,2.0,{1}{B},2.0,1.0,,{6}{B}: Each opponent loses 2 life and you gain 2 life.,common,,,Creature,Vampire
+304,Walking Corpse,B,2.0,{1}{B},2.0,2.0,,,common,,,Creature,Zombie
+305,Engulfing Eruption,R,4.0,{2}{R}{R},,,,Engulfing Eruption deals 5 damage to target creature.,common,,,Sorcery,
+306,Fearless Halberdier,R,3.0,{2}{R},3.0,2.0,,,common,,,Creature,"Human, Warrior"
+307,Goblin Assailant,R,2.0,{1}{R},2.0,2.0,,,common,,,Creature,"Goblin, Warrior"
+308,Hostile Minotaur,R,4.0,{3}{R},3.0,3.0,,Haste (This creature can attack and {T} as soon as it comes under your control.),common,Haste,,Creature,Minotaur
+309,Immortal Phoenix,R,6.0,{4}{R}{R},5.0,3.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 When Immortal Phoenix dies, return it to its owner's hand.",rare,Flying,,Creature,Phoenix
-311,Nimble Birdsticker,R,3.0,{2}{R},2.0,3.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Goblin
-312,Rubblebelt Recluse,R,5.0,{4}{R},6.0,5.0,,Rubblebelt Recluse attacks each combat if able.,common,,,Creature,"Ogre, Berserker"
-313,Shivan Dragon,R,6.0,{4}{R}{R},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
+310,Nimble Birdsticker,R,3.0,{2}{R},2.0,3.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Goblin
+311,Rubblebelt Recluse,R,5.0,{4}{R},6.0,5.0,,Rubblebelt Recluse attacks each combat if able.,common,,,Creature,"Ogre, Berserker"
+312,Shivan Dragon,R,6.0,{4}{R}{R},5.0,5.0,,"Flying (This creature can't be blocked except by creatures with flying or reach.)
 {R}: Shivan Dragon gets +1/+0 until end of turn.",rare,Flying,,Creature,Dragon
-314,Volcanic Dragon,R,6.0,{4}{R}{R},4.0,4.0,,"Flying, haste",uncommon,"Flying, Haste",,Creature,Dragon
-315,Aggressive Mammoth,G,6.0,{3}{G}{G}{G},8.0,8.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+313,Volcanic Dragon,R,6.0,{4}{R}{R},4.0,4.0,,"Flying, haste",uncommon,"Flying, Haste",,Creature,Dragon
+314,Aggressive Mammoth,G,6.0,{3}{G}{G}{G},8.0,8.0,,"Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 Other creatures you control have trample.",rare,Trample,,Creature,Elephant
-316,Bristling Boar,G,4.0,{3}{G},4.0,3.0,,Bristling Boar can't be blocked by more than one creature.,common,,,Creature,Boar
-317,Canopy Spider,G,2.0,{1}{G},1.0,3.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Spider
-318,Frilled Sandwalla,G,1.0,{G},1.0,1.0,,{1}{G}: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.,common,,,Creature,Lizard
-319,Oakenform,G,3.0,{2}{G},,,,"Enchant creature
+315,Bristling Boar,G,4.0,{3}{G},4.0,3.0,,Bristling Boar can't be blocked by more than one creature.,common,,,Creature,Boar
+316,Canopy Spider,G,2.0,{1}{G},1.0,3.0,,Reach (This creature can block creatures with flying.),common,Reach,,Creature,Spider
+317,Frilled Sandwalla,G,1.0,{G},1.0,1.0,,{1}{G}: Frilled Sandwalla gets +2/+2 until end of turn. Activate only once each turn.,common,,,Creature,Lizard
+318,Oakenform,G,3.0,{2}{G},,,,"Enchant creature
 Enchanted creature gets +3/+3.",common,Enchant,,Enchantment,Aura
-320,Prized Unicorn,G,4.0,{3}{G},2.0,2.0,,All creatures able to block Prized Unicorn do so.,common,,,Creature,Unicorn
-321,Titanic Growth,G,2.0,{1}{G},,,,Target creature gets +4/+4 until end of turn.,common,,,Instant,
-322,Woodland Mystic,G,2.0,{1}{G},1.0,1.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"
+319,Prized Unicorn,G,4.0,{3}{G},2.0,2.0,,All creatures able to block Prized Unicorn do so.,common,,,Creature,Unicorn
+320,Titanic Growth,G,2.0,{1}{G},,,,Target creature gets +4/+4 until end of turn.,common,,,Instant,
+321,Woodland Mystic,G,2.0,{1}{G},1.0,1.0,,{T}: Add {G}.,common,,,Creature,"Elf, Druid"

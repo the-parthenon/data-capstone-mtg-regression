@@ -39,489 +39,474 @@ Escape—{4}{W}{W}, Exile four other cards from your graveyard. (You may cast th
 As long as your devotion to white is less than five, Heliod isn't a creature.
 Whenever you gain life, put a +1/+1 counter on target creature or enchantment you control.
 {1}{W}: Another target creature gains lifelink until end of turn.",mythic,Indestructible,Legendary,"Enchantment, Creature",God
-18,Heliod's Intervention,W,2.0,{X}{W}{W},,,,"Choose one —
-• Destroy X target artifacts and/or enchantments.
-• Target player gains twice X life.",rare,,,Instant,
-19,Heliod's Pilgrim,W,3.0,{2}{W},1.0,2.0,,"When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.",common,,,Creature,"Human, Cleric"
-20,Heliod's Punishment,W,2.0,{1}{W},,,,"Enchant creature
+18,Heliod's Pilgrim,W,3.0,{2}{W},1.0,2.0,,"When Heliod's Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle.",common,,,Creature,"Human, Cleric"
+19,Heliod's Punishment,W,2.0,{1}{W},,,,"Enchant creature
 Heliod's Punishment enters the battlefield with four task counters on it.
 Enchanted creature can't attack or block. It loses all abilities and has ""{T}: Remove a task counter from Heliod's Punishment. Then if it has no task counters on it, destroy Heliod's Punishment.""",uncommon,Enchant,,Enchantment,Aura
-21,Hero of the Pride,W,2.0,{1}{W},2.0,2.0,,"Whenever you cast a spell that targets Hero of the Pride, creatures you control get +1/+0 until end of turn.",common,,,Creature,"Cat, Soldier"
-22,Hero of the Winds,W,4.0,{3}{W},1.0,4.0,,"Flying
+20,Hero of the Pride,W,2.0,{1}{W},2.0,2.0,,"Whenever you cast a spell that targets Hero of the Pride, creatures you control get +1/+0 until end of turn.",common,,,Creature,"Cat, Soldier"
+21,Hero of the Winds,W,4.0,{3}{W},1.0,4.0,,"Flying
 Whenever you cast a spell that targets Hero of the Winds, creatures you control get +1/+0 until end of turn.",uncommon,Flying,,Creature,"Human, Soldier"
-23,Idyllic Tutor,W,3.0,{2}{W},,,,"Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.",rare,,,Sorcery,
-24,Indomitable Will,W,2.0,{1}{W},,,,"Flash
+22,Idyllic Tutor,W,3.0,{2}{W},,,,"Search your library for an enchantment card, reveal it, put it into your hand, then shuffle.",rare,,,Sorcery,
+23,Indomitable Will,W,2.0,{1}{W},,,,"Flash
 Enchant creature
 Enchanted creature gets +1/+2.",common,"Enchant, Flash",,Enchantment,Aura
-25,Karametra's Blessing,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's an enchanted creature or enchantment creature, it also gains hexproof and indestructible until end of turn. (It can't be the target of spells or abilities your opponents control. Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant,
-26,Lagonna-Band Storyteller,W,4.0,{3}{W},3.0,4.0,,"When Lagonna-Band Storyteller enters the battlefield, you may put target enchantment card from your graveyard on top of your library. If you do, you gain life equal to its mana value.",uncommon,,,Creature,"Centaur, Advisor"
-27,Leonin of the Lost Pride,W,2.0,{1}{W},3.0,1.0,,"When Leonin of the Lost Pride dies, exile target card from an opponent's graveyard.",common,,,Creature,"Cat, Warrior"
-28,Nyxborn Courser,W,3.0,{1}{W}{W},2.0,4.0,,,common,,,"Enchantment, Creature","Centaur, Scout"
-29,Omen of the Sun,W,3.0,{2}{W},,,,"Flash
+24,Karametra's Blessing,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's an enchanted creature or enchantment creature, it also gains hexproof and indestructible until end of turn. (It can't be the target of spells or abilities your opponents control. Damage and effects that say ""destroy"" don't destroy it.)",common,,,Instant,
+25,Lagonna-Band Storyteller,W,4.0,{3}{W},3.0,4.0,,"When Lagonna-Band Storyteller enters the battlefield, you may put target enchantment card from your graveyard on top of your library. If you do, you gain life equal to its mana value.",uncommon,,,Creature,"Centaur, Advisor"
+26,Leonin of the Lost Pride,W,2.0,{1}{W},3.0,1.0,,"When Leonin of the Lost Pride dies, exile target card from an opponent's graveyard.",common,,,Creature,"Cat, Warrior"
+27,Nyxborn Courser,W,3.0,{1}{W}{W},2.0,4.0,,,common,,,"Enchantment, Creature","Centaur, Scout"
+28,Omen of the Sun,W,3.0,{2}{W},,,,"Flash
 When Omen of the Sun enters the battlefield, create two 1/1 white Human Soldier creature tokens and you gain 2 life.
 {2}{W}, Sacrifice Omen of the Sun: Scry 2.",common,"Flash, Scry",,Enchantment,
-30,Phalanx Tactics,W,2.0,{1}{W},,,,Target creature you control gets +2/+1 until end of turn. Each other creature you control gets +1/+1 until end of turn.,uncommon,,,Instant,
-31,Pious Wayfarer,W,1.0,{W},1.0,2.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.",common,Constellation,,Creature,"Human, Scout"
-32,Reverent Hoplite,W,5.0,{4}{W},1.0,2.0,,"When Reverent Hoplite enters the battlefield, create a number of 1/1 white Human Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",uncommon,,,Creature,"Human, Soldier"
-33,Revoke Existence,W,2.0,{1}{W},,,,Exile target artifact or enchantment.,common,,,Sorcery,
-34,Rumbling Sentry,W,5.0,{3}{W}{W},3.0,6.0,,"When Rumbling Sentry enters the battlefield, scry 1.",common,Scry,,Creature,Giant
-35,Sentinel's Eyes,W,1.0,{W},,,,"Enchant creature
+29,Phalanx Tactics,W,2.0,{1}{W},,,,Target creature you control gets +2/+1 until end of turn. Each other creature you control gets +1/+1 until end of turn.,uncommon,,,Instant,
+30,Pious Wayfarer,W,1.0,{W},1.0,2.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.",common,Constellation,,Creature,"Human, Scout"
+31,Reverent Hoplite,W,5.0,{4}{W},1.0,2.0,,"When Reverent Hoplite enters the battlefield, create a number of 1/1 white Human Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",uncommon,,,Creature,"Human, Soldier"
+32,Revoke Existence,W,2.0,{1}{W},,,,Exile target artifact or enchantment.,common,,,Sorcery,
+33,Rumbling Sentry,W,5.0,{3}{W}{W},3.0,6.0,,"When Rumbling Sentry enters the battlefield, scry 1.",common,Scry,,Creature,Giant
+34,Sentinel's Eyes,W,1.0,{W},,,,"Enchant creature
 Enchanted creature gets +1/+1 and has vigilance.
 Escape—{W}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",common,"Enchant, Escape",,Enchantment,Aura
-36,Shatter the Sky,W,4.0,{2}{W}{W},,,,Each player who controls a creature with power 4 or greater draws a card. Then destroy all creatures.,rare,,,Sorcery,
-37,Sunmane Pegasus,W,4.0,{3}{W},2.0,3.0,,"Flying
+35,Shatter the Sky,W,4.0,{2}{W}{W},,,,Each player who controls a creature with power 4 or greater draws a card. Then destroy all creatures.,rare,,,Sorcery,
+36,Sunmane Pegasus,W,4.0,{3}{W},2.0,3.0,,"Flying
 {1}{W}: Sunmane Pegasus gains vigilance and lifelink until end of turn.",common,Flying,,Creature,Pegasus
-38,"Taranika, Akroan Veteran",W,3.0,{1}{W}{W},3.0,3.0,,"Vigilance
+37,"Taranika, Akroan Veteran",W,3.0,{1}{W}{W},3.0,3.0,,"Vigilance
 Whenever Taranika, Akroan Veteran attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible.",rare,Vigilance,Legendary,Creature,"Human, Soldier"
-39,Transcendent Envoy,W,2.0,{1}{W},1.0,2.0,,"Flying
+38,Transcendent Envoy,W,2.0,{1}{W},1.0,2.0,,"Flying
 Aura spells you cast cost {1} less to cast.",common,Flying,,"Enchantment, Creature",Griffin
-40,Triumphant Surge,W,4.0,{3}{W},,,,Destroy target creature with power 4 or greater. You gain 3 life.,common,,,Instant,
-41,"Alirios, Enraptured",U,3.0,{2}{U},2.0,3.0,,"Alirios, Enraptured enters the battlefield tapped.
+39,Triumphant Surge,W,4.0,{3}{W},,,,Destroy target creature with power 4 or greater. You gain 3 life.,common,,,Instant,
+40,"Alirios, Enraptured",U,3.0,{2}{U},2.0,3.0,,"Alirios, Enraptured enters the battlefield tapped.
 Alirios doesn't untap during your untap step if you control a Reflection.
 When Alirios enters the battlefield, create a 3/2 blue Reflection creature token.",uncommon,,Legendary,Creature,Human
-42,Ashiok's Erasure,U,4.0,{2}{U}{U},,,,"Flash
+41,Ashiok's Erasure,U,4.0,{2}{U}{U},,,,"Flash
 When Ashiok's Erasure enters the battlefield, exile target spell.
 Your opponents can't cast spells with the same name as the exiled card.
 When Ashiok's Erasure leaves the battlefield, return the exiled card to its owner's hand.",rare,Flash,,Enchantment,
-43,Brine Giant,U,7.0,{6}{U},5.0,6.0,,This spell costs {1} less to cast for each enchantment you control.,common,,,Creature,Giant
-44,"Callaphe, Beloved of the Sea",U,3.0,{1}{U}{U},,3.0,,"Callaphe's power is equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+42,Brine Giant,U,7.0,{6}{U},5.0,6.0,,This spell costs {1} less to cast for each enchantment you control.,common,,,Creature,Giant
+43,"Callaphe, Beloved of the Sea",U,3.0,{1}{U}{U},,3.0,,"Callaphe's power is equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
 Creatures and enchantments you control have ""Spells your opponents cast that target this permanent cost {1} more to cast.""",uncommon,,Legendary,"Enchantment, Creature",Demigod
-45,Chain to Memory,U,1.0,{U},,,,Target creature gets -4/-0 until end of turn. Scry 2.,common,Scry,,Instant,
-46,Deny the Divine,U,3.0,{2}{U},,,,"Counter target creature or enchantment spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",common,,,Instant,
-47,Eidolon of Philosophy,U,1.0,{U},1.0,2.0,,"{6}{U}, Sacrifice Eidolon of Philosophy: Draw three cards.",common,,,"Enchantment, Creature",Spirit
-48,Elite Instructor,U,3.0,{2}{U},2.0,2.0,,"When Elite Instructor enters the battlefield, draw a card, then discard a card.",common,,,Creature,"Human, Wizard"
-49,Glimpse of Freedom,U,2.0,{1}{U},,,,"Draw a card.
+44,Chain to Memory,U,1.0,{U},,,,Target creature gets -4/-0 until end of turn. Scry 2.,common,Scry,,Instant,
+45,Deny the Divine,U,3.0,{2}{U},,,,"Counter target creature or enchantment spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",common,,,Instant,
+46,Eidolon of Philosophy,U,1.0,{U},1.0,2.0,,"{6}{U}, Sacrifice Eidolon of Philosophy: Draw three cards.",common,,,"Enchantment, Creature",Spirit
+47,Elite Instructor,U,3.0,{2}{U},2.0,2.0,,"When Elite Instructor enters the battlefield, draw a card, then discard a card.",common,,,Creature,"Human, Wizard"
+48,Glimpse of Freedom,U,2.0,{1}{U},,,,"Draw a card.
 Escape—{2}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",uncommon,Escape,,Instant,
-50,Ichthyomorphosis,U,3.0,{2}{U},,,,"Enchant creature
+49,Ichthyomorphosis,U,3.0,{2}{U},,,,"Enchant creature
 Enchanted creature loses all abilities and is a blue Fish with base power and toughness 0/1.",common,Enchant,,Enchantment,Aura
-51,Kiora Bests the Sea God,U,7.0,{5}{U}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+50,Kiora Bests the Sea God,U,7.0,{5}{U}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create an 8/8 blue Kraken creature token with hexproof.
 II — Tap all nonland permanents target opponent controls. They don't untap during their controller's next untap step.
 III — Gain control of target permanent an opponent controls. Untap it.",mythic,,,Enchantment,Saga
-52,Medomai's Prophecy,U,2.0,{1}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+51,Medomai's Prophecy,U,2.0,{1}{U},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 I — Scry 2.
 II — Choose a card name.
 III — When you cast a spell with the chosen name for the first time this turn, draw two cards.
 IV — Look at the top card of each player's library.",uncommon,Scry,,Enchantment,Saga
-53,Memory Drain,U,4.0,{2}{U}{U},,,,Counter target spell. Scry 2.,common,Scry,,Instant,
-54,Nadir Kraken,U,3.0,{1}{U}{U},2.0,3.0,,"Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on Nadir Kraken and create a 1/1 blue Tentacle creature token.",rare,,,Creature,Kraken
-55,Naiad of Hidden Coves,U,3.0,{2}{U},2.0,3.0,,"As long as it's not your turn, spells you cast cost {1} less to cast.",common,,,"Enchantment, Creature",Nymph
-56,Nyxborn Seaguard,U,4.0,{2}{U}{U},2.0,5.0,,,common,,,"Enchantment, Creature","Merfolk, Soldier"
-57,Omen of the Sea,U,2.0,{1}{U},,,,"Flash
+52,Memory Drain,U,4.0,{2}{U}{U},,,,Counter target spell. Scry 2.,common,Scry,,Instant,
+53,Nadir Kraken,U,3.0,{1}{U}{U},2.0,3.0,,"Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on Nadir Kraken and create a 1/1 blue Tentacle creature token.",rare,,,Creature,Kraken
+54,Naiad of Hidden Coves,U,3.0,{2}{U},2.0,3.0,,"As long as it's not your turn, spells you cast cost {1} less to cast.",common,,,"Enchantment, Creature",Nymph
+55,Nyxborn Seaguard,U,4.0,{2}{U}{U},2.0,5.0,,,common,,,"Enchantment, Creature","Merfolk, Soldier"
+56,Omen of the Sea,U,2.0,{1}{U},,,,"Flash
 When Omen of the Sea enters the battlefield, scry 2, then draw a card.
 {2}{U}, Sacrifice Omen of the Sea: Scry 2.",common,"Flash, Scry",,Enchantment,
-58,One with the Stars,U,4.0,{3}{U},,,,"Enchant creature or enchantment
+57,One with the Stars,U,4.0,{3}{U},,,,"Enchant creature or enchantment
 Enchanted permanent is an enchantment and loses all other card types. (It still has its abilities, but it's no longer a creature.)",uncommon,Enchant,,Enchantment,Aura
-59,Protean Thaumaturge,U,2.0,{1}{U},1.0,1.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, you may have Protean Thaumaturge become a copy of another target creature, except it has this ability.",rare,Constellation,,Creature,"Human, Wizard"
-60,Riptide Turtle,U,2.0,{1}{U},0.0,5.0,,"Flash
+58,Protean Thaumaturge,U,2.0,{1}{U},1.0,1.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, you may have Protean Thaumaturge become a copy of another target creature, except it has this ability.",rare,Constellation,,Creature,"Human, Wizard"
+59,Riptide Turtle,U,2.0,{1}{U},0.0,5.0,,"Flash
 Defender",common,"Defender, Flash",,Creature,Turtle
-61,Sage of Mysteries,U,1.0,{U},0.0,2.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, target player mills two cards.",uncommon,"Constellation, Mill",,Creature,"Human, Wizard"
-62,Sea God's Scorn,U,6.0,{4}{U}{U},,,,Return up to three target creatures and/or enchantments to their owners' hands.,uncommon,,,Sorcery,
-63,Shimmerwing Chimera,U,4.0,{3}{U},3.0,2.0,,"Flying
+60,Sage of Mysteries,U,1.0,{U},0.0,2.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, target player mills two cards.",uncommon,"Constellation, Mill",,Creature,"Human, Wizard"
+61,Sea God's Scorn,U,6.0,{4}{U}{U},,,,Return up to three target creatures and/or enchantments to their owners' hands.,uncommon,,,Sorcery,
+62,Shimmerwing Chimera,U,4.0,{3}{U},3.0,2.0,,"Flying
 At the beginning of your upkeep, return up to one other target enchantment you control to its owner's hand.",uncommon,Flying,,"Enchantment, Creature",Chimera
-64,Shoal Kraken,U,5.0,{4}{U},3.0,5.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, you may draw a card. If you do, discard a card.",uncommon,Constellation,,Creature,Kraken
-65,Sleep of the Dead,U,1.0,{U},,,,"Tap target creature. It doesn't untap during its controller's next untap step.
+63,Shoal Kraken,U,5.0,{4}{U},3.0,5.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, you may draw a card. If you do, discard a card.",uncommon,Constellation,,Creature,Kraken
+64,Sleep of the Dead,U,1.0,{U},,,,"Tap target creature. It doesn't untap during its controller's next untap step.
 Escape—{2}{U}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",common,Escape,,Sorcery,
-66,Starlit Mantle,U,2.0,{1}{U},,,,"Flash
+65,Starlit Mantle,U,2.0,{1}{U},,,,"Flash
 Enchant creature you control
 When Starlit Mantle enters the battlefield, enchanted creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 Enchanted creature gets +1/+1.",common,"Enchant, Flash",,Enchantment,Aura
-67,Stern Dismissal,U,1.0,{U},,,,Return target creature or enchantment an opponent controls to its owner's hand.,common,,,Instant,
-68,Stinging Lionfish,U,2.0,{1}{U},2.0,1.0,,"Whenever you cast your first spell during each opponent's turn, you may tap or untap target nonland permanent.",uncommon,,,"Enchantment, Creature",Fish
-69,Sweet Oblivion,U,2.0,{1}{U},,,,"Target player mills four cards.
+66,Stern Dismissal,U,1.0,{U},,,,Return target creature or enchantment an opponent controls to its owner's hand.,common,,,Instant,
+67,Stinging Lionfish,U,2.0,{1}{U},2.0,1.0,,"Whenever you cast your first spell during each opponent's turn, you may tap or untap target nonland permanent.",uncommon,,,"Enchantment, Creature",Fish
+68,Sweet Oblivion,U,2.0,{1}{U},,,,"Target player mills four cards.
 Escape—{3}{U}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",uncommon,"Escape, Mill",,Sorcery,
-70,"Thassa, Deep-Dwelling",U,4.0,{3}{U},6.0,5.0,,"Indestructible
+69,"Thassa, Deep-Dwelling",U,4.0,{3}{U},6.0,5.0,,"Indestructible
 As long as your devotion to blue is less than five, Thassa isn't a creature.
 At the beginning of your end step, exile up to one other target creature you control, then return that card to the battlefield under your control.
 {3}{U}: Tap another target creature.",mythic,Indestructible,Legendary,"Enchantment, Creature",God
-71,Thassa's Intervention,U,2.0,{X}{U}{U},,,,"Choose one —
-• Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
-• Counter target spell unless its controller pays twice {X}.",rare,,,Instant,
-72,Thassa's Oracle,U,2.0,{U}{U},1.0,3.0,,"When Thassa's Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",rare,,,Creature,"Merfolk, Wizard"
-73,Thirst for Meaning,U,3.0,{2}{U},,,,Draw three cards. Then discard two cards unless you discard an enchantment card.,common,,,Instant,
-74,Threnody Singer,U,2.0,{1}{U},1.0,3.0,,"Flash
+70,Thassa's Oracle,U,2.0,{U}{U},1.0,3.0,,"When Thassa's Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",rare,,,Creature,"Merfolk, Wizard"
+71,Thirst for Meaning,U,3.0,{2}{U},,,,Draw three cards. Then discard two cards unless you discard an enchantment card.,common,,,Instant,
+72,Threnody Singer,U,2.0,{1}{U},1.0,3.0,,"Flash
 Flying
 When Threnody Singer enters the battlefield, target creature an opponent controls gets -X/-0 until end of turn, where X is your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",uncommon,"Flash, Flying",,Creature,Siren
-75,"Thryx, the Sudden Storm",U,5.0,{3}{U}{U},4.0,5.0,,"Flash
+73,"Thryx, the Sudden Storm",U,5.0,{3}{U}{U},4.0,5.0,,"Flash
 Flying
 Spells you cast with mana value 5 or greater cost {1} less to cast and can't be countered.",rare,"Flash, Flying",Legendary,Creature,"Elemental, Giant"
-76,Towering-Wave Mystic,U,2.0,{1}{U},2.0,1.0,,"Whenever Towering-Wave Mystic deals damage, target player mills that many cards.",common,Mill,,Creature,"Merfolk, Wizard"
-77,Triton Waverider,U,4.0,{3}{U},3.0,3.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, Triton Waverider gains flying until end of turn.",common,Constellation,,Creature,"Merfolk, Wizard"
-78,Vexing Gull,U,3.0,{2}{U},2.0,2.0,,"Flash
+74,Towering-Wave Mystic,U,2.0,{1}{U},2.0,1.0,,"Whenever Towering-Wave Mystic deals damage, target player mills that many cards.",common,Mill,,Creature,"Merfolk, Wizard"
+75,Triton Waverider,U,4.0,{3}{U},3.0,3.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, Triton Waverider gains flying until end of turn.",common,Constellation,,Creature,"Merfolk, Wizard"
+76,Vexing Gull,U,3.0,{2}{U},2.0,2.0,,"Flash
 Flying",common,"Flash, Flying",,Creature,Bird
-79,Wavebreak Hippocamp,U,3.0,{2}{U},2.0,2.0,,"Whenever you cast your first spell during each opponent's turn, draw a card.",rare,,,"Enchantment, Creature","Horse, Fish"
-80,Whirlwind Denial,U,3.0,{2}{U},,,,"For each spell and ability your opponents control, counter it unless its controller pays {4}.",uncommon,,,Instant,
-81,Witness of Tomorrows,U,5.0,{4}{U},3.0,4.0,,"Flying
+77,Wavebreak Hippocamp,U,3.0,{2}{U},2.0,2.0,,"Whenever you cast your first spell during each opponent's turn, draw a card.",rare,,,"Enchantment, Creature","Horse, Fish"
+78,Whirlwind Denial,U,3.0,{2}{U},,,,"For each spell and ability your opponents control, counter it unless its controller pays {4}.",uncommon,,,Instant,
+79,Witness of Tomorrows,U,5.0,{4}{U},3.0,4.0,,"Flying
 {3}{U}: Scry 1.",common,"Flying, Scry",,"Enchantment, Creature",Sphinx
-82,Agonizing Remorse,B,2.0,{1}{B},,,,Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. You lose 1 life.,uncommon,,,Sorcery,
-83,"Aphemia, the Cacophony",B,2.0,{1}{B},2.0,1.0,,"Flying
+80,Agonizing Remorse,B,2.0,{1}{B},,,,Target opponent reveals their hand. You choose a nonland card from it or a card from their graveyard. Exile that card. You lose 1 life.,uncommon,,,Sorcery,
+81,"Aphemia, the Cacophony",B,2.0,{1}{B},2.0,1.0,,"Flying
 At the beginning of your end step, you may exile an enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token.",rare,Flying,Legendary,"Enchantment, Creature",Harpy
-84,Aspect of Lamprey,B,4.0,{3}{B},,,,"Enchant creature you control
+82,Aspect of Lamprey,B,4.0,{3}{B},,,,"Enchant creature you control
 When Aspect of Lamprey enters the battlefield, target opponent discards two cards.
 Enchanted creature has lifelink.",common,Enchant,,Enchantment,Aura
-85,Blight-Breath Catoblepas,B,6.0,{4}{B}{B},3.0,2.0,,"When Blight-Breath Catoblepas enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",common,,,Creature,Beast
-86,Cling to Dust,B,1.0,{B},,,,"Exile target card from a graveyard. If it was a creature card, you gain 3 life. Otherwise, you draw a card.
+83,Blight-Breath Catoblepas,B,6.0,{4}{B}{B},3.0,2.0,,"When Blight-Breath Catoblepas enters the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",common,,,Creature,Beast
+84,Cling to Dust,B,1.0,{B},,,,"Exile target card from a graveyard. If it was a creature card, you gain 3 life. Otherwise, you draw a card.
 Escape—{3}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",uncommon,Escape,,Instant,
-87,Discordant Piper,B,2.0,{1}{B},2.0,1.0,,"When Discordant Piper dies, create a 0/1 white Goat creature token.",common,,,Creature,"Zombie, Satyr"
-88,Drag to the Underworld,B,4.0,{2}{B}{B},,,,"This spell costs {X} less to cast, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+85,Discordant Piper,B,2.0,{1}{B},2.0,1.0,,"When Discordant Piper dies, create a 0/1 white Goat creature token.",common,,,Creature,"Zombie, Satyr"
+86,Drag to the Underworld,B,4.0,{2}{B}{B},,,,"This spell costs {X} less to cast, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
 Destroy target creature.",uncommon,,,Instant,
-89,Eat to Extinction,B,4.0,{3}{B},,,,Exile target creature or planeswalker. Look at the top card of your library. You may put that card into your graveyard.,rare,,,Instant,
-90,Elspeth's Nightmare,B,3.0,{2}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+87,Eat to Extinction,B,4.0,{3}{B},,,,Exile target creature or planeswalker. Look at the top card of your library. You may put that card into your graveyard.,rare,,,Instant,
+88,Elspeth's Nightmare,B,3.0,{2}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Destroy target creature an opponent controls with power 2 or less.
 II — Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
 III — Exile target opponent's graveyard.",uncommon,,,Enchantment,Saga
-91,Enemy of Enlightenment,B,6.0,{5}{B},5.0,5.0,,"Flying
+89,Enemy of Enlightenment,B,6.0,{5}{B},5.0,5.0,,"Flying
 Enemy of Enlightenment gets -1/-1 for each card in your opponents' hands.
 At the beginning of your upkeep, each player discards a card.",uncommon,Flying,,"Enchantment, Creature",Demon
-92,"Erebos, Bleak-Hearted",B,4.0,{3}{B},5.0,6.0,,"Indestructible
+90,"Erebos, Bleak-Hearted",B,4.0,{3}{B},5.0,6.0,,"Indestructible
 As long as your devotion to black is less than five, Erebos isn't a creature.
 Whenever another creature you control dies, you may pay 2 life. If you do, draw a card.
 {1}{B}, Sacrifice another creature: Target creature gets -2/-1 until end of turn.",mythic,Indestructible,Legendary,"Enchantment, Creature",God
-93,Erebos's Intervention,B,1.0,{X}{B},,,,"Choose one —
-• Target creature gets -X/-X until end of turn. You gain X life.
-• Exile up to twice X target cards from graveyards.",rare,,,Instant,
-94,Final Death,B,5.0,{4}{B},,,,Exile target creature.,common,,,Instant,
-95,Fruit of Tizerus,B,1.0,{B},,,,"Target player loses 2 life.
+91,Final Death,B,5.0,{4}{B},,,,Exile target creature.,common,,,Instant,
+92,Fruit of Tizerus,B,1.0,{B},,,,"Target player loses 2 life.
 Escape—{3}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",common,Escape,,Sorcery,
-96,Funeral Rites,B,3.0,{2}{B},,,,"You draw two cards, lose 2 life, then mill two cards.",common,Mill,,Sorcery,
-97,Gravebreaker Lamia,B,5.0,{4}{B},4.0,4.0,,"Lifelink
+93,Funeral Rites,B,3.0,{2}{B},,,,"You draw two cards, lose 2 life, then mill two cards.",common,Mill,,Sorcery,
+94,Gravebreaker Lamia,B,5.0,{4}{B},4.0,4.0,,"Lifelink
 When Gravebreaker Lamia enters the battlefield, search your library for a card, put it into your graveyard, then shuffle.
 Spells you cast from your graveyard cost {1} less to cast.",rare,Lifelink,,"Enchantment, Creature","Snake, Lamia"
-98,Gray Merchant of Asphodel,B,5.0,{3}{B}{B},2.0,4.0,,"When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",uncommon,,,Creature,Zombie
-99,Grim Physician,B,1.0,{B},1.0,1.0,,"When Grim Physician dies, target creature an opponent controls gets -1/-1 until end of turn.",common,,,Creature,Zombie
-100,Hateful Eidolon,B,1.0,{B},1.0,2.0,,"Lifelink
+95,Gray Merchant of Asphodel,B,5.0,{3}{B}{B},2.0,4.0,,"When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",uncommon,,,Creature,Zombie
+96,Grim Physician,B,1.0,{B},1.0,1.0,,"When Grim Physician dies, target creature an opponent controls gets -1/-1 until end of turn.",common,,,Creature,Zombie
+97,Hateful Eidolon,B,1.0,{B},1.0,2.0,,"Lifelink
 Whenever an enchanted creature dies, draw a card for each Aura you controlled that was attached to it.",uncommon,Lifelink,,"Enchantment, Creature",Spirit
-101,Inevitable End,B,3.0,{2}{B},,,,"Enchant creature
+98,Inevitable End,B,3.0,{2}{B},,,,"Enchant creature
 Enchanted creature has ""At the beginning of your upkeep, sacrifice a creature.""",uncommon,Enchant,,Enchantment,Aura
-102,Lampad of Death's Vigil,B,2.0,{1}{B},1.0,3.0,,"{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life.",common,,,"Enchantment, Creature",Nymph
-103,Minion's Return,B,3.0,{2}{B},,,,"Flash
+99,Lampad of Death's Vigil,B,2.0,{1}{B},1.0,3.0,,"{1}, Sacrifice a creature: Each opponent loses 1 life and you gain 1 life.",common,,,"Enchantment, Creature",Nymph
+100,Minion's Return,B,3.0,{2}{B},,,,"Flash
 Enchant creature
 When enchanted creature dies, return that card to the battlefield under your control.",uncommon,"Enchant, Flash",,Enchantment,Aura
-104,Mire Triton,B,2.0,{1}{B},2.0,1.0,,"Deathtouch
+101,Mire Triton,B,2.0,{1}{B},2.0,1.0,,"Deathtouch
 When Mire Triton enters the battlefield, mill two cards and you gain 2 life.",uncommon,"Deathtouch, Mill",,Creature,"Zombie, Merfolk"
-105,Mire's Grasp,B,2.0,{1}{B},,,,"Enchant creature
+102,Mire's Grasp,B,2.0,{1}{B},,,,"Enchant creature
 Enchanted creature gets -3/-3.",common,Enchant,,Enchantment,Aura
-106,Mogis's Favor,B,1.0,{B},,,,"Enchant creature
+103,Mogis's Favor,B,1.0,{B},,,,"Enchant creature
 Enchanted creature gets +2/-1.
 Escape—{2}{B}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",common,"Enchant, Escape",,Enchantment,Aura
-107,Nightmare Shepherd,B,4.0,{2}{B}{B},4.0,4.0,,"Flying
+104,Nightmare Shepherd,B,4.0,{2}{B}{B},4.0,4.0,,"Flying
 Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that's a copy of that creature, except it's 1/1 and it's a Nightmare in addition to its other types.",rare,Flying,,"Enchantment, Creature",Demon
-108,Nyxborn Marauder,B,4.0,{2}{B}{B},4.0,3.0,,,common,,,"Enchantment, Creature",Minotaur
-109,Omen of the Dead,B,1.0,{B},,,,"Flash
+105,Nyxborn Marauder,B,4.0,{2}{B}{B},4.0,3.0,,,common,,,"Enchantment, Creature",Minotaur
+106,Omen of the Dead,B,1.0,{B},,,,"Flash
 When Omen of the Dead enters the battlefield, return target creature card from your graveyard to your hand.
 {2}{B}, Sacrifice Omen of the Dead: Scry 2.",common,"Flash, Scry",,Enchantment,
-110,Pharika's Libation,B,3.0,{2}{B},,,,"Choose one —
+107,Pharika's Libation,B,3.0,{2}{B},,,,"Choose one —
 • Target opponent sacrifices a creature.
 • Target opponent sacrifices an enchantment.",common,,,Instant,
-111,Pharika's Spawn,B,4.0,{3}{B},3.0,4.0,,"Escape—{5}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+108,Pharika's Spawn,B,4.0,{3}{B},3.0,4.0,,"Escape—{5}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Pharika's Spawn escapes with two +1/+1 counters on it. When it enters the battlefield this way, each opponent sacrifices a non-Gorgon creature.",uncommon,Escape,,Creature,Gorgon
-112,Rage-Scarred Berserker,B,5.0,{4}{B},5.0,4.0,,"When Rage-Scarred Berserker enters the battlefield, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Creature,"Minotaur, Berserker"
-113,Scavenging Harpy,B,3.0,{2}{B},2.0,1.0,,"Flying
+109,Rage-Scarred Berserker,B,5.0,{4}{B},5.0,4.0,,"When Rage-Scarred Berserker enters the battlefield, target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",common,,,Creature,"Minotaur, Berserker"
+110,Scavenging Harpy,B,3.0,{2}{B},2.0,1.0,,"Flying
 When Scavenging Harpy enters the battlefield, exile target card from an opponent's graveyard.",common,Flying,,Creature,Harpy
-114,Soulreaper of Mogis,B,3.0,{2}{B},2.0,3.0,,"{2}{B}, Sacrifice a creature: Draw a card.",common,,,"Enchantment, Creature","Minotaur, Shaman"
-115,Temple Thief,B,2.0,{1}{B},2.0,2.0,,Temple Thief can't be blocked by enchanted creatures or enchantment creatures.,common,,,Creature,"Human, Rogue"
-116,Treacherous Blessing,B,3.0,{2}{B},,,,"When Treacherous Blessing enters the battlefield, draw three cards.
+111,Soulreaper of Mogis,B,3.0,{2}{B},2.0,3.0,,"{2}{B}, Sacrifice a creature: Draw a card.",common,,,"Enchantment, Creature","Minotaur, Shaman"
+112,Temple Thief,B,2.0,{1}{B},2.0,2.0,,Temple Thief can't be blocked by enchanted creatures or enchantment creatures.,common,,,Creature,"Human, Rogue"
+113,Treacherous Blessing,B,3.0,{2}{B},,,,"When Treacherous Blessing enters the battlefield, draw three cards.
 Whenever you cast a spell, you lose 1 life.
 When Treacherous Blessing becomes the target of a spell or ability, sacrifice it.",rare,,,Enchantment,
-117,Tymaret Calls the Dead,B,3.0,{2}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+114,Tymaret Calls the Dead,B,3.0,{2}{B},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Mill three cards. Then you may exile a creature or enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token.
 III — You gain X life and scry X, where X is the number of Zombies you control.",rare,"Mill, Scry",,Enchantment,Saga
-118,"Tymaret, Chosen from Death",B,2.0,{B}{B},2.0,,,"Tymaret's toughness is equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+115,"Tymaret, Chosen from Death",B,2.0,{B}{B},2.0,,,"Tymaret's toughness is equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
 {1}{B}: Exile up to two target cards from graveyards. You gain 1 life for each creature card exiled this way.",uncommon,,Legendary,"Enchantment, Creature",Demigod
-119,Underworld Charger,B,3.0,{2}{B},3.0,3.0,,"Underworld Charger can't block.
+116,Underworld Charger,B,3.0,{2}{B},3.0,3.0,,"Underworld Charger can't block.
 Escape—{4}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Underworld Charger escapes with two +1/+1 counters on it.",common,Escape,,Creature,"Nightmare, Horse"
-120,Underworld Dreams,B,3.0,{B}{B}{B},,,,"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.",uncommon,,,Enchantment,
-121,Venomous Hierophant,B,4.0,{3}{B},3.0,3.0,,"Deathtouch
+117,Underworld Dreams,B,3.0,{B}{B}{B},,,,"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.",uncommon,,,Enchantment,
+118,Venomous Hierophant,B,4.0,{3}{B},3.0,3.0,,"Deathtouch
 When Venomous Hierophant enters the battlefield, mill three cards.",common,"Deathtouch, Mill",,Creature,"Gorgon, Cleric"
-122,Woe Strider,B,3.0,{2}{B},3.0,2.0,,"When Woe Strider enters the battlefield, create a 0/1 white Goat creature token.
+119,Woe Strider,B,3.0,{2}{B},3.0,2.0,,"When Woe Strider enters the battlefield, create a 0/1 white Goat creature token.
 Sacrifice another creature: Scry 1.
 Escape—{3}{B}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Woe Strider escapes with two +1/+1 counters on it.",rare,"Escape, Scry",,Creature,Horror
-123,The Akroan War,R,4.0,{3}{R},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+120,The Akroan War,R,4.0,{3}{R},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
 II — Until your next turn, creatures your opponents control attack each combat if able.
 III — Each tapped creature deals damage to itself equal to its power.",rare,,,Enchantment,Saga
-124,"Anax, Hardened in the Forge",R,3.0,{1}{R}{R},,3.0,,"Anax's power is equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
+121,"Anax, Hardened in the Forge",R,3.0,{1}{R}{R},,3.0,,"Anax's power is equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)
 Whenever Anax or another nontoken creature you control dies, create a 1/1 red Satyr creature token with ""This creature can't block."" If the creature had power 4 or greater, create two of those tokens instead.",uncommon,,Legendary,"Enchantment, Creature",Demigod
-125,Arena Trickster,R,4.0,{3}{R},3.0,3.0,,"Whenever you cast your first spell during each opponent's turn, put a +1/+1 counter on Arena Trickster.",common,,,Creature,"Human, Shaman"
-126,Aspect of Manticore,R,3.0,{2}{R},,,,"Flash
+122,Arena Trickster,R,4.0,{3}{R},3.0,3.0,,"Whenever you cast your first spell during each opponent's turn, put a +1/+1 counter on Arena Trickster.",common,,,Creature,"Human, Shaman"
+123,Aspect of Manticore,R,3.0,{2}{R},,,,"Flash
 Enchant creature
 When Aspect of Manticore enters the battlefield, enchanted creature gains first strike until end of turn.
 Enchanted creature gets +2/+0.",common,"Enchant, Flash",,Enchantment,Aura
-127,Blood Aspirant,R,2.0,{1}{R},1.0,1.0,,"Whenever you sacrifice a permanent, put a +1/+1 counter on Blood Aspirant.
+124,Blood Aspirant,R,2.0,{1}{R},1.0,1.0,,"Whenever you sacrifice a permanent, put a +1/+1 counter on Blood Aspirant.
 {1}{R}, {T}, Sacrifice a creature or enchantment: Blood Aspirant deals 1 damage to target creature. That creature can't block this turn.",uncommon,,,Creature,"Satyr, Berserker"
-128,Careless Celebrant,R,2.0,{1}{R},2.0,1.0,,"When Careless Celebrant dies, it deals 2 damage to target creature or planeswalker an opponent controls.",uncommon,,,Creature,"Satyr, Shaman"
-129,Dreamshaper Shaman,R,6.0,{5}{R},5.0,4.0,,"At the beginning of your end step, you may pay {2}{R} and sacrifice a nonland permanent. If you do, reveal cards from the top of your library until you reveal a nonland permanent card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.",uncommon,,,"Enchantment, Creature","Minotaur, Shaman"
-130,Dreamstalker Manticore,R,3.0,{2}{R},4.0,2.0,,"Whenever you cast your first spell during each opponent's turn, Dreamstalker Manticore deals 1 damage to any target.",uncommon,,,"Enchantment, Creature",Manticore
-131,Escape Velocity,R,1.0,{R},,,,"Enchant creature
+125,Careless Celebrant,R,2.0,{1}{R},2.0,1.0,,"When Careless Celebrant dies, it deals 2 damage to target creature or planeswalker an opponent controls.",uncommon,,,Creature,"Satyr, Shaman"
+126,Dreamshaper Shaman,R,6.0,{5}{R},5.0,4.0,,"At the beginning of your end step, you may pay {2}{R} and sacrifice a nonland permanent. If you do, reveal cards from the top of your library until you reveal a nonland permanent card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.",uncommon,,,"Enchantment, Creature","Minotaur, Shaman"
+127,Dreamstalker Manticore,R,3.0,{2}{R},4.0,2.0,,"Whenever you cast your first spell during each opponent's turn, Dreamstalker Manticore deals 1 damage to any target.",uncommon,,,"Enchantment, Creature",Manticore
+128,Escape Velocity,R,1.0,{R},,,,"Enchant creature
 Enchanted creature gets +1/+0 and has haste.
 Escape—{1}{R}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",uncommon,"Enchant, Escape",,Enchantment,Aura
-132,Fateful End,R,3.0,{2}{R},,,,Fateful End deals 3 damage to any target. Scry 1.,uncommon,Scry,,Instant,
-133,Final Flare,R,3.0,{2}{R},,,,"As an additional cost to cast this spell, sacrifice a creature or enchantment.
+129,Fateful End,R,3.0,{2}{R},,,,Fateful End deals 3 damage to any target. Scry 1.,uncommon,Scry,,Instant,
+130,Final Flare,R,3.0,{2}{R},,,,"As an additional cost to cast this spell, sacrifice a creature or enchantment.
 Final Flare deals 5 damage to target creature.",common,,,Instant,
-134,Flummoxed Cyclops,R,4.0,{3}{R},4.0,4.0,,"Reach
+131,Flummoxed Cyclops,R,4.0,{3}{R},4.0,4.0,,"Reach
 Whenever two or more creatures your opponents control attack, Flummoxed Cyclops can't block this combat.",common,Reach,,Creature,Cyclops
-135,Furious Rise,R,3.0,{2}{R},,,,"At the beginning of your end step, if you control a creature with power 4 or greater, exile the top card of your library. You may play that card until you exile another card with Furious Rise.",uncommon,,,Enchantment,
-136,Hero of the Games,R,3.0,{2}{R},3.0,2.0,,"Whenever you cast a spell that targets Hero of the Games, creatures you control get +1/+0 until end of turn.",common,,,Creature,"Human, Soldier"
-137,Heroes of the Revel,R,5.0,{4}{R},4.0,4.0,,"When Heroes of the Revel enters the battlefield, create a 1/1 red Satyr creature token with ""This creature can't block.""
+132,Furious Rise,R,3.0,{2}{R},,,,"At the beginning of your end step, if you control a creature with power 4 or greater, exile the top card of your library. You may play that card until you exile another card with Furious Rise.",uncommon,,,Enchantment,
+133,Hero of the Games,R,3.0,{2}{R},3.0,2.0,,"Whenever you cast a spell that targets Hero of the Games, creatures you control get +1/+0 until end of turn.",common,,,Creature,"Human, Soldier"
+134,Heroes of the Revel,R,5.0,{4}{R},4.0,4.0,,"When Heroes of the Revel enters the battlefield, create a 1/1 red Satyr creature token with ""This creature can't block.""
 Whenever you cast a spell that targets Heroes of the Revel, creatures you control get +1/+0 until end of turn.",uncommon,,,Creature,"Satyr, Soldier"
-138,Impending Doom,R,3.0,{2}{R},,,,"Enchant creature
+135,Impending Doom,R,3.0,{2}{R},,,,"Enchant creature
 Enchanted creature gets +3/+3 and attacks each combat if able.
 When enchanted creature dies, Impending Doom deals 3 damage to that creature's controller.",uncommon,Enchant,,Enchantment,Aura
-139,Incendiary Oracle,R,2.0,{1}{R},2.0,2.0,,"{1}{R}: Incendiary Oracle gets +1/+0 until end of turn.
+136,Incendiary Oracle,R,2.0,{1}{R},2.0,2.0,,"{1}{R}: Incendiary Oracle gets +1/+0 until end of turn.
 If a creature dealt damage by Incendiary Oracle this turn would die, exile it instead.",common,,,Creature,"Human, Shaman"
-140,Infuriate,R,1.0,{R},,,,Target creature gets +3/+2 until end of turn.,common,,,Instant,
-141,Iroas's Blessing,R,4.0,{3}{R},,,,"Enchant creature you control
+137,Infuriate,R,1.0,{R},,,,Target creature gets +3/+2 until end of turn.,common,,,Instant,
+138,Iroas's Blessing,R,4.0,{3}{R},,,,"Enchant creature you control
 When Iroas's Blessing enters the battlefield, it deals 4 damage to target creature or planeswalker an opponent controls.
 Enchanted creature gets +1/+1.",common,Enchant,,Enchantment,Aura
-142,Irreverent Revelers,R,3.0,{2}{R},2.0,2.0,,"When Irreverent Revelers enters the battlefield, choose one —
+139,Irreverent Revelers,R,3.0,{2}{R},2.0,2.0,,"When Irreverent Revelers enters the battlefield, choose one —
 • Destroy target artifact.
 • Irreverent Revelers gains haste until end of turn.",common,,,Creature,Satyr
-143,Nyxborn Brute,R,5.0,{3}{R}{R},7.0,3.0,,,common,,,"Enchantment, Creature",Cyclops
-144,Omen of the Forge,R,2.0,{1}{R},,,,"Flash
+140,Nyxborn Brute,R,5.0,{3}{R}{R},7.0,3.0,,,common,,,"Enchantment, Creature",Cyclops
+141,Omen of the Forge,R,2.0,{1}{R},,,,"Flash
 When Omen of the Forge enters the battlefield, it deals 2 damage to any target.
 {2}{R}, Sacrifice Omen of the Forge: Scry 2.",common,"Flash, Scry",,Enchantment,
-145,Oread of Mountain's Blaze,R,2.0,{1}{R},1.0,3.0,,"{2}{R}, Discard a card: Draw a card.",common,,,"Enchantment, Creature",Nymph
-146,Ox of Agonas,R,5.0,{3}{R}{R},4.0,2.0,,"When Ox of Agonas enters the battlefield, discard your hand, then draw three cards.
+142,Oread of Mountain's Blaze,R,2.0,{1}{R},1.0,3.0,,"{2}{R}, Discard a card: Draw a card.",common,,,"Enchantment, Creature",Nymph
+143,Ox of Agonas,R,5.0,{3}{R}{R},4.0,2.0,,"When Ox of Agonas enters the battlefield, discard your hand, then draw three cards.
 Escape—{R}{R}, Exile eight other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Ox of Agonas escapes with a +1/+1 counter on it.",mythic,Escape,,Creature,Ox
-147,Phoenix of Ash,R,3.0,{1}{R}{R},2.0,2.0,,"Flying, haste
+144,Phoenix of Ash,R,3.0,{1}{R}{R},2.0,2.0,,"Flying, haste
 {2}{R}: Phoenix of Ash gets +2/+0 until end of turn.
 Escape—{2}{R}{R}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Phoenix of Ash escapes with a +1/+1 counter on it.",rare,"Escape, Flying, Haste",,Creature,Phoenix
-148,Portent of Betrayal,R,4.0,{3}{R},,,,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),common,Scry,,Sorcery,
-149,"Purphoros, Bronze-Blooded",R,5.0,{4}{R},7.0,6.0,,"Indestructible
+145,Portent of Betrayal,R,4.0,{3}{R},,,,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),common,Scry,,Sorcery,
+146,"Purphoros, Bronze-Blooded",R,5.0,{4}{R},7.0,6.0,,"Indestructible
 As long as your devotion to red is less than five, Purphoros isn't a creature.
 Other creatures you control have haste.
 {2}{R}: You may put a red creature card or an artifact creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step.",mythic,Indestructible,Legendary,"Enchantment, Creature",God
-150,Purphoros's Intervention,R,1.0,{X}{R},,,,"Choose one —
-• Create an X/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
-• Purphoros's Intervention deals twice X damage to target creature or planeswalker.",rare,,,Sorcery,
-151,Satyr's Cunning,R,1.0,{R},,,,"Create a 1/1 red Satyr creature token with ""This creature can't block.""
+147,Satyr's Cunning,R,1.0,{R},,,,"Create a 1/1 red Satyr creature token with ""This creature can't block.""
 Escape—{2}{R}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",common,Escape,,Sorcery,
-152,Skophos Maze-Warden,R,4.0,{3}{R},3.0,4.0,,"{1}: Skophos Maze-Warden gets +1/-1 until end of turn.
+148,Skophos Maze-Warden,R,4.0,{3}{R},3.0,4.0,,"{1}: Skophos Maze-Warden gets +1/-1 until end of turn.
 Whenever another creature becomes the target of an ability of a land you control named Labyrinth of Skophos, you may have Skophos Maze-Warden fight that creature. (Each deals damage equal to its power to the other.)",uncommon,Fight,,Creature,"Minotaur, Warrior"
-153,Skophos Warleader,R,5.0,{4}{R},4.0,5.0,,"{R}, Sacrifice another creature or an enchantment: Skophos Warleader gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Minotaur, Warrior"
-154,Stampede Rider,R,3.0,{2}{R},2.0,3.0,,"Trample
+149,Skophos Warleader,R,5.0,{4}{R},4.0,5.0,,"{R}, Sacrifice another creature or an enchantment: Skophos Warleader gets +1/+0 and gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Minotaur, Warrior"
+150,Stampede Rider,R,3.0,{2}{R},2.0,3.0,,"Trample
 At the beginning of each combat, if you control a creature with power 4 or greater, Stampede Rider gets +1/+1 until end of turn.",common,Trample,,Creature,Satyr
-155,Storm Herald,R,3.0,{2}{R},3.0,2.0,,"Haste
+151,Storm Herald,R,3.0,{2}{R},3.0,2.0,,"Haste
 When Storm Herald enters the battlefield, return any number of Aura cards from your graveyard to the battlefield attached to creatures you control. Exile those Auras at the beginning of your next end step. If those Auras would leave the battlefield, exile them instead of putting them anywhere else.",rare,Haste,,Creature,"Human, Shaman"
-156,Storm's Wrath,R,4.0,{2}{R}{R},,,,Storm's Wrath deals 4 damage to each creature and each planeswalker.,rare,,,Sorcery,
-157,Tectonic Giant,R,4.0,{2}{R}{R},3.0,4.0,,"Whenever Tectonic Giant attacks or becomes the target of a spell an opponent controls, choose one —
+152,Storm's Wrath,R,4.0,{2}{R}{R},,,,Storm's Wrath deals 4 damage to each creature and each planeswalker.,rare,,,Sorcery,
+153,Tectonic Giant,R,4.0,{2}{R}{R},3.0,4.0,,"Whenever Tectonic Giant attacks or becomes the target of a spell an opponent controls, choose one —
 • Tectonic Giant deals 3 damage to each opponent.
 • Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.",rare,,,Creature,"Elemental, Giant"
-158,Thrill of Possibility,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard a card.
+154,Thrill of Possibility,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard a card.
 Draw two cards.",common,,,Instant,
-159,The Triumph of Anax,R,3.0,{2}{R},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+155,The Triumph of Anax,R,3.0,{2}{R},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 I, II, III — Until end of turn, target creature gains trample and gets +X/+0, where X is the number of lore counters on The Triumph of Anax.
 IV — Target creature you control fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",uncommon,Fight,,Enchantment,Saga
-160,Underworld Breach,R,2.0,{1}{R},,,,"Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
+156,Underworld Breach,R,2.0,{1}{R},,,,"Each nonland card in your graveyard has escape. The escape cost is equal to the card's mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
 At the beginning of the end step, sacrifice Underworld Breach.",rare,,,Enchantment,
-161,Underworld Fires,R,2.0,{1}{R},,,,"Underworld Fires deals 1 damage to each creature and each planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.",uncommon,,,Sorcery,
-162,Underworld Rage-Hound,R,2.0,{1}{R},3.0,1.0,,"Underworld Rage-Hound attacks each combat if able.
+157,Underworld Fires,R,2.0,{1}{R},,,,"Underworld Fires deals 1 damage to each creature and each planeswalker. If a permanent dealt damage this way would die this turn, exile it instead.",uncommon,,,Sorcery,
+158,Underworld Rage-Hound,R,2.0,{1}{R},3.0,1.0,,"Underworld Rage-Hound attacks each combat if able.
 Escape—{3}{R}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Underworld Rage-Hound escapes with a +1/+1 counter on it.",common,Escape,,Creature,"Elemental, Dog"
-163,Wrap in Flames,R,4.0,{3}{R},,,,Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.,common,,,Sorcery,
-164,Arasta of the Endless Web,G,4.0,{2}{G}{G},3.0,5.0,,"Reach
+159,Wrap in Flames,R,4.0,{3}{R},,,,Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.,common,,,Sorcery,
+160,Arasta of the Endless Web,G,4.0,{2}{G}{G},3.0,5.0,,"Reach
 Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.",rare,Reach,Legendary,"Enchantment, Creature",Spider
-165,The Binding of the Titans,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+161,The Binding of the Titans,G,2.0,{1}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Each player mills three cards.
 II — Exile up to two target cards from graveyards. For each creature card exiled this way, you gain 1 life.
 III — Return target creature or land card from your graveyard to your hand.",uncommon,Mill,,Enchantment,Saga
-166,Chainweb Aracnir,G,1.0,{G},1.0,2.0,,"Reach
+162,Chainweb Aracnir,G,1.0,{G},1.0,2.0,,"Reach
 When Chainweb Aracnir enters the battlefield, it deals damage equal to its power to target creature with flying an opponent controls.
 Escape—{3}{G}{G}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Chainweb Aracnir escapes with three +1/+1 counters on it.",uncommon,"Escape, Reach",,Creature,Spider
-167,Destiny Spinner,G,2.0,{1}{G},2.0,3.0,,"Creature and enchantment spells you control can't be countered.
+163,Destiny Spinner,G,2.0,{1}{G},2.0,3.0,,"Creature and enchantment spells you control can't be countered.
 {3}{G}: Target land you control becomes an X/X Elemental creature with trample and haste until end of turn, where X is the number of enchantments you control. It's still a land.",uncommon,,,"Enchantment, Creature",Human
-168,Dryad of the Ilysian Grove,G,3.0,{2}{G},2.0,4.0,,"You may play an additional land on each of your turns.
+164,Dryad of the Ilysian Grove,G,3.0,{2}{G},2.0,4.0,,"You may play an additional land on each of your turns.
 Lands you control are every basic land type in addition to their other types.",rare,,,"Enchantment, Creature","Nymph, Dryad"
-169,The First Iroan Games,G,3.0,{2}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+165,The First Iroan Games,G,3.0,{2}{G},,,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 I — Create a 1/1 white Human Soldier creature token.
 II — Put three +1/+1 counters on target creature you control.
 III — If you control a creature with power 4 or greater, draw two cards.
 IV — Create a Gold token. (It's an artifact with ""Sacrifice this artifact: Add one mana of any color."")",rare,,,Enchantment,Saga
-170,Gift of Strength,G,2.0,{1}{G},,,,Target creature gets +3/+3 and gains reach until end of turn.,common,,,Instant,
-171,Hydra's Growth,G,3.0,{2}{G},,,,"Enchant creature
+166,Gift of Strength,G,2.0,{1}{G},,,,Target creature gets +3/+3 and gains reach until end of turn.,common,,,Instant,
+167,Hydra's Growth,G,3.0,{2}{G},,,,"Enchant creature
 When Hydra's Growth enters the battlefield, put a +1/+1 counter on enchanted creature.
 At the beginning of your upkeep, double the number of +1/+1 counters on enchanted creature.",uncommon,Enchant,,Enchantment,Aura
-172,Hyrax Tower Scout,G,3.0,{2}{G},3.0,3.0,,"When Hyrax Tower Scout enters the battlefield, untap target creature.",common,,,Creature,"Human, Scout"
-173,Ilysian Caryatid,G,2.0,{1}{G},1.0,1.0,,"{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.",common,,,Creature,Plant
-174,Inspire Awe,G,4.0,{3}{G},,,,Prevent all combat damage that would be dealt this turn except combat damage that would be dealt by enchanted creatures and enchantment creatures. Scry 2.,common,Scry,,Instant,
-175,Klothys's Design,G,6.0,{5}{G},,,,"Creatures you control get +X/+X until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",uncommon,,,Sorcery,
-176,Loathsome Chimera,G,3.0,{2}{G},4.0,1.0,,"Escape—{4}{G}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+168,Hyrax Tower Scout,G,3.0,{2}{G},3.0,3.0,,"When Hyrax Tower Scout enters the battlefield, untap target creature.",common,,,Creature,"Human, Scout"
+169,Ilysian Caryatid,G,2.0,{1}{G},1.0,1.0,,"{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.",common,,,Creature,Plant
+170,Inspire Awe,G,4.0,{3}{G},,,,Prevent all combat damage that would be dealt this turn except combat damage that would be dealt by enchanted creatures and enchantment creatures. Scry 2.,common,Scry,,Instant,
+171,Klothys's Design,G,6.0,{5}{G},,,,"Creatures you control get +X/+X until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",uncommon,,,Sorcery,
+172,Loathsome Chimera,G,3.0,{2}{G},4.0,1.0,,"Escape—{4}{G}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Loathsome Chimera escapes with a +1/+1 counter on it.",common,Escape,,Creature,Chimera
-177,Mantle of the Wolf,G,4.0,{3}{G},,,,"Enchant creature
+173,Mantle of the Wolf,G,4.0,{3}{G},,,,"Enchant creature
 Enchanted creature gets +4/+4.
 When Mantle of the Wolf is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens.",rare,Enchant,,Enchantment,Aura
-178,Moss Viper,G,1.0,{G},1.0,1.0,,Deathtouch,common,Deathtouch,,Creature,Snake
-179,Mystic Repeal,G,1.0,{G},,,,Put target enchantment on the bottom of its owner's library.,uncommon,,,Instant,
-180,Nessian Boar,G,5.0,{3}{G}{G},10.0,6.0,,"All creatures able to block Nessian Boar do so.
+174,Moss Viper,G,1.0,{G},1.0,1.0,,Deathtouch,common,Deathtouch,,Creature,Snake
+175,Mystic Repeal,G,1.0,{G},,,,Put target enchantment on the bottom of its owner's library.,uncommon,,,Instant,
+176,Nessian Boar,G,5.0,{3}{G}{G},10.0,6.0,,"All creatures able to block Nessian Boar do so.
 Whenever Nessian Boar becomes blocked by a creature, that creature's controller draws a card.",rare,,,Creature,Boar
-181,Nessian Hornbeetle,G,2.0,{1}{G},2.0,2.0,,"At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle.",uncommon,,,Creature,Insect
-182,Nessian Wanderer,G,2.0,{1}{G},1.0,3.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, look at the top three cards of your library. You may reveal a land card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.",uncommon,Constellation,,Creature,"Satyr, Scout"
-183,Nexus Wardens,G,3.0,{2}{G},1.0,4.0,,"Reach
+177,Nessian Hornbeetle,G,2.0,{1}{G},2.0,2.0,,"At the beginning of combat on your turn, if you control another creature with power 4 or greater, put a +1/+1 counter on Nessian Hornbeetle.",uncommon,,,Creature,Insect
+178,Nessian Wanderer,G,2.0,{1}{G},1.0,3.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, look at the top three cards of your library. You may reveal a land card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.",uncommon,Constellation,,Creature,"Satyr, Scout"
+179,Nexus Wardens,G,3.0,{2}{G},1.0,4.0,,"Reach
 Constellation — Whenever an enchantment enters the battlefield under your control, you gain 2 life.",common,"Constellation, Reach",,Creature,"Satyr, Archer"
-184,"Nylea, Keen-Eyed",G,4.0,{3}{G},5.0,6.0,,"Indestructible
+180,"Nylea, Keen-Eyed",G,4.0,{3}{G},5.0,6.0,,"Indestructible
 As long as your devotion to green is less than five, Nylea isn't a creature.
 Creature spells you cast cost {1} less to cast.
 {2}{G}: Reveal the top card of your library. If it's a creature card, put it into your hand. Otherwise, you may put it into your graveyard.",mythic,Indestructible,Legendary,"Enchantment, Creature",God
-185,Nylea's Forerunner,G,5.0,{4}{G},5.0,3.0,,"Trample
+181,Nylea's Forerunner,G,5.0,{4}{G},5.0,3.0,,"Trample
 Other creatures you control have trample.",common,Trample,,"Enchantment, Creature",Beast
-186,Nylea's Huntmaster,G,4.0,{3}{G},4.0,3.0,,"When Nylea's Huntmaster enters the battlefield, target creature you control gets +X/+0 until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",common,,,Creature,"Centaur, Shaman"
-187,Nylea's Intervention,G,2.0,{X}{G}{G},,,,"Choose one —
-• Search your library for up to X land cards, reveal them, put them into your hand, then shuffle.
-• Nylea's Intervention deals twice X damage to each creature with flying.",rare,,,Sorcery,
-188,Nyx Herald,G,3.0,{2}{G},2.0,3.0,,"At the beginning of combat on your turn, target enchanted creature or enchantment creature you control gets +1/+1 and gains trample until end of turn.",uncommon,,,"Enchantment, Creature","Centaur, Shaman"
-189,Nyxbloom Ancient,G,7.0,{4}{G}{G}{G},5.0,5.0,,"Trample
+182,Nylea's Huntmaster,G,4.0,{3}{G},4.0,3.0,,"When Nylea's Huntmaster enters the battlefield, target creature you control gets +X/+0 until end of turn, where X is your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",common,,,Creature,"Centaur, Shaman"
+183,Nyx Herald,G,3.0,{2}{G},2.0,3.0,,"At the beginning of combat on your turn, target enchanted creature or enchantment creature you control gets +1/+1 and gains trample until end of turn.",uncommon,,,"Enchantment, Creature","Centaur, Shaman"
+184,Nyxbloom Ancient,G,7.0,{4}{G}{G}{G},5.0,5.0,,"Trample
 If you tap a permanent for mana, it produces three times as much of that mana instead.",mythic,Trample,,"Enchantment, Creature",Elemental
-190,Nyxborn Colossus,G,6.0,{3}{G}{G}{G},6.0,7.0,,,common,,,"Enchantment, Creature",Giant
-191,Omen of the Hunt,G,3.0,{2}{G},,,,"Flash
+185,Nyxborn Colossus,G,6.0,{3}{G}{G}{G},6.0,7.0,,,common,,,"Enchantment, Creature",Giant
+186,Omen of the Hunt,G,3.0,{2}{G},,,,"Flash
 When Omen of the Hunt enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 {2}{G}, Sacrifice Omen of the Hunt: Scry 2.",common,"Flash, Scry",,Enchantment,
-192,Pheres-Band Brawler,G,6.0,{4}{G}{G},4.0,4.0,,"When Pheres-Band Brawler enters the battlefield, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",uncommon,Fight,,Creature,"Centaur, Warrior"
-193,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant,
-194,Relentless Pursuit,G,3.0,{2}{G},,,,Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.,common,,,Sorcery,
-195,"Renata, Called to the Hunt",G,4.0,{2}{G}{G},,3.0,,"Renata's power is equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+187,Pheres-Band Brawler,G,6.0,{4}{G}{G},4.0,4.0,,"When Pheres-Band Brawler enters the battlefield, it fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)",uncommon,Fight,,Creature,"Centaur, Warrior"
+188,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant,
+189,Relentless Pursuit,G,3.0,{2}{G},,,,Reveal the top four cards of your library. You may put a creature card and/or a land card from among them into your hand. Put the rest into your graveyard.,common,,,Sorcery,
+190,"Renata, Called to the Hunt",G,4.0,{2}{G}{G},,3.0,,"Renata's power is equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
 Each other creature you control enters the battlefield with an additional +1/+1 counter on it.",uncommon,,Legendary,"Enchantment, Creature",Demigod
-196,Return to Nature,G,2.0,{1}{G},,,,"Choose one —
+191,Return to Nature,G,2.0,{1}{G},,,,"Choose one —
 • Destroy target artifact.
 • Destroy target enchantment.
 • Exile target card from a graveyard.",common,,,Instant,
-197,Setessan Champion,G,3.0,{2}{G},1.0,3.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on Setessan Champion and draw a card.",rare,Constellation,,Creature,"Human, Warrior"
-198,Setessan Petitioner,G,3.0,{1}{G}{G},2.0,2.0,,"When Setessan Petitioner enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",uncommon,,,Creature,"Human, Druid"
-199,Setessan Skirmisher,G,2.0,{1}{G},2.0,1.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, Setessan Skirmisher gets +1/+1 until end of turn.",common,Constellation,,Creature,"Human, Warrior"
-200,Setessan Training,G,2.0,{1}{G},,,,"Enchant creature you control
+192,Setessan Champion,G,3.0,{2}{G},1.0,3.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on Setessan Champion and draw a card.",rare,Constellation,,Creature,"Human, Warrior"
+193,Setessan Petitioner,G,3.0,{1}{G}{G},2.0,2.0,,"When Setessan Petitioner enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",uncommon,,,Creature,"Human, Druid"
+194,Setessan Skirmisher,G,2.0,{1}{G},2.0,1.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, Setessan Skirmisher gets +1/+1 until end of turn.",common,Constellation,,Creature,"Human, Warrior"
+195,Setessan Training,G,2.0,{1}{G},,,,"Enchant creature you control
 When Setessan Training enters the battlefield, draw a card.
 Enchanted creature gets +1/+0 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)",common,Enchant,,Enchantment,Aura
-201,Skola Grovedancer,G,2.0,{1}{G},2.0,2.0,,"Whenever a land card is put into your graveyard from anywhere, you gain 1 life.
+196,Skola Grovedancer,G,2.0,{1}{G},2.0,2.0,,"Whenever a land card is put into your graveyard from anywhere, you gain 1 life.
 {2}{G}: Mill a card.",common,Mill,,"Enchantment, Creature","Satyr, Druid"
-202,Voracious Typhon,G,4.0,{2}{G}{G},4.0,4.0,,"Escape—{5}{G}{G}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+197,Voracious Typhon,G,4.0,{2}{G}{G},4.0,4.0,,"Escape—{5}{G}{G}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 Voracious Typhon escapes with three +1/+1 counters on it.",common,Escape,,Creature,"Snake, Beast"
-203,Warbriar Blessing,G,2.0,{1}{G},,,,"Enchant creature you control
+198,Warbriar Blessing,G,2.0,{1}{G},,,,"Enchant creature you control
 When Warbriar Blessing enters the battlefield, enchanted creature fights up to one target creature you don't control. (Each deals damage equal to its power to the other.)
 Enchanted creature gets +0/+2.",common,"Enchant, Fight",,Enchantment,Aura
-204,Wolfwillow Haven,G,2.0,{1}{G},,,,"Enchant land
+199,Wolfwillow Haven,G,2.0,{1}{G},,,,"Enchant land
 Whenever enchanted land is tapped for mana, its controller adds an additional {G}.
 {4}{G}, Sacrifice Wolfwillow Haven: Create a 2/2 green Wolf creature token. Activate only during your turn.",uncommon,Enchant,,Enchantment,Aura
-205,Acolyte of Affliction,"B, G",4.0,{2}{B}{G},2.0,3.0,,"When Acolyte of Affliction enters the battlefield, mill two cards, then you may return a permanent card from your graveyard to your hand.",uncommon,Mill,,Creature,"Human, Cleric"
-206,Allure of the Unknown,"B, R",5.0,{3}{B}{R},,,,"Reveal the top six cards of your library. An opponent exiles a nonland card from among them, then you put the rest into your hand. That opponent may cast the exiled card without paying its mana cost.",rare,,,Sorcery,
-207,"Ashiok, Nightmare Muse","B, U",5.0,{3}{U}{B},,,5.0,"[+1]: Create a 2/3 blue and black Nightmare creature token with ""Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.""
+200,Acolyte of Affliction,"B, G",4.0,{2}{B}{G},2.0,3.0,,"When Acolyte of Affliction enters the battlefield, mill two cards, then you may return a permanent card from your graveyard to your hand.",uncommon,Mill,,Creature,"Human, Cleric"
+201,Allure of the Unknown,"B, R",5.0,{3}{B}{R},,,,"Reveal the top six cards of your library. An opponent exiles a nonland card from among them, then you put the rest into your hand. That opponent may cast the exiled card without paying its mana cost.",rare,,,Sorcery,
+202,"Ashiok, Nightmare Muse","B, U",5.0,{3}{U}{B},,,5.0,"[+1]: Create a 2/3 blue and black Nightmare creature token with ""Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.""
 [−3]: Return target nonland permanent to its owner's hand, then that player exiles a card from their hand.
 [−7]: You may cast up to three spells from among face-up cards your opponents own from exile without paying their mana costs.",mythic,,Legendary,Planeswalker,Ashiok
-208,"Atris, Oracle of Half-Truths","B, U",4.0,{2}{U}{B},3.0,2.0,,"Menace
+203,"Atris, Oracle of Half-Truths","B, U",4.0,{2}{U}{B},3.0,2.0,,"Menace
 When Atris, Oracle of Half-Truths enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.",rare,Menace,Legendary,Creature,"Human, Advisor"
-209,Bronzehide Lion,"G, W",2.0,{G}{W},3.0,3.0,,"{G}{W}: Bronzehide Lion gains indestructible until end of turn.
+204,Bronzehide Lion,"G, W",2.0,{G}{W},3.0,3.0,,"{G}{W}: Bronzehide Lion gains indestructible until end of turn.
 When Bronzehide Lion dies, return it to the battlefield. It's an Aura enchantment with enchant creature you control and ""{G}{W}: Enchanted creature gains indestructible until end of turn,"" and it loses all other abilities.",rare,,,Creature,Cat
-210,"Calix, Destiny's Hand","G, W",4.0,{2}{G}{W},,,4.0,"[+1]: Look at the top four cards of your library. You may reveal an enchantment card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.
+205,"Calix, Destiny's Hand","G, W",4.0,{2}{G}{W},,,4.0,"[+1]: Look at the top four cards of your library. You may reveal an enchantment card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.
 [−3]: Exile target creature or enchantment you don't control until target enchantment you control leaves the battlefield.
 [−7]: Return all enchantment cards from your graveyard to the battlefield.",mythic,,Legendary,Planeswalker,Calix
-211,"Dalakos, Crafter of Wonders","R, U",3.0,{1}{U}{R},2.0,4.0,,"{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+206,"Dalakos, Crafter of Wonders","R, U",3.0,{1}{U}{R},2.0,4.0,,"{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 Equipped creatures you control have flying and haste.",rare,,Legendary,Creature,"Merfolk, Artificer"
-212,Devourer of Memory,"B, U",2.0,{U}{B},2.0,1.0,,"Whenever one or more cards are put into your graveyard from your library, Devourer of Memory gets +1/+1 until end of turn and can't be blocked this turn.
+207,Devourer of Memory,"B, U",2.0,{U}{B},2.0,1.0,,"Whenever one or more cards are put into your graveyard from your library, Devourer of Memory gets +1/+1 until end of turn and can't be blocked this turn.
 {1}{U}{B}: Mill a card.",uncommon,Mill,,Creature,Nightmare
-213,Dream Trawler,"U, W",6.0,{2}{W}{W}{U}{U},3.0,5.0,,"Flying, lifelink
+208,Dream Trawler,"U, W",6.0,{2}{W}{W}{U}{U},3.0,5.0,,"Flying, lifelink
 Whenever you draw a card, Dream Trawler gets +1/+0 until end of turn.
 Whenever Dream Trawler attacks, draw a card.
 Discard a card: Dream Trawler gains hexproof until end of turn. Tap it.",rare,"Flying, Lifelink",,Creature,Sphinx
-214,Enigmatic Incarnation,"G, U",4.0,{2}{G}{U},,,,"At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed enchantment's mana value, put that card onto the battlefield, then shuffle.",rare,,,Enchantment,
-215,Eutropia the Twice-Favored,"G, U",3.0,{1}{G}{U},2.0,2.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on target creature. That creature gains flying until end of turn.",uncommon,Constellation,Legendary,Creature,"Human, Wizard"
-216,Gallia of the Endless Dance,"G, R",2.0,{R}{G},2.0,2.0,,"Haste
+209,Enigmatic Incarnation,"G, U",4.0,{2}{G}{U},,,,"At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with mana value equal to 1 plus the sacrificed enchantment's mana value, put that card onto the battlefield, then shuffle.",rare,,,Enchantment,
+210,Eutropia the Twice-Favored,"G, U",3.0,{1}{G}{U},2.0,2.0,,"Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on target creature. That creature gains flying until end of turn.",uncommon,Constellation,Legendary,Creature,"Human, Wizard"
+211,Gallia of the Endless Dance,"G, R",2.0,{R}{G},2.0,2.0,,"Haste
 Other Satyrs you control get +1/+1 and have haste.
 Whenever you attack with three or more creatures, you may discard a card at random. If you do, draw two cards.",rare,Haste,Legendary,Creature,Satyr
-217,Haktos the Unscarred,"R, W",4.0,{R}{R}{W}{W},6.0,1.0,,"Haktos the Unscarred attacks each combat if able.
+212,Haktos the Unscarred,"R, W",4.0,{R}{R}{W}{W},6.0,1.0,,"Haktos the Unscarred attacks each combat if able.
 As Haktos enters the battlefield, choose 2, 3, or 4 at random.
 Haktos has protection from each mana value other than the chosen number.",rare,,Legendary,Creature,"Human, Warrior"
-218,Hero of the Nyxborn,"R, W",3.0,{1}{R}{W},2.0,2.0,,"When Hero of the Nyxborn enters the battlefield, create a 1/1 white Human Soldier creature token.
+213,Hero of the Nyxborn,"R, W",3.0,{1}{R}{W},2.0,2.0,,"When Hero of the Nyxborn enters the battlefield, create a 1/1 white Human Soldier creature token.
 Whenever you cast a spell that targets Hero of the Nyxborn, creatures you control get +1/+0 until end of turn.",uncommon,,,"Enchantment, Creature","Human, Soldier"
-219,"Klothys, God of Destiny","G, R",3.0,{1}{R}{G},4.0,5.0,,"Indestructible
+214,"Klothys, God of Destiny","G, R",3.0,{1}{R}{G},4.0,5.0,,"Indestructible
 As long as your devotion to red and green is less than seven, Klothys isn't a creature.
 At the beginning of your precombat main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent.",mythic,Indestructible,Legendary,"Enchantment, Creature",God
-220,"Kroxa, Titan of Death's Hunger","B, R",2.0,{B}{R},6.0,6.0,,"When Kroxa enters the battlefield, sacrifice it unless it escaped.
+215,"Kroxa, Titan of Death's Hunger","B, R",2.0,{B}{R},6.0,6.0,,"When Kroxa enters the battlefield, sacrifice it unless it escaped.
 Whenever Kroxa enters the battlefield or attacks, each opponent discards a card, then each opponent who didn't discard a nonland card this way loses 3 life.
 Escape—{B}{B}{R}{R}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",mythic,Escape,Legendary,Creature,"Elder, Giant"
-221,"Kunoros, Hound of Athreos","B, W",3.0,{1}{W}{B},3.0,3.0,,"Vigilance, menace, lifelink
+216,"Kunoros, Hound of Athreos","B, W",3.0,{1}{W}{B},3.0,3.0,,"Vigilance, menace, lifelink
 Creature cards in graveyards can't enter the battlefield.
 Players can't cast spells from graveyards.",rare,"Lifelink, Menace, Vigilance",Legendary,Creature,Dog
-222,Mischievous Chimera,"R, U",2.0,{U}{R},2.0,2.0,,"Flying
+217,Mischievous Chimera,"R, U",2.0,{U}{R},2.0,2.0,,"Flying
 Whenever you cast your first spell during each opponent's turn, Mischievous Chimera deals 1 damage to each opponent. Scry 1.",uncommon,"Flying, Scry",,"Enchantment, Creature",Chimera
-223,"Polukranos, Unchained","B, G",4.0,{2}{B}{G},0.0,0.0,,"Polukranos enters the battlefield with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.
+218,"Polukranos, Unchained","B, G",4.0,{2}{B}{G},0.0,0.0,,"Polukranos enters the battlefield with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.
 If damage would be dealt to Polukranos while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it.
 {1}{B}{G}: Polukranos fights another target creature.
 Escape—{4}{B}{G}, Exile six other cards from your graveyard.",mythic,"Escape, Fight",Legendary,Creature,"Zombie, Hydra"
-224,Rise to Glory,"B, W",5.0,{3}{W}{B},,,,"Choose one or both —
+219,Rise to Glory,"B, W",5.0,{3}{W}{B},,,,"Choose one or both —
 • Return target creature card from your graveyard to the battlefield.
 • Return target Aura card from your graveyard to the battlefield.",uncommon,,,Sorcery,
-225,"Siona, Captain of the Pyleas","G, W",3.0,{1}{G}{W},2.0,2.0,,"When Siona, Captain of the Pyleas enters the battlefield, look at the top seven cards of your library. You may reveal an Aura card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+220,"Siona, Captain of the Pyleas","G, W",3.0,{1}{G}{W},2.0,2.0,,"When Siona, Captain of the Pyleas enters the battlefield, look at the top seven cards of your library. You may reveal an Aura card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 Whenever an Aura you control becomes attached to a creature you control, create a 1/1 white Human Soldier creature token.",uncommon,,Legendary,Creature,"Human, Soldier"
-226,Slaughter-Priest of Mogis,"B, R",2.0,{B}{R},2.0,2.0,,"Whenever you sacrifice a permanent, Slaughter-Priest of Mogis gets +2/+0 until end of turn.
+221,Slaughter-Priest of Mogis,"B, R",2.0,{B}{R},2.0,2.0,,"Whenever you sacrifice a permanent, Slaughter-Priest of Mogis gets +2/+0 until end of turn.
 {2}, Sacrifice another creature or an enchantment: Slaughter-Priest of Mogis gains first strike until end of turn.",uncommon,,,Creature,"Minotaur, Shaman"
-227,Staggering Insight,"U, W",2.0,{W}{U},,,,"Enchant creature
+222,Staggering Insight,"U, W",2.0,{W}{U},,,,"Enchant creature
 Enchanted creature gets +1/+1 and has lifelink and ""Whenever this creature deals combat damage to a player, draw a card.""",uncommon,Enchant,,Enchantment,Aura
-228,"Uro, Titan of Nature's Wrath","G, U",3.0,{1}{G}{U},6.0,6.0,,"When Uro enters the battlefield, sacrifice it unless it escaped.
+223,"Uro, Titan of Nature's Wrath","G, U",3.0,{1}{G}{U},6.0,6.0,,"When Uro enters the battlefield, sacrifice it unless it escaped.
 Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield.
 Escape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",mythic,Escape,Legendary,Creature,"Elder, Giant"
-229,Warden of the Chained,"G, R",3.0,{1}{R}{G},4.0,4.0,,"Trample
+224,Warden of the Chained,"G, R",3.0,{1}{R}{G},4.0,4.0,,"Trample
 Warden of the Chained can't attack unless you control another creature with power 4 or greater.",uncommon,Trample,,Creature,"Minotaur, Warrior"
-230,Altar of the Pantheon,C,3.0,{3},,,,"Your devotion to each color and each combination of colors is increased by one.
+225,Altar of the Pantheon,C,3.0,{3},,,,"Your devotion to each color and each combination of colors is increased by one.
 {T}: Add one mana of any color. If you control a God, a Demigod, or a legendary enchantment, you gain 1 life.",common,,,Artifact,
-231,Bronze Sword,C,1.0,{1},,,,"Equipped creature gets +2/+0.
+226,Bronze Sword,C,1.0,{1},,,,"Equipped creature gets +2/+0.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-232,Entrancing Lyre,C,3.0,{3},,,,"You may choose not to untap Entrancing Lyre during your untap step.
+227,Entrancing Lyre,C,3.0,{3},,,,"You may choose not to untap Entrancing Lyre during your untap step.
 {X}, {T}: Tap target creature with power X or less. It doesn't untap during its controller's untap step for as long as Entrancing Lyre remains tapped.",uncommon,,,Artifact,
-233,Mirror Shield,C,2.0,{2},,,,"Equipped creature gets +0/+2 and has hexproof and ""Whenever a creature with deathtouch blocks or becomes blocked by this creature, destroy that creature.""
+228,Mirror Shield,C,2.0,{2},,,,"Equipped creature gets +0/+2 and has hexproof and ""Whenever a creature with deathtouch blocks or becomes blocked by this creature, destroy that creature.""
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-234,Nyx Lotus,C,4.0,{4},,,,"Nyx Lotus enters the battlefield tapped.
+229,Nyx Lotus,C,4.0,{4},,,,"Nyx Lotus enters the battlefield tapped.
 {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",rare,,Legendary,Artifact,
-235,Shadowspear,C,1.0,{1},,,,"Equipped creature gets +1/+1 and has trample and lifelink.
+230,Shadowspear,C,1.0,{1},,,,"Equipped creature gets +1/+1 and has trample and lifelink.
 {1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
 Equip {2}",rare,Equip,Legendary,Artifact,Equipment
-236,Soul-Guide Lantern,C,1.0,{1},,,,"When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard.
+231,Soul-Guide Lantern,C,1.0,{1},,,,"When Soul-Guide Lantern enters the battlefield, exile target card from a graveyard.
 {T}, Sacrifice Soul-Guide Lantern: Exile each opponent's graveyard.
 {1}, {T}, Sacrifice Soul-Guide Lantern: Draw a card.",uncommon,,,Artifact,
-237,Thaumaturge's Familiar,C,3.0,{3},1.0,3.0,,"Flying
+232,Thaumaturge's Familiar,C,3.0,{3},1.0,3.0,,"Flying
 When Thaumaturge's Familiar enters the battlefield, scry 1.",common,"Flying, Scry",,"Artifact, Creature",Bird
-238,Thundering Chariot,C,4.0,{4},3.0,3.0,,"First strike, trample, haste
+233,Thundering Chariot,C,4.0,{4},3.0,3.0,,"First strike, trample, haste
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, First strike, Haste, Trample",,Artifact,Vehicle
-239,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact,
-240,Wings of Hubris,C,2.0,{2},,,,"Equipped creature has flying.
+234,Traveler's Amulet,C,1.0,{1},,,,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",common,,,Artifact,
+235,Wings of Hubris,C,2.0,{2},,,,"Equipped creature has flying.
 Sacrifice Wings of Hubris: Equipped creature can't be blocked this turn. Sacrifice it at the beginning of the next end step.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-241,Field of Ruin,L,0.0,,,,,"{T}: Add {C}.
+236,Field of Ruin,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",uncommon,,,Land,
-242,Labyrinth of Skophos,L,0.0,,,,,"{T}: Add {C}.
+237,Labyrinth of Skophos,L,0.0,,,,,"{T}: Add {C}.
 {4}, {T}: Remove target attacking or blocking creature from combat.",rare,,,Land,
-243,Temple of Abandon,L,0.0,,,,,"Temple of Abandon enters the battlefield tapped.
+238,Temple of Abandon,L,0.0,,,,,"Temple of Abandon enters the battlefield tapped.
 When Temple of Abandon enters the battlefield, scry 1.
 {T}: Add {R} or {G}.",rare,Scry,,Land,
-244,Temple of Deceit,L,0.0,,,,,"Temple of Deceit enters the battlefield tapped.
+239,Temple of Deceit,L,0.0,,,,,"Temple of Deceit enters the battlefield tapped.
 When Temple of Deceit enters the battlefield, scry 1.
 {T}: Add {U} or {B}.",rare,Scry,,Land,
-245,Temple of Enlightenment,L,0.0,,,,,"Temple of Enlightenment enters the battlefield tapped.
+240,Temple of Enlightenment,L,0.0,,,,,"Temple of Enlightenment enters the battlefield tapped.
 When Temple of Enlightenment enters the battlefield, scry 1.
 {T}: Add {W} or {U}.",rare,Scry,,Land,
-246,Temple of Malice,L,0.0,,,,,"Temple of Malice enters the battlefield tapped.
+241,Temple of Malice,L,0.0,,,,,"Temple of Malice enters the battlefield tapped.
 When Temple of Malice enters the battlefield, scry 1.
 {T}: Add {B} or {R}.",rare,Scry,,Land,
-247,Temple of Plenty,L,0.0,,,,,"Temple of Plenty enters the battlefield tapped.
+242,Temple of Plenty,L,0.0,,,,,"Temple of Plenty enters the battlefield tapped.
 When Temple of Plenty enters the battlefield, scry 1.
 {T}: Add {G} or {W}.",rare,Scry,,Land,
-248,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
+243,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land,
-249,"Elspeth, Undaunted Hero",W,5.0,{2}{W}{W}{W},,,5.0,"[+2]: Put a +1/+1 counter on each of up to two target creatures.
+244,"Elspeth, Undaunted Hero",W,5.0,{2}{W}{W}{W},,,5.0,"[+2]: Put a +1/+1 counter on each of up to two target creatures.
 [−2]: Search your library and/or graveyard for a card named Sunlit Hoplite and put it onto the battlefield. If you search your library this way, shuffle.
 [−8]: Until end of turn, creatures you control gain flying and get +X/+X, where X is your devotion to white.",mythic,,Legendary,Planeswalker,Elspeth
-250,Eidolon of Inspiration,W,3.0,{1}{W}{W},2.0,2.0,,"At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn.",uncommon,,,"Enchantment, Creature",Spirit
-251,Elspeth's Devotee,W,4.0,{2}{W}{W},3.0,3.0,,"When Elspeth's Devotee enters the battlefield, you may search your library and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature,"Human, Soldier"
-252,Sunlit Hoplite,W,2.0,{1}{W},2.0,1.0,,"As long as it's your turn, Sunlit Hoplite has first strike.
+245,Eidolon of Inspiration,W,3.0,{1}{W}{W},2.0,2.0,,"At the beginning of combat on your turn, target creature you control gets +2/+0 until end of turn.",uncommon,,,"Enchantment, Creature",Spirit
+246,Elspeth's Devotee,W,4.0,{2}{W}{W},3.0,3.0,,"When Elspeth's Devotee enters the battlefield, you may search your library and/or graveyard for a card named Elspeth, Undaunted Hero, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature,"Human, Soldier"
+247,Sunlit Hoplite,W,2.0,{1}{W},2.0,1.0,,"As long as it's your turn, Sunlit Hoplite has first strike.
 Sunlit Hoplite gets +1/+0 as long as you control an Elspeth planeswalker.",common,,,Creature,"Human, Soldier"
-253,"Ashiok, Sculptor of Fears","B, U",6.0,{4}{U}{B},,,4.0,"[+2]: Draw a card. Each player mills two cards.
+248,"Ashiok, Sculptor of Fears","B, U",6.0,{4}{U}{B},,,4.0,"[+2]: Draw a card. Each player mills two cards.
 [−5]: Put target creature card from a graveyard onto the battlefield under your control.
 [−11]: Gain control of all creatures target opponent controls.",mythic,Mill,Legendary,Planeswalker,Ashiok
-254,Swimmer in Nightmares,U,3.0,{2}{U},1.0,4.0,,"Swimmer in Nightmares gets +3/+0 as long as there are ten or more cards in a single graveyard.
+249,Swimmer in Nightmares,U,3.0,{2}{U},1.0,4.0,,"Swimmer in Nightmares gets +3/+0 as long as there are ten or more cards in a single graveyard.
 Swimmer in Nightmares can't be blocked as long as you control an Ashiok planeswalker.",uncommon,,,Creature,"Nightmare, Merfolk"
-255,Mindwrack Harpy,B,4.0,{3}{B},3.0,2.0,,"Flying
+250,Mindwrack Harpy,B,4.0,{3}{B},3.0,2.0,,"Flying
 At the beginning of combat on your turn, each player mills three cards.",common,"Flying, Mill",,"Enchantment, Creature",Harpy
-256,Ashiok's Forerunner,"B, U",5.0,{3}{U}{B},3.0,3.0,,"Flash
+251,Ashiok's Forerunner,"B, U",5.0,{3}{U}{B},3.0,3.0,,"Flash
 When Ashiok's Forerunner enters the battlefield, you may search your library and/or graveyard for a card named Ashiok, Sculptor of Fears, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,Flash,,Creature,"Human, Wizard"

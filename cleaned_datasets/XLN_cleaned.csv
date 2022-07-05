@@ -51,390 +51,388 @@ Enchanted creature can't attack or block.",common,Enchant,,Enchantment,Aura
 31,Raptor Companion,W,2.0,{1}{W},3.0,1.0,,,common,,,Creature,Dinosaur
 32,Ritual of Rejuvenation,W,3.0,{2}{W},,,,"You gain 4 life.
 Draw a card.",common,,,Instant,
-33,Sanguine Sacrament,W,2.0,{X}{W}{W},,,,You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library.,rare,,,Instant,
-34,Settle the Wreckage,W,4.0,{2}{W}{W},,,,"Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle.",rare,,,Instant,
-35,Sheltering Light,W,1.0,{W},,,,"Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say ""destroy"" don't destroy the creature.)",uncommon,Scry,,Instant,
-36,Shining Aerosaur,W,5.0,{4}{W},3.0,4.0,,Flying,common,Flying,,Creature,Dinosaur
-37,Skyblade of the Legion,W,2.0,{1}{W},1.0,3.0,,Flying,common,Flying,,Creature,"Vampire, Soldier"
-38,Slash of Talons,W,1.0,{W},,,,Slash of Talons deals 2 damage to target attacking or blocking creature.,common,,,Instant,
-39,Steadfast Armasaur,W,4.0,{3}{W},2.0,3.0,,"Vigilance
+33,Settle the Wreckage,W,4.0,{2}{W}{W},,,,"Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle.",rare,,,Instant,
+34,Sheltering Light,W,1.0,{W},,,,"Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say ""destroy"" don't destroy the creature.)",uncommon,Scry,,Instant,
+35,Shining Aerosaur,W,5.0,{4}{W},3.0,4.0,,Flying,common,Flying,,Creature,Dinosaur
+36,Skyblade of the Legion,W,2.0,{1}{W},1.0,3.0,,Flying,common,Flying,,Creature,"Vampire, Soldier"
+37,Slash of Talons,W,1.0,{W},,,,Slash of Talons deals 2 damage to target attacking or blocking creature.,common,,,Instant,
+38,Steadfast Armasaur,W,4.0,{3}{W},2.0,3.0,,"Vigilance
 {1}{W}, {T}: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it.",uncommon,Vigilance,,Creature,Dinosaur
-40,Sunrise Seeker,W,5.0,{4}{W},3.0,3.0,,"Vigilance
+39,Sunrise Seeker,W,5.0,{4}{W},3.0,3.0,,"Vigilance
 When Sunrise Seeker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,"Explore, Vigilance",,Creature,"Human, Scout"
-41,Territorial Hammerskull,W,3.0,{2}{W},2.0,3.0,,"Whenever Territorial Hammerskull attacks, tap target creature an opponent controls.",common,,,Creature,Dinosaur
-42,Tocatli Honor Guard,W,2.0,{1}{W},1.0,3.0,,Creatures entering the battlefield don't cause abilities to trigger.,rare,,,Creature,"Human, Soldier"
-43,Vampire's Zeal,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn.",common,,,Instant,
-44,Wakening Sun's Avatar,W,8.0,{5}{W}{W}{W},7.0,7.0,,"When Wakening Sun's Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures.",mythic,,,Creature,"Dinosaur, Avatar"
-45,Air Elemental,U,5.0,{3}{U}{U},4.0,4.0,,Flying,uncommon,Flying,,Creature,Elemental
-46,Arcane Adaptation,U,3.0,{2}{U},,,,"As Arcane Adaptation enters the battlefield, choose a creature type.
+40,Territorial Hammerskull,W,3.0,{2}{W},2.0,3.0,,"Whenever Territorial Hammerskull attacks, tap target creature an opponent controls.",common,,,Creature,Dinosaur
+41,Tocatli Honor Guard,W,2.0,{1}{W},1.0,3.0,,Creatures entering the battlefield don't cause abilities to trigger.,rare,,,Creature,"Human, Soldier"
+42,Vampire's Zeal,W,1.0,{W},,,,"Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn.",common,,,Instant,
+43,Wakening Sun's Avatar,W,8.0,{5}{W}{W}{W},7.0,7.0,,"When Wakening Sun's Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures.",mythic,,,Creature,"Dinosaur, Avatar"
+44,Air Elemental,U,5.0,{3}{U}{U},4.0,4.0,,Flying,uncommon,Flying,,Creature,Elemental
+45,Arcane Adaptation,U,3.0,{2}{U},,,,"As Arcane Adaptation enters the battlefield, choose a creature type.
 Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.",rare,,,Enchantment,
-47,Cancel,U,3.0,{1}{U}{U},,,,Counter target spell.,common,,,Instant,
-48,Chart a Course,U,2.0,{1}{U},,,,Draw two cards. Then discard a card unless you attacked this turn.,uncommon,,,Sorcery,
-49,Daring Saboteur,U,2.0,{1}{U},2.0,1.0,,"{2}{U}: Daring Saboteur can't be blocked this turn.
+46,Cancel,U,3.0,{1}{U}{U},,,,Counter target spell.,common,,,Instant,
+47,Chart a Course,U,2.0,{1}{U},,,,Draw two cards. Then discard a card unless you attacked this turn.,uncommon,,,Sorcery,
+48,Daring Saboteur,U,2.0,{1}{U},2.0,1.0,,"{2}{U}: Daring Saboteur can't be blocked this turn.
 Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card.",rare,,,Creature,"Human, Pirate"
-50,Deadeye Quartermaster,U,4.0,{3}{U},2.0,2.0,,"When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle.",uncommon,,,Creature,"Human, Pirate"
-51,Deeproot Waters,U,3.0,{2}{U},,,,"Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",uncommon,,,Enchantment,
-52,Depths of Desire,U,3.0,{2}{U},,,,"Return target creature to its owner's hand. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Instant,
-53,Dive Down,U,1.0,{U},,,,Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),common,,,Instant,
-54,Dreamcaller Siren,U,4.0,{2}{U}{U},3.0,3.0,,"Flash
+49,Deadeye Quartermaster,U,4.0,{3}{U},2.0,2.0,,"When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle.",uncommon,,,Creature,"Human, Pirate"
+50,Deeproot Waters,U,3.0,{2}{U},,,,"Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",uncommon,,,Enchantment,
+51,Depths of Desire,U,3.0,{2}{U},,,,"Return target creature to its owner's hand. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Instant,
+52,Dive Down,U,1.0,{U},,,,Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),common,,,Instant,
+53,Dreamcaller Siren,U,4.0,{2}{U}{U},3.0,3.0,,"Flash
 Flying
 Dreamcaller Siren can block only creatures with flying.
 When Dreamcaller Siren enters the battlefield, if you control another Pirate, tap up to two target nonland permanents.",rare,"Flash, Flying",,Creature,"Siren, Pirate"
-55,Entrancing Melody,U,2.0,{X}{U}{U},,,,Gain control of target creature with mana value X.,rare,,,Sorcery,
-56,Favorable Winds,U,2.0,{1}{U},,,,Creatures you control with flying get +1/+1.,uncommon,,,Enchantment,
-57,Fleet Swallower,U,7.0,{5}{U}{U},6.0,6.0,,"Whenever Fleet Swallower attacks, target player mills half their library, rounded up.",rare,Mill,,Creature,Fish
-58,Headwater Sentries,U,4.0,{3}{U},2.0,5.0,,,common,,,Creature,"Merfolk, Warrior"
-59,Herald of Secret Streams,U,4.0,{3}{U},2.0,3.0,,Creatures you control with +1/+1 counters on them can't be blocked.,rare,,,Creature,"Merfolk, Warrior"
-60,"Jace, Cunning Castaway",U,3.0,{1}{U}{U},,,3.0,"[+1]: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
+54,Favorable Winds,U,2.0,{1}{U},,,,Creatures you control with flying get +1/+1.,uncommon,,,Enchantment,
+55,Fleet Swallower,U,7.0,{5}{U}{U},6.0,6.0,,"Whenever Fleet Swallower attacks, target player mills half their library, rounded up.",rare,Mill,,Creature,Fish
+56,Headwater Sentries,U,4.0,{3}{U},2.0,5.0,,,common,,,Creature,"Merfolk, Warrior"
+57,Herald of Secret Streams,U,4.0,{3}{U},2.0,3.0,,Creatures you control with +1/+1 counters on them can't be blocked.,rare,,,Creature,"Merfolk, Warrior"
+58,"Jace, Cunning Castaway",U,3.0,{1}{U}{U},,,3.0,"[+1]: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
 [−2]: Create a 2/2 blue Illusion creature token with ""When this creature becomes the target of a spell, sacrifice it.""
 [−5]: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.",mythic,,Legendary,Planeswalker,Jace
-61,"Kopala, Warden of Waves",U,3.0,{1}{U}{U},2.0,2.0,,"Spells your opponents cast that target a Merfolk you control cost {2} more to cast.
+59,"Kopala, Warden of Waves",U,3.0,{1}{U}{U},2.0,2.0,,"Spells your opponents cast that target a Merfolk you control cost {2} more to cast.
 Abilities your opponents activate that target a Merfolk you control cost {2} more to activate.",rare,,Legendary,Creature,"Merfolk, Wizard"
-62,Lookout's Dispersal,U,3.0,{2}{U},,,,"This spell costs {1} less to cast if you control a Pirate.
+60,Lookout's Dispersal,U,3.0,{2}{U},,,,"This spell costs {1} less to cast if you control a Pirate.
 Counter target spell unless its controller pays {4}.",uncommon,,,Instant,
-63,Navigator's Ruin,U,3.0,{2}{U},,,,"Raid — At the beginning of your end step, if you attacked this turn, target opponent mills four cards.",uncommon,"Mill, Raid",,Enchantment,
-64,One With the Wind,U,2.0,{1}{U},,,,"Enchant creature
+61,Navigator's Ruin,U,3.0,{2}{U},,,,"Raid — At the beginning of your end step, if you attacked this turn, target opponent mills four cards.",uncommon,"Mill, Raid",,Enchantment,
+62,One With the Wind,U,2.0,{1}{U},,,,"Enchant creature
 Enchanted creature gets +2/+2 and has flying.",common,Enchant,,Enchantment,Aura
-65,Opt,U,1.0,{U},,,,"Scry 1.
+63,Opt,U,1.0,{U},,,,"Scry 1.
 Draw a card.",common,Scry,,Instant,
-66,Overflowing Insight,U,7.0,{4}{U}{U}{U},,,,Target player draws seven cards.,mythic,,,Sorcery,
-67,Perilous Voyage,U,2.0,{1}{U},,,,"Return target nonland permanent you don't control to its owner's hand. If its mana value was 2 or less, scry 2.",uncommon,Scry,,Instant,
-68,Pirate's Prize,U,4.0,{3}{U},,,,"Draw two cards. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Sorcery,
-69,Prosperous Pirates,U,5.0,{4}{U},3.0,4.0,,"When Prosperous Pirates enters the battlefield, create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Human, Pirate"
-70,River Sneak,U,2.0,{1}{U},1.0,1.0,,"River Sneak can't be blocked.
+64,Overflowing Insight,U,7.0,{4}{U}{U}{U},,,,Target player draws seven cards.,mythic,,,Sorcery,
+65,Perilous Voyage,U,2.0,{1}{U},,,,"Return target nonland permanent you don't control to its owner's hand. If its mana value was 2 or less, scry 2.",uncommon,Scry,,Instant,
+66,Pirate's Prize,U,4.0,{3}{U},,,,"Draw two cards. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Sorcery,
+67,Prosperous Pirates,U,5.0,{4}{U},3.0,4.0,,"When Prosperous Pirates enters the battlefield, create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Human, Pirate"
+68,River Sneak,U,2.0,{1}{U},1.0,1.0,,"River Sneak can't be blocked.
 Whenever another Merfolk enters the battlefield under your control, River Sneak gets +1/+1 until end of turn.",uncommon,,,Creature,"Merfolk, Warrior"
-71,River's Rebuke,U,6.0,{4}{U}{U},,,,Return all nonland permanents target player controls to their owner's hand.,rare,,,Sorcery,
-72,Run Aground,U,4.0,{3}{U},,,,Put target artifact or creature on top of its owner's library.,common,,,Instant,
-73,Sailor of Means,U,3.0,{2}{U},1.0,4.0,,"When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Human, Pirate"
-74,Search for Azcanta,U,2.0,{1}{U},,,,"At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.",rare,Transform,Legendary,Enchantment,
-75,"Azcanta, the Sunken Ruin",L,2.0,,,,,"(Transforms from Search for Azcanta.)
+69,River's Rebuke,U,6.0,{4}{U}{U},,,,Return all nonland permanents target player controls to their owner's hand.,rare,,,Sorcery,
+70,Run Aground,U,4.0,{3}{U},,,,Put target artifact or creature on top of its owner's library.,common,,,Instant,
+71,Sailor of Means,U,3.0,{2}{U},1.0,4.0,,"When Sailor of Means enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Human, Pirate"
+72,Search for Azcanta,U,2.0,{1}{U},,,,"At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.",rare,Transform,Legendary,Enchantment,
+73,"Azcanta, the Sunken Ruin",L,2.0,,,,,"(Transforms from Search for Azcanta.)
 {T}: Add {U}.
 {2}{U}, {T}: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",rare,Transform,Legendary,Land,
-76,Shaper Apprentice,U,2.0,{1}{U},2.0,1.0,,Shaper Apprentice has flying as long as you control another Merfolk.,common,,,Creature,"Merfolk, Wizard"
-77,Shipwreck Looter,U,2.0,{1}{U},2.0,1.0,,"Raid — When Shipwreck Looter enters the battlefield, if you attacked this turn, you may draw a card. If you do, discard a card.",common,Raid,,Creature,"Human, Pirate"
-78,Shore Keeper,U,1.0,{U},0.0,3.0,,"{7}{U}, {T}, Sacrifice Shore Keeper: Draw three cards.",common,,,Creature,Trilobite
-79,Siren Lookout,U,3.0,{2}{U},1.0,2.0,,"Flying
+74,Shaper Apprentice,U,2.0,{1}{U},2.0,1.0,,Shaper Apprentice has flying as long as you control another Merfolk.,common,,,Creature,"Merfolk, Wizard"
+75,Shipwreck Looter,U,2.0,{1}{U},2.0,1.0,,"Raid — When Shipwreck Looter enters the battlefield, if you attacked this turn, you may draw a card. If you do, discard a card.",common,Raid,,Creature,"Human, Pirate"
+76,Shore Keeper,U,1.0,{U},0.0,3.0,,"{7}{U}, {T}, Sacrifice Shore Keeper: Draw three cards.",common,,,Creature,Trilobite
+77,Siren Lookout,U,3.0,{2}{U},1.0,2.0,,"Flying
 When Siren Lookout enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,"Explore, Flying",,Creature,"Siren, Pirate"
-80,Siren Stormtamer,U,1.0,{U},1.0,1.0,,"Flying
+78,Siren Stormtamer,U,1.0,{U},1.0,1.0,,"Flying
 {U}, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control.",uncommon,Flying,,Creature,"Siren, Pirate, Wizard"
-81,Siren's Ruse,U,2.0,{1}{U},,,,"Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card.",common,,,Instant,
-82,Spell Pierce,U,1.0,{U},,,,Counter target noncreature spell unless its controller pays {2}.,common,,,Instant,
-83,Spell Swindle,U,5.0,{3}{U}{U},,,,"Counter target spell. Create X Treasure tokens, where X is that spell's mana value. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",rare,,,Instant,
-84,Storm Fleet Aerialist,U,2.0,{1}{U},1.0,2.0,,"Flying
+79,Siren's Ruse,U,2.0,{1}{U},,,,"Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card.",common,,,Instant,
+80,Spell Pierce,U,1.0,{U},,,,Counter target noncreature spell unless its controller pays {2}.,common,,,Instant,
+81,Spell Swindle,U,5.0,{3}{U}{U},,,,"Counter target spell. Create X Treasure tokens, where X is that spell's mana value. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",rare,,,Instant,
+82,Storm Fleet Aerialist,U,2.0,{1}{U},1.0,2.0,,"Flying
 Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on it if you attacked this turn.",uncommon,"Flying, Raid",,Creature,"Human, Pirate"
-85,Storm Fleet Spy,U,3.0,{2}{U},2.0,2.0,,"Raid — When Storm Fleet Spy enters the battlefield, if you attacked this turn, draw a card.",uncommon,Raid,,Creature,"Human, Pirate"
-86,Storm Sculptor,U,4.0,{3}{U},3.0,2.0,,"Storm Sculptor can't be blocked.
+83,Storm Fleet Spy,U,3.0,{2}{U},2.0,2.0,,"Raid — When Storm Fleet Spy enters the battlefield, if you attacked this turn, draw a card.",uncommon,Raid,,Creature,"Human, Pirate"
+84,Storm Sculptor,U,4.0,{3}{U},3.0,2.0,,"Storm Sculptor can't be blocked.
 When Storm Sculptor enters the battlefield, return a creature you control to its owner's hand.",common,,,Creature,"Merfolk, Wizard"
-87,Tempest Caller,U,4.0,{2}{U}{U},2.0,3.0,,"When Tempest Caller enters the battlefield, tap all creatures target opponent controls.",uncommon,,,Creature,"Merfolk, Wizard"
-88,Watertrap Weaver,U,3.0,{2}{U},2.0,2.0,,"When Watertrap Weaver enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",common,,,Creature,"Merfolk, Wizard"
-89,Wind Strider,U,5.0,{4}{U},3.0,3.0,,"Flash
+85,Tempest Caller,U,4.0,{2}{U}{U},2.0,3.0,,"When Tempest Caller enters the battlefield, tap all creatures target opponent controls.",uncommon,,,Creature,"Merfolk, Wizard"
+86,Watertrap Weaver,U,3.0,{2}{U},2.0,2.0,,"When Watertrap Weaver enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",common,,,Creature,"Merfolk, Wizard"
+87,Wind Strider,U,5.0,{4}{U},3.0,3.0,,"Flash
 Flying",common,"Flash, Flying",,Creature,"Merfolk, Wizard"
-90,Anointed Deacon,B,5.0,{4}{B},3.0,3.0,,"At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn.",common,,,Creature,"Vampire, Cleric"
-91,Arguel's Blood Fast,B,2.0,{1}{B},,,,"{1}{B}, Pay 2 life: Draw a card.
+88,Anointed Deacon,B,5.0,{4}{B},3.0,3.0,,"At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn.",common,,,Creature,"Vampire, Cleric"
+89,Arguel's Blood Fast,B,2.0,{1}{B},,,,"{1}{B}, Pay 2 life: Draw a card.
 At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",rare,Transform,Legendary,Enchantment,
-92,Temple of Aclazotz,L,2.0,,,,,"(Transforms from Arguel's Blood Fast.)
+90,Temple of Aclazotz,L,2.0,,,,,"(Transforms from Arguel's Blood Fast.)
 {T}: Add {B}.
 {T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",rare,Transform,Legendary,Land,
-93,Bishop of the Bloodstained,B,5.0,{3}{B}{B},3.0,3.0,,"When Bishop of the Bloodstained enters the battlefield, target opponent loses 1 life for each Vampire you control.",uncommon,,,Creature,"Vampire, Cleric"
-94,Blight Keeper,B,1.0,{B},1.0,1.0,,"Flying
+91,Bishop of the Bloodstained,B,5.0,{3}{B}{B},3.0,3.0,,"When Bishop of the Bloodstained enters the battlefield, target opponent loses 1 life for each Vampire you control.",uncommon,,,Creature,"Vampire, Cleric"
+92,Blight Keeper,B,1.0,{B},1.0,1.0,,"Flying
 {7}{B}, {T}, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life.",common,Flying,,Creature,"Bat, Imp"
-95,Bloodcrazed Paladin,B,2.0,{1}{B},1.0,1.0,,"Flash
+93,Bloodcrazed Paladin,B,2.0,{1}{B},1.0,1.0,,"Flash
 Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each creature that died this turn.",rare,Flash,,Creature,"Vampire, Knight"
-96,Boneyard Parley,B,7.0,{5}{B}{B},,,,Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards.,mythic,,,Sorcery,
-97,Contract Killing,B,5.0,{3}{B}{B},,,,"Destroy target creature. Create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Sorcery,
-98,Costly Plunder,B,2.0,{1}{B},,,,"As an additional cost to cast this spell, sacrifice an artifact or creature.
+94,Boneyard Parley,B,7.0,{5}{B}{B},,,,Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards.,mythic,,,Sorcery,
+95,Contract Killing,B,5.0,{3}{B}{B},,,,"Destroy target creature. Create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Sorcery,
+96,Costly Plunder,B,2.0,{1}{B},,,,"As an additional cost to cast this spell, sacrifice an artifact or creature.
 Draw two cards.",common,,,Instant,
-99,Dark Nourishment,B,5.0,{4}{B},,,,Dark Nourishment deals 3 damage to any target. You gain 3 life.,uncommon,,,Instant,
-100,Deadeye Tormentor,B,3.0,{2}{B},2.0,2.0,,"Raid — When Deadeye Tormentor enters the battlefield, if you attacked this turn, target opponent discards a card.",common,Raid,,Creature,"Human, Pirate"
-101,Deadeye Tracker,B,1.0,{B},1.0,1.0,,"{1}{B}, {T}: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",rare,,,Creature,"Human, Pirate"
-102,Deathless Ancient,B,6.0,{4}{B}{B},4.0,4.0,,"Flying
+97,Dark Nourishment,B,5.0,{4}{B},,,,Dark Nourishment deals 3 damage to any target. You gain 3 life.,uncommon,,,Instant,
+98,Deadeye Tormentor,B,3.0,{2}{B},2.0,2.0,,"Raid — When Deadeye Tormentor enters the battlefield, if you attacked this turn, target opponent discards a card.",common,Raid,,Creature,"Human, Pirate"
+99,Deadeye Tracker,B,1.0,{B},1.0,1.0,,"{1}{B}, {T}: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",rare,,,Creature,"Human, Pirate"
+100,Deathless Ancient,B,6.0,{4}{B}{B},4.0,4.0,,"Flying
 Tap three untapped Vampires you control: Return Deathless Ancient from your graveyard to your hand.",uncommon,Flying,,Creature,"Vampire, Knight"
-103,Desperate Castaways,B,2.0,{1}{B},2.0,3.0,,Desperate Castaways can't attack unless you control an artifact.,common,,,Creature,"Human, Pirate"
-104,Dire Fleet Hoarder,B,2.0,{1}{B},2.0,1.0,,"When Dire Fleet Hoarder dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Human, Pirate"
-105,Dire Fleet Interloper,B,4.0,{3}{B},2.0,2.0,,"Menace
+101,Desperate Castaways,B,2.0,{1}{B},2.0,3.0,,Desperate Castaways can't attack unless you control an artifact.,common,,,Creature,"Human, Pirate"
+102,Dire Fleet Hoarder,B,2.0,{1}{B},2.0,1.0,,"When Dire Fleet Hoarder dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Human, Pirate"
+103,Dire Fleet Interloper,B,4.0,{3}{B},2.0,2.0,,"Menace
 When Dire Fleet Interloper enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,"Explore, Menace",,Creature,"Human, Pirate"
-106,Dire Fleet Ravager,B,5.0,{3}{B}{B},4.0,4.0,,"Menace, deathtouch
+104,Dire Fleet Ravager,B,5.0,{3}{B}{B},4.0,4.0,,"Menace, deathtouch
 When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up.",mythic,"Deathtouch, Menace",,Creature,"Orc, Pirate, Wizard"
-107,Duress,B,1.0,{B},,,,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",common,,,Sorcery,
-108,Fathom Fleet Captain,B,2.0,{1}{B},2.0,1.0,,"Menace
+105,Duress,B,1.0,{B},,,,"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",common,,,Sorcery,
+106,Fathom Fleet Captain,B,2.0,{1}{B},2.0,1.0,,"Menace
 Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace.",rare,Menace,,Creature,"Human, Pirate"
-109,Fathom Fleet Cutthroat,B,4.0,{3}{B},3.0,3.0,,"When Fathom Fleet Cutthroat enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.",common,,,Creature,"Human, Pirate"
-110,Grim Captain's Call,B,3.0,{2}{B},,,,"Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk.",uncommon,,,Sorcery,
-111,Heartless Pillage,B,3.0,{2}{B},,,,"Target opponent discards two cards.
+107,Fathom Fleet Cutthroat,B,4.0,{3}{B},3.0,3.0,,"When Fathom Fleet Cutthroat enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.",common,,,Creature,"Human, Pirate"
+108,Grim Captain's Call,B,3.0,{2}{B},,,,"Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk.",uncommon,,,Sorcery,
+109,Heartless Pillage,B,3.0,{2}{B},,,,"Target opponent discards two cards.
 Raid — If you attacked this turn, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,Raid,,Sorcery,
-112,Kitesail Freebooter,B,2.0,{1}{B},1.0,2.0,,"Flying
+110,Kitesail Freebooter,B,2.0,{1}{B},1.0,2.0,,"Flying
 When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield.",uncommon,Flying,,Creature,"Human, Pirate"
-113,Lurking Chupacabra,B,4.0,{3}{B},2.0,3.0,,"Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn.",uncommon,,,Creature,"Beast, Horror"
-114,March of the Drowned,B,1.0,{B},,,,"Choose one —
+111,Lurking Chupacabra,B,4.0,{3}{B},2.0,3.0,,"Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn.",uncommon,,,Creature,"Beast, Horror"
+112,March of the Drowned,B,1.0,{B},,,,"Choose one —
 • Return target creature card from your graveyard to your hand.
 • Return two target Pirate cards from your graveyard to your hand.",common,,,Sorcery,
-115,Mark of the Vampire,B,4.0,{3}{B},,,,"Enchant creature
+113,Mark of the Vampire,B,4.0,{3}{B},,,,"Enchant creature
 Enchanted creature gets +2/+2 and has lifelink.",common,Enchant,,Enchantment,Aura
-116,Queen's Agent,B,6.0,{5}{B},3.0,3.0,,"Lifelink
+114,Queen's Agent,B,6.0,{5}{B},3.0,3.0,,"Lifelink
 When Queen's Agent enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,"Explore, Lifelink",,Creature,"Vampire, Scout"
-117,Queen's Bay Soldier,B,2.0,{1}{B},2.0,2.0,,,common,,,Creature,"Vampire, Soldier"
-118,Raiders' Wake,B,4.0,{3}{B},,,,"Whenever an opponent discards a card, that player loses 2 life.
+115,Queen's Bay Soldier,B,2.0,{1}{B},2.0,2.0,,,common,,,Creature,"Vampire, Soldier"
+116,Raiders' Wake,B,4.0,{3}{B},,,,"Whenever an opponent discards a card, that player loses 2 life.
 Raid — At the beginning of your end step, if you attacked this turn, target opponent discards a card.",uncommon,Raid,,Enchantment,
-119,Revel in Riches,B,5.0,{4}{B},,,,"Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+117,Revel in Riches,B,5.0,{4}{B},,,,"Whenever a creature an opponent controls dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 At the beginning of your upkeep, if you control ten or more Treasures, you win the game.",rare,,,Enchantment,
-120,Ruin Raider,B,3.0,{2}{B},3.0,2.0,,"Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's mana value.",rare,Raid,,Creature,"Orc, Pirate"
-121,Ruthless Knave,B,3.0,{2}{B},3.0,2.0,,"{2}{B}, Sacrifice a creature: Create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+118,Ruin Raider,B,3.0,{2}{B},3.0,2.0,,"Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's mana value.",rare,Raid,,Creature,"Orc, Pirate"
+119,Ruthless Knave,B,3.0,{2}{B},3.0,2.0,,"{2}{B}, Sacrifice a creature: Create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Sacrifice three Treasures: Draw a card.",uncommon,,,Creature,"Orc, Pirate"
-122,Sanctum Seeker,B,4.0,{2}{B}{B},3.0,4.0,,"Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.",rare,,,Creature,"Vampire, Knight"
-123,Seekers' Squire,B,2.0,{1}{B},1.0,2.0,,"When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",uncommon,Explore,,Creature,"Human, Scout"
-124,Skittering Heartstopper,B,1.0,{B},1.0,2.0,,{B}: Skittering Heartstopper gains deathtouch until end of turn.,common,,,Creature,Insect
-125,Skulduggery,B,1.0,{B},,,,"Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.",common,,,Instant,
-126,Skymarch Bloodletter,B,3.0,{2}{B},2.0,2.0,,"Flying
+120,Sanctum Seeker,B,4.0,{2}{B}{B},3.0,4.0,,"Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.",rare,,,Creature,"Vampire, Knight"
+121,Seekers' Squire,B,2.0,{1}{B},1.0,2.0,,"When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",uncommon,Explore,,Creature,"Human, Scout"
+122,Skittering Heartstopper,B,1.0,{B},1.0,2.0,,{B}: Skittering Heartstopper gains deathtouch until end of turn.,common,,,Creature,Insect
+123,Skulduggery,B,1.0,{B},,,,"Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.",common,,,Instant,
+124,Skymarch Bloodletter,B,3.0,{2}{B},2.0,2.0,,"Flying
 When Skymarch Bloodletter enters the battlefield, target opponent loses 1 life and you gain 1 life.",common,Flying,,Creature,"Vampire, Soldier"
-127,Spreading Rot,B,5.0,{4}{B},,,,Destroy target land. Its controller loses 2 life.,common,,,Sorcery,
-128,Sword-Point Diplomacy,B,3.0,{2}{B},,,,"Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.",rare,,,Sorcery,
-129,Vanquish the Weak,B,3.0,{2}{B},,,,Destroy target creature with power 3 or less.,common,,,Instant,
-130,Vicious Conquistador,B,1.0,{B},1.0,2.0,,"Whenever Vicious Conquistador attacks, each opponent loses 1 life.",uncommon,,,Creature,"Vampire, Soldier"
-131,Vraska's Contempt,B,4.0,{2}{B}{B},,,,Exile target creature or planeswalker. You gain 2 life.,rare,,,Instant,
-132,Walk the Plank,B,2.0,{B}{B},,,,Destroy target non-Merfolk creature.,uncommon,,,Sorcery,
-133,Wanted Scoundrels,B,2.0,{1}{B},4.0,3.0,,"When Wanted Scoundrels dies, target opponent creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Creature,"Human, Pirate"
-134,Angrath's Marauders,R,7.0,{5}{R}{R},4.0,4.0,,"If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",rare,,,Creature,"Human, Pirate"
-135,Bonded Horncrest,R,4.0,{3}{R},5.0,5.0,,Bonded Horncrest can't attack or block alone.,uncommon,,,Creature,Dinosaur
-136,Brazen Buccaneers,R,4.0,{3}{R},2.0,2.0,,"Haste
+125,Spreading Rot,B,5.0,{4}{B},,,,Destroy target land. Its controller loses 2 life.,common,,,Sorcery,
+126,Sword-Point Diplomacy,B,3.0,{2}{B},,,,"Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.",rare,,,Sorcery,
+127,Vanquish the Weak,B,3.0,{2}{B},,,,Destroy target creature with power 3 or less.,common,,,Instant,
+128,Vicious Conquistador,B,1.0,{B},1.0,2.0,,"Whenever Vicious Conquistador attacks, each opponent loses 1 life.",uncommon,,,Creature,"Vampire, Soldier"
+129,Vraska's Contempt,B,4.0,{2}{B}{B},,,,Exile target creature or planeswalker. You gain 2 life.,rare,,,Instant,
+130,Walk the Plank,B,2.0,{B}{B},,,,Destroy target non-Merfolk creature.,uncommon,,,Sorcery,
+131,Wanted Scoundrels,B,2.0,{1}{B},4.0,3.0,,"When Wanted Scoundrels dies, target opponent creates two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Creature,"Human, Pirate"
+132,Angrath's Marauders,R,7.0,{5}{R}{R},4.0,4.0,,"If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",rare,,,Creature,"Human, Pirate"
+133,Bonded Horncrest,R,4.0,{3}{R},5.0,5.0,,Bonded Horncrest can't attack or block alone.,uncommon,,,Creature,Dinosaur
+134,Brazen Buccaneers,R,4.0,{3}{R},2.0,2.0,,"Haste
 When Brazen Buccaneers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,"Explore, Haste",,Creature,"Human, Pirate"
-137,Burning Sun's Avatar,R,6.0,{3}{R}{R}{R},6.0,6.0,,"When Burning Sun's Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.",rare,,,Creature,"Dinosaur, Avatar"
-138,Captain Lannery Storm,R,3.0,{2}{R},2.0,2.0,,"Haste
+135,Burning Sun's Avatar,R,6.0,{3}{R}{R}{R},6.0,6.0,,"When Burning Sun's Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.",rare,,,Creature,"Dinosaur, Avatar"
+136,Captain Lannery Storm,R,3.0,{2}{R},2.0,2.0,,"Haste
 Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.",rare,Haste,Legendary,Creature,"Human, Pirate"
-139,Captivating Crew,R,4.0,{3}{R},4.0,3.0,,{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.,rare,,,Creature,"Human, Pirate"
-140,Charging Monstrosaur,R,5.0,{4}{R},5.0,5.0,,"Trample, haste",uncommon,"Haste, Trample",,Creature,Dinosaur
-141,Demolish,R,4.0,{3}{R},,,,Destroy target artifact or land.,common,,,Sorcery,
-142,Dinosaur Stampede,R,3.0,{2}{R},,,,Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn.,uncommon,,,Instant,
-143,Dual Shot,R,1.0,{R},,,,Dual Shot deals 1 damage to each of up to two target creatures.,common,,,Instant,
-144,Fathom Fleet Firebrand,R,2.0,{1}{R},2.0,2.0,,{1}{R}: Fathom Fleet Firebrand gets +1/+0 until end of turn.,common,,,Creature,"Human, Pirate"
-145,Fiery Cannonade,R,3.0,{2}{R},,,,Fiery Cannonade deals 2 damage to each non-Pirate creature.,uncommon,,,Instant,
-146,Fire Shrine Keeper,R,1.0,{R},1.0,1.0,,"Menace
+137,Captivating Crew,R,4.0,{3}{R},4.0,3.0,,{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.,rare,,,Creature,"Human, Pirate"
+138,Charging Monstrosaur,R,5.0,{4}{R},5.0,5.0,,"Trample, haste",uncommon,"Haste, Trample",,Creature,Dinosaur
+139,Demolish,R,4.0,{3}{R},,,,Destroy target artifact or land.,common,,,Sorcery,
+140,Dinosaur Stampede,R,3.0,{2}{R},,,,Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn.,uncommon,,,Instant,
+141,Dual Shot,R,1.0,{R},,,,Dual Shot deals 1 damage to each of up to two target creatures.,common,,,Instant,
+142,Fathom Fleet Firebrand,R,2.0,{1}{R},2.0,2.0,,{1}{R}: Fathom Fleet Firebrand gets +1/+0 until end of turn.,common,,,Creature,"Human, Pirate"
+143,Fiery Cannonade,R,3.0,{2}{R},,,,Fiery Cannonade deals 2 damage to each non-Pirate creature.,uncommon,,,Instant,
+144,Fire Shrine Keeper,R,1.0,{R},1.0,1.0,,"Menace
 {7}{R}, {T}, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures.",common,Menace,,Creature,Elemental
-147,Firecannon Blast,R,3.0,{1}{R}{R},,,,"Firecannon Blast deals 3 damage to target creature.
+145,Firecannon Blast,R,3.0,{1}{R}{R},,,,"Firecannon Blast deals 3 damage to target creature.
 Raid — Firecannon Blast deals 6 damage instead if you attacked this turn.",common,Raid,,Sorcery,
-148,Frenzied Raptor,R,3.0,{2}{R},4.0,2.0,,,common,,,Creature,Dinosaur
-149,Headstrong Brute,R,3.0,{2}{R},3.0,3.0,,"Headstrong Brute can't block.
+146,Frenzied Raptor,R,3.0,{2}{R},4.0,2.0,,,common,,,Creature,Dinosaur
+147,Headstrong Brute,R,3.0,{2}{R},3.0,3.0,,"Headstrong Brute can't block.
 Headstrong Brute has menace as long as you control another Pirate.",common,,,Creature,"Orc, Pirate"
-150,Hijack,R,3.0,{1}{R}{R},,,,Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.,common,,,Sorcery,
-151,Lightning Strike,R,2.0,{1}{R},,,,Lightning Strike deals 3 damage to any target.,uncommon,,,Instant,
-152,Lightning-Rig Crew,R,3.0,{2}{R},0.0,5.0,,"{T}: Lightning-Rig Crew deals 1 damage to each opponent.
+148,Hijack,R,3.0,{1}{R}{R},,,,Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.,common,,,Sorcery,
+149,Lightning Strike,R,2.0,{1}{R},,,,Lightning Strike deals 3 damage to any target.,uncommon,,,Instant,
+150,Lightning-Rig Crew,R,3.0,{2}{R},0.0,5.0,,"{T}: Lightning-Rig Crew deals 1 damage to each opponent.
 Whenever you cast a Pirate spell, untap Lightning-Rig Crew.",uncommon,,,Creature,"Goblin, Pirate"
-153,Makeshift Munitions,R,2.0,{1}{R},,,,"{1}, Sacrifice an artifact or creature: Makeshift Munitions deals 1 damage to any target.",uncommon,,,Enchantment,
-154,Nest Robber,R,2.0,{1}{R},2.0,1.0,,Haste,common,Haste,,Creature,Dinosaur
-155,Otepec Huntmaster,R,2.0,{1}{R},1.0,2.0,,"Dinosaur spells you cast cost {1} less to cast.
+151,Makeshift Munitions,R,2.0,{1}{R},,,,"{1}, Sacrifice an artifact or creature: Makeshift Munitions deals 1 damage to any target.",uncommon,,,Enchantment,
+152,Nest Robber,R,2.0,{1}{R},2.0,1.0,,Haste,common,Haste,,Creature,Dinosaur
+153,Otepec Huntmaster,R,2.0,{1}{R},1.0,2.0,,"Dinosaur spells you cast cost {1} less to cast.
 {T}: Target Dinosaur gains haste until end of turn.",uncommon,,,Creature,"Human, Shaman"
-156,Rampaging Ferocidon,R,3.0,{2}{R},3.0,3.0,,"Menace
+154,Rampaging Ferocidon,R,3.0,{2}{R},3.0,3.0,,"Menace
 Players can't gain life.
 Whenever another creature enters the battlefield, Rampaging Ferocidon deals 1 damage to that creature's controller.",rare,Menace,,Creature,Dinosaur
-157,Raptor Hatchling,R,2.0,{1}{R},1.0,1.0,,"Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green Dinosaur creature token with trample.",uncommon,Enrage,,Creature,Dinosaur
-158,Repeating Barrage,R,3.0,{1}{R}{R},,,,"Repeating Barrage deals 3 damage to any target.
+155,Raptor Hatchling,R,2.0,{1}{R},1.0,1.0,,"Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green Dinosaur creature token with trample.",uncommon,Enrage,,Creature,Dinosaur
+156,Repeating Barrage,R,3.0,{1}{R}{R},,,,"Repeating Barrage deals 3 damage to any target.
 Raid — {3}{R}{R}: Return Repeating Barrage from your graveyard to your hand. Activate only if you attacked this turn.",rare,Raid,,Sorcery,
-159,Rigging Runner,R,1.0,{R},1.0,1.0,,"First strike
+157,Rigging Runner,R,1.0,{R},1.0,1.0,,"First strike
 Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if you attacked this turn.",uncommon,"First strike, Raid",,Creature,"Goblin, Pirate"
-160,Rile,R,1.0,{R},,,,"Rile deals 1 damage to target creature you control. That creature gains trample until end of turn.
+158,Rile,R,1.0,{R},,,,"Rile deals 1 damage to target creature you control. That creature gains trample until end of turn.
 Draw a card.",common,,,Sorcery,
-161,Rowdy Crew,R,4.0,{2}{R}{R},3.0,3.0,,"Trample
+159,Rowdy Crew,R,4.0,{2}{R}{R},3.0,3.0,,"Trample
 When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew.",mythic,Trample,,Creature,"Human, Pirate"
-162,Rummaging Goblin,R,3.0,{2}{R},1.0,1.0,,"{T}, Discard a card: Draw a card.",common,,,Creature,"Goblin, Rogue"
-163,Star of Extinction,R,7.0,{5}{R}{R},,,,Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.,mythic,,,Sorcery,
-164,Storm Fleet Arsonist,R,5.0,{4}{R},4.0,4.0,,"Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked this turn, target opponent sacrifices a permanent.",uncommon,Raid,,Creature,"Orc, Pirate"
-165,Storm Fleet Pyromancer,R,5.0,{4}{R},3.0,2.0,,"Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked this turn, Storm Fleet Pyromancer deals 2 damage to any target.",common,Raid,,Creature,"Human, Pirate, Wizard"
-166,Sun-Crowned Hunters,R,6.0,{4}{R}{R},5.0,4.0,,"Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to target opponent or planeswalker.",common,Enrage,,Creature,Dinosaur
-167,Sunbird's Invocation,R,6.0,{5}{R},,,,"Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.",rare,,,Enchantment,
-168,Sure Strike,R,2.0,{1}{R},,,,Target creature gets +3/+0 and gains first strike until end of turn.,common,,,Instant,
-169,Swashbuckling,R,2.0,{1}{R},,,,"Enchant creature
+160,Rummaging Goblin,R,3.0,{2}{R},1.0,1.0,,"{T}, Discard a card: Draw a card.",common,,,Creature,"Goblin, Rogue"
+161,Star of Extinction,R,7.0,{5}{R}{R},,,,Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.,mythic,,,Sorcery,
+162,Storm Fleet Arsonist,R,5.0,{4}{R},4.0,4.0,,"Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked this turn, target opponent sacrifices a permanent.",uncommon,Raid,,Creature,"Orc, Pirate"
+163,Storm Fleet Pyromancer,R,5.0,{4}{R},3.0,2.0,,"Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked this turn, Storm Fleet Pyromancer deals 2 damage to any target.",common,Raid,,Creature,"Human, Pirate, Wizard"
+164,Sun-Crowned Hunters,R,6.0,{4}{R}{R},5.0,4.0,,"Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to target opponent or planeswalker.",common,Enrage,,Creature,Dinosaur
+165,Sunbird's Invocation,R,6.0,{5}{R},,,,"Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's mana value. You may cast a spell with mana value X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.",rare,,,Enchantment,
+166,Sure Strike,R,2.0,{1}{R},,,,Target creature gets +3/+0 and gains first strike until end of turn.,common,,,Instant,
+167,Swashbuckling,R,2.0,{1}{R},,,,"Enchant creature
 Enchanted creature gets +2/+2 and has haste.",common,Enchant,,Enchantment,Aura
-170,Thrash of Raptors,R,4.0,{3}{R},3.0,3.0,,"As long as you control another Dinosaur, Thrash of Raptors gets +2/+0 and has trample.",common,,,Creature,Dinosaur
-171,Tilonalli's Knight,R,2.0,{1}{R},2.0,2.0,,"Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's Knight gets +1/+1 until end of turn.",common,,,Creature,"Human, Knight"
-172,Tilonalli's Skinshifter,R,3.0,{2}{R},0.0,1.0,,"Haste
+168,Thrash of Raptors,R,4.0,{3}{R},3.0,3.0,,"As long as you control another Dinosaur, Thrash of Raptors gets +2/+0 and has trample.",common,,,Creature,Dinosaur
+169,Tilonalli's Knight,R,2.0,{1}{R},2.0,2.0,,"Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's Knight gets +1/+1 until end of turn.",common,,,Creature,"Human, Knight"
+170,Tilonalli's Skinshifter,R,3.0,{2}{R},0.0,1.0,,"Haste
 Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn.",rare,Haste,,Creature,"Human, Shaman"
-173,Trove of Temptation,R,4.0,{3}{R},,,,"Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.
+171,Trove of Temptation,R,4.0,{3}{R},,,,"Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.
 At the beginning of your end step, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Enchantment,
-174,Unfriendly Fire,R,5.0,{4}{R},,,,Unfriendly Fire deals 4 damage to any target.,common,,,Instant,
-175,Vance's Blasting Cannons,R,4.0,{3}{R},,,,"At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.
+172,Unfriendly Fire,R,5.0,{4}{R},,,,Unfriendly Fire deals 4 damage to any target.,common,,,Instant,
+173,Vance's Blasting Cannons,R,4.0,{3}{R},,,,"At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.
 Whenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons.",rare,Transform,Legendary,Enchantment,
-176,Spitfire Bastion,L,4.0,,,,,"(Transforms from Vance's Blasting Cannons.)
+174,Spitfire Bastion,L,4.0,,,,,"(Transforms from Vance's Blasting Cannons.)
 {T}: Add {R}.
 {2}{R}, {T}: Spitfire Bastion deals 3 damage to any target.",rare,Transform,Legendary,Land,
-177,Wily Goblin,R,2.0,{R}{R},1.0,1.0,,"When Wily Goblin enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Creature,"Goblin, Pirate"
-178,Ancient Brontodon,G,8.0,{6}{G}{G},9.0,9.0,,,common,,,Creature,Dinosaur
-179,Atzocan Archer,G,3.0,{2}{G},1.0,4.0,,"Reach
+175,Wily Goblin,R,2.0,{R}{R},1.0,1.0,,"When Wily Goblin enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Creature,"Goblin, Pirate"
+176,Ancient Brontodon,G,8.0,{6}{G}{G},9.0,9.0,,,common,,,Creature,Dinosaur
+177,Atzocan Archer,G,3.0,{2}{G},1.0,4.0,,"Reach
 When Atzocan Archer enters the battlefield, you may have it fight another target creature. (Each deals damage equal to its power to the other.)",uncommon,"Fight, Reach",,Creature,"Human, Archer"
-180,Blinding Fog,G,3.0,{2}{G},,,,Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.),common,,,Instant,
-181,Blossom Dryad,G,3.0,{2}{G},2.0,2.0,,{T}: Untap target land.,common,,,Creature,Dryad
-182,Carnage Tyrant,G,6.0,{4}{G}{G},7.0,6.0,,"This spell can't be countered.
+178,Blinding Fog,G,3.0,{2}{G},,,,Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.),common,,,Instant,
+179,Blossom Dryad,G,3.0,{2}{G},2.0,2.0,,{T}: Untap target land.,common,,,Creature,Dryad
+180,Carnage Tyrant,G,6.0,{4}{G}{G},7.0,6.0,,"This spell can't be countered.
 Trample, hexproof",mythic,"Hexproof, Trample",,Creature,Dinosaur
-183,Colossal Dreadmaw,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Dinosaur
-184,Commune with Dinosaurs,G,1.0,{G},,,,Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,common,,,Sorcery,
-185,Crash the Ramparts,G,3.0,{2}{G},,,,Target creature gets +3/+3 and gains trample until end of turn.,common,,,Instant,
-186,Crushing Canopy,G,3.0,{2}{G},,,,"Choose one —
+181,Colossal Dreadmaw,G,6.0,{4}{G}{G},6.0,6.0,,Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.),common,Trample,,Creature,Dinosaur
+182,Commune with Dinosaurs,G,1.0,{G},,,,Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,common,,,Sorcery,
+183,Crash the Ramparts,G,3.0,{2}{G},,,,Target creature gets +3/+3 and gains trample until end of turn.,common,,,Instant,
+184,Crushing Canopy,G,3.0,{2}{G},,,,"Choose one —
 • Destroy target creature with flying.
 • Destroy target enchantment.",common,,,Instant,
-187,Deathgorge Scavenger,G,3.0,{2}{G},3.0,2.0,,"Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.",rare,,,Creature,Dinosaur
-188,Deeproot Champion,G,2.0,{1}{G},1.0,1.0,,"Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.",rare,,,Creature,"Merfolk, Shaman"
-189,Deeproot Warrior,G,2.0,{1}{G},2.0,2.0,,"Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn.",common,,,Creature,"Merfolk, Warrior"
-190,Drover of the Mighty,G,2.0,{1}{G},1.0,1.0,,"Drover of the Mighty gets +2/+2 as long as you control a Dinosaur.
+185,Deathgorge Scavenger,G,3.0,{2}{G},3.0,2.0,,"Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.",rare,,,Creature,Dinosaur
+186,Deeproot Champion,G,2.0,{1}{G},1.0,1.0,,"Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.",rare,,,Creature,"Merfolk, Shaman"
+187,Deeproot Warrior,G,2.0,{1}{G},2.0,2.0,,"Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn.",common,,,Creature,"Merfolk, Warrior"
+188,Drover of the Mighty,G,2.0,{1}{G},1.0,1.0,,"Drover of the Mighty gets +2/+2 as long as you control a Dinosaur.
 {T}: Add one mana of any color.",uncommon,,,Creature,"Human, Druid"
-191,Emergent Growth,G,4.0,{3}{G},,,,Target creature gets +5/+5 until end of turn and must be blocked this turn if able.,uncommon,,,Sorcery,
-192,Emperor's Vanguard,G,4.0,{3}{G},4.0,3.0,,"Whenever Emperor's Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",rare,Explore,,Creature,"Human, Scout"
-193,Grazing Whiptail,G,4.0,{2}{G}{G},3.0,4.0,,Reach,common,Reach,,Creature,Dinosaur
-194,Growing Rites of Itlimoc,G,3.0,{2}{G},,,,"When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+189,Emergent Growth,G,4.0,{3}{G},,,,Target creature gets +5/+5 until end of turn and must be blocked this turn if able.,uncommon,,,Sorcery,
+190,Emperor's Vanguard,G,4.0,{3}{G},4.0,3.0,,"Whenever Emperor's Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",rare,Explore,,Creature,"Human, Scout"
+191,Grazing Whiptail,G,4.0,{2}{G}{G},3.0,4.0,,Reach,common,Reach,,Creature,Dinosaur
+192,Growing Rites of Itlimoc,G,3.0,{2}{G},,,,"When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.",rare,Transform,Legendary,Enchantment,
-195,"Itlimoc, Cradle of the Sun",L,3.0,,,,,"(Transforms from Growing Rites of Itlimoc.)
+193,"Itlimoc, Cradle of the Sun",L,3.0,,,,,"(Transforms from Growing Rites of Itlimoc.)
 {T}: Add {G}.
 {T}: Add {G} for each creature you control.",rare,Transform,Legendary,Land,
-196,Ixalli's Diviner,G,2.0,{1}{G},0.0,3.0,,"When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,Explore,,Creature,"Human, Druid"
-197,Ixalli's Keeper,G,2.0,{1}{G},2.0,2.0,,"{7}{G}, {T}, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn.",common,,,Creature,"Human, Shaman"
-198,Jade Guardian,G,4.0,{3}{G},2.0,2.0,,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+194,Ixalli's Diviner,G,2.0,{1}{G},0.0,3.0,,"When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,Explore,,Creature,"Human, Druid"
+195,Ixalli's Keeper,G,2.0,{1}{G},2.0,2.0,,"{7}{G}, {T}, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn.",common,,,Creature,"Human, Shaman"
+196,Jade Guardian,G,4.0,{3}{G},2.0,2.0,,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 When Jade Guardian enters the battlefield, put a +1/+1 counter on target Merfolk you control.",common,Hexproof,,Creature,"Merfolk, Shaman"
-199,Jungle Delver,G,1.0,{G},1.0,1.0,,{3}{G}: Put a +1/+1 counter on Jungle Delver.,common,,,Creature,"Merfolk, Warrior"
-200,Kumena's Speaker,G,1.0,{G},1.0,1.0,,Kumena's Speaker gets +1/+1 as long as you control another Merfolk or an Island.,uncommon,,,Creature,"Merfolk, Shaman"
-201,Merfolk Branchwalker,G,2.0,{1}{G},2.0,1.0,,"When Merfolk Branchwalker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",uncommon,Explore,,Creature,"Merfolk, Scout"
-202,New Horizons,G,3.0,{2}{G},,,,"Enchant land
+197,Jungle Delver,G,1.0,{G},1.0,1.0,,{3}{G}: Put a +1/+1 counter on Jungle Delver.,common,,,Creature,"Merfolk, Warrior"
+198,Kumena's Speaker,G,1.0,{G},1.0,1.0,,Kumena's Speaker gets +1/+1 as long as you control another Merfolk or an Island.,uncommon,,,Creature,"Merfolk, Shaman"
+199,Merfolk Branchwalker,G,2.0,{1}{G},2.0,1.0,,"When Merfolk Branchwalker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",uncommon,Explore,,Creature,"Merfolk, Scout"
+200,New Horizons,G,3.0,{2}{G},,,,"Enchant land
 When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control.
 Enchanted land has ""{T}: Add two mana of any one color.""",common,Enchant,,Enchantment,Aura
-203,Old-Growth Dryads,G,1.0,{G},3.0,3.0,,"When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",rare,,,Creature,Dryad
-204,Pounce,G,2.0,{1}{G},,,,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),common,Fight,,Instant,
-205,Ranging Raptors,G,3.0,{2}{G},2.0,3.0,,"Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",uncommon,Enrage,,Creature,Dinosaur
-206,Ravenous Daggertooth,G,3.0,{2}{G},3.0,2.0,,"Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life.",common,Enrage,,Creature,Dinosaur
-207,Ripjaw Raptor,G,4.0,{2}{G}{G},4.0,5.0,,"Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card.",rare,Enrage,,Creature,Dinosaur
-208,River Heralds' Boon,G,2.0,{1}{G},,,,Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk.,common,,,Instant,
-209,Savage Stomp,G,3.0,{2}{G},,,,"This spell costs {2} less to cast if it targets a Dinosaur you control.
+201,Old-Growth Dryads,G,1.0,{G},3.0,3.0,,"When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.",rare,,,Creature,Dryad
+202,Pounce,G,2.0,{1}{G},,,,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),common,Fight,,Instant,
+203,Ranging Raptors,G,3.0,{2}{G},2.0,3.0,,"Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",uncommon,Enrage,,Creature,Dinosaur
+204,Ravenous Daggertooth,G,3.0,{2}{G},3.0,2.0,,"Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life.",common,Enrage,,Creature,Dinosaur
+205,Ripjaw Raptor,G,4.0,{2}{G}{G},4.0,5.0,,"Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card.",rare,Enrage,,Creature,Dinosaur
+206,River Heralds' Boon,G,2.0,{1}{G},,,,Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk.,common,,,Instant,
+207,Savage Stomp,G,3.0,{2}{G},,,,"This spell costs {2} less to cast if it targets a Dinosaur you control.
 Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)",uncommon,Fight,,Sorcery,
-210,Shapers' Sanctuary,G,1.0,{G},,,,"Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.",rare,,,Enchantment,
-211,Slice in Twain,G,4.0,{2}{G}{G},,,,"Destroy target artifact or enchantment.
+208,Shapers' Sanctuary,G,1.0,{G},,,,"Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.",rare,,,Enchantment,
+209,Slice in Twain,G,4.0,{2}{G}{G},,,,"Destroy target artifact or enchantment.
 Draw a card.",uncommon,,,Instant,
-212,Snapping Sailback,G,5.0,{4}{G},4.0,4.0,,"Flash
+210,Snapping Sailback,G,5.0,{4}{G},4.0,4.0,,"Flash
 Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)",uncommon,"Enrage, Flash",,Creature,Dinosaur
-213,Spike-Tailed Ceratops,G,5.0,{4}{G},4.0,4.0,,Spike-Tailed Ceratops can block an additional creature each combat.,common,,,Creature,Dinosaur
-214,Thundering Spineback,G,7.0,{5}{G}{G},5.0,5.0,,"Other Dinosaurs you control get +1/+1.
+211,Spike-Tailed Ceratops,G,5.0,{4}{G},4.0,4.0,,Spike-Tailed Ceratops can block an additional creature each combat.,common,,,Creature,Dinosaur
+212,Thundering Spineback,G,7.0,{5}{G}{G},5.0,5.0,,"Other Dinosaurs you control get +1/+1.
 {5}{G}: Create a 3/3 green Dinosaur creature token with trample.",uncommon,,,Creature,Dinosaur
-215,Tishana's Wayfinder,G,3.0,{2}{G},2.0,2.0,,"When Tishana's Wayfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,Explore,,Creature,"Merfolk, Scout"
-216,Verdant Rebirth,G,2.0,{1}{G},,,,"Until end of turn, target creature gains ""When this creature dies, return it to its owner's hand.""
+213,Tishana's Wayfinder,G,3.0,{2}{G},2.0,2.0,,"When Tishana's Wayfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)",common,Explore,,Creature,"Merfolk, Scout"
+214,Verdant Rebirth,G,2.0,{1}{G},,,,"Until end of turn, target creature gains ""When this creature dies, return it to its owner's hand.""
 Draw a card.",uncommon,,,Instant,
-217,Verdant Sun's Avatar,G,7.0,{5}{G}{G},5.0,5.0,,"Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness.",rare,,,Creature,"Dinosaur, Avatar"
-218,Vineshaper Mystic,G,3.0,{2}{G},1.0,3.0,,"When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each of up to two target Merfolk you control.",uncommon,,,Creature,"Merfolk, Shaman"
-219,Waker of the Wilds,G,4.0,{2}{G}{G},3.0,3.0,,{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.,rare,,,Creature,"Merfolk, Shaman"
-220,Wildgrowth Walker,G,2.0,{1}{G},1.0,3.0,,"Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth Walker and you gain 3 life.",uncommon,,,Creature,Elemental
-221,Admiral Beckett Brass,"B, R, U",4.0,{1}{U}{B}{R},3.0,3.0,,"Other Pirates you control get +1/+1.
+215,Verdant Sun's Avatar,G,7.0,{5}{G}{G},5.0,5.0,,"Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness.",rare,,,Creature,"Dinosaur, Avatar"
+216,Vineshaper Mystic,G,3.0,{2}{G},1.0,3.0,,"When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each of up to two target Merfolk you control.",uncommon,,,Creature,"Merfolk, Shaman"
+217,Waker of the Wilds,G,4.0,{2}{G}{G},3.0,3.0,,{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.,rare,,,Creature,"Merfolk, Shaman"
+218,Wildgrowth Walker,G,2.0,{1}{G},1.0,3.0,,"Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth Walker and you gain 3 life.",uncommon,,,Creature,Elemental
+219,Admiral Beckett Brass,"B, R, U",4.0,{1}{U}{B}{R},3.0,3.0,,"Other Pirates you control get +1/+1.
 At the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn.",mythic,,Legendary,Creature,"Human, Pirate"
-222,Belligerent Brontodon,"G, W",7.0,{5}{G}{W},4.0,6.0,,Each creature you control assigns combat damage equal to its toughness rather than its power.,uncommon,,,Creature,Dinosaur
-223,Call to the Feast,"B, W",4.0,{2}{W}{B},,,,Create three 1/1 white Vampire creature tokens with lifelink.,uncommon,,,Sorcery,
-224,Deadeye Plunderers,"B, U",5.0,{3}{U}{B},3.0,3.0,,"Deadeye Plunderers gets +1/+1 for each artifact you control.
+220,Belligerent Brontodon,"G, W",7.0,{5}{G}{W},4.0,6.0,,Each creature you control assigns combat damage equal to its toughness rather than its power.,uncommon,,,Creature,Dinosaur
+221,Call to the Feast,"B, W",4.0,{2}{W}{B},,,,Create three 1/1 white Vampire creature tokens with lifelink.,uncommon,,,Sorcery,
+222,Deadeye Plunderers,"B, U",5.0,{3}{U}{B},3.0,3.0,,"Deadeye Plunderers gets +1/+1 for each artifact you control.
 {2}{U}{B}: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",uncommon,,,Creature,"Human, Pirate"
-225,Dire Fleet Captain,"B, R",2.0,{B}{R},2.0,2.0,,"Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for each other attacking Pirate.",uncommon,,,Creature,"Orc, Pirate"
-226,"Gishath, Sun's Avatar","G, R, W",8.0,{5}{R}{G}{W},7.0,6.0,,"Vigilance, trample, haste
+223,Dire Fleet Captain,"B, R",2.0,{B}{R},2.0,2.0,,"Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for each other attacking Pirate.",uncommon,,,Creature,"Orc, Pirate"
+224,"Gishath, Sun's Avatar","G, R, W",8.0,{5}{R}{G}{W},7.0,6.0,,"Vigilance, trample, haste
 Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.",mythic,"Haste, Trample, Vigilance",Legendary,Creature,"Dinosaur, Avatar"
-227,Hostage Taker,"B, U",4.0,{2}{U}{B},2.0,3.0,,"When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.",rare,,,Creature,"Human, Pirate"
-228,"Huatli, Warrior Poet","R, W",5.0,{3}{R}{W},,,3.0,"[+2]: You gain life equal to the greatest power among creatures you control.
+225,Hostage Taker,"B, U",4.0,{2}{U}{B},2.0,3.0,,"When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.",rare,,,Creature,"Human, Pirate"
+226,"Huatli, Warrior Poet","R, W",5.0,{3}{R}{W},,,3.0,"[+2]: You gain life equal to the greatest power among creatures you control.
 [0]: Create a 3/3 green Dinosaur creature token with trample.
 [−X]: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.",mythic,,Legendary,Planeswalker,Huatli
-229,Marauding Looter,"R, U",4.0,{2}{U}{R},4.0,3.0,,"Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card.",uncommon,Raid,,Creature,"Human, Pirate"
-230,Raging Swordtooth,"G, R",5.0,{3}{R}{G},5.0,5.0,,"Trample
+227,Marauding Looter,"R, U",4.0,{2}{U}{R},4.0,3.0,,"Raid — At the beginning of your end step, if you attacked this turn, you may draw a card. If you do, discard a card.",uncommon,Raid,,Creature,"Human, Pirate"
+228,Raging Swordtooth,"G, R",5.0,{3}{R}{G},5.0,5.0,,"Trample
 When Raging Swordtooth enters the battlefield, it deals 1 damage to each other creature.",uncommon,Trample,,Creature,Dinosaur
-231,Regisaur Alpha,"G, R",5.0,{3}{R}{G},4.0,4.0,,"Other Dinosaurs you control have haste.
+229,Regisaur Alpha,"G, R",5.0,{3}{R}{G},4.0,4.0,,"Other Dinosaurs you control have haste.
 When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample.",rare,,,Creature,Dinosaur
-232,Shapers of Nature,"G, U",3.0,{1}{G}{U},3.0,3.0,,"{3}{G}: Put a +1/+1 counter on target creature.
+230,Shapers of Nature,"G, U",3.0,{1}{G}{U},3.0,3.0,,"{3}{G}: Put a +1/+1 counter on target creature.
 {2}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.",uncommon,,,Creature,"Merfolk, Shaman"
-233,Sky Terror,"R, W",2.0,{R}{W},2.0,2.0,,"Flying, menace",uncommon,"Flying, Menace",,Creature,Dinosaur
-234,"Tishana, Voice of Thunder","G, U",7.0,{5}{G}{U},,,,"Tishana, Voice of Thunder's power and toughness are each equal to the number of cards in your hand.
+231,Sky Terror,"R, W",2.0,{R}{W},2.0,2.0,,"Flying, menace",uncommon,"Flying, Menace",,Creature,Dinosaur
+232,"Tishana, Voice of Thunder","G, U",7.0,{5}{G}{U},,,,"Tishana, Voice of Thunder's power and toughness are each equal to the number of cards in your hand.
 You have no maximum hand size.
 When Tishana enters the battlefield, draw a card for each creature you control.",mythic,,Legendary,Creature,"Merfolk, Shaman"
-235,"Vona, Butcher of Magan","B, W",5.0,{3}{W}{B},4.0,4.0,,"Vigilance, lifelink
+233,"Vona, Butcher of Magan","B, W",5.0,{3}{W}{B},4.0,4.0,,"Vigilance, lifelink
 {T}, Pay 7 life: Destroy target nonland permanent. Activate only during your turn.",mythic,"Lifelink, Vigilance",Legendary,Creature,"Vampire, Knight"
-236,"Vraska, Relic Seeker","B, G",6.0,{4}{B}{G},,,6.0,"[+2]: Create a 2/2 black Pirate creature token with menace.
+234,"Vraska, Relic Seeker","B, G",6.0,{4}{B}{G},,,6.0,"[+2]: Create a 2/2 black Pirate creature token with menace.
 [−3]: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 [−10]: Target player's life total becomes 1.",mythic,,Legendary,Planeswalker,Vraska
-237,Cobbled Wings,C,2.0,{2},,,,"Equipped creature has flying.
+235,Cobbled Wings,C,2.0,{2},,,,"Equipped creature has flying.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-238,Conqueror's Galleon,C,4.0,{4},2.0,10.0,,"When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.
+236,Conqueror's Galleon,C,4.0,{4},2.0,10.0,,"When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,"Crew, Transform",,Artifact,Vehicle
-239,Conqueror's Foothold,L,4.0,,,,,"(Transforms from Conqueror's Galleon.)
+237,Conqueror's Foothold,L,4.0,,,,,"(Transforms from Conqueror's Galleon.)
 {T}: Add {C}.
 {2}, {T}: Draw a card, then discard a card.
 {4}, {T}: Draw a card.
 {6}, {T}: Return target card from your graveyard to your hand.",rare,Transform,,Land,
-240,Dowsing Dagger,C,2.0,{2},,,,"When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.
+238,Dowsing Dagger,C,2.0,{2},,,,"When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.
 Equipped creature gets +2/+1.
 Whenever equipped creature deals combat damage to a player, you may transform Dowsing Dagger.
 Equip {2}",rare,"Equip, Transform",,Artifact,Equipment
-241,Lost Vale,L,2.0,,,,,"(Transforms from Dowsing Dagger.)
+239,Lost Vale,L,2.0,,,,,"(Transforms from Dowsing Dagger.)
 {T}: Add three mana of any one color.",rare,Transform,,Land,
-242,Dusk Legion Dreadnought,C,5.0,{5},4.0,6.0,,"Vigilance
+240,Dusk Legion Dreadnought,C,5.0,{5},4.0,6.0,,"Vigilance
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,"Crew, Vigilance",,Artifact,Vehicle
-243,Elaborate Firecannon,C,2.0,{2},,,,"Elaborate Firecannon doesn't untap during your untap step.
+241,Elaborate Firecannon,C,2.0,{2},,,,"Elaborate Firecannon doesn't untap during your untap step.
 {4}, {T}: Elaborate Firecannon deals 2 damage to any target.
 At the beginning of your upkeep, you may discard a card. If you do, untap Elaborate Firecannon.",uncommon,,,Artifact,
-244,Fell Flagship,C,3.0,{3},3.0,3.0,,"Pirates you control get +1/+0.
+242,Fell Flagship,C,3.0,{3},3.0,3.0,,"Pirates you control get +1/+0.
 Whenever Fell Flagship deals combat damage to a player, that player discards a card.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact,Vehicle
-245,Gilded Sentinel,C,4.0,{4},3.0,3.0,,,common,,,"Artifact, Creature",Golem
-246,Hierophant's Chalice,C,3.0,{3},,,,"When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.
+243,Gilded Sentinel,C,4.0,{4},3.0,3.0,,,common,,,"Artifact, Creature",Golem
+244,Hierophant's Chalice,C,3.0,{3},,,,"When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.
 {T}: Add {C}.",common,,,Artifact,
-247,Pillar of Origins,C,2.0,{2},,,,"As Pillar of Origins enters the battlefield, choose a creature type.
+245,Pillar of Origins,C,2.0,{2},,,,"As Pillar of Origins enters the battlefield, choose a creature type.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",uncommon,,,Artifact,
-248,Pirate's Cutlass,C,3.0,{3},,,,"When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.
+246,Pirate's Cutlass,C,3.0,{3},,,,"When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.
 Equipped creature gets +2/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-249,Primal Amulet,C,4.0,{4},,,,"Instant and sorcery spells you cast cost {1} less to cast.
+247,Primal Amulet,C,4.0,{4},,,,"Instant and sorcery spells you cast cost {1} less to cast.
 Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it.",rare,Transform,,Artifact,
-250,Primal Wellspring,L,4.0,,,,,"(Transforms from Primal Amulet.)
+248,Primal Wellspring,L,4.0,,,,,"(Transforms from Primal Amulet.)
 {T}: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy.",rare,Transform,,Land,
-251,Prying Blade,C,1.0,{1},,,,"Equipped creature gets +1/+0.
+249,Prying Blade,C,1.0,{1},,,,"Equipped creature gets +1/+0.
 Whenever equipped creature deals combat damage to a player, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-252,Sentinel Totem,C,1.0,{1},,,,"When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+250,Sentinel Totem,C,1.0,{1},,,,"When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {T}, Exile Sentinel Totem: Exile all graveyards.",uncommon,Scry,,Artifact,
-253,Shadowed Caravel,C,2.0,{2},2.0,2.0,,"Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.
+251,Shadowed Caravel,C,2.0,{2},2.0,2.0,,"Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",rare,Crew,,Artifact,Vehicle
-254,Sleek Schooner,C,3.0,{3},4.0,3.0,,Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.),uncommon,Crew,,Artifact,Vehicle
-255,Sorcerous Spyglass,C,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
+252,Sleek Schooner,C,3.0,{3},4.0,3.0,,Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.),uncommon,Crew,,Artifact,Vehicle
+253,Sorcerous Spyglass,C,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
 Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.",rare,,,Artifact,
-256,Thaumatic Compass,C,2.0,{2},,,,"{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+254,Thaumatic Compass,C,2.0,{2},,,,"{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass.",rare,Transform,,Artifact,
-257,Spires of Orazca,L,2.0,,,,,"(Transforms from Thaumatic Compass.)
+255,Spires of Orazca,L,2.0,,,,,"(Transforms from Thaumatic Compass.)
 {T}: Add {C}.
 {T}: Untap target attacking creature an opponent controls and remove it from combat.",rare,Transform,,Land,
-258,Treasure Map,C,2.0,{2},,,,"{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",rare,"Scry, Transform",,Artifact,
-259,Treasure Cove,L,2.0,,,,,"(Transforms from Treasure Map.)
+256,Treasure Map,C,2.0,{2},,,,"{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",rare,"Scry, Transform",,Artifact,
+257,Treasure Cove,L,2.0,,,,,"(Transforms from Treasure Map.)
 {T}: Add {C}.
 {T}, Sacrifice a Treasure: Draw a card.",rare,Transform,,Land,
-260,Vanquisher's Banner,C,5.0,{5},,,,"As Vanquisher's Banner enters the battlefield, choose a creature type.
+258,Vanquisher's Banner,C,5.0,{5},,,,"As Vanquisher's Banner enters the battlefield, choose a creature type.
 Creatures you control of the chosen type get +1/+1.
 Whenever you cast a creature spell of the chosen type, draw a card.",rare,,,Artifact,
-261,Dragonskull Summit,L,0.0,,,,,"Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+259,Dragonskull Summit,L,0.0,,,,,"Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
 {T}: Add {B} or {R}.",rare,,,Land,
-262,Drowned Catacomb,L,0.0,,,,,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+260,Drowned Catacomb,L,0.0,,,,,"Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
 {T}: Add {U} or {B}.",rare,,,Land,
-263,Field of Ruin,L,0.0,,,,,"{T}: Add {C}.
+261,Field of Ruin,L,0.0,,,,,"{T}: Add {C}.
 {2}, {T}, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles.",uncommon,,,Land,
-264,Glacial Fortress,L,0.0,,,,,"Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+262,Glacial Fortress,L,0.0,,,,,"Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
 {T}: Add {W} or {U}.",rare,,,Land,
-265,Rootbound Crag,L,0.0,,,,,"Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+263,Rootbound Crag,L,0.0,,,,,"Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
 {T}: Add {R} or {G}.",rare,,,Land,
-266,Sunpetal Grove,L,0.0,,,,,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+264,Sunpetal Grove,L,0.0,,,,,"Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
 {T}: Add {G} or {W}.",rare,,,Land,
-267,Unclaimed Territory,L,0.0,,,,,"As Unclaimed Territory enters the battlefield, choose a creature type.
+265,Unclaimed Territory,L,0.0,,,,,"As Unclaimed Territory enters the battlefield, choose a creature type.
 {T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.",uncommon,,,Land,
-268,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
+266,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land,
-269,"Jace, Ingenious Mind-Mage",U,6.0,{4}{U}{U},,,5.0,"[+1]: Draw a card.
+267,"Jace, Ingenious Mind-Mage",U,6.0,{4}{U}{U},,,5.0,"[+1]: Draw a card.
 [+1]: Untap all creatures you control.
 [−9]: Gain control of up to three target creatures.",mythic,,Legendary,Planeswalker,Jace
-270,Castaway's Despair,U,4.0,{3}{U},,,,"Enchant creature
+268,Castaway's Despair,U,4.0,{3}{U},,,,"Enchant creature
 When Castaway's Despair enters the battlefield, tap enchanted creature.
 Enchanted creature doesn't untap during its controller's untap step.",common,Enchant,,Enchantment,Aura
-271,Grasping Current,U,5.0,{4}{U},,,,"Return up to two target creatures to their owner's hand.
+269,Grasping Current,U,5.0,{4}{U},,,,"Return up to two target creatures to their owner's hand.
 Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle.",rare,,,Sorcery,
-272,Jace's Sentinel,U,2.0,{1}{U},1.0,3.0,,"As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and can't be blocked.",uncommon,,,Creature,"Merfolk, Warrior"
-273,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
+270,Jace's Sentinel,U,2.0,{1}{U},1.0,3.0,,"As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and can't be blocked.",uncommon,,,Creature,"Merfolk, Warrior"
+271,Woodland Stream,L,0.0,,,,,"Woodland Stream enters the battlefield tapped.
 {T}: Add {G} or {U}.",common,,,Land,
-274,"Huatli, Dinosaur Knight","R, W",6.0,{4}{R}{W},,,4.0,"[+2]: Put two +1/+1 counters on up to one target Dinosaur you control.
+272,"Huatli, Dinosaur Knight","R, W",6.0,{4}{R}{W},,,4.0,"[+2]: Put two +1/+1 counters on up to one target Dinosaur you control.
 [−3]: Target Dinosaur you control deals damage equal to its power to target creature you don't control.
 [−7]: Dinosaurs you control get +4/+4 until end of turn.",mythic,,Legendary,Planeswalker,Huatli
-275,Huatli's Snubhorn,W,2.0,{1}{W},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature,Dinosaur
-276,Huatli's Spurring,R,1.0,{R},,,,"Target creature gets +2/+0 until end of turn. If you control a Huatli planeswalker, that creature gets +4/+0 until end of turn instead.",uncommon,,,Instant,
-277,Sun-Blessed Mount,"R, W",5.0,{3}{R}{W},4.0,4.0,,"When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle.",rare,,,Creature,Dinosaur
-278,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
+273,Huatli's Snubhorn,W,2.0,{1}{W},2.0,2.0,,Vigilance (Attacking doesn't cause this creature to tap.),common,Vigilance,,Creature,Dinosaur
+274,Huatli's Spurring,R,1.0,{R},,,,"Target creature gets +2/+0 until end of turn. If you control a Huatli planeswalker, that creature gets +4/+0 until end of turn instead.",uncommon,,,Instant,
+275,Sun-Blessed Mount,"R, W",5.0,{3}{R}{W},4.0,4.0,,"When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle.",rare,,,Creature,Dinosaur
+276,Stone Quarry,L,0.0,,,,,"Stone Quarry enters the battlefield tapped.
 {T}: Add {R} or {W}.",common,,,Land,

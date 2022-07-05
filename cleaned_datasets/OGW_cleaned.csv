@@ -214,150 +214,148 @@ Land creatures you control have trample.
 Landfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",uncommon,"Landfall, Trample",,Creature,Elemental
 107,Expedite,R,1.0,{R},,,,"Target creature gains haste until end of turn.
 Draw a card.",common,,,Instant,
-108,Fall of the Titans,R,1.0,{X}{X}{R},,,,"Surge {X}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
-Fall of the Titans deals X damage to each of up to two targets.",rare,Surge,,Instant,
-109,Goblin Dark-Dwellers,R,5.0,{3}{R}{R},4.0,4.0,,"Menace
+108,Goblin Dark-Dwellers,R,5.0,{3}{R}{R},4.0,4.0,,"Menace
 When Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",rare,Menace,,Creature,Goblin
-110,Goblin Freerunner,R,4.0,{3}{R},3.0,2.0,,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+109,Goblin Freerunner,R,4.0,{3}{R},3.0,2.0,,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 Menace (This creature can't be blocked except by two or more creatures.)",common,"Menace, Surge",,Creature,"Goblin, Warrior, Ally"
-111,Kazuul's Toll Collector,R,3.0,{2}{R},3.0,2.0,,{0}: Attach target Equipment you control to Kazuul's Toll Collector. Activate only as a sorcery.,uncommon,,,Creature,"Ogre, Warrior"
-112,Oath of Chandra,R,2.0,{1}{R},,,,"When Oath of Chandra enters the battlefield, it deals 3 damage to target creature an opponent controls.
+110,Kazuul's Toll Collector,R,3.0,{2}{R},3.0,2.0,,{0}: Attach target Equipment you control to Kazuul's Toll Collector. Activate only as a sorcery.,uncommon,,,Creature,"Ogre, Warrior"
+111,Oath of Chandra,R,2.0,{1}{R},,,,"When Oath of Chandra enters the battlefield, it deals 3 damage to target creature an opponent controls.
 At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, Oath of Chandra deals 2 damage to each opponent.",rare,,Legendary,Enchantment,
-113,Press into Service,R,5.0,{4}{R},,,,"Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
+112,Press into Service,R,5.0,{4}{R},,,,"Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",uncommon,Support,,Sorcery,
-114,Pyromancer's Assault,R,4.0,{3}{R},,,,"Whenever you cast your second spell each turn, Pyromancer's Assault deals 2 damage to any target.",uncommon,,,Enchantment,
-115,Reckless Bushwhacker,R,3.0,{2}{R},2.0,1.0,,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+113,Pyromancer's Assault,R,4.0,{3}{R},,,,"Whenever you cast your second spell each turn, Pyromancer's Assault deals 2 damage to any target.",uncommon,,,Enchantment,
+114,Reckless Bushwhacker,R,3.0,{2}{R},2.0,1.0,,"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 Haste
 When Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.",uncommon,"Haste, Surge",,Creature,"Goblin, Warrior, Ally"
-116,Sparkmage's Gambit,R,2.0,{1}{R},,,,Sparkmage's Gambit deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.,common,,,Sorcery,
-117,Tears of Valakut,R,2.0,{1}{R},,,,"This spell can't be countered.
+115,Sparkmage's Gambit,R,2.0,{1}{R},,,,Sparkmage's Gambit deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.,common,,,Sorcery,
+116,Tears of Valakut,R,2.0,{1}{R},,,,"This spell can't be countered.
 Tears of Valakut deals 5 damage to target creature with flying.",uncommon,,,Instant,
-118,Tyrant of Valakut,R,7.0,{5}{R}{R},5.0,4.0,,"Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+117,Tyrant of Valakut,R,7.0,{5}{R}{R},5.0,4.0,,"Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 Flying
 When Tyrant of Valakut enters the battlefield, if its surge cost was paid, it deals 3 damage to any target.",rare,"Flying, Surge",,Creature,Dragon
-119,Zada's Commando,R,2.0,{1}{R},2.0,1.0,,"First strike
+118,Zada's Commando,R,2.0,{1}{R},2.0,1.0,,"First strike
 Cohort — {T}, Tap an untapped Ally you control: Zada's Commando deals 1 damage to target opponent or planeswalker.",common,"Cohort, First strike",,Creature,"Goblin, Archer, Ally"
-120,Birthing Hulk,C,7.0,{6}{G},5.0,4.0,,"Devoid (This card has no color.)
+119,Birthing Hulk,C,7.0,{6}{G},5.0,4.0,,"Devoid (This card has no color.)
 When Birthing Hulk enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have ""Sacrifice this creature: Add {C}."" ({C} represents colorless mana.)
 {1}{C}: Regenerate Birthing Hulk.",uncommon,Devoid,,Creature,"Eldrazi, Drone"
-121,Ruin in Their Wake,C,2.0,{1}{G},,,,"Devoid (This card has no color.)
+120,Ruin in Their Wake,C,2.0,{1}{G},,,,"Devoid (This card has no color.)
 Search your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle.",uncommon,Devoid,,Sorcery,
-122,Scion Summoner,C,3.0,{2}{G},2.0,2.0,,"Devoid (This card has no color.)
+121,Scion Summoner,C,3.0,{2}{G},2.0,2.0,,"Devoid (This card has no color.)
 When Scion Summoner enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this creature: Add {C}."" ({C} represents colorless mana.)",common,Devoid,,Creature,"Eldrazi, Drone"
-123,Stalking Drone,C,2.0,{1}{G},2.0,2.0,,"Devoid (This card has no color.)
+122,Stalking Drone,C,2.0,{1}{G},2.0,2.0,,"Devoid (This card has no color.)
 {C}: Stalking Drone gets +1/+2 until end of turn. Activate only once each turn. ({C} represents colorless mana.)",common,Devoid,,Creature,"Eldrazi, Drone"
-124,Vile Redeemer,C,3.0,{2}{G},3.0,3.0,,"Devoid (This card has no color.)
+123,Vile Redeemer,C,3.0,{2}{G},3.0,3.0,,"Devoid (This card has no color.)
 Flash
 When you cast this spell, you may pay {C}. If you do, create a 1/1 colorless Eldrazi Scion creature token for each nontoken creature that died under your control this turn. Those tokens have ""Sacrifice this creature: Add {C}.""",rare,"Devoid, Flash",,Creature,Eldrazi
-125,World Breaker,C,7.0,{6}{G},5.0,7.0,,"Devoid (This card has no color.)
+124,World Breaker,C,7.0,{6}{G},5.0,7.0,,"Devoid (This card has no color.)
 When you cast this spell, exile target artifact, enchantment, or land.
 Reach
 {2}{C}, Sacrifice a land: Return World Breaker from your graveyard to your hand. ({C} represents colorless mana.)",mythic,"Devoid, Reach",,Creature,Eldrazi
-126,Baloth Pup,G,2.0,{1}{G},3.0,1.0,,Baloth Pup has trample as long as it has a +1/+1 counter on it.,uncommon,,,Creature,Beast
-127,Bonds of Mortality,G,2.0,{1}{G},,,,"When Bonds of Mortality enters the battlefield, draw a card.
+125,Baloth Pup,G,2.0,{1}{G},3.0,1.0,,Baloth Pup has trample as long as it has a +1/+1 counter on it.,uncommon,,,Creature,Beast
+126,Bonds of Mortality,G,2.0,{1}{G},,,,"When Bonds of Mortality enters the battlefield, draw a card.
 {G}: Creatures your opponents control lose hexproof and indestructible until end of turn.",uncommon,,,Enchantment,
-128,Canopy Gorger,G,6.0,{4}{G}{G},6.0,5.0,,,common,,,Creature,Wurm
-129,Elemental Uprising,G,2.0,{1}{G},,,,Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.,common,,,Instant,
-130,Embodiment of Insight,G,5.0,{4}{G},4.0,4.0,,"Vigilance
+127,Canopy Gorger,G,6.0,{4}{G}{G},6.0,5.0,,,common,,,Creature,Wurm
+128,Elemental Uprising,G,2.0,{1}{G},,,,Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land. It must be blocked this turn if able.,common,,,Instant,
+129,Embodiment of Insight,G,5.0,{4}{G},4.0,4.0,,"Vigilance
 Land creatures you control have vigilance.
 Landfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",uncommon,"Landfall, Vigilance",,Creature,Elemental
-131,Gladehart Cavalry,G,7.0,{5}{G}{G},6.0,6.0,,"When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)
+130,Gladehart Cavalry,G,7.0,{5}{G}{G},6.0,6.0,,"When Gladehart Cavalry enters the battlefield, support 6. (Put a +1/+1 counter on each of up to six other target creatures.)
 Whenever a creature you control with a +1/+1 counter on it dies, you gain 2 life.",rare,Support,,Creature,"Elf, Knight"
-132,Harvester Troll,G,4.0,{3}{G},2.0,3.0,,"When Harvester Troll enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on Harvester Troll.",uncommon,,,Creature,Troll
-133,Lead by Example,G,2.0,{1}{G},,,,Support 2. (Put a +1/+1 counter on each of up to two target creatures.),common,Support,,Instant,
-134,Loam Larva,G,2.0,{1}{G},1.0,3.0,,"When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",common,,,Creature,Insect
-135,Natural State,G,1.0,{G},,,,Destroy target artifact or enchantment with mana value 3 or less.,common,,,Instant,
-136,Netcaster Spider,G,3.0,{2}{G},2.0,3.0,,"Reach (This creature can block creatures with flying.)
+131,Harvester Troll,G,4.0,{3}{G},2.0,3.0,,"When Harvester Troll enters the battlefield, you may sacrifice a creature or land. If you do, put two +1/+1 counters on Harvester Troll.",uncommon,,,Creature,Troll
+132,Lead by Example,G,2.0,{1}{G},,,,Support 2. (Put a +1/+1 counter on each of up to two target creatures.),common,Support,,Instant,
+133,Loam Larva,G,2.0,{1}{G},1.0,3.0,,"When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.",common,,,Creature,Insect
+134,Natural State,G,1.0,{G},,,,Destroy target artifact or enchantment with mana value 3 or less.,common,,,Instant,
+135,Netcaster Spider,G,3.0,{2}{G},2.0,3.0,,"Reach (This creature can block creatures with flying.)
 Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.",common,Reach,,Creature,Spider
-137,"Nissa, Voice of Zendikar",G,3.0,{1}{G}{G},,,3.0,"[+1]: Create a 0/1 green Plant creature token.
+136,"Nissa, Voice of Zendikar",G,3.0,{1}{G}{G},,,3.0,"[+1]: Create a 0/1 green Plant creature token.
 [−2]: Put a +1/+1 counter on each creature you control.
 [−7]: You gain X life and draw X cards, where X is the number of lands you control.",mythic,,Legendary,Planeswalker,Nissa
-138,Nissa's Judgment,G,5.0,{4}{G},,,,"Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
+137,Nissa's Judgment,G,5.0,{4}{G},,,,"Support 2. (Put a +1/+1 counter on each of up to two target creatures.)
 Choose up to one target creature an opponent controls. Each creature you control with a +1/+1 counter on it deals damage equal to its power to that creature.",uncommon,Support,,Sorcery,
-139,Oath of Nissa,G,1.0,{G},,,,"When Oath of Nissa enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+138,Oath of Nissa,G,1.0,{G},,,,"When Oath of Nissa enters the battlefield, look at the top three cards of your library. You may reveal a creature, land, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 You may spend mana as though it were mana of any color to cast planeswalker spells.",rare,,Legendary,Enchantment,
-140,Pulse of Murasa,G,3.0,{2}{G},,,,Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.,common,,,Instant,
-141,Saddleback Lagac,G,4.0,{3}{G},3.0,1.0,,"When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",common,Support,,Creature,Lizard
-142,Seed Guardian,G,4.0,{2}{G}{G},3.0,4.0,,"Reach
+139,Pulse of Murasa,G,3.0,{2}{G},,,,Return target creature or land card from a graveyard to its owner's hand. You gain 6 life.,common,,,Instant,
+140,Saddleback Lagac,G,4.0,{3}{G},3.0,1.0,,"When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",common,Support,,Creature,Lizard
+141,Seed Guardian,G,4.0,{2}{G}{G},3.0,4.0,,"Reach
 When Seed Guardian dies, create an X/X green Elemental creature token, where X is the number of creature cards in your graveyard.",uncommon,Reach,,Creature,Elemental
-143,Sylvan Advocate,G,2.0,{1}{G},2.0,3.0,,"Vigilance
+142,Sylvan Advocate,G,2.0,{1}{G},2.0,3.0,,"Vigilance
 As long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2.",rare,Vigilance,,Creature,"Elf, Druid, Ally"
-144,Tajuru Pathwarden,G,5.0,{4}{G},5.0,4.0,,"Vigilance, trample",common,"Trample, Vigilance",,Creature,"Elf, Warrior, Ally"
-145,Vines of the Recluse,G,1.0,{G},,,,Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A creature with reach can block creatures with flying.),common,,,Instant,
-146,Zendikar Resurgent,G,7.0,{5}{G}{G},,,,"Whenever you tap a land for mana, add one mana of any type that land produced. (The types of mana are white, blue, black, red, green, and colorless.)
+143,Tajuru Pathwarden,G,5.0,{4}{G},5.0,4.0,,"Vigilance, trample",common,"Trample, Vigilance",,Creature,"Elf, Warrior, Ally"
+144,Vines of the Recluse,G,1.0,{G},,,,Target creature gets +1/+2 and gains reach until end of turn. Untap it. (A creature with reach can block creatures with flying.),common,,,Instant,
+145,Zendikar Resurgent,G,7.0,{5}{G}{G},,,,"Whenever you tap a land for mana, add one mana of any type that land produced. (The types of mana are white, blue, black, red, green, and colorless.)
 Whenever you cast a creature spell, draw a card.",rare,,,Enchantment,
-147,Flayer Drone,C,3.0,{1}{B}{R},3.0,1.0,,"Devoid (This card has no color.)
+146,Flayer Drone,C,3.0,{1}{B}{R},3.0,1.0,,"Devoid (This card has no color.)
 First strike
 Whenever another colorless creature enters the battlefield under your control, target opponent loses 1 life.",uncommon,"Devoid, First strike",,Creature,"Eldrazi, Drone"
-148,Mindmelter,C,3.0,{1}{U}{B},2.0,2.0,,"Devoid (This card has no color.)
+147,Mindmelter,C,3.0,{1}{U}{B},2.0,2.0,,"Devoid (This card has no color.)
 Mindmelter can't be blocked.
 {3}{C}: Target opponent exiles a card from their hand. Activate only as a sorcery. ({C} represents colorless mana.)",uncommon,Devoid,,Creature,"Eldrazi, Drone"
-149,Void Grafter,C,3.0,{1}{G}{U},2.0,4.0,,"Devoid (This card has no color.)
+148,Void Grafter,C,3.0,{1}{G}{U},2.0,4.0,,"Devoid (This card has no color.)
 Flash (You may cast this spell any time you could cast an instant.)
 When Void Grafter enters the battlefield, another target creature you control gains hexproof until end of turn.",uncommon,"Devoid, Flash",,Creature,"Eldrazi, Drone"
-150,"Ayli, Eternal Pilgrim","B, W",2.0,{W}{B},2.0,3.0,,"Deathtouch
+149,"Ayli, Eternal Pilgrim","B, W",2.0,{W}{B},2.0,3.0,,"Deathtouch
 {1}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
 {1}{W}{B}, Sacrifice another creature: Exile target nonland permanent. Activate only if you have at least 10 life more than your starting life total.",rare,Deathtouch,Legendary,Creature,"Kor, Cleric"
-151,Baloth Null,"B, G",6.0,{4}{B}{G},4.0,5.0,,"When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.",uncommon,,,Creature,"Zombie, Beast"
-152,Cliffhaven Vampire,"B, W",4.0,{2}{W}{B},2.0,4.0,,"Flying
+150,Baloth Null,"B, G",6.0,{4}{B}{G},4.0,5.0,,"When Baloth Null enters the battlefield, return up to two target creature cards from your graveyard to your hand.",uncommon,,,Creature,"Zombie, Beast"
+151,Cliffhaven Vampire,"B, W",4.0,{2}{W}{B},2.0,4.0,,"Flying
 Whenever you gain life, each opponent loses 1 life.",uncommon,Flying,,Creature,"Vampire, Warrior, Ally"
-153,Joraga Auxiliary,"G, W",3.0,{1}{G}{W},2.0,3.0,,{4}{G}{W}: Support 2. (Put a +1/+1 counter on each of up to two other target creatures.),uncommon,Support,,Creature,"Elf, Soldier, Ally"
-154,"Jori En, Ruin Diver","R, U",3.0,{1}{U}{R},2.0,3.0,,"Whenever you cast your second spell each turn, draw a card.",rare,,Legendary,Creature,"Merfolk, Wizard"
-155,"Mina and Denn, Wildborn","G, R",4.0,{2}{R}{G},4.0,4.0,,"You may play an additional land on each of your turns.
+152,Joraga Auxiliary,"G, W",3.0,{1}{G}{W},2.0,3.0,,{4}{G}{W}: Support 2. (Put a +1/+1 counter on each of up to two other target creatures.),uncommon,Support,,Creature,"Elf, Soldier, Ally"
+153,"Jori En, Ruin Diver","R, U",3.0,{1}{U}{R},2.0,3.0,,"Whenever you cast your second spell each turn, draw a card.",rare,,Legendary,Creature,"Merfolk, Wizard"
+154,"Mina and Denn, Wildborn","G, R",4.0,{2}{R}{G},4.0,4.0,,"You may play an additional land on each of your turns.
 {R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.",rare,,Legendary,Creature,"Elf, Ally"
-156,Reflector Mage,"U, W",3.0,{1}{W}{U},2.0,3.0,,"When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.",uncommon,,,Creature,"Human, Wizard"
-157,Relentless Hunter,"G, R",3.0,{1}{R}{G},3.0,3.0,,{1}{R}{G}: Relentless Hunter gets +1/+1 and gains trample until end of turn.,uncommon,,,Creature,"Human, Warrior"
-158,Stormchaser Mage,"R, U",2.0,{U}{R},1.0,3.0,,"Flying, haste
+155,Reflector Mage,"U, W",3.0,{1}{W}{U},2.0,3.0,,"When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.",uncommon,,,Creature,"Human, Wizard"
+156,Relentless Hunter,"G, R",3.0,{1}{R}{G},3.0,3.0,,{1}{R}{G}: Relentless Hunter gets +1/+1 and gains trample until end of turn.,uncommon,,,Creature,"Human, Warrior"
+157,Stormchaser Mage,"R, U",2.0,{U}{R},1.0,3.0,,"Flying, haste
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",uncommon,"Flying, Haste, Prowess",,Creature,"Human, Wizard"
-159,Weapons Trainer,"R, W",2.0,{R}{W},3.0,2.0,,Other creatures you control get +1/+0 as long as you control an Equipment.,uncommon,,,Creature,"Human, Soldier, Ally"
-160,Bone Saw,C,0.0,{0},,,,"Equipped creature gets +1/+0.
+158,Weapons Trainer,"R, W",2.0,{R}{W},3.0,2.0,,Other creatures you control get +1/+0 as long as you control an Equipment.,uncommon,,,Creature,"Human, Soldier, Ally"
+159,Bone Saw,C,0.0,{0},,,,"Equipped creature gets +1/+0.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-161,Captain's Claws,C,2.0,{2},,,,"Equipped creature gets +1/+0.
+160,Captain's Claws,C,2.0,{2},,,,"Equipped creature gets +1/+0.
 Whenever equipped creature attacks, create a 1/1 white Kor Ally creature token that's tapped and attacking.
 Equip {1}",rare,Equip,,Artifact,Equipment
-162,Chitinous Cloak,C,3.0,{3},,,,"Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
+161,Chitinous Cloak,C,3.0,{3},,,,"Equipped creature gets +2/+2 and has menace. (It can't be blocked except by two or more creatures.)
 Equip {3}",uncommon,Equip,,Artifact,Equipment
-163,Hedron Crawler,C,2.0,{2},0.0,1.0,,{T}: Add {C}. ({C} represents colorless mana.),common,,,"Artifact, Creature",Construct
-164,Seer's Lantern,C,3.0,{3},,,,"{T}: Add {C}.
+162,Hedron Crawler,C,2.0,{2},0.0,1.0,,{T}: Add {C}. ({C} represents colorless mana.),common,,,"Artifact, Creature",Construct
+163,Seer's Lantern,C,3.0,{3},,,,"{T}: Add {C}.
 {2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",common,Scry,,Artifact,
-165,Stoneforge Masterwork,C,1.0,{1},,,,"Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.
+164,Stoneforge Masterwork,C,1.0,{1},,,,"Equipped creature gets +1/+1 for each other creature you control that shares a creature type with it.
 Equip {2}",rare,Equip,,Artifact,Equipment
-166,Strider Harness,C,3.0,{3},,,,"Equipped creature gets +1/+1 and has haste.
+165,Strider Harness,C,3.0,{3},,,,"Equipped creature gets +1/+1 and has haste.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",uncommon,Equip,,Artifact,Equipment
-167,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
+166,Cinder Barrens,L,0.0,,,,,"Cinder Barrens enters the battlefield tapped.
 {T}: Add {B} or {R}.",uncommon,,,Land,
-168,Corrupted Crossroads,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
+167,Corrupted Crossroads,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
 {T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a spell with devoid.",rare,,,Land,
-169,Crumbling Vestige,L,0.0,,,,,"Crumbling Vestige enters the battlefield tapped.
+168,Crumbling Vestige,L,0.0,,,,,"Crumbling Vestige enters the battlefield tapped.
 When Crumbling Vestige enters the battlefield, add one mana of any color.
 {T}: Add {C}. ({C} represents colorless mana.)",common,,,Land,
-170,Hissing Quagmire,L,0.0,,,,,"Hissing Quagmire enters the battlefield tapped.
+169,Hissing Quagmire,L,0.0,,,,,"Hissing Quagmire enters the battlefield tapped.
 {T}: Add {B} or {G}.
 {1}{B}{G}: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.",rare,,,Land,
-171,Holdout Settlement,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
+170,Holdout Settlement,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
 {T}, Tap an untapped creature you control: Add one mana of any color.",common,,,Land,
-172,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
+171,Meandering River,L,0.0,,,,,"Meandering River enters the battlefield tapped.
 {T}: Add {W} or {U}.",uncommon,,,Land,
-173,Mirrorpool,L,0.0,,,,,"Mirrorpool enters the battlefield tapped.
+172,Mirrorpool,L,0.0,,,,,"Mirrorpool enters the battlefield tapped.
 {T}: Add {C}.
 {2}{C}, {T}, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 {4}{C}, {T}, Sacrifice Mirrorpool: Create a token that's a copy of target creature you control.",mythic,,,Land,
-174,Needle Spires,L,0.0,,,,,"Needle Spires enters the battlefield tapped.
+173,Needle Spires,L,0.0,,,,,"Needle Spires enters the battlefield tapped.
 {T}: Add {R} or {W}.
 {2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.",rare,,,Land,
-175,Ruins of Oran-Rief,L,0.0,,,,,"Ruins of Oran-Rief enters the battlefield tapped.
+174,Ruins of Oran-Rief,L,0.0,,,,,"Ruins of Oran-Rief enters the battlefield tapped.
 {T}: Add {C}. ({C} represents colorless mana.)
 {T}: Put a +1/+1 counter on target colorless creature that entered the battlefield this turn.",rare,,,Land,
-176,Sea Gate Wreckage,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
+175,Sea Gate Wreckage,L,0.0,,,,,"{T}: Add {C}. ({C} represents colorless mana.)
 {2}{C}, {T}: Draw a card. Activate only if you have no cards in hand.",rare,,,Land,
-177,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
+176,Submerged Boneyard,L,0.0,,,,,"Submerged Boneyard enters the battlefield tapped.
 {T}: Add {U} or {B}.",uncommon,,,Land,
-178,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
+177,Timber Gorge,L,0.0,,,,,"Timber Gorge enters the battlefield tapped.
 {T}: Add {R} or {G}.",uncommon,,,Land,
-179,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
+178,Tranquil Expanse,L,0.0,,,,,"Tranquil Expanse enters the battlefield tapped.
 {T}: Add {G} or {W}.",uncommon,,,Land,
-180,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
+179,Unknown Shores,L,0.0,,,,,"{T}: Add {C}.
 {1}, {T}: Add one mana of any color.",common,,,Land,
-181,Wandering Fumarole,L,0.0,,,,,"Wandering Fumarole enters the battlefield tapped.
+180,Wandering Fumarole,L,0.0,,,,,"Wandering Fumarole enters the battlefield tapped.
 {T}: Add {U} or {R}.
 {2}{U}{R}: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with ""{0}: Switch this creature's power and toughness until end of turn."" It's still a land.",rare,,,Land,

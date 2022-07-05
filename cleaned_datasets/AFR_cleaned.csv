@@ -262,348 +262,337 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 • Search the Body — Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,Zombie
 119,Skullport Merchant,B,3.0,{2}{B},1.0,4.0,,"When Skullport Merchant enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 {1}{B}, Sacrifice another creature or a Treasure: Draw a card.",uncommon,,,Creature,"Dwarf, Citizen"
-120,Sphere of Annihilation,B,1.0,{X}{B},,,,"Sphere of Annihilation enters the battlefield with X void counters on it.
-At the beginning of your upkeep, exile Sphere of Annihilation, all creatures and planeswalkers with mana value less than or equal to the number of void counters on it, and all creature and planeswalker cards in graveyards with mana value less than or equal to the number of void counters on it.",rare,,,Artifact,
-121,Thieves' Tools,B,2.0,{1}{B},,,,"When Thieves' Tools enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+120,Thieves' Tools,B,2.0,{1}{B},,,,"When Thieves' Tools enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Equipped creature can't be blocked as long as its power is 3 or less.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-122,Vampire Spawn,B,3.0,{2}{B},2.0,3.0,,"When Vampire Spawn enters the battlefield, each opponent loses 2 life and you gain 2 life.",common,,,Creature,Vampire
-123,Vorpal Sword,B,1.0,{B},,,,"Equipped creature gets +2/+0 and has deathtouch.
+121,Vampire Spawn,B,3.0,{2}{B},2.0,3.0,,"When Vampire Spawn enters the battlefield, each opponent loses 2 life and you gain 2 life.",common,,,Creature,Vampire
+122,Vorpal Sword,B,1.0,{B},,,,"Equipped creature gets +2/+0 and has deathtouch.
 {5}{B}{B}{B}: Until end of turn, Vorpal Sword gains ""Whenever equipped creature deals combat damage to a player, that player loses the game.""
 Equip {B}{B}",rare,Equip,,Artifact,Equipment
-124,Warlock Class,B,1.0,{B},,,,"(Gain the next level as a sorcery to add its ability.)
+123,Warlock Class,B,1.0,{B},,,,"(Gain the next level as a sorcery to add its ability.)
 At the beginning of your end step, if a creature died this turn, each opponent loses 1 life.
 {1}{B}: Level 2
 When this Class becomes level 2, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
 {6}{B}: Level 3
 At the beginning of your end step, each opponent loses life equal to the life they lost this turn. (Damage causes loss of life.)",uncommon,,,Enchantment,Class
-125,Westgate Regent,B,5.0,{3}{B}{B},4.0,4.0,,"Flying
+124,Westgate Regent,B,5.0,{3}{B}{B},4.0,4.0,,"Flying
 Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
 Whenever Westgate Regent deals combat damage to a player, put that many +1/+1 counters on it.",rare,"Flying, Ward",,Creature,Vampire
-126,Wight,B,2.0,{1}{B},3.0,2.0,,"Wight enters the battlefield tapped.
+125,Wight,B,2.0,{1}{B},3.0,2.0,,"Wight enters the battlefield tapped.
 Life Drain — Whenever a creature dealt damage by Wight this turn dies, create a tapped 2/2 black Zombie creature token and exile that card.",rare,,,Creature,"Zombie, Soldier"
-127,Yuan-Ti Fang-Blade,B,3.0,{2}{B},2.0,2.0,,"Deathtouch
+126,Yuan-Ti Fang-Blade,B,3.0,{2}{B},2.0,2.0,,"Deathtouch
 Whenever Yuan-Ti Fang-Blade deals combat damage to a player, venture into the dungeon. (Enter the first room or advance to the next room.)",common,"Deathtouch, Venture into the dungeon",,Creature,"Snake, Rogue"
-128,Zombie Ogre,B,5.0,{3}{B}{B},3.0,5.0,,"At the beginning of your end step, if a creature died this turn, venture into the dungeon. (Enter the first room or advance to the next room.)",common,Venture into the dungeon,,Creature,"Zombie, Ogre"
-129,Armory Veteran,R,2.0,{1}{R},2.0,2.0,,"As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Orc, Warrior"
-130,Barbarian Class,R,1.0,{R},,,,"(Gain the next level as a sorcery to add its ability.)
+127,Zombie Ogre,B,5.0,{3}{B}{B},3.0,5.0,,"At the beginning of your end step, if a creature died this turn, venture into the dungeon. (Enter the first room or advance to the next room.)",common,Venture into the dungeon,,Creature,"Zombie, Ogre"
+128,Armory Veteran,R,2.0,{1}{R},2.0,2.0,,"As long as Armory Veteran is equipped, it has menace. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Orc, Warrior"
+129,Barbarian Class,R,1.0,{R},,,,"(Gain the next level as a sorcery to add its ability.)
 If you would roll one or more dice, instead roll that many dice plus one and ignore the lowest roll.
 {1}{R}: Level 2
 Whenever you roll one or more dice, target creature you control gets +2/+0 and gains menace until end of turn.
 {2}{R}: Level 3
 Creatures you control have haste.",uncommon,,,Enchantment,Class
-131,Battle Cry Goblin,R,2.0,{1}{R},2.0,2.0,,"{1}{R}: Goblins you control get +1/+0 and gain haste until end of turn.
+130,Battle Cry Goblin,R,2.0,{1}{R},2.0,2.0,,"{1}{R}: Goblins you control get +1/+0 and gain haste until end of turn.
 Pack tactics — Whenever Battle Cry Goblin attacks, if you attacked with creatures with total power 6 or greater this combat, create a 1/1 red Goblin creature token that's tapped and attacking.",uncommon,Pack tactics,,Creature,Goblin
-132,Boots of Speed,R,1.0,{R},,,,"Equipped creature gets +1/+0 and has haste.
+131,Boots of Speed,R,1.0,{R},,,,"Equipped creature gets +1/+0 and has haste.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-133,Brazen Dwarf,R,2.0,{1}{R},1.0,3.0,,"Whenever you roll one or more dice, Brazen Dwarf deals 1 damage to each opponent.",common,,,Creature,"Dwarf, Shaman"
-134,Burning Hands,R,2.0,{1}{R},,,,"Burning Hands deals 2 damage to target creature or planeswalker. If that permanent is green, Burning Hands deals 6 damage instead.",uncommon,,,Instant,
-135,Chaos Channeler,R,4.0,{2}{R}{R},4.0,3.0,,"Wild Magic Surge — Whenever Chaos Channeler attacks, roll a d20.
+132,Brazen Dwarf,R,2.0,{1}{R},1.0,3.0,,"Whenever you roll one or more dice, Brazen Dwarf deals 1 damage to each opponent.",common,,,Creature,"Dwarf, Shaman"
+133,Burning Hands,R,2.0,{1}{R},,,,"Burning Hands deals 2 damage to target creature or planeswalker. If that permanent is green, Burning Hands deals 6 damage instead.",uncommon,,,Instant,
+134,Chaos Channeler,R,4.0,{2}{R}{R},4.0,3.0,,"Wild Magic Surge — Whenever Chaos Channeler attacks, roll a d20.
 1—9 | Exile the top card of your library. You may play it this turn.
 10—19 | Exile the top two cards of your library. You may play them this turn.
 20 | Exile the top three cards of your library. You may play them this turn.",uncommon,,,Creature,"Human, Shaman"
-136,Critical Hit,R,2.0,{1}{R},,,,"Target creature gains double strike until end of turn.
+135,Critical Hit,R,2.0,{1}{R},,,,"Target creature gains double strike until end of turn.
 When you roll a natural 20, return Critical Hit from your graveyard to your hand. (A natural 20 is a roll that displays 20 on the die.)",uncommon,,,Instant,
-137,"Delina, Wild Mage",R,4.0,{3}{R},3.0,2.0,,"Whenever Delina, Wild Mage attacks, choose target creature you control, then roll a d20.
+136,"Delina, Wild Mage",R,4.0,{3}{R},3.0,2.0,,"Whenever Delina, Wild Mage attacks, choose target creature you control, then roll a d20.
 1—14 | Create a tapped and attacking token that's a copy of that creature, except it's not legendary and it has ""Exile this creature at end of combat.""
 15—20 | Create one of those tokens. You may roll again.",rare,,Legendary,Creature,"Elf, Shaman"
-138,Dragon's Fire,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, you may reveal a Dragon card from your hand or choose a Dragon you control.
+137,Dragon's Fire,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, you may reveal a Dragon card from your hand or choose a Dragon you control.
 Dragon's Fire deals 3 damage to target creature or planeswalker. If you revealed a Dragon card or chose a Dragon as you cast this spell, Dragon's Fire deals damage equal to the power of that card or creature instead.",common,,,Instant,
-139,Dueling Rapier,R,1.0,{R},,,,"Flash
+138,Dueling Rapier,R,1.0,{R},,,,"Flash
 When Dueling Rapier enters the battlefield, attach it to target creature you control.
 Equipped creature gets +2/+0.
 Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",common,"Equip, Flash",,Artifact,Equipment
-140,Earth-Cult Elemental,R,6.0,{4}{R}{R},6.0,6.0,,"Siege Monster — When Earth-Cult Elemental enters the battlefield, roll a d20.
+139,Earth-Cult Elemental,R,6.0,{4}{R}{R},6.0,6.0,,"Siege Monster — When Earth-Cult Elemental enters the battlefield, roll a d20.
 1—9 | Each player sacrifices a permanent.
 10—19 | Each opponent sacrifices a permanent.
 20 | Each opponent sacrifices two permanents.",common,,,Creature,Elemental
-141,Farideh's Fireball,R,5.0,{3}{R}{R},,,,"Farideh's Fireball deals 5 damage to target creature or planeswalker. Roll a d20.
+140,Farideh's Fireball,R,5.0,{3}{R}{R},,,,"Farideh's Fireball deals 5 damage to target creature or planeswalker. Roll a d20.
 1—9 | Farideh's Fireball deals 2 damage to each player.
 10—20 | Farideh's Fireball deals 2 damage to each opponent.",common,,,Instant,
-142,Flameskull,R,3.0,{1}{R}{R},3.0,1.0,,"Flying
+141,Flameskull,R,3.0,{1}{R}{R},3.0,1.0,,"Flying
 Flameskull can't block.
 Rejuvenation — When Flameskull dies, exile it. If you do, exile the top card of your library. Until the end of your next turn, you may play one of those cards. (If you cast Flameskull this way, you can't play the other card, and vice versa.)",mythic,Flying,,Creature,Skeleton
-143,Goblin Javelineer,R,1.0,{R},1.0,1.0,,"Haste
+142,Goblin Javelineer,R,1.0,{R},1.0,1.0,,"Haste
 Whenever Goblin Javelineer becomes blocked, it deals 1 damage to target creature blocking it.",common,Haste,,Creature,"Goblin, Warrior"
-144,Goblin Morningstar,R,2.0,{1}{R},,,,"Equipped creature gets +1/+0 and has trample.
+143,Goblin Morningstar,R,2.0,{1}{R},,,,"Equipped creature gets +1/+0 and has trample.
 Equip {1}{R}
 When Goblin Morningstar enters the battlefield, roll a d20.
 1—9 | Create a 1/1 red Goblin creature token.
 10—20 | Create a 1/1 red Goblin creature token, then attach Goblin Morningstar to it.",uncommon,Equip,,Artifact,Equipment
-145,Hoarding Ogre,R,4.0,{3}{R},3.0,3.0,,"Whenever Hoarding Ogre attacks, roll a d20.
+144,Hoarding Ogre,R,4.0,{3}{R},3.0,3.0,,"Whenever Hoarding Ogre attacks, roll a d20.
 1—9 | Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 10—19 | Create two Treasure tokens.
 20 | Create three Treasure tokens.",common,,,Creature,Ogre
-146,Hobgoblin Bandit Lord,R,3.0,{1}{R}{R},2.0,3.0,,"Other Goblins you control get +1/+1.
+145,Hobgoblin Bandit Lord,R,3.0,{1}{R}{R},2.0,3.0,,"Other Goblins you control get +1/+1.
 {R}, {T}: Hobgoblin Bandit Lord deals damage equal to the number of Goblins that entered the battlefield under your control this turn to any target.",rare,,,Creature,"Goblin, Rogue"
-147,Hobgoblin Captain,R,2.0,{1}{R},3.0,1.0,,"Pack tactics — Whenever Hobgoblin Captain attacks, if you attacked with creatures with total power 6 or greater this combat, Hobgoblin Captain gains first strike until end of turn.",common,Pack tactics,,Creature,"Goblin, Barbarian"
-148,Hulking Bugbear,R,3.0,{1}{R}{R},3.0,3.0,,Haste,uncommon,Haste,,Creature,Goblin
-149,Improvised Weaponry,R,3.0,{2}{R},,,,"Improvised Weaponry deals 2 damage to any target. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Sorcery,
-150,Inferno of the Star Mounts,R,6.0,{4}{R}{R},6.0,6.0,,"This spell can't be countered.
+146,Hobgoblin Captain,R,2.0,{1}{R},3.0,1.0,,"Pack tactics — Whenever Hobgoblin Captain attacks, if you attacked with creatures with total power 6 or greater this combat, Hobgoblin Captain gains first strike until end of turn.",common,Pack tactics,,Creature,"Goblin, Barbarian"
+147,Hulking Bugbear,R,3.0,{1}{R}{R},3.0,3.0,,Haste,uncommon,Haste,,Creature,Goblin
+148,Improvised Weaponry,R,3.0,{2}{R},,,,"Improvised Weaponry deals 2 damage to any target. Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Sorcery,
+149,Inferno of the Star Mounts,R,6.0,{4}{R}{R},6.0,6.0,,"This spell can't be countered.
 Flying, haste
 {R}: Inferno of the Star Mounts gets +1/+0 until end of turn. When its power becomes 20 this way, it deals 20 damage to any target.",mythic,"Flying, Haste",Legendary,Creature,Dragon
-151,Jaded Sell-Sword,R,4.0,{3}{R},4.0,3.0,,"When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was spent to cast it, it gains first strike and haste until end of turn.",common,,,Creature,"Dragon, Warrior"
-152,Kick in the Door,R,1.0,{R},,,,Put a +1/+1 counter on target creature. That creature gains haste until end of turn and can't be blocked by Walls this turn. Venture into the dungeon. (Enter the first room or advance to the next room.),common,Venture into the dungeon,,Sorcery,
-153,Magic Missile,R,3.0,{1}{R}{R},,,,"This spell can't be countered.
+150,Jaded Sell-Sword,R,4.0,{3}{R},4.0,3.0,,"When Jaded Sell-Sword enters the battlefield, if mana from a Treasure was spent to cast it, it gains first strike and haste until end of turn.",common,,,Creature,"Dragon, Warrior"
+151,Kick in the Door,R,1.0,{R},,,,Put a +1/+1 counter on target creature. That creature gains haste until end of turn and can't be blocked by Walls this turn. Venture into the dungeon. (Enter the first room or advance to the next room.),common,Venture into the dungeon,,Sorcery,
+152,Magic Missile,R,3.0,{1}{R}{R},,,,"This spell can't be countered.
 Magic Missile deals 3 damage divided as you choose among one, two, or three targets.",uncommon,,,Sorcery,
-154,Meteor Swarm,R,3.0,{X}{R}{R}{R},,,,Meteor Swarm deals 8 damage divided as you choose among X target creatures and/or planeswalkers.,rare,,,Sorcery,
-155,Minion of the Mighty,R,1.0,{R},0.0,1.0,,"Menace
+153,Minion of the Mighty,R,1.0,{R},0.0,1.0,,"Menace
 Pack tactics — Whenever Minion of the Mighty attacks, if you attacked with creatures with total power 6 or greater this combat, you may put a Dragon creature card from your hand onto the battlefield tapped and attacking.",rare,"Menace, Pack tactics",,Creature,Kobold
-156,Orb of Dragonkind,R,2.0,{1}{R},,,,"{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells or activate abilities of Dragons.
+154,Orb of Dragonkind,R,2.0,{1}{R},,,,"{1}, {T}: Add two mana in any combination of colors. Spend this mana only to cast Dragon spells or activate abilities of Dragons.
 {R}, {T}, Sacrifice Orb of Dragonkind: Look at the top seven cards of your library. You may reveal a Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Artifact,
-157,Plundering Barbarian,R,3.0,{2}{R},2.0,2.0,,"When Plundering Barbarian enters the battlefield, choose one —
+155,Plundering Barbarian,R,3.0,{2}{R},2.0,2.0,,"When Plundering Barbarian enters the battlefield, choose one —
 • Smash the Chest — Destroy target artifact.
 • Pry It Open — Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Creature,"Dwarf, Barbarian"
-158,Price of Loyalty,R,3.0,{2}{R},,,,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If mana from a Treasure was spent to cast this spell, that creature gets +2/+0 until end of turn.",common,,,Sorcery,
-159,Red Dragon,R,6.0,{4}{R}{R},4.0,4.0,,"Flying
+156,Price of Loyalty,R,3.0,{2}{R},,,,"Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If mana from a Treasure was spent to cast this spell, that creature gets +2/+0 until end of turn.",common,,,Sorcery,
+157,Red Dragon,R,6.0,{4}{R}{R},4.0,4.0,,"Flying
 Fire Breath — When Red Dragon enters the battlefield, it deals 4 damage to each opponent.",uncommon,Flying,,Creature,Dragon
-160,Rust Monster,R,3.0,{2}{R},2.0,1.0,,"First strike
+158,Rust Monster,R,3.0,{2}{R},2.0,1.0,,"First strike
 Sacrifice an artifact: Rust Monster gets +2/+0 until end of turn.",uncommon,First strike,,Creature,Beast
-161,Swarming Goblins,R,5.0,{4}{R},4.0,3.0,,"When Swarming Goblins enters the battlefield, roll a d20.
+159,Swarming Goblins,R,5.0,{4}{R},4.0,3.0,,"When Swarming Goblins enters the battlefield, roll a d20.
 1—9 | Create a 1/1 red Goblin creature token.
 10—19 | Create two of those tokens.
 20 | Create three of those tokens.",common,,,Creature,Goblin
-162,Tiger-Tribe Hunter,R,5.0,{3}{R}{R},4.0,4.0,,"Trample
+160,Tiger-Tribe Hunter,R,5.0,{3}{R}{R},4.0,4.0,,"Trample
 Pack tactics — Whenever Tiger-Tribe Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, you may sacrifice another creature. When you do, Tiger-Tribe Hunter deals damage equal to the sacrificed creature's power to target creature.",uncommon,"Pack tactics, Trample",,Creature,"Human, Barbarian"
-163,Unexpected Windfall,R,4.0,{2}{R}{R},,,,"As an additional cost to cast this spell, discard a card.
+161,Unexpected Windfall,R,4.0,{2}{R}{R},,,,"As an additional cost to cast this spell, discard a card.
 Draw two cards and create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",common,,,Instant,
-164,Valor Singer,R,3.0,{2}{R},2.0,3.0,,"Combat Inspiration — At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.",common,,,Creature,"Tiefling, Bard"
-165,Wish,R,3.0,{2}{R},,,,You may play a card you own from outside the game this turn.,rare,,,Sorcery,
-166,Xorn,R,3.0,{2}{R},3.0,2.0,,"If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token.",rare,,,Creature,Elemental
-167,You Come to the Gnoll Camp,R,2.0,{1}{R},,,,"Choose one —
+162,Valor Singer,R,3.0,{2}{R},2.0,3.0,,"Combat Inspiration — At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn.",common,,,Creature,"Tiefling, Bard"
+163,Wish,R,3.0,{2}{R},,,,You may play a card you own from outside the game this turn.,rare,,,Sorcery,
+164,Xorn,R,3.0,{2}{R},3.0,2.0,,"If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token.",rare,,,Creature,Elemental
+165,You Come to the Gnoll Camp,R,2.0,{1}{R},,,,"Choose one —
 • Intimidate Them — Up to two target creatures can't block this turn.
 • Fend Them Off — Target creature gets +3/+1 until end of turn.",common,,,Instant,
-168,You Find Some Prisoners,R,2.0,{1}{R},,,,"Choose one —
+166,You Find Some Prisoners,R,2.0,{1}{R},,,,"Choose one —
 • Break Their Chains — Destroy target artifact.
 • Interrogate Them — Exile the top three cards of target opponent's library. Choose one of them. Until the end of your next turn, you may play that card, and you may spend mana as though it were mana of any color to cast it.",uncommon,,,Instant,
-169,You See a Pair of Goblins,R,3.0,{2}{R},,,,"Choose one —
+167,You See a Pair of Goblins,R,3.0,{2}{R},,,,"Choose one —
 • Charge Them — Creatures you control get +2/+0 until end of turn.
 • Befriend Them — Create two 1/1 red Goblin creature tokens.",uncommon,,,Instant,
-170,"Zalto, Fire Giant Duke",R,5.0,{3}{R}{R},7.0,3.0,,"Trample
+168,"Zalto, Fire Giant Duke",R,5.0,{3}{R}{R},7.0,3.0,,"Trample
 Whenever Zalto, Fire Giant Duke is dealt damage, venture into the dungeon. (Enter the first room or advance to the next room.)",rare,"Trample, Venture into the dungeon",Legendary,Creature,"Giant, Barbarian"
-171,"Zariel, Archduke of Avernus",R,4.0,{2}{R}{R},,,4.0,"[+1]: Creatures you control get +1/+0 and gain haste until end of turn.
+169,"Zariel, Archduke of Avernus",R,4.0,{2}{R}{R},,,4.0,"[+1]: Creatures you control get +1/+0 and gain haste until end of turn.
 [0]: Create a 1/1 red Devil creature token with ""When this creature dies, it deals 1 damage to any target.""
 [−6]: You get an emblem with ""At the end of the first combat phase on your turn, untap target creature you control. After this phase, there is an additional combat phase.""",mythic,,Legendary,Planeswalker,Zariel
-172,Bulette,G,4.0,{3}{G},3.0,3.0,,"At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Bulette.",common,,,Creature,Beast
-173,Bull's Strength,G,2.0,{1}{G},,,,Target creature gets +2/+2 and gains trample until end of turn. Untap it.,common,,,Instant,
-174,Choose Your Weapon,G,3.0,{2}{G},,,,"Choose one —
+170,Bulette,G,4.0,{3}{G},3.0,3.0,,"At the beginning of your end step, if a creature died this turn, put a +1/+1 counter on Bulette.",common,,,Creature,Beast
+171,Bull's Strength,G,2.0,{1}{G},,,,Target creature gets +2/+2 and gains trample until end of turn. Untap it.,common,,,Instant,
+172,Choose Your Weapon,G,3.0,{2}{G},,,,"Choose one —
 • Two-Weapon Fighting — Double target creature's power and toughness until end of turn.
 • Archery — This spell deals 5 damage to target creature with flying.",uncommon,,,Instant,
-175,Circle of Dreams Druid,G,3.0,{G}{G}{G},2.0,1.0,,{T}: Add {G} for each creature you control.,rare,,,Creature,"Elf, Druid"
-176,Circle of the Moon Druid,G,3.0,{2}{G},2.0,4.0,,"Bear Form — As long as it's your turn, Circle of the Moon Druid is a Bear with base power and toughness 4/2. (It loses all other creature types.)",common,,,Creature,"Human, Elf, Druid"
-177,Compelled Duel,G,2.0,{1}{G},,,,Target creature gets +3/+3 until end of turn and must be blocked this turn if able.,common,,,Sorcery,
-178,Dire Wolf Prowler,G,3.0,{2}{G},2.0,2.0,,{1}{G}: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn.,common,,,Creature,Wolf
-179,Druid Class,G,2.0,{1}{G},,,,"(Gain the next level as a sorcery to add its ability.)
+173,Circle of Dreams Druid,G,3.0,{G}{G}{G},2.0,1.0,,{T}: Add {G} for each creature you control.,rare,,,Creature,"Elf, Druid"
+174,Circle of the Moon Druid,G,3.0,{2}{G},2.0,4.0,,"Bear Form — As long as it's your turn, Circle of the Moon Druid is a Bear with base power and toughness 4/2. (It loses all other creature types.)",common,,,Creature,"Human, Elf, Druid"
+175,Compelled Duel,G,2.0,{1}{G},,,,Target creature gets +3/+3 until end of turn and must be blocked this turn if able.,common,,,Sorcery,
+176,Dire Wolf Prowler,G,3.0,{2}{G},2.0,2.0,,{1}{G}: Dire Wolf Prowler gets +2/+2 and gains haste until end of turn. Activate only once each turn.,common,,,Creature,Wolf
+177,Druid Class,G,2.0,{1}{G},,,,"(Gain the next level as a sorcery to add its ability.)
 Whenever a land enters the battlefield under your control, you gain 1 life.
 {2}{G}: Level 2
 You may play an additional land on each of your turns.
 {4}{G}: Level 3
 When this Class becomes level 3, target land you control becomes a creature with haste and ""This creature's power and toughness are each equal to the number of lands you control."" It's still a land.",uncommon,,,Enchantment,Class
-180,Ellywick Tumblestrum,G,4.0,{2}{G}{G},,,4.0,"[+1]: Venture into the dungeon. (Enter the first room or advance to the next room.)
+178,Ellywick Tumblestrum,G,4.0,{2}{G}{G},,,4.0,"[+1]: Venture into the dungeon. (Enter the first room or advance to the next room.)
 [−2]: Look at the top six cards of your library. You may reveal a creature card from among them and put it into your hand. If it's legendary, you gain 3 life. Put the rest on the bottom of your library in a random order.
 [−7]: You get an emblem with ""Creatures you control have trample and haste and get +2/+2 for each differently named dungeon you've completed.""",mythic,Venture into the dungeon,Legendary,Planeswalker,Ellywick
-181,Elturgard Ranger,G,5.0,{4}{G},4.0,1.0,,"Reach
+179,Elturgard Ranger,G,5.0,{4}{G},4.0,1.0,,"Reach
 When Elturgard Ranger enters the battlefield, create a 2/2 green Wolf creature token.",common,Reach,,Creature,"Human, Elf, Ranger"
-182,Find the Path,G,3.0,{2}{G},,,,"Enchant land
+180,Find the Path,G,3.0,{2}{G},,,,"Enchant land
 When Find the Path enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 Enchanted land has ""{T}: Add {G}{G}.""",common,"Enchant, Venture into the dungeon",,Enchantment,Aura
-183,Froghemoth,G,5.0,{3}{G}{G},4.0,4.0,,"Trample, haste
+181,Froghemoth,G,5.0,{3}{G}{G},4.0,4.0,,"Trample, haste
 Whenever Froghemoth deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on Froghemoth for each creature card exiled this way. You gain 1 life for each noncreature card exiled this way.",rare,"Haste, Trample",,Creature,"Frog, Horror"
-184,Gnoll Hunter,G,2.0,{1}{G},2.0,2.0,,"Pack tactics — Whenever Gnoll Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, put a +1/+1 counter on Gnoll Hunter.",common,Pack tactics,,Creature,Gnoll
-185,Green Dragon,G,6.0,{4}{G}{G},4.0,4.0,,"Flying
+182,Gnoll Hunter,G,2.0,{1}{G},2.0,2.0,,"Pack tactics — Whenever Gnoll Hunter attacks, if you attacked with creatures with total power 6 or greater this combat, put a +1/+1 counter on Gnoll Hunter.",common,Pack tactics,,Creature,Gnoll
+183,Green Dragon,G,6.0,{4}{G}{G},4.0,4.0,,"Flying
 Poison Breath — When Green Dragon enters the battlefield, until end of turn, whenever a creature an opponent controls is dealt damage, destroy it.",uncommon,Flying,,Creature,Dragon
-186,Hill Giant Herdgorger,G,6.0,{4}{G}{G},7.0,6.0,,"When Hill Giant Herdgorger enters the battlefield, you gain 3 life.",common,,,Creature,Giant
-187,Hunter's Mark,G,4.0,{3}{G},,,,"This spell costs {3} less to cast if it targets a blue permanent you don't control.
+184,Hill Giant Herdgorger,G,6.0,{4}{G}{G},7.0,6.0,,"When Hill Giant Herdgorger enters the battlefield, you gain 3 life.",common,,,Creature,Giant
+185,Hunter's Mark,G,4.0,{3}{G},,,,"This spell costs {3} less to cast if it targets a blue permanent you don't control.
 This spell can't be countered.
 Target creature you control gets +1/+1 until end of turn. Then it deals damage equal to its power to target creature or planeswalker you don't control.",uncommon,,,Instant,
-188,Inspiring Bard,G,4.0,{3}{G},3.0,3.0,,"When Inspiring Bard enters the battlefield, choose one —
+186,Inspiring Bard,G,4.0,{3}{G},3.0,3.0,,"When Inspiring Bard enters the battlefield, choose one —
 • Bardic Inspiration — Target creature gets +2/+2 until end of turn.
 • Song of Rest — You gain 3 life.",common,,,Creature,"Elf, Bard"
-189,Instrument of the Bards,G,1.0,{G},,,,"At the beginning of your upkeep, you may put a harmony counter on Instrument of the Bards.
+187,Instrument of the Bards,G,1.0,{G},,,,"At the beginning of your upkeep, you may put a harmony counter on Instrument of the Bards.
 {3}{G}, {T}: Search your library for a creature card with mana value equal to the number of harmony counters on Instrument of the Bards, reveal it, and put it into your hand. If that card is legendary, create a Treasure token. Then shuffle.",rare,,Legendary,Artifact,
-190,Intrepid Outlander,G,2.0,{1}{G},2.0,3.0,,"Reach
+188,Intrepid Outlander,G,2.0,{1}{G},2.0,3.0,,"Reach
 Pack tactics — Whenever Intrepid Outlander attacks, if you attacked with creatures with total power 6 or greater this combat, venture into the dungeon. (Enter the first room or advance to the next room.)",uncommon,"Pack tactics, Reach, Venture into the dungeon",,Creature,"Orc, Ranger"
-191,Loathsome Troll,G,5.0,{3}{G}{G},6.0,2.0,,"{3}{G}: Roll a d20. Activate only if Loathsome Troll is in your graveyard.
+189,Loathsome Troll,G,5.0,{3}{G}{G},6.0,2.0,,"{3}{G}: Roll a d20. Activate only if Loathsome Troll is in your graveyard.
 1—9 | Put Loathsome Troll on top of your library.
 10—19 | Return Loathsome Troll to your hand.
 20 | Return Loathsome Troll to the battlefield tapped.",uncommon,,,Creature,Troll
-192,Long Rest,G,3.0,{X}{G}{G}{G},,,,"Return X target cards with different mana values from your graveyard to your hand. If eight or more cards were returned to your hand this way, your life total becomes equal to your starting life total. Exile Long Rest.",rare,,,Sorcery,
-193,Lurking Roper,G,3.0,{2}{G},4.0,5.0,,"Lurking Roper doesn't untap during your untap step.
+190,Lurking Roper,G,3.0,{2}{G},4.0,5.0,,"Lurking Roper doesn't untap during your untap step.
 Whenever you gain life, untap Lurking Roper.",uncommon,,,Creature,Horror
-194,Neverwinter Dryad,G,1.0,{G},1.0,1.0,,"{2}, Sacrifice Neverwinter Dryad: Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.",common,,,Creature,Dryad
-195,Ochre Jelly,G,1.0,{X}{G},0.0,0.0,,"Trample
-Ochre Jelly enters the battlefield with X +1/+1 counters on it.
-Split — When Ochre Jelly dies, if it had two or more +1/+1 counters on it, create a token that's a copy of it at the beginning of the next end step. The token enters the battlefield with half that many +1/+1 counters on it, rounded down.",rare,Trample,,Creature,Ooze
-196,Old Gnawbone,G,7.0,{5}{G}{G},7.0,7.0,,"Flying
+191,Neverwinter Dryad,G,1.0,{G},1.0,1.0,,"{2}, Sacrifice Neverwinter Dryad: Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.",common,,,Creature,Dryad
+192,Old Gnawbone,G,7.0,{5}{G}{G},7.0,7.0,,"Flying
 Whenever a creature you control deals combat damage to a player, create that many Treasure tokens.",mythic,Flying,Legendary,Creature,Dragon
-197,Owlbear,G,5.0,{3}{G}{G},4.0,4.0,,"Trample
+193,Owlbear,G,5.0,{3}{G}{G},4.0,4.0,,"Trample
 Keen Senses — When Owlbear enters the battlefield, draw a card.",common,Trample,,Creature,"Bird, Bear"
-198,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant,
-199,Prosperous Innkeeper,G,2.0,{1}{G},1.0,1.0,,"When Prosperous Innkeeper enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+194,Plummet,G,2.0,{1}{G},,,,Destroy target creature with flying.,common,,,Instant,
+195,Prosperous Innkeeper,G,2.0,{1}{G},1.0,1.0,,"When Prosperous Innkeeper enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Whenever another creature enters the battlefield under your control, you gain 1 life.",uncommon,,,Creature,"Halfling, Citizen"
-200,Purple Worm,G,7.0,{5}{G}{G},8.0,7.0,,"This spell costs {2} less to cast if a creature died this turn.
+196,Purple Worm,G,7.0,{5}{G}{G},8.0,7.0,,"This spell costs {2} less to cast if a creature died this turn.
 Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)",uncommon,Ward,,Creature,Worm
-201,Ranger Class,G,2.0,{1}{G},,,,"(Gain the next level as a sorcery to add its ability.)
+197,Ranger Class,G,2.0,{1}{G},,,,"(Gain the next level as a sorcery to add its ability.)
 When Ranger Class enters the battlefield, create a 2/2 green Wolf creature token.
 {1}{G}: Level 2
 Whenever you attack, put a +1/+1 counter on target attacking creature.
 {3}{G}: Level 3
 You may look at the top card of your library any time.
 You may cast creature spells from the top of your library.",rare,,,Enchantment,Class
-202,Ranger's Longbow,G,2.0,{1}{G},,,,"Equipped creature gets +2/+1 and has reach.
+198,Ranger's Longbow,G,2.0,{1}{G},,,,"Equipped creature gets +2/+1 and has reach.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-203,Scaled Herbalist,G,2.0,{1}{G},1.0,3.0,,{T}: You may put a land card from your hand onto the battlefield.,common,,,Creature,"Lizard, Druid"
-204,Spoils of the Hunt,G,3.0,{2}{G},,,,Target creature you control gets +1/+0 until end of turn for each mana from a Treasure that was spent to cast this spell. Then that creature deals damage equal to its power to target creature an opponent controls.,common,,,Instant,
-205,Sylvan Shepherd,G,3.0,{2}{G},2.0,3.0,,"Vigilance
+199,Scaled Herbalist,G,2.0,{1}{G},1.0,3.0,,{T}: You may put a land card from your hand onto the battlefield.,common,,,Creature,"Lizard, Druid"
+200,Spoils of the Hunt,G,3.0,{2}{G},,,,Target creature you control gets +1/+0 until end of turn for each mana from a Treasure that was spent to cast this spell. Then that creature deals damage equal to its power to target creature an opponent controls.,common,,,Instant,
+201,Sylvan Shepherd,G,3.0,{2}{G},2.0,3.0,,"Vigilance
 Whenever Sylvan Shepherd attacks, roll a d20.
 1—9 | You gain 1 life.
 10—19 | You gain 2 life.
 20 | You gain 5 life.",common,Vigilance,,Creature,"Human, Druid"
-206,The Tarrasque,G,9.0,{6}{G}{G}{G},10.0,10.0,,"The Tarrasque has haste and ward {10} as long as it was cast.
+202,The Tarrasque,G,9.0,{6}{G}{G}{G},10.0,10.0,,"The Tarrasque has haste and ward {10} as long as it was cast.
 Whenever The Tarrasque attacks, it fights target creature defending player controls.",mythic,Fight,Legendary,Creature,Dinosaur
-207,Underdark Basilisk,G,2.0,{1}{G},1.0,2.0,,Deathtouch,common,Deathtouch,,Creature,Basilisk
-208,"Varis, Silverymoon Ranger",G,3.0,{1}{G}{G},3.0,3.0,,"Reach, ward {1}
+203,Underdark Basilisk,G,2.0,{1}{G},1.0,2.0,,Deathtouch,common,Deathtouch,,Creature,Basilisk
+204,"Varis, Silverymoon Ranger",G,3.0,{1}{G}{G},3.0,3.0,,"Reach, ward {1}
 Whenever you cast a creature or planeswalker spell, venture into the dungeon. This ability triggers only once each turn. (To venture into the dungeon, enter the first room or advance to the next room.)
 Whenever you complete a dungeon, create a 2/2 green Wolf creature token.",rare,"Reach, Venture into the dungeon, Ward",Legendary,Creature,"Human, Elf, Ranger"
-209,Wandering Troubadour,G,4.0,{3}{G},4.0,2.0,,"At the beginning of your end step, if you had a land enter the battlefield under your control this turn, venture into the dungeon. (Enter the first room or advance to the next room.)",uncommon,Venture into the dungeon,,Creature,"Dragon, Bard"
-210,Werewolf Pack Leader,G,2.0,{G}{G},3.0,3.0,,"Pack tactics — Whenever Werewolf Pack Leader attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.
+205,Wandering Troubadour,G,4.0,{3}{G},4.0,2.0,,"At the beginning of your end step, if you had a land enter the battlefield under your control this turn, venture into the dungeon. (Enter the first room or advance to the next room.)",uncommon,Venture into the dungeon,,Creature,"Dragon, Bard"
+206,Werewolf Pack Leader,G,2.0,{G}{G},3.0,3.0,,"Pack tactics — Whenever Werewolf Pack Leader attacks, if you attacked with creatures with total power 6 or greater this combat, draw a card.
 {3}{G}: Until end of turn, Werewolf Pack Leader has base power and toughness 5/3, gains trample, and isn't a Human.",rare,Pack tactics,,Creature,"Human, Werewolf"
-211,Wild Shape,G,1.0,{G},,,,"Choose one. Until end of turn, target creature you control has that base power and toughness, becomes that creature type, and gains that ability.
+207,Wild Shape,G,1.0,{G},,,,"Choose one. Until end of turn, target creature you control has that base power and toughness, becomes that creature type, and gains that ability.
 • 1/3 Turtle with hexproof.
 • 1/5 Spider with reach.
 • 3/3 Elephant with trample.",uncommon,,,Instant,
-212,You Find a Cursed Idol,G,2.0,{1}{G},,,,"Choose one —
+208,You Find a Cursed Idol,G,2.0,{1}{G},,,,"Choose one —
 • Smash It — Destroy target artifact.
 • Lift the Curse — Destroy target enchantment.
 • Steal Its Eyes — Create a Treasure token and venture into the dungeon. (Enter the first room or advance to the next room.)",common,Venture into the dungeon,,Sorcery,
-213,You Happen On a Glade,G,3.0,{2}{G},,,,"Choose one —
+209,You Happen On a Glade,G,3.0,{2}{G},,,,"Choose one —
 • Journey On — Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
 • Make Camp — Return target permanent card from your graveyard to your hand.",uncommon,,,Instant,
-214,You Meet in a Tavern,G,4.0,{2}{G}{G},,,,"Choose one —
+210,You Meet in a Tavern,G,4.0,{2}{G}{G},,,,"Choose one —
 • Form a Party — Look at the top five cards of your library. You may reveal any number of creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
 • Start a Brawl — Creatures you control get +2/+2 until end of turn.",uncommon,,,Sorcery,
-215,Adult Gold Dragon,"R, W",5.0,{3}{R}{W},4.0,3.0,,"Flying, lifelink, haste",rare,"Flying, Haste, Lifelink",,Creature,Dragon
-216,Bard Class,"G, R",2.0,{R}{G},,,,"(Gain the next level as a sorcery to add its ability.)
+211,Adult Gold Dragon,"R, W",5.0,{3}{R}{W},4.0,3.0,,"Flying, lifelink, haste",rare,"Flying, Haste, Lifelink",,Creature,Dragon
+212,Bard Class,"G, R",2.0,{R}{G},,,,"(Gain the next level as a sorcery to add its ability.)
 Legendary creatures you control enter the battlefield with an additional +1/+1 counter on them.
 {R}{G}: Level 2
 Legendary spells you cast cost {R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
 {3}{R}{G}: Level 3
 Whenever you cast a legendary spell, exile the top two cards of your library. You may play them this turn.",rare,,,Enchantment,Class
-217,Barrowin of Clan Undurr,"B, W",4.0,{2}{W}{B},3.0,3.0,,"When Barrowin of Clan Undurr enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
+213,Barrowin of Clan Undurr,"B, W",4.0,{2}{W}{B},3.0,3.0,,"When Barrowin of Clan Undurr enters the battlefield, venture into the dungeon. (Enter the first room or advance to the next room.)
 Whenever Barrowin of Clan Undurr attacks, return up to one creature card with mana value 3 or less from your graveyard to the battlefield if you've completed a dungeon.",uncommon,Venture into the dungeon,Legendary,Creature,"Dwarf, Cleric"
-218,Bruenor Battlehammer,"R, W",4.0,{2}{R}{W},5.0,3.0,,"Each creature you control gets +2/+0 for each Equipment attached to it.
+214,Bruenor Battlehammer,"R, W",4.0,{2}{R}{W},5.0,3.0,,"Each creature you control gets +2/+0 for each Equipment attached to it.
 You may pay {0} rather than pay the equip cost of the first equip ability you activate each turn.",uncommon,,Legendary,Creature,"Dwarf, Warrior"
-219,Drizzt Do'Urden,"G, W",5.0,{3}{G}{W},3.0,3.0,,"Double strike
+215,Drizzt Do'Urden,"G, W",5.0,{3}{G}{W},3.0,3.0,,"Double strike
 When Drizzt Do'Urden enters the battlefield, create Guenhwyvar, a legendary 4/1 green Cat creature token with trample.
 Whenever a creature dies, if it had power greater than Drizzt's power, put a number of +1/+1 counters on Drizzt equal to the difference.",rare,Double strike,Legendary,Creature,"Elf, Ranger"
-220,"Farideh, Devil's Chosen","R, U",4.0,{2}{U}{R},3.0,3.0,,"Dark One's Own Luck — Whenever you roll one or more dice, Farideh, Devil's Chosen gains flying and menace until end of turn. If any of those results was 10 or higher, draw a card.",uncommon,,Legendary,Creature,"Tiefling, Warlock"
-221,Fighter Class,"R, W",2.0,{R}{W},,,,"(Gain the next level as a sorcery to add its ability.)
+216,"Farideh, Devil's Chosen","R, U",4.0,{2}{U}{R},3.0,3.0,,"Dark One's Own Luck — Whenever you roll one or more dice, Farideh, Devil's Chosen gains flying and menace until end of turn. If any of those results was 10 or higher, draw a card.",uncommon,,Legendary,Creature,"Tiefling, Warlock"
+217,Fighter Class,"R, W",2.0,{R}{W},,,,"(Gain the next level as a sorcery to add its ability.)
 When Fighter Class enters the battlefield, search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
 {1}{R}{W}: Level 2
 Equip abilities you activate cost {2} less to activate.
 {3}{R}{W}: Level 3
 Whenever a creature you control attacks, up to one target creature blocks it this combat if able.",rare,,,Enchantment,Class
-222,Gretchen Titchwillow,"G, U",2.0,{G}{U},0.0,4.0,,{2}{G}{U}: Draw a card. You may put a land card from your hand onto the battlefield.,uncommon,,Legendary,Creature,"Halfling, Druid"
-223,"Hama Pashar, Ruin Seeker","U, W",3.0,{1}{W}{U},2.0,3.0,,Room abilities of dungeons you own trigger an additional time.,uncommon,,Legendary,Creature,"Human, Wizard"
-224,"Kalain, Reclusive Painter","B, R",2.0,{B}{R},1.0,2.0,,"When Kalain, Reclusive Painter enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
+218,Gretchen Titchwillow,"G, U",2.0,{G}{U},0.0,4.0,,{2}{G}{U}: Draw a card. You may put a land card from your hand onto the battlefield.,uncommon,,Legendary,Creature,"Halfling, Druid"
+219,"Hama Pashar, Ruin Seeker","U, W",3.0,{1}{W}{U},2.0,3.0,,Room abilities of dungeons you own trigger an additional time.,uncommon,,Legendary,Creature,"Human, Wizard"
+220,"Kalain, Reclusive Painter","B, R",2.0,{B}{R},1.0,2.0,,"When Kalain, Reclusive Painter enters the battlefield, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this artifact: Add one mana of any color."")
 Other creatures you control enter the battlefield with an additional +1/+1 counter on them for each mana from a Treasure spent to cast them.",uncommon,,Legendary,Creature,"Human, Elf, Bard"
-225,Krydle of Baldur's Gate,"B, U",2.0,{U}{B},1.0,3.0,,"Whenever Krydle of Baldur's Gate deals combat damage to a player, that player loses 1 life and mills a card, then you gain 1 life and scry 1.
+221,Krydle of Baldur's Gate,"B, U",2.0,{U}{B},1.0,3.0,,"Whenever Krydle of Baldur's Gate deals combat damage to a player, that player loses 1 life and mills a card, then you gain 1 life and scry 1.
 Whenever you attack, you may pay {2}. If you do, target creature can't be blocked this turn.",uncommon,"Mill, Scry",Legendary,Creature,"Human, Elf, Rogue"
-226,"Minsc, Beloved Ranger","G, R, W",3.0,{R}{G}{W},3.0,3.0,,"When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
+222,"Minsc, Beloved Ranger","G, R, W",3.0,{R}{G}{W},3.0,3.0,,"When Minsc, Beloved Ranger enters the battlefield, create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
 {X}: Until end of turn, target creature you control has base power and toughness X/X and becomes a Giant in addition to its other types. Activate only as a sorcery.",mythic,,Legendary,Creature,"Human, Ranger"
-227,Monk Class,"U, W",2.0,{W}{U},,,,"(Gain the next level as a sorcery to add its ability.)
+223,Monk Class,"U, W",2.0,{W}{U},,,,"(Gain the next level as a sorcery to add its ability.)
 The second spell you cast each turn costs {1} less to cast.
 {W}{U}: Level 2
 When this Class becomes level 2, return up to one target nonland permanent to its owner's hand.
 {1}{W}{U}: Level 3
 At the beginning of your upkeep, exile the top card of your library. For as long as it remains exiled, it has ""You may cast this card from exile as long as you've cast another spell this turn.""",rare,,,Enchantment,Class
-228,"Orcus, Prince of Undeath","B, R",4.0,{X}{2}{B}{R},5.0,3.0,,"Flying, trample
-When Orcus, Prince of Undeath enters the battlefield, choose one —
-• Each other creature gets -X/-X until end of turn. You lose X life.
-• Return up to X target creature cards with total mana value X or less from your graveyard to the battlefield. They gain haste until end of turn.",rare,"Flying, Trample",Legendary,Creature,Demon
-229,Rogue Class,"B, U",2.0,{U}{B},,,,"(Gain the next level as a sorcery to add its ability.)
+224,Rogue Class,"B, U",2.0,{U}{B},,,,"(Gain the next level as a sorcery to add its ability.)
 Whenever a creature you control deals combat damage to a player, exile the top card of that player's library face down. You may look at it for as long as it remains exiled.
 {1}{U}{B}: Level 2
 Creatures you control have menace.
 {2}{U}{B}: Level 3
 You may play cards exiled with Rogue Class, and you may spend mana as though it were mana of any color to cast those spells.",rare,,,Enchantment,Class
-230,"Shessra, Death's Whisper","B, G",4.0,{2}{B}{G},1.0,3.0,,"Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able.
+225,"Shessra, Death's Whisper","B, G",4.0,{2}{B}{G},1.0,3.0,,"Bewitching Whispers — When Shessra, Death's Whisper enters the battlefield, target creature blocks this turn if able.
 Whispers of the Grave — At the beginning of your end step, if a creature died this turn, you may pay 2 life. If you do, draw a card.",uncommon,,Legendary,Creature,"Human, Elf, Warlock"
-231,Skeletal Swarming,"B, G",5.0,{3}{B}{G},,,,"Each Skeleton you control has trample, attacks each combat if able, and gets +X/+0, where X is the number of other Skeletons you control.
+226,Skeletal Swarming,"B, G",5.0,{3}{B}{G},,,,"Each Skeleton you control has trample, attacks each combat if able, and gets +X/+0, where X is the number of other Skeletons you control.
 At the beginning of your end step, create a tapped 1/1 black Skeleton creature token. If a creature died this turn, create two of those tokens instead.",rare,,,Enchantment,
-232,Sorcerer Class,"R, U",2.0,{U}{R},,,,"(Gain the next level as a sorcery to add its ability.)
+227,Sorcerer Class,"R, U",2.0,{U}{R},,,,"(Gain the next level as a sorcery to add its ability.)
 When Sorcerer Class enters the battlefield, draw two cards, then discard two cards.
 {U}{R}: Level 2
 Creatures you control have ""{T}: Add {U} or {R}. Spend this mana only to cast an instant or sorcery spell or to gain a Class level.""
 {3}{U}{R}: Level 3
 Whenever you cast an instant or sorcery spell, that spell deals damage to each opponent equal to the number of instant and sorcery spells you've cast this turn.",rare,,,Enchantment,Class
-233,"Targ Nar, Demon-Fang Gnoll","G, R",2.0,{R}{G},2.0,2.0,,"Pack tactics — Whenever Targ Nar, Demon-Fang Gnoll attacks, if you attacked with creatures with total power 6 or greater this combat, attacking creatures get +1/+0 until end of turn.
+228,"Targ Nar, Demon-Fang Gnoll","G, R",2.0,{R}{G},2.0,2.0,,"Pack tactics — Whenever Targ Nar, Demon-Fang Gnoll attacks, if you attacked with creatures with total power 6 or greater this combat, attacking creatures get +1/+0 until end of turn.
 {2}{R}{G}: Double Targ Nar's power and toughness until end of turn.",uncommon,Pack tactics,Legendary,Creature,Gnoll
-234,Tiamat,"B, G, R, U, W",7.0,{2}{W}{U}{B}{R}{G},7.0,7.0,,"Flying
+229,Tiamat,"B, G, R, U, W",7.0,{2}{W}{U}{B}{R}{G},7.0,7.0,,"Flying
 When Tiamat enters the battlefield, if you cast it, search your library for up to five Dragon cards not named Tiamat that each have different names, reveal them, put them into your hand, then shuffle.",mythic,Flying,Legendary,Creature,"Dragon, God"
-235,"Trelasarra, Moon Dancer","G, W",2.0,{G}{W},2.0,2.0,,"Whenever you gain life, put a +1/+1 counter on Trelasarra, Moon Dancer and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",uncommon,Scry,Legendary,Creature,"Elf, Cleric"
-236,Triumphant Adventurer,"B, W",2.0,{W}{B},1.0,1.0,,"Deathtouch
+230,"Trelasarra, Moon Dancer","G, W",2.0,{G}{W},2.0,2.0,,"Whenever you gain life, put a +1/+1 counter on Trelasarra, Moon Dancer and scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",uncommon,Scry,Legendary,Creature,"Elf, Cleric"
+231,Triumphant Adventurer,"B, W",2.0,{W}{B},1.0,1.0,,"Deathtouch
 As long as it's your turn, Triumphant Adventurer has first strike.
 Whenever Triumphant Adventurer attacks, venture into the dungeon. (Enter the first room or advance to the next room.)",rare,"Deathtouch, Venture into the dungeon",,Creature,"Human, Knight"
-237,"Volo, Guide to Monsters","G, U",4.0,{2}{G}{U},3.0,2.0,,"Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)",rare,,Legendary,Creature,"Human, Wizard"
-238,"Xanathar, Guild Kingpin","B, U",6.0,{4}{U}{B},5.0,6.0,,"At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look at the top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.",mythic,,Legendary,Creature,Beholder
-239,Bag of Holding,C,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
+232,"Volo, Guide to Monsters","G, U",4.0,{2}{G}{U},3.0,2.0,,"Whenever you cast a creature spell that doesn't share a creature type with a creature you control or a creature card in your graveyard, copy that spell. (A copy of a creature spell becomes a token.)",rare,,Legendary,Creature,"Human, Wizard"
+233,"Xanathar, Guild Kingpin","B, U",6.0,{4}{U}{B},5.0,6.0,,"At the beginning of your upkeep, choose target opponent. Until end of turn, that player can't cast spells, you may look at the top card of their library any time, you may play the top card of their library, and you may spend mana as though it were mana of any color to cast spells this way.",mythic,,Legendary,Creature,Beholder
+234,Bag of Holding,C,1.0,{1},,,,"Whenever you discard a card, exile that card from your graveyard.
 {2}, {T}: Draw a card, then discard a card.
 {4}, {T}, Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner's hand.",uncommon,,,Artifact,
-240,The Deck of Many Things,C,5.0,{5},,,,"{2}, {T}: Roll a d20 and subtract the number of cards in your hand. If the result is 0 or less, discard your hand.
+235,The Deck of Many Things,C,5.0,{5},,,,"{2}, {T}: Roll a d20 and subtract the number of cards in your hand. If the result is 0 or less, discard your hand.
 1—9 | Return a card at random from your graveyard to your hand.
 10—19 | Draw two cards.
 20 | Put a creature card from any graveyard onto the battlefield under your control. When that creature dies, its owner loses the game.",mythic,,Legendary,Artifact,
-241,Dungeon Map,C,3.0,{3},,,,"{T}: Add {C}.
+236,Dungeon Map,C,3.0,{3},,,,"{T}: Add {C}.
 {3}, {T}: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)",uncommon,Venture into the dungeon,,Artifact,
-242,Eye of Vecna,C,2.0,{2},,,,"When Eye of Vecna enters the battlefield, you draw a card and you lose 2 life.
+237,Eye of Vecna,C,2.0,{2},,,,"When Eye of Vecna enters the battlefield, you draw a card and you lose 2 life.
 At the beginning of your upkeep, you may pay {2}. If you do, you draw a card and you lose 2 life.",rare,,Legendary,Artifact,
-243,Fifty Feet of Rope,C,1.0,{1},,,,"Climb Over — {T}: Target Wall can't block this turn.
+238,Fifty Feet of Rope,C,1.0,{1},,,,"Climb Over — {T}: Target Wall can't block this turn.
 Tie Up — {3}, {T}: Target creature doesn't untap during its controller's next untap step.
 Rappel Down — {4}, {T}: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)",uncommon,Venture into the dungeon,,Artifact,
-244,Greataxe,C,1.0,{1},,,,"Equipped creature gets +4/+0.
+239,Greataxe,C,1.0,{1},,,,"Equipped creature gets +4/+0.
 Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-245,Hand of Vecna,C,3.0,{3},,,,"At the beginning of combat on your turn, equipped creature or a creature you control named Vecna gets +X/+X until end of turn, where X is the number of cards in your hand.
+240,Hand of Vecna,C,3.0,{3},,,,"At the beginning of combat on your turn, equipped creature or a creature you control named Vecna gets +X/+X until end of turn, where X is the number of cards in your hand.
 Equip—Pay 1 life for each card in your hand.
 Equip {2}",rare,Equip,Legendary,Artifact,Equipment
-246,Iron Golem,C,4.0,{4},5.0,3.0,,"Vigilance
+241,Iron Golem,C,4.0,{4},5.0,3.0,,"Vigilance
 Iron Golem attacks or blocks each combat if able.",uncommon,Vigilance,,"Artifact, Creature",Golem
-247,Leather Armor,C,1.0,{1},,,,"Equipped creature gets +0/+1 and has ward {1}. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+242,Leather Armor,C,1.0,{1},,,,"Equipped creature gets +0/+1 and has ward {1}. (Whenever equipped creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Equip {0}. Activate only once each turn.",common,Equip,,Artifact,Equipment
-248,Mimic,C,2.0,{2},,,,"{T}, Sacrifice Mimic: Add one mana of any color.
+243,Mimic,C,2.0,{2},,,,"{T}, Sacrifice Mimic: Add one mana of any color.
 {2}: Mimic becomes a Shapeshifter artifact creature with base power and toughness 3/3 until end of turn.",common,,,Artifact,Treasure
-249,Spare Dagger,C,1.0,{1},,,,"Equipped creature gets +1/+0 and has ""Whenever this creature attacks, you may sacrifice Spare Dagger. When you do, this creature deals 1 damage to any target.""
+244,Spare Dagger,C,1.0,{1},,,,"Equipped creature gets +1/+0 and has ""Whenever this creature attacks, you may sacrifice Spare Dagger. When you do, this creature deals 1 damage to any target.""
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-250,Spiked Pit Trap,C,1.0,{1},,,,"Flash
+245,Spiked Pit Trap,C,1.0,{1},,,,"Flash
 {5}, {T}, Sacrifice Spiked Pit Trap: Choose target creature, then roll a d20.
 1—9 | Spiked Pit Trap deals 5 damage to that creature.
 10—20 | Spiked Pit Trap deals 5 damage to that creature. Create a Treasure token.",common,Flash,,Artifact,
-251,Treasure Chest,C,3.0,{3},,,,"{4}, Sacrifice Treasure Chest: Roll a d20.
+246,Treasure Chest,C,3.0,{3},,,,"{4}, Sacrifice Treasure Chest: Roll a d20.
 1 | Trapped! — You lose 3 life.
 2—9 | Create five Treasure tokens.
 10—19 | You gain 3 life and draw three cards.
 20 | Search your library for a card. If it's an artifact card, you may put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle.",rare,,,Artifact,
-252,Cave of the Frost Dragon,L,0.0,,,,,"If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped.
+247,Cave of the Frost Dragon,L,0.0,,,,,"If you control two or more other lands, Cave of the Frost Dragon enters the battlefield tapped.
 {T}: Add {W}.
 {4}{W}: Cave of the Frost Dragon becomes a 3/4 white Dragon creature with flying until end of turn. It's still a land.",rare,,,Land,
-253,Den of the Bugbear,L,0.0,,,,,"If you control two or more other lands, Den of the Bugbear enters the battlefield tapped.
+248,Den of the Bugbear,L,0.0,,,,,"If you control two or more other lands, Den of the Bugbear enters the battlefield tapped.
 {T}: Add {R}.
 {3}{R}: Until end of turn, Den of the Bugbear becomes a 3/2 red Goblin creature with ""Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking."" It's still a land.",rare,,,Land,
-254,Dungeon Descent,L,0.0,,,,,"Dungeon Descent enters the battlefield tapped.
+249,Dungeon Descent,L,0.0,,,,,"Dungeon Descent enters the battlefield tapped.
 {T}: Add {C}.
 {4}, {T}, Tap an untapped legendary creature you control: Venture into the dungeon. Activate only as a sorcery. (Enter the first room or advance to the next room.)",rare,Venture into the dungeon,,Land,
-255,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land,
-256,Hall of Storm Giants,L,0.0,,,,,"If you control two or more other lands, Hall of Storm Giants enters the battlefield tapped.
+250,Evolving Wilds,L,0.0,,,,,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",common,,,Land,
+251,Hall of Storm Giants,L,0.0,,,,,"If you control two or more other lands, Hall of Storm Giants enters the battlefield tapped.
 {T}: Add {U}.
 {5}{U}: Until end of turn, Hall of Storm Giants becomes a 7/7 blue Giant creature with ward {3}. It's still a land. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)",rare,,,Land,
-257,Hive of the Eye Tyrant,L,0.0,,,,,"If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped.
+252,Hive of the Eye Tyrant,L,0.0,,,,,"If you control two or more other lands, Hive of the Eye Tyrant enters the battlefield tapped.
 {T}: Add {B}.
 {3}{B}: Until end of turn, Hive of the Eye Tyrant becomes a 3/3 black Beholder creature with menace and ""Whenever this creature attacks, exile target card from defending player's graveyard."" It's still a land.",rare,,,Land,
-258,Lair of the Hydra,L,0.0,,,,,"If you control two or more other lands, Lair of the Hydra enters the battlefield tapped.
+253,Lair of the Hydra,L,0.0,,,,,"If you control two or more other lands, Lair of the Hydra enters the battlefield tapped.
 {T}: Add {G}.
 {X}{G}: Until end of turn, Lair of the Hydra becomes an X/X green Hydra creature. It's still a land. X can't be 0.",rare,,,Land,
-259,Temple of the Dragon Queen,L,0.0,,,,,"As Temple of the Dragon Queen enters the battlefield, you may reveal a Dragon card from your hand. Temple of the Dragon Queen enters the battlefield tapped unless you revealed a Dragon card this way or you control a Dragon.
+254,Temple of the Dragon Queen,L,0.0,,,,,"As Temple of the Dragon Queen enters the battlefield, you may reveal a Dragon card from your hand. Temple of the Dragon Queen enters the battlefield tapped unless you revealed a Dragon card this way or you control a Dragon.
 As Temple of the Dragon Queen enters the battlefield, choose a color.
 {T}: Add one mana of the chosen color.",uncommon,,,Land,
-260,Treasure Vault,C,0.0,,,,,"{T}: Add {C}.
+255,Treasure Vault,L,0.0,,,,,"{T}: Add {C}.
 {X}{X}, {T}, Sacrifice Treasure Vault: Create X Treasure tokens.",rare,,,"Artifact, Land",

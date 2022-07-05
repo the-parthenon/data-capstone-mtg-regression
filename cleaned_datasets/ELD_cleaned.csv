@@ -93,420 +93,414 @@ Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vand
 {2}{U}, {T}: Each opponent mills cards equal to the number of cards in their hand.",rare,Mill,,Artifact,
 56,Frogify,U,2.0,{1}{U},,,,"Enchant creature
 Enchanted creature loses all abilities and is a blue Frog creature with base power and toughness 1/1. (It loses all other card types and creature types.)",uncommon,Enchant,,Enchantment,Aura
-57,"Gadwick, the Wizened",U,3.0,{X}{U}{U}{U},3.0,3.0,,"When Gadwick, the Wizened enters the battlefield, draw X cards.
-Whenever you cast a blue spell, tap target nonland permanent an opponent controls.",rare,,Legendary,Creature,"Human, Wizard"
-58,Hypnotic Sprite,U,2.0,{U}{U},2.0,1.0,,Flying,uncommon,Flying,,Creature,Faerie
-59,Mesmeric Glare,U,2.0,{2}{U},,,,Counter target spell with mana value 3 or less. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Instant,Adventure
-60,Into the Story,U,7.0,{5}{U}{U},,,,"This spell costs {3} less to cast if an opponent has seven or more cards in their graveyard.
+57,Hypnotic Sprite,U,2.0,{U}{U},2.0,1.0,,Flying,uncommon,Flying,,Creature,Faerie
+58,Mesmeric Glare,U,2.0,{2}{U},,,,Counter target spell with mana value 3 or less. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Instant,Adventure
+59,Into the Story,U,7.0,{5}{U}{U},,,,"This spell costs {3} less to cast if an opponent has seven or more cards in their graveyard.
 Draw four cards.",uncommon,,,Instant,
-61,The Magic Mirror,U,9.0,{6}{U}{U}{U},,,,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+60,The Magic Mirror,U,9.0,{6}{U}{U}{U},,,,"This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
 You have no maximum hand size.
 At the beginning of your upkeep, put a knowledge counter on The Magic Mirror, then draw a card for each knowledge counter on The Magic Mirror.",mythic,,Legendary,Artifact,
-62,Mantle of Tides,U,1.0,{U},,,,"Equipped creature gets +1/+2.
+61,Mantle of Tides,U,1.0,{U},,,,"Equipped creature gets +1/+2.
 Whenever you draw your second card each turn, attach Mantle of Tides to target creature you control.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-63,Merfolk Secretkeeper,U,1.0,{U},0.0,4.0,,,common,,,Creature,"Merfolk, Wizard"
-64,Venture Deeper,U,1.0,{U},,,,Target player mills four cards. (Then exile this card. You may cast the creature later from exile.),common,Mill,,Sorcery,Adventure
-65,Midnight Clock,U,3.0,{2}{U},,,,"{T}: Add {U}.
+62,Merfolk Secretkeeper,U,1.0,{U},0.0,4.0,,,common,,,Creature,"Merfolk, Wizard"
+63,Venture Deeper,U,1.0,{U},,,,Target player mills four cards. (Then exile this card. You may cast the creature later from exile.),common,Mill,,Sorcery,Adventure
+64,Midnight Clock,U,3.0,{2}{U},,,,"{T}: Add {U}.
 {2}{U}: Put an hour counter on Midnight Clock.
 At the beginning of each upkeep, put an hour counter on Midnight Clock.
 When the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock.",rare,,,Artifact,
-66,Mirrormade,U,3.0,{1}{U}{U},,,,You may have Mirrormade enter the battlefield as a copy of any artifact or enchantment on the battlefield.,rare,,,Enchantment,
-67,Mistford River Turtle,U,4.0,{3}{U},1.0,5.0,,"Whenever Mistford River Turtle attacks, another target attacking non-Human creature can't be blocked this turn.",common,,,Creature,Turtle
-68,Moonlit Scavengers,U,6.0,{5}{U},4.0,5.0,,"When Moonlit Scavengers enters the battlefield, if you control an artifact or enchantment, return target creature an opponent controls to its owner's hand.",common,,,Creature,"Merfolk, Rogue"
-69,Mystical Dispute,U,3.0,{2}{U},,,,"This spell costs {2} less to cast if it targets a blue spell.
+65,Mirrormade,U,3.0,{1}{U}{U},,,,You may have Mirrormade enter the battlefield as a copy of any artifact or enchantment on the battlefield.,rare,,,Enchantment,
+66,Mistford River Turtle,U,4.0,{3}{U},1.0,5.0,,"Whenever Mistford River Turtle attacks, another target attacking non-Human creature can't be blocked this turn.",common,,,Creature,Turtle
+67,Moonlit Scavengers,U,6.0,{5}{U},4.0,5.0,,"When Moonlit Scavengers enters the battlefield, if you control an artifact or enchantment, return target creature an opponent controls to its owner's hand.",common,,,Creature,"Merfolk, Rogue"
+68,Mystical Dispute,U,3.0,{2}{U},,,,"This spell costs {2} less to cast if it targets a blue spell.
 Counter target spell unless its controller pays {3}.",uncommon,,,Instant,
-70,Opt,U,1.0,{U},,,,"Scry 1.
+69,Opt,U,1.0,{U},,,,"Scry 1.
 Draw a card.",common,Scry,,Instant,
-71,Overwhelmed Apprentice,U,1.0,{U},1.0,2.0,,"When Overwhelmed Apprentice enters the battlefield, each opponent mills two cards. Then you scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",uncommon,"Mill, Scry",,Creature,"Human, Wizard"
-72,Queen of Ice,U,3.0,{2}{U},2.0,3.0,,"Whenever Queen of Ice deals combat damage to a creature, tap that creature. It doesn't untap during its controller's next untap step.",common,,,Creature,"Human, Noble, Wizard"
-73,Rage of Winter,U,3.0,{1}{U},,,,Tap target creature. It doesn't untap during its controller's next untap step. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
-74,Run Away Together,U,2.0,{1}{U},,,,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,common,,,Instant,
-75,Sage of the Falls,U,5.0,{4}{U},2.0,5.0,,"Whenever Sage of the Falls or another non-Human creature enters the battlefield under your control, you may draw a card. If you do, discard a card.",uncommon,,,Creature,"Merfolk, Wizard"
-76,So Tiny,U,1.0,{U},,,,"Flash
+70,Overwhelmed Apprentice,U,1.0,{U},1.0,2.0,,"When Overwhelmed Apprentice enters the battlefield, each opponent mills two cards. Then you scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",uncommon,"Mill, Scry",,Creature,"Human, Wizard"
+71,Queen of Ice,U,3.0,{2}{U},2.0,3.0,,"Whenever Queen of Ice deals combat damage to a creature, tap that creature. It doesn't untap during its controller's next untap step.",common,,,Creature,"Human, Noble, Wizard"
+72,Rage of Winter,U,3.0,{1}{U},,,,Tap target creature. It doesn't untap during its controller's next untap step. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
+73,Run Away Together,U,2.0,{1}{U},,,,Choose two target creatures controlled by different players. Return those creatures to their owners' hands.,common,,,Instant,
+74,Sage of the Falls,U,5.0,{4}{U},2.0,5.0,,"Whenever Sage of the Falls or another non-Human creature enters the battlefield under your control, you may draw a card. If you do, discard a card.",uncommon,,,Creature,"Merfolk, Wizard"
+75,So Tiny,U,1.0,{U},,,,"Flash
 Enchant creature
 Enchanted creature gets -2/-0. It gets -6/-0 instead as long as its controller has seven or more cards in their graveyard.",common,"Enchant, Flash",,Enchantment,Aura
-77,Steelgaze Griffin,U,5.0,{4}{U},2.0,4.0,,"Flying
+76,Steelgaze Griffin,U,5.0,{4}{U},2.0,4.0,,"Flying
 Whenever you draw your second card each turn, Steelgaze Griffin gets +2/+0 until end of turn.",common,Flying,,Creature,Griffin
-78,Stolen by the Fae,U,2.0,{X}{U}{U},,,,Return target creature with mana value X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying.,rare,,,Sorcery,
-79,"Syr Elenora, the Discerning",U,5.0,{3}{U}{U},,4.0,,"Syr Elenora, the Discerning's power is equal to the number of cards in your hand.
+77,"Syr Elenora, the Discerning",U,5.0,{3}{U}{U},,4.0,,"Syr Elenora, the Discerning's power is equal to the number of cards in your hand.
 When Syr Elenora enters the battlefield, draw a card.
 Spells your opponents cast that target Syr Elenora cost {2} more to cast.",uncommon,,Legendary,Creature,"Human, Knight"
-80,Tome Raider,U,3.0,{2}{U},1.0,1.0,,"Flying
+78,Tome Raider,U,3.0,{2}{U},1.0,1.0,,"Flying
 When Tome Raider enters the battlefield, draw a card.",common,Flying,,Creature,Faerie
-81,Turn into a Pumpkin,U,4.0,{3}{U},,,,"Return target nonland permanent to its owner's hand. Draw a card.
+79,Turn into a Pumpkin,U,4.0,{3}{U},,,,"Return target nonland permanent to its owner's hand. Draw a card.
 Adamant — If at least three blue mana was spent to cast this spell, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,Adamant,,Instant,
-82,Unexplained Vision,U,5.0,{4}{U},,,,"Draw three cards.
+80,Unexplained Vision,U,5.0,{4}{U},,,,"Draw three cards.
 Adamant — If at least three blue mana was spent to cast this spell, scry 3.",common,"Adamant, Scry",,Sorcery,
-83,Vantress Gargoyle,U,2.0,{1}{U},5.0,4.0,,"Flying
+81,Vantress Gargoyle,U,2.0,{1}{U},5.0,4.0,,"Flying
 Vantress Gargoyle can't attack unless defending player has seven or more cards in their graveyard.
 Vantress Gargoyle can't block unless you have four or more cards in hand.
 {T}: Each player mills a card.",rare,"Flying, Mill",,"Artifact, Creature",Gargoyle
-84,Vantress Paladin,U,4.0,{3}{U},2.0,2.0,,"Flying
+82,Vantress Paladin,U,4.0,{3}{U},2.0,2.0,,"Flying
 Adamant — If at least three blue mana was spent to cast this spell, Vantress Paladin enters the battlefield with a +1/+1 counter on it.",common,"Adamant, Flying",,Creature,"Human, Knight"
-85,Wishful Merfolk,U,2.0,{1}{U},3.0,2.0,,"Defender
+83,Wishful Merfolk,U,2.0,{1}{U},3.0,2.0,,"Defender
 {1}{U}: Wishful Merfolk loses defender and becomes a Human until end of turn.",common,Defender,,Creature,Merfolk
-86,Witching Well,U,1.0,{U},,,,"When Witching Well enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+84,Witching Well,U,1.0,{U},,,,"When Witching Well enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 {3}{U}, Sacrifice Witching Well: Draw two cards.",common,Scry,,Artifact,
-87,"Ayara, First of Locthwain",B,3.0,{B}{B}{B},2.0,3.0,,"Whenever Ayara, First of Locthwain or another black creature enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
+85,"Ayara, First of Locthwain",B,3.0,{B}{B}{B},2.0,3.0,,"Whenever Ayara, First of Locthwain or another black creature enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
 {T}, Sacrifice another black creature: Draw a card.",rare,,Legendary,Creature,"Elf, Noble"
-88,Bake into a Pie,B,4.0,{2}{B}{B},,,,"Destroy target creature. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Instant,
-89,Barrow Witches,B,5.0,{4}{B},3.0,4.0,,"When Barrow Witches enters the battlefield, return target Knight card from your graveyard to your hand.",common,,,Creature,"Human, Warlock"
-90,Belle of the Brawl,B,3.0,{2}{B},3.0,2.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+86,Bake into a Pie,B,4.0,{2}{B}{B},,,,"Destroy target creature. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Instant,
+87,Barrow Witches,B,5.0,{4}{B},3.0,4.0,,"When Barrow Witches enters the battlefield, return target Knight card from your graveyard to your hand.",common,,,Creature,"Human, Warlock"
+88,Belle of the Brawl,B,3.0,{2}{B},3.0,2.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Whenever Belle of the Brawl attacks, other Knights you control get +1/+0 until end of turn.",uncommon,Menace,,Creature,"Human, Knight"
-91,Blacklance Paragon,B,2.0,{1}{B},3.0,1.0,,"Flash
+89,Blacklance Paragon,B,2.0,{1}{B},3.0,1.0,,"Flash
 When Blacklance Paragon enters the battlefield, target Knight gains deathtouch and lifelink until end of turn.",rare,Flash,,Creature,"Human, Knight"
-92,Bog Naughty,B,5.0,{3}{B}{B},3.0,3.0,,"Flying
+90,Bog Naughty,B,5.0,{3}{B}{B},3.0,3.0,,"Flying
 {2}{B}, Sacrifice a Food: Target creature gets -3/-3 until end of turn.",uncommon,Flying,,Creature,Faerie
-93,Cauldron Familiar,B,1.0,{B},1.0,1.0,,"When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.
+91,Cauldron Familiar,B,1.0,{B},1.0,1.0,,"When Cauldron Familiar enters the battlefield, each opponent loses 1 life and you gain 1 life.
 Sacrifice a Food: Return Cauldron Familiar from your graveyard to the battlefield.",uncommon,,,Creature,Cat
-94,The Cauldron of Eternity,B,12.0,{10}{B}{B},,,,"This spell costs {2} less to cast for each creature card in your graveyard.
+92,The Cauldron of Eternity,B,12.0,{10}{B}{B},,,,"This spell costs {2} less to cast for each creature card in your graveyard.
 Whenever a creature you control dies, put it on the bottom of its owner's library.
 {2}{B}, {T}, Pay 2 life: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",mythic,,Legendary,Artifact,
-95,Cauldron's Gift,B,5.0,{4}{B},,,,"Adamant — If at least three black mana was spent to cast this spell, mill four cards.
+93,Cauldron's Gift,B,5.0,{4}{B},,,,"Adamant — If at least three black mana was spent to cast this spell, mill four cards.
 You may choose a creature card in your graveyard. If you do, return it to the battlefield with an additional +1/+1 counter on it.",uncommon,"Adamant, Mill",,Sorcery,
-96,Clackbridge Troll,B,5.0,{3}{B}{B},8.0,8.0,,"Trample, haste
+94,Clackbridge Troll,B,5.0,{3}{B}{B},8.0,8.0,,"Trample, haste
 When Clackbridge Troll enters the battlefield, target opponent creates three 0/1 white Goat creature tokens.
 At the beginning of combat on your turn, any opponent may sacrifice a creature. If a player does, tap Clackbridge Troll, you gain 3 life, and you draw a card.",rare,"Haste, Trample",,Creature,Troll
-97,Epic Downfall,B,2.0,{1}{B},,,,Exile target creature with mana value 3 or greater.,uncommon,,,Sorcery,
-98,Eye Collector,B,1.0,{B},1.0,1.0,,"Flying
+95,Epic Downfall,B,2.0,{1}{B},,,,Exile target creature with mana value 3 or greater.,uncommon,,,Sorcery,
+96,Eye Collector,B,1.0,{B},1.0,1.0,,"Flying
 Whenever Eye Collector deals combat damage to a player, each player mills a card.",common,"Flying, Mill",,Creature,Faerie
-99,Festive Funeral,B,5.0,{4}{B},,,,"Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.",common,,,Instant,
-100,Foreboding Fruit,B,3.0,{2}{B},,,,"Target player draws two cards and loses 2 life.
+97,Festive Funeral,B,5.0,{4}{B},,,,"Target creature gets -X/-X until end of turn, where X is the number of cards in your graveyard.",common,,,Instant,
+98,Foreboding Fruit,B,3.0,{2}{B},,,,"Target player draws two cards and loses 2 life.
 Adamant — If at least three black mana was spent to cast this spell, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,Adamant,,Sorcery,
-101,Forever Young,B,2.0,{1}{B},,,,"Put any number of target creature cards from your graveyard on top of your library.
+99,Forever Young,B,2.0,{1}{B},,,,"Put any number of target creature cards from your graveyard on top of your library.
 Draw a card.",common,,,Sorcery,
-102,Foulmire Knight,B,1.0,{B},1.0,1.0,,Deathtouch,uncommon,Deathtouch,,Creature,"Zombie, Knight"
-103,Profane Insight,B,1.0,{2}{B},,,,You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Instant,Adventure
-104,Giant's Skewer,B,2.0,{1}{B},,,,"Equipped creature gets +2/+1.
+100,Foulmire Knight,B,1.0,{B},1.0,1.0,,Deathtouch,uncommon,Deathtouch,,Creature,"Zombie, Knight"
+101,Profane Insight,B,1.0,{2}{B},,,,You draw a card and you lose 1 life. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Instant,Adventure
+102,Giant's Skewer,B,2.0,{1}{B},,,,"Equipped creature gets +2/+1.
 Whenever equipped creature deals combat damage to a creature, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-105,Lash of Thorns,B,1.0,{B},,,,Target creature gets +2/+1 and gains deathtouch until end of turn.,common,,,Instant,
-106,Locthwain Paladin,B,4.0,{3}{B},3.0,2.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+103,Lash of Thorns,B,1.0,{B},,,,Target creature gets +2/+1 and gains deathtouch until end of turn.,common,,,Instant,
+104,Locthwain Paladin,B,4.0,{3}{B},3.0,2.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 Adamant — If at least three black mana was spent to cast this spell, Locthwain Paladin enters the battlefield with a +1/+1 counter on it.",common,"Adamant, Menace",,Creature,"Human, Knight"
-107,Lost Legion,B,3.0,{1}{B}{B},2.0,3.0,,"When Lost Legion enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,Scry,,Creature,"Spirit, Knight"
-108,Malevolent Noble,B,2.0,{1}{B},2.0,2.0,,"{2}, Sacrifice an artifact or another creature: Put a +1/+1 counter on Malevolent Noble.",common,,,Creature,"Human, Noble"
-109,Memory Theft,B,3.0,{2}{B},,,,Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may put a card that has an Adventure that player owns from exile into that player's graveyard.,common,,,Sorcery,
-110,Murderous Rider,B,3.0,{1}{B}{B},2.0,3.0,,"Lifelink
+105,Lost Legion,B,3.0,{1}{B}{B},2.0,3.0,,"When Lost Legion enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,Scry,,Creature,"Spirit, Knight"
+106,Malevolent Noble,B,2.0,{1}{B},2.0,2.0,,"{2}, Sacrifice an artifact or another creature: Put a +1/+1 counter on Malevolent Noble.",common,,,Creature,"Human, Noble"
+107,Memory Theft,B,3.0,{2}{B},,,,Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. You may put a card that has an Adventure that player owns from exile into that player's graveyard.,common,,,Sorcery,
+108,Murderous Rider,B,3.0,{1}{B}{B},2.0,3.0,,"Lifelink
 When Murderous Rider dies, put it on the bottom of its owner's library.",rare,Lifelink,,Creature,"Zombie, Knight"
-111,Swift End,B,3.0,{1}{B}{B},,,,Destroy target creature or planeswalker. You lose 2 life. (Then exile this card. You may cast the creature later from exile.),rare,,,Instant,Adventure
-112,Oathsworn Knight,B,3.0,{1}{B}{B},0.0,0.0,,"Oathsworn Knight enters the battlefield with four +1/+1 counters on it.
+109,Swift End,B,3.0,{1}{B}{B},,,,Destroy target creature or planeswalker. You lose 2 life. (Then exile this card. You may cast the creature later from exile.),rare,,,Instant,Adventure
+110,Oathsworn Knight,B,3.0,{1}{B}{B},0.0,0.0,,"Oathsworn Knight enters the battlefield with four +1/+1 counters on it.
 Oathsworn Knight attacks each combat if able.
 If damage would be dealt to Oathsworn Knight while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from it.",rare,,,Creature,"Human, Knight"
-113,Order of Midnight,B,2.0,{1}{B},2.0,2.0,,"Flying
+111,Order of Midnight,B,2.0,{1}{B},2.0,2.0,,"Flying
 Order of Midnight can't block.",uncommon,Flying,,Creature,"Human, Knight"
-114,Alter Fate,B,2.0,{1}{B},,,,Return target creature card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
-115,Piper of the Swarm,B,2.0,{1}{B},1.0,3.0,,"Rats you control have menace.
+112,Alter Fate,B,2.0,{1}{B},,,,Return target creature card from your graveyard to your hand. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
+113,Piper of the Swarm,B,2.0,{1}{B},1.0,3.0,,"Rats you control have menace.
 {1}{B}, {T}: Create a 1/1 black Rat creature token.
 {2}{B}{B}, {T}, Sacrifice three Rats: Gain control of target creature.",rare,,,Creature,"Human, Warlock"
-116,"Rankle, Master of Pranks",B,4.0,{2}{B}{B},3.0,3.0,,"Flying, haste
+114,"Rankle, Master of Pranks",B,4.0,{2}{B}{B},3.0,3.0,,"Flying, haste
 Whenever Rankle, Master of Pranks deals combat damage to a player, choose any number —
 • Each player discards a card.
 • Each player loses 1 life and draws a card.
 • Each player sacrifices a creature.",mythic,"Flying, Haste",Legendary,Creature,"Faerie, Rogue"
-117,Reaper of Night,B,7.0,{5}{B}{B},4.0,5.0,,"Whenever Reaper of Night attacks, if defending player has two or fewer cards in hand, it gains flying until end of turn.",common,,,Creature,Specter
-118,Harvest Fear,B,7.0,{3}{B},,,,Target opponent discards two cards. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
-119,Reave Soul,B,2.0,{1}{B},,,,Destroy target creature with power 3 or less.,common,,,Sorcery,
-120,Revenge of Ravens,B,4.0,{3}{B},,,,"Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life and you gain 1 life.",uncommon,,,Enchantment,
-121,Smitten Swordmaster,B,2.0,{1}{B},2.0,1.0,,Lifelink,common,Lifelink,,Creature,"Human, Knight"
-122,Curry Favor,B,2.0,{B},,,,"You gain X life and each opponent loses X life, where X is the number of Knights you control.",common,,,Sorcery,Adventure
-123,Specter's Shriek,B,1.0,{B},,,,"Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player exiles that card. If a nonblack card is exiled this way, exile a card from your hand.",uncommon,,,Sorcery,
-124,"Syr Konrad, the Grim",B,5.0,{3}{B}{B},5.0,4.0,,"Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad, the Grim deals 1 damage to each opponent.
+115,Reaper of Night,B,7.0,{5}{B}{B},4.0,5.0,,"Whenever Reaper of Night attacks, if defending player has two or fewer cards in hand, it gains flying until end of turn.",common,,,Creature,Specter
+116,Harvest Fear,B,7.0,{3}{B},,,,Target opponent discards two cards. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
+117,Reave Soul,B,2.0,{1}{B},,,,Destroy target creature with power 3 or less.,common,,,Sorcery,
+118,Revenge of Ravens,B,4.0,{3}{B},,,,"Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life and you gain 1 life.",uncommon,,,Enchantment,
+119,Smitten Swordmaster,B,2.0,{1}{B},2.0,1.0,,Lifelink,common,Lifelink,,Creature,"Human, Knight"
+120,Curry Favor,B,2.0,{B},,,,"You gain X life and each opponent loses X life, where X is the number of Knights you control.",common,,,Sorcery,Adventure
+121,Specter's Shriek,B,1.0,{B},,,,"Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player exiles that card. If a nonblack card is exiled this way, exile a card from your hand.",uncommon,,,Sorcery,
+122,"Syr Konrad, the Grim",B,5.0,{3}{B}{B},5.0,4.0,,"Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad, the Grim deals 1 damage to each opponent.
 {1}{B}: Each player mills a card.",uncommon,Mill,Legendary,Creature,"Human, Knight"
-125,Tempting Witch,B,3.0,{2}{B},1.0,3.0,,"When Tempting Witch enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+123,Tempting Witch,B,3.0,{2}{B},1.0,3.0,,"When Tempting Witch enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 {2}, {T}, Sacrifice a Food: Target player loses 3 life.",common,,,Creature,"Human, Warlock"
-126,Wicked Guardian,B,4.0,{3}{B},4.0,2.0,,"When Wicked Guardian enters the battlefield, you may have it deal 2 damage to another creature you control. If you do, draw a card.",common,,,Creature,"Human, Noble"
-127,Wishclaw Talisman,B,2.0,{1}{B},,,,"Wishclaw Talisman enters the battlefield with three wish counters on it.
+124,Wicked Guardian,B,4.0,{3}{B},4.0,2.0,,"When Wicked Guardian enters the battlefield, you may have it deal 2 damage to another creature you control. If you do, draw a card.",common,,,Creature,"Human, Noble"
+125,Wishclaw Talisman,B,2.0,{1}{B},,,,"Wishclaw Talisman enters the battlefield with three wish counters on it.
 {1}, {T}, Remove a wish counter from Wishclaw Talisman: Search your library for a card, put it into your hand, then shuffle. An opponent gains control of Wishclaw Talisman. Activate only during your turn.",rare,,,Artifact,
-128,Witch's Vengeance,B,3.0,{1}{B}{B},,,,Creatures of the creature type of your choice get -3/-3 until end of turn.,rare,,,Sorcery,
-129,Barge In,R,1.0,{R},,,,Target attacking creature gets +2/+2 until end of turn. Each attacking non-Human creature gains trample until end of turn.,common,,,Instant,
-130,Bloodhaze Wolverine,R,2.0,{1}{R},2.0,1.0,,"Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 and gains first strike until end of turn.",common,,,Creature,Wolverine
-131,Blow Your House Down,R,3.0,{2}{R},,,,Up to three target creatures can't block this turn. Destroy any of them that are Walls.,common,,,Sorcery,
-132,Bonecrusher Giant,R,3.0,{2}{R},4.0,3.0,,"Whenever Bonecrusher Giant becomes the target of a spell, Bonecrusher Giant deals 2 damage to that spell's controller.",rare,,,Creature,Giant
-133,Stomp,R,3.0,{1}{R},,,,Damage can't be prevented this turn. Stomp deals 2 damage to any target.,rare,,,Instant,Adventure
-134,Brimstone Trebuchet,R,3.0,{2}{R},1.0,3.0,,"Defender, reach
+126,Witch's Vengeance,B,3.0,{1}{B}{B},,,,Creatures of the creature type of your choice get -3/-3 until end of turn.,rare,,,Sorcery,
+127,Barge In,R,1.0,{R},,,,Target attacking creature gets +2/+2 until end of turn. Each attacking non-Human creature gains trample until end of turn.,common,,,Instant,
+128,Bloodhaze Wolverine,R,2.0,{1}{R},2.0,1.0,,"Whenever you draw your second card each turn, Bloodhaze Wolverine gets +1/+1 and gains first strike until end of turn.",common,,,Creature,Wolverine
+129,Blow Your House Down,R,3.0,{2}{R},,,,Up to three target creatures can't block this turn. Destroy any of them that are Walls.,common,,,Sorcery,
+130,Bonecrusher Giant,R,3.0,{2}{R},4.0,3.0,,"Whenever Bonecrusher Giant becomes the target of a spell, Bonecrusher Giant deals 2 damage to that spell's controller.",rare,,,Creature,Giant
+131,Stomp,R,3.0,{1}{R},,,,Damage can't be prevented this turn. Stomp deals 2 damage to any target.,rare,,,Instant,Adventure
+132,Brimstone Trebuchet,R,3.0,{2}{R},1.0,3.0,,"Defender, reach
 {T}: Brimstone Trebuchet deals 1 damage to each opponent.
 Whenever a Knight enters the battlefield under your control, untap Brimstone Trebuchet.",common,"Defender, Reach",,"Artifact, Creature",Wall
-135,Burning-Yard Trainer,R,5.0,{4}{R},3.0,3.0,,"Trample, haste
+133,Burning-Yard Trainer,R,5.0,{4}{R},3.0,3.0,,"Trample, haste
 When Burning-Yard Trainer enters the battlefield, another target Knight you control gets +2/+2 and gains trample and haste until end of turn.",uncommon,"Haste, Trample",,Creature,"Human, Knight"
-136,Claim the Firstborn,R,1.0,{R},,,,Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn.,uncommon,,,Sorcery,
-137,Crystal Slipper,R,2.0,{1}{R},,,,"Equipped creature gets +1/+0 and has haste.
+134,Claim the Firstborn,R,1.0,{R},,,,Gain control of target creature with mana value 3 or less until end of turn. Untap that creature. It gains haste until end of turn.,uncommon,,,Sorcery,
+135,Crystal Slipper,R,2.0,{1}{R},,,,"Equipped creature gets +1/+0 and has haste.
 Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-138,Embercleave,R,6.0,{4}{R}{R},,,,"Flash
+136,Embercleave,R,6.0,{4}{R}{R},,,,"Flash
 This spell costs {1} less to cast for each attacking creature you control.
 When Embercleave enters the battlefield, attach it to target creature you control.
 Equipped creature gets +1/+1 and has double strike and trample.
 Equip {3}",mythic,"Equip, Flash",Legendary,Artifact,Equipment
-139,Embereth Paladin,R,4.0,{3}{R},4.0,1.0,,"Haste
+137,Embereth Paladin,R,4.0,{3}{R},4.0,1.0,,"Haste
 Adamant — If at least three red mana was spent to cast this spell, Embereth Paladin enters the battlefield with a +1/+1 counter on it.",common,"Adamant, Haste",,Creature,"Human, Knight"
-140,Embereth Shieldbreaker,R,2.0,{1}{R},2.0,1.0,,,uncommon,,,Creature,"Human, Knight"
-141,Battle Display,R,2.0,{R},,,,Destroy target artifact. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
-142,Ferocity of the Wilds,R,3.0,{2}{R},,,,Attacking non-Human creatures you control get +1/+0 and have trample.,uncommon,,,Enchantment,
-143,Fervent Champion,R,1.0,{R},1.0,1.0,,"First strike, haste
+138,Embereth Shieldbreaker,R,2.0,{1}{R},2.0,1.0,,,uncommon,,,Creature,"Human, Knight"
+139,Battle Display,R,2.0,{R},,,,Destroy target artifact. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
+140,Ferocity of the Wilds,R,3.0,{2}{R},,,,Attacking non-Human creatures you control get +1/+0 and have trample.,uncommon,,,Enchantment,
+141,Fervent Champion,R,1.0,{R},1.0,1.0,,"First strike, haste
 Whenever Fervent Champion attacks, another target attacking Knight you control gets +1/+0 until end of turn.
 Equip abilities you activate that target Fervent Champion cost {3} less to activate.",rare,"First strike, Haste",,Creature,"Human, Knight"
-144,Fires of Invention,R,4.0,{3}{R},,,,"You can cast spells only during your turn and you can cast no more than two spells each turn.
+142,Fires of Invention,R,4.0,{3}{R},,,,"You can cast spells only during your turn and you can cast no more than two spells each turn.
 You may cast spells with mana value less than or equal to the number of lands you control without paying their mana costs.",rare,,,Enchantment,
-145,Fling,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, sacrifice a creature.
+143,Fling,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, sacrifice a creature.
 Fling deals damage equal to the sacrificed creature's power to any target.",common,,,Instant,
-146,Irencrag Feat,R,4.0,{1}{R}{R}{R},,,,Add seven {R}. You can cast only one more spell this turn.,rare,,,Sorcery,
-147,Irencrag Pyromancer,R,3.0,{2}{R},0.0,4.0,,"Whenever you draw your second card each turn, Irencrag Pyromancer deals 3 damage to any target.",rare,,,Creature,"Human, Wizard"
-148,Joust,R,2.0,{1}{R},,,,Choose target creature you control and target creature you don't control. The creature you control gets +2/+1 until end of turn if it's a Knight. Then those creatures fight each other. (Each deals damage equal to its power to the other.),uncommon,Fight,,Sorcery,
-149,Mad Ratter,R,4.0,{3}{R},1.0,2.0,,"Whenever you draw your second card each turn, create two 1/1 black Rat creature tokens.",uncommon,,,Creature,Goblin
-150,Merchant of the Vale,R,3.0,{2}{R},2.0,3.0,,"{2}{R}, Discard a card: Draw a card.",common,,,Creature,"Human, Peasant"
-151,Haggle,R,3.0,{R},,,,"You may discard a card. If you do, draw a card. (Then exile this card. You may cast the creature later from exile.)",common,,,Instant,Adventure
-152,Ogre Errant,R,4.0,{3}{R},3.0,4.0,,"Whenever Ogre Errant attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Ogre, Knight"
-153,Opportunistic Dragon,R,4.0,{2}{R}{R},4.0,3.0,,"Flying
+144,Irencrag Feat,R,4.0,{1}{R}{R}{R},,,,Add seven {R}. You can cast only one more spell this turn.,rare,,,Sorcery,
+145,Irencrag Pyromancer,R,3.0,{2}{R},0.0,4.0,,"Whenever you draw your second card each turn, Irencrag Pyromancer deals 3 damage to any target.",rare,,,Creature,"Human, Wizard"
+146,Joust,R,2.0,{1}{R},,,,Choose target creature you control and target creature you don't control. The creature you control gets +2/+1 until end of turn if it's a Knight. Then those creatures fight each other. (Each deals damage equal to its power to the other.),uncommon,Fight,,Sorcery,
+147,Mad Ratter,R,4.0,{3}{R},1.0,2.0,,"Whenever you draw your second card each turn, create two 1/1 black Rat creature tokens.",uncommon,,,Creature,Goblin
+148,Merchant of the Vale,R,3.0,{2}{R},2.0,3.0,,"{2}{R}, Discard a card: Draw a card.",common,,,Creature,"Human, Peasant"
+149,Haggle,R,3.0,{R},,,,"You may discard a card. If you do, draw a card. (Then exile this card. You may cast the creature later from exile.)",common,,,Instant,Adventure
+150,Ogre Errant,R,4.0,{3}{R},3.0,4.0,,"Whenever Ogre Errant attacks, another target attacking Knight gains menace until end of turn. (It can't be blocked except by two or more creatures.)",common,,,Creature,"Ogre, Knight"
+151,Opportunistic Dragon,R,4.0,{2}{R}{R},4.0,3.0,,"Flying
 When Opportunistic Dragon enters the battlefield, choose target Human or artifact an opponent controls. For as long as Opportunistic Dragon remains on the battlefield, gain control of that permanent, it loses all abilities, and it can't attack or block.",rare,Flying,,Creature,Dragon
-154,Raging Redcap,R,3.0,{2}{R},1.0,2.0,,Double strike,common,Double strike,,Creature,"Goblin, Knight"
-155,Redcap Melee,R,1.0,{R},,,,"Redcap Melee deals 4 damage to target creature or planeswalker. If a nonred permanent is dealt damage this way, you sacrifice a land.",uncommon,,,Instant,
-156,Redcap Raiders,R,3.0,{2}{R},3.0,2.0,,"Whenever Redcap Raiders attacks, you may tap an untapped non-Human creature you control. If you do, Redcap Raiders gets +1/+1 and gains trample until end of turn.",common,,,Creature,"Goblin, Warrior"
-157,Rimrock Knight,R,2.0,{1}{R},3.0,1.0,,Rimrock Knight can't block.,common,,,Creature,"Dwarf, Knight"
-158,Boulder Rush,R,2.0,{R},,,,Target creature gets +2/+0 until end of turn. (Then exile this card. You may cast the creature later from exile.),common,,,Instant,Adventure
-159,Robber of the Rich,R,2.0,{1}{R},2.0,2.0,,"Reach, haste
+152,Raging Redcap,R,3.0,{2}{R},1.0,2.0,,Double strike,common,Double strike,,Creature,"Goblin, Knight"
+153,Redcap Melee,R,1.0,{R},,,,"Redcap Melee deals 4 damage to target creature or planeswalker. If a nonred permanent is dealt damage this way, you sacrifice a land.",uncommon,,,Instant,
+154,Redcap Raiders,R,3.0,{2}{R},3.0,2.0,,"Whenever Redcap Raiders attacks, you may tap an untapped non-Human creature you control. If you do, Redcap Raiders gets +1/+1 and gains trample until end of turn.",common,,,Creature,"Goblin, Warrior"
+155,Rimrock Knight,R,2.0,{1}{R},3.0,1.0,,Rimrock Knight can't block.,common,,,Creature,"Dwarf, Knight"
+156,Boulder Rush,R,2.0,{R},,,,Target creature gets +2/+0 until end of turn. (Then exile this card. You may cast the creature later from exile.),common,,,Instant,Adventure
+157,Robber of the Rich,R,2.0,{1}{R},2.0,2.0,,"Reach, haste
 Whenever Robber of the Rich attacks, if defending player has more cards in hand than you, exile the top card of their library. During any turn you attacked with a Rogue, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.",mythic,"Haste, Reach",,Creature,"Human, Archer, Rogue"
-160,Scorching Dragonfire,R,2.0,{1}{R},,,,"Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",common,,,Instant,
-161,Searing Barrage,R,5.0,{4}{R},,,,"Searing Barrage deals 5 damage to target creature.
+158,Scorching Dragonfire,R,2.0,{1}{R},,,,"Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.",common,,,Instant,
+159,Searing Barrage,R,5.0,{4}{R},,,,"Searing Barrage deals 5 damage to target creature.
 Adamant — If at least three red mana was spent to cast this spell, Searing Barrage deals 3 damage to that creature's controller.",common,Adamant,,Instant,
-162,Seven Dwarves,R,2.0,{1}{R},2.0,2.0,,"Seven Dwarves gets +1/+1 for each other creature named Seven Dwarves you control.
+160,Seven Dwarves,R,2.0,{1}{R},2.0,2.0,,"Seven Dwarves gets +1/+1 for each other creature named Seven Dwarves you control.
 A deck can have up to seven cards named Seven Dwarves.",common,,,Creature,Dwarf
-163,Skullknocker Ogre,R,4.0,{3}{R},4.0,3.0,,"Whenever Skullknocker Ogre deals damage to an opponent, that player discards a card at random. If the player does, they draw a card.",uncommon,,,Creature,Ogre
-164,Slaying Fire,R,3.0,{2}{R},,,,"Slaying Fire deals 3 damage to any target.
+161,Skullknocker Ogre,R,4.0,{3}{R},4.0,3.0,,"Whenever Skullknocker Ogre deals damage to an opponent, that player discards a card at random. If the player does, they draw a card.",uncommon,,,Creature,Ogre
+162,Slaying Fire,R,3.0,{2}{R},,,,"Slaying Fire deals 3 damage to any target.
 Adamant — If at least three red mana was spent to cast this spell, it deals 4 damage instead.",uncommon,Adamant,,Instant,
-165,Sundering Stroke,R,7.0,{6}{R},,,,"Sundering Stroke deals 7 damage divided as you choose among one, two, or three targets. If at least seven red mana was spent to cast this spell, instead Sundering Stroke deals 7 damage to each of those permanents and/or players.",rare,,,Sorcery,
-166,"Syr Carah, the Bold",R,5.0,{3}{R}{R},3.0,3.0,,"Whenever Syr Carah, the Bold or an instant or sorcery spell you control deals damage to a player, exile the top card of your library. You may play that card this turn.
+163,Sundering Stroke,R,7.0,{6}{R},,,,"Sundering Stroke deals 7 damage divided as you choose among one, two, or three targets. If at least seven red mana was spent to cast this spell, instead Sundering Stroke deals 7 damage to each of those permanents and/or players.",rare,,,Sorcery,
+164,"Syr Carah, the Bold",R,5.0,{3}{R}{R},3.0,3.0,,"Whenever Syr Carah, the Bold or an instant or sorcery spell you control deals damage to a player, exile the top card of your library. You may play that card this turn.
 {T}: Syr Carah deals 1 damage to any target.",uncommon,,Legendary,Creature,"Human, Knight"
-167,Thrill of Possibility,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard a card.
+165,Thrill of Possibility,R,2.0,{1}{R},,,,"As an additional cost to cast this spell, discard a card.
 Draw two cards.",common,,,Instant,
-168,"Torbran, Thane of Red Fell",R,4.0,{1}{R}{R}{R},2.0,4.0,,"If a red source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.",rare,,Legendary,Creature,"Dwarf, Noble"
-169,Weaselback Redcap,R,1.0,{R},1.0,1.0,,{1}{R}: Weaselback Redcap gets +2/+0 until end of turn.,common,,,Creature,"Goblin, Knight"
-170,Beanstalk Giant,G,7.0,{6}{G},,,,Beanstalk Giant's power and toughness are each equal to the number of lands you control.,uncommon,,,Creature,Giant
-171,Fertile Footsteps,G,7.0,{2}{G},,,,"Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)",uncommon,,,Sorcery,Adventure
-172,Curious Pair,G,2.0,{1}{G},1.0,3.0,,,common,,,Creature,"Human, Peasant"
-173,Treats to Share,G,2.0,{G},,,,"Create a Food token. (Then exile this card. You may cast the creature later from exile. A Food token is an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Sorcery,Adventure
-174,Edgewall Innkeeper,G,1.0,{G},1.0,1.0,,"Whenever you cast a creature spell that has an Adventure, draw a card. (It doesn't need to have gone on the adventure first.)",uncommon,,,Creature,"Human, Peasant"
-175,Feasting Troll King,G,6.0,{2}{G}{G}{G}{G},7.0,6.0,,"Vigilance, trample
+166,"Torbran, Thane of Red Fell",R,4.0,{1}{R}{R}{R},2.0,4.0,,"If a red source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.",rare,,Legendary,Creature,"Dwarf, Noble"
+167,Weaselback Redcap,R,1.0,{R},1.0,1.0,,{1}{R}: Weaselback Redcap gets +2/+0 until end of turn.,common,,,Creature,"Goblin, Knight"
+168,Beanstalk Giant,G,7.0,{6}{G},,,,Beanstalk Giant's power and toughness are each equal to the number of lands you control.,uncommon,,,Creature,Giant
+169,Fertile Footsteps,G,7.0,{2}{G},,,,"Search your library for a basic land card, put it onto the battlefield, then shuffle. (Then exile this card. You may cast the creature later from exile.)",uncommon,,,Sorcery,Adventure
+170,Curious Pair,G,2.0,{1}{G},1.0,3.0,,,common,,,Creature,"Human, Peasant"
+171,Treats to Share,G,2.0,{G},,,,"Create a Food token. (Then exile this card. You may cast the creature later from exile. A Food token is an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Sorcery,Adventure
+172,Edgewall Innkeeper,G,1.0,{G},1.0,1.0,,"Whenever you cast a creature spell that has an Adventure, draw a card. (It doesn't need to have gone on the adventure first.)",uncommon,,,Creature,"Human, Peasant"
+173,Feasting Troll King,G,6.0,{2}{G}{G}{G}{G},7.0,6.0,,"Vigilance, trample
 When Feasting Troll King enters the battlefield, if you cast it from your hand, create three Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 Sacrifice three Foods: Return Feasting Troll King from your graveyard to the battlefield. Activate only during your turn.",rare,"Trample, Vigilance",,Creature,"Troll, Noble"
-176,Fell the Pheasant,G,2.0,{1}{G},,,,"Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Instant,
-177,Fierce Witchstalker,G,4.0,{2}{G}{G},4.0,4.0,,"Trample
+174,Fell the Pheasant,G,2.0,{1}{G},,,,"Fell the Pheasant deals 5 damage to target creature with flying. Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Instant,
+175,Fierce Witchstalker,G,4.0,{2}{G}{G},4.0,4.0,,"Trample
 When Fierce Witchstalker enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,Trample,,Creature,Wolf
-178,Flaxen Intruder,G,1.0,{G},1.0,2.0,,"Whenever Flaxen Intruder deals combat damage to a player, you may sacrifice it. When you do, destroy target artifact or enchantment.",uncommon,,,Creature,"Human, Berserker"
-179,Welcome Home,G,1.0,{5}{G}{G},,,,Create three 2/2 green Bear creature tokens. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
-180,Garenbrig Carver,G,4.0,{3}{G},3.0,2.0,,,common,,,Creature,"Human, Warrior"
-181,Shield's Might,G,4.0,{1}{G},,,,Target creature gets +2/+2 until end of turn. (Then exile this card. You may cast the creature later from exile.),common,,,Instant,Adventure
-182,Garenbrig Paladin,G,5.0,{4}{G},4.0,4.0,,"Adamant — If at least three green mana was spent to cast this spell, Garenbrig Paladin enters the battlefield with a +1/+1 counter on it.
+176,Flaxen Intruder,G,1.0,{G},1.0,2.0,,"Whenever Flaxen Intruder deals combat damage to a player, you may sacrifice it. When you do, destroy target artifact or enchantment.",uncommon,,,Creature,"Human, Berserker"
+177,Welcome Home,G,1.0,{5}{G}{G},,,,Create three 2/2 green Bear creature tokens. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
+178,Garenbrig Carver,G,4.0,{3}{G},3.0,2.0,,,common,,,Creature,"Human, Warrior"
+179,Shield's Might,G,4.0,{1}{G},,,,Target creature gets +2/+2 until end of turn. (Then exile this card. You may cast the creature later from exile.),common,,,Instant,Adventure
+180,Garenbrig Paladin,G,5.0,{4}{G},4.0,4.0,,"Adamant — If at least three green mana was spent to cast this spell, Garenbrig Paladin enters the battlefield with a +1/+1 counter on it.
 Garenbrig Paladin can't be blocked by creatures with power 2 or less.",common,Adamant,,Creature,"Giant, Knight"
-183,Garenbrig Squire,G,2.0,{1}{G},2.0,2.0,,"Whenever you cast a creature spell that has an Adventure, Garenbrig Squire gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure first.)",common,,,Creature,"Human, Soldier"
-184,Giant Opportunity,G,3.0,{2}{G},,,,"You may sacrifice two Foods. If you do, create a 7/7 green Giant creature token. Otherwise, create three Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,,,Sorcery,
-185,Gilded Goose,G,1.0,{G},0.0,2.0,,"Flying
+181,Garenbrig Squire,G,2.0,{1}{G},2.0,2.0,,"Whenever you cast a creature spell that has an Adventure, Garenbrig Squire gets +1/+1 until end of turn. (It doesn't need to have gone on the adventure first.)",common,,,Creature,"Human, Soldier"
+182,Giant Opportunity,G,3.0,{2}{G},,,,"You may sacrifice two Foods. If you do, create a 7/7 green Giant creature token. Otherwise, create three Food tokens. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,,,Sorcery,
+183,Gilded Goose,G,1.0,{G},0.0,2.0,,"Flying
 When Gilded Goose enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 {1}{G}, {T}: Create a Food token.
 {T}, Sacrifice a Food: Add one mana of any color.",rare,Flying,,Creature,Bird
-186,The Great Henge,G,9.0,{7}{G}{G},,,,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+184,The Great Henge,G,9.0,{7}{G}{G},,,,"This spell costs {X} less to cast, where X is the greatest power among creatures you control.
 {T}: Add {G}{G}. You gain 2 life.
 Whenever a nontoken creature enters the battlefield under your control, put a +1/+1 counter on it and draw a card.",mythic,,Legendary,Artifact,
-187,Insatiable Appetite,G,2.0,{1}{G},,,,"You may sacrifice a Food. If you do, target creature gets +5/+5 until end of turn. Otherwise, that creature gets +3/+3 until end of turn.",common,,,Instant,
-188,Keeper of Fables,G,5.0,{3}{G}{G},4.0,5.0,,"Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.",uncommon,,,Creature,Cat
-189,Kenrith's Transformation,G,2.0,{1}{G},,,,"Enchant creature
+185,Insatiable Appetite,G,2.0,{1}{G},,,,"You may sacrifice a Food. If you do, target creature gets +5/+5 until end of turn. Otherwise, that creature gets +3/+3 until end of turn.",common,,,Instant,
+186,Keeper of Fables,G,5.0,{3}{G}{G},4.0,5.0,,"Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card.",uncommon,,,Creature,Cat
+187,Kenrith's Transformation,G,2.0,{1}{G},,,,"Enchant creature
 When Kenrith's Transformation enters the battlefield, draw a card.
 Enchanted creature loses all abilities and is a green Elk creature with base power and toughness 3/3. (It loses all other card types and creature types.)",uncommon,Enchant,,Enchantment,Aura
-190,Lovestruck Beast,G,3.0,{2}{G},5.0,5.0,,Lovestruck Beast can't attack unless you control a 1/1 creature.,rare,,,Creature,"Beast, Noble"
-191,Heart's Desire,G,3.0,{G},,,,Create a 1/1 white Human creature token. (Then exile this card. You may cast the creature later from exile.),rare,,,Sorcery,Adventure
-192,Maraleaf Rider,G,2.0,{1}{G},3.0,1.0,,Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able.,common,,,Creature,"Elf, Knight"
-193,Oakhame Adversary,G,4.0,{3}{G},2.0,3.0,,"This spell costs {2} less to cast if an opponent controls a green permanent.
+188,Lovestruck Beast,G,3.0,{2}{G},5.0,5.0,,Lovestruck Beast can't attack unless you control a 1/1 creature.,rare,,,Creature,"Beast, Noble"
+189,Heart's Desire,G,3.0,{G},,,,Create a 1/1 white Human creature token. (Then exile this card. You may cast the creature later from exile.),rare,,,Sorcery,Adventure
+190,Maraleaf Rider,G,2.0,{1}{G},3.0,1.0,,Sacrifice a Food: Target creature blocks Maraleaf Rider this turn if able.,common,,,Creature,"Elf, Knight"
+191,Oakhame Adversary,G,4.0,{3}{G},2.0,3.0,,"This spell costs {2} less to cast if an opponent controls a green permanent.
 Deathtouch
 Whenever Oakhame Adversary deals combat damage to a player, draw a card.",uncommon,Deathtouch,,Creature,"Elf, Warrior"
-194,Once and Future,G,4.0,{3}{G},,,,"Return target card from your graveyard to your hand. Put up to one other target card from your graveyard on top of your library. Exile Once and Future.
+192,Once and Future,G,4.0,{3}{G},,,,"Return target card from your graveyard to your hand. Put up to one other target card from your graveyard on top of your library. Exile Once and Future.
 Adamant — If at least three green mana was spent to cast this spell, instead return those cards to your hand and exile Once and Future.",uncommon,Adamant,,Instant,
-195,Once Upon a Time,G,2.0,{1}{G},,,,"If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.
+193,Once Upon a Time,G,2.0,{1}{G},,,,"If this spell is the first spell you've cast this game, you may cast it without paying its mana cost.
 Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",rare,,,Instant,
-196,Outmuscle,G,4.0,{3}{G},,,,"Put a +1/+1 counter on target creature you control, then it fights target creature you don't control. (Each deals damage equal to its power to the other.)
+194,Outmuscle,G,4.0,{3}{G},,,,"Put a +1/+1 counter on target creature you control, then it fights target creature you don't control. (Each deals damage equal to its power to the other.)
 Adamant — If at least three green mana was spent to cast this spell, the creature you control gains indestructible until end of turn.",common,"Adamant, Fight",,Sorcery,
-197,Questing Beast,G,4.0,{2}{G}{G},4.0,4.0,,"Vigilance, deathtouch, haste
+195,Questing Beast,G,4.0,{2}{G}{G},4.0,4.0,,"Vigilance, deathtouch, haste
 Questing Beast can't be blocked by creatures with power 2 or less.
 Combat damage that would be dealt by creatures you control can't be prevented.
 Whenever Questing Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.",mythic,"Deathtouch, Haste, Vigilance",Legendary,Creature,Beast
-198,Return of the Wildspeaker,G,5.0,{4}{G},,,,"Choose one —
+196,Return of the Wildspeaker,G,5.0,{4}{G},,,,"Choose one —
 • Draw cards equal to the greatest power among non-Human creatures you control.
 • Non-Human creatures you control get +3/+3 until end of turn.",rare,,,Instant,
-199,Return to Nature,G,2.0,{1}{G},,,,"Choose one —
+197,Return to Nature,G,2.0,{1}{G},,,,"Choose one —
 • Destroy target artifact.
 • Destroy target enchantment.
 • Exile target card from a graveyard.",common,,,Instant,
-200,Rosethorn Acolyte,G,3.0,{2}{G},2.0,3.0,,{T}: Add one mana of any color.,common,,,Creature,"Elf, Druid"
-201,Seasonal Ritual,G,3.0,{G},,,,Add one mana of any color. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
-202,Rosethorn Halberd,G,1.0,{G},,,,"When Rosethorn Halberd enters the battlefield, attach it to target non-Human creature you control.
+198,Rosethorn Acolyte,G,3.0,{2}{G},2.0,3.0,,{T}: Add one mana of any color.,common,,,Creature,"Elf, Druid"
+199,Seasonal Ritual,G,3.0,{G},,,,Add one mana of any color. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
+200,Rosethorn Halberd,G,1.0,{G},,,,"When Rosethorn Halberd enters the battlefield, attach it to target non-Human creature you control.
 Equipped creature gets +2/+1.
 Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",common,Equip,,Artifact,Equipment
-203,Sporecap Spider,G,3.0,{2}{G},1.0,5.0,,Reach,common,Reach,,Creature,Spider
-204,"Syr Faren, the Hengehammer",G,2.0,{G}{G},2.0,2.0,,"Whenever Syr Faren, the Hengehammer attacks, another target attacking creature gets +X/+X until end of turn, where X is Syr Faren's power.",uncommon,,Legendary,Creature,"Human, Knight"
-205,Tall as a Beanstalk,G,4.0,{3}{G},,,,"Enchant creature
+201,Sporecap Spider,G,3.0,{2}{G},1.0,5.0,,Reach,common,Reach,,Creature,Spider
+202,"Syr Faren, the Hengehammer",G,2.0,{G}{G},2.0,2.0,,"Whenever Syr Faren, the Hengehammer attacks, another target attacking creature gets +X/+X until end of turn, where X is Syr Faren's power.",uncommon,,Legendary,Creature,"Human, Knight"
+203,Tall as a Beanstalk,G,4.0,{3}{G},,,,"Enchant creature
 Enchanted creature gets +3/+3, has reach, and is a Giant in addition to its other types.",common,Enchant,,Enchantment,Aura
-206,Trail of Crumbs,G,2.0,{1}{G},,,,"When Trail of Crumbs enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+204,Trail of Crumbs,G,2.0,{1}{G},,,,"When Trail of Crumbs enters the battlefield, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 Whenever you sacrifice a Food, you may pay {1}. If you do, look at the top two cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",uncommon,,,Enchantment,
-207,Tuinvale Treefolk,G,6.0,{5}{G},6.0,5.0,,,common,,,Creature,"Treefolk, Druid"
-208,Oaken Boon,G,6.0,{3}{G},,,,Put two +1/+1 counters on target creature. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
-209,Wicked Wolf,G,4.0,{2}{G}{G},3.0,3.0,,"When Wicked Wolf enters the battlefield, it fights up to one target creature you don't control.
+205,Tuinvale Treefolk,G,6.0,{5}{G},6.0,5.0,,,common,,,Creature,"Treefolk, Druid"
+206,Oaken Boon,G,6.0,{3}{G},,,,Put two +1/+1 counters on target creature. (Then exile this card. You may cast the creature later from exile.),common,,,Sorcery,Adventure
+207,Wicked Wolf,G,4.0,{2}{G}{G},3.0,3.0,,"When Wicked Wolf enters the battlefield, it fights up to one target creature you don't control.
 Sacrifice a Food: Put a +1/+1 counter on Wicked Wolf. It gains indestructible until end of turn. Tap it.",rare,Fight,,Creature,Wolf
-210,Wildborn Preserver,G,2.0,{1}{G},2.0,2.0,,"Flash
+208,Wildborn Preserver,G,2.0,{1}{G},2.0,2.0,,"Flash
 Reach
 Whenever another non-Human creature enters the battlefield under your control, you may pay {X}. When you do, put X +1/+1 counters on Wildborn Preserver.",rare,"Flash, Reach",,Creature,"Elf, Archer"
-211,Wildwood Tracker,G,1.0,{G},1.0,1.0,,"Whenever Wildwood Tracker attacks or blocks, if you control another non-Human creature, Wildwood Tracker gets +1/+1 until end of turn.",common,,,Creature,"Elf, Warrior"
-212,Wolf's Quarry,G,6.0,{4}{G}{G},,,,"Create three 1/1 green Boar creature tokens with ""When this creature dies, create a Food token."" (A Food token is an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Sorcery,
-213,"Yorvo, Lord of Garenbrig",G,3.0,{G}{G}{G},0.0,0.0,,"Yorvo, Lord of Garenbrig enters the battlefield with four +1/+1 counters on it.
+209,Wildwood Tracker,G,1.0,{G},1.0,1.0,,"Whenever Wildwood Tracker attacks or blocks, if you control another non-Human creature, Wildwood Tracker gets +1/+1 until end of turn.",common,,,Creature,"Elf, Warrior"
+210,Wolf's Quarry,G,6.0,{4}{G}{G},,,,"Create three 1/1 green Boar creature tokens with ""When this creature dies, create a Food token."" (A Food token is an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Sorcery,
+211,"Yorvo, Lord of Garenbrig",G,3.0,{G}{G}{G},0.0,0.0,,"Yorvo, Lord of Garenbrig enters the battlefield with four +1/+1 counters on it.
 Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on Yorvo. Then if that creature's power is greater than Yorvo's power, put another +1/+1 counter on Yorvo.",rare,,Legendary,Creature,"Giant, Noble"
-214,Dance of the Manse,"U, W",2.0,{X}{W}{U},,,,"Return up to X target artifact and/or non-Aura enchantment cards each with mana value X or less from your graveyard to the battlefield. If X is 6 or more, those permanents are 4/4 creatures in addition to their other types.",rare,,,Sorcery,
-215,Doom Foretold,"B, W",4.0,{2}{W}{B},,,,"At the beginning of each player's upkeep, that player sacrifices a nonland, nontoken permanent. If that player can't, they discard a card, they lose 2 life, you draw a card, you gain 2 life, you create a 2/2 white Knight creature token with vigilance, then you sacrifice Doom Foretold.",rare,,,Enchantment,
-216,Drown in the Loch,"B, U",2.0,{U}{B},,,,"Choose one —
+212,Doom Foretold,"B, W",4.0,{2}{W}{B},,,,"At the beginning of each player's upkeep, that player sacrifices a nonland, nontoken permanent. If that player can't, they discard a card, they lose 2 life, you draw a card, you gain 2 life, you create a 2/2 white Knight creature token with vigilance, then you sacrifice Doom Foretold.",rare,,,Enchantment,
+213,Drown in the Loch,"B, U",2.0,{U}{B},,,,"Choose one —
 • Counter target spell with mana value less than or equal to the number of cards in its controller's graveyard.
 • Destroy target creature with mana value less than or equal to the number of cards in its controller's graveyard.",uncommon,,,Instant,
-217,Escape to the Wilds,"G, R",5.0,{3}{R}{G},,,,"Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.
+214,Escape to the Wilds,"G, R",5.0,{3}{R}{G},,,,"Exile the top five cards of your library. You may play cards exiled this way until the end of your next turn.
 You may play an additional land this turn.",rare,,,Sorcery,
-218,Faeburrow Elder,"G, W",3.0,{1}{G}{W},0.0,0.0,,"Vigilance
+215,Faeburrow Elder,"G, W",3.0,{1}{G}{W},0.0,0.0,,"Vigilance
 Faeburrow Elder gets +1/+1 for each color among permanents you control.
 {T}: For each color among permanents you control, add one mana of that color.",rare,Vigilance,,Creature,"Treefolk, Druid"
-219,"Garruk, Cursed Huntsman","B, G",6.0,{4}{B}{G},,,5.0,"[0]: Create two 2/2 black and green Wolf creature tokens with ""When this creature dies, put a loyalty counter on each Garruk you control.""
+216,"Garruk, Cursed Huntsman","B, G",6.0,{4}{B}{G},,,5.0,"[0]: Create two 2/2 black and green Wolf creature tokens with ""When this creature dies, put a loyalty counter on each Garruk you control.""
 [−3]: Destroy target creature. Draw a card.
 [−6]: You get an emblem with ""Creatures you control get +3/+3 and have trample.""",mythic,,Legendary,Planeswalker,Garruk
-220,"Grumgully, the Generous","G, R",3.0,{1}{R}{G},3.0,3.0,,Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it.,uncommon,,Legendary,Creature,"Goblin, Shaman"
-221,Improbable Alliance,"R, U",2.0,{U}{R},,,,"Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.
+217,"Grumgully, the Generous","G, R",3.0,{1}{R}{G},3.0,3.0,,Each other non-Human creature you control enters the battlefield with an additional +1/+1 counter on it.,uncommon,,Legendary,Creature,"Goblin, Shaman"
+218,Improbable Alliance,"R, U",2.0,{U}{R},,,,"Whenever you draw your second card each turn, create a 1/1 blue Faerie creature token with flying.
 {4}{U}{R}: Draw a card, then discard a card.",uncommon,,,Enchantment,
-222,Inspiring Veteran,"R, W",2.0,{R}{W},2.0,2.0,,Other Knights you control get +1/+1.,uncommon,,,Creature,"Human, Knight"
-223,Lochmere Serpent,"B, U",6.0,{4}{U}{B},7.0,7.0,,"Flash
+219,Inspiring Veteran,"R, W",2.0,{R}{W},2.0,2.0,,Other Knights you control get +1/+1.,uncommon,,,Creature,"Human, Knight"
+220,Lochmere Serpent,"B, U",6.0,{4}{U}{B},7.0,7.0,,"Flash
 {U}, Sacrifice an Island: Lochmere Serpent can't be blocked this turn.
 {B}, Sacrifice a Swamp: You gain 1 life and draw a card.
 {U}{B}: Exile five target cards from an opponent's graveyard. Return Lochmere Serpent from your graveyard to your hand. Activate only as a sorcery.",rare,Flash,,Creature,Serpent
-224,Maraleaf Pixie,"G, U",2.0,{G}{U},2.0,2.0,,"Flying
+221,Maraleaf Pixie,"G, U",2.0,{G}{U},2.0,2.0,,"Flying
 {T}: Add {G} or {U}.",uncommon,Flying,,Creature,Faerie
-225,"Oko, Thief of Crowns","G, U",3.0,{1}{G}{U},,,4.0,"[+2]: Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+222,"Oko, Thief of Crowns","G, U",3.0,{1}{G}{U},,,4.0,"[+2]: Create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 [+1]: Target artifact or creature loses all abilities and becomes a green Elk creature with base power and toughness 3/3.
 [−5]: Exchange control of target artifact or creature you control and target creature an opponent controls with power 3 or less.",mythic,,Legendary,Planeswalker,Oko
-226,Outlaws' Merriment,"R, W",4.0,{1}{R}{W}{W},,,,"At the beginning of your upkeep, choose one at random. Create a red and white creature token with those characteristics.
+223,Outlaws' Merriment,"R, W",4.0,{1}{R}{W}{W},,,,"At the beginning of your upkeep, choose one at random. Create a red and white creature token with those characteristics.
 • 3/1 Human Warrior with trample and haste.
 • 2/1 Human Cleric with lifelink and haste.
 • 1/2 Human Rogue with haste and ""When this creature enters the battlefield, it deals 1 damage to any target.""",mythic,,,Enchantment,
-227,The Royal Scions,"R, U",3.0,{1}{U}{R},,,5.0,"[+1]: Draw a card, then discard a card.
+224,The Royal Scions,"R, U",3.0,{1}{U}{R},,,5.0,"[+1]: Draw a card, then discard a card.
 [+1]: Target creature gets +2/+0 and gains first strike and trample until end of turn.
 [−8]: Draw four cards. When you do, The Royal Scions deals damage to any target equal to the number of cards in your hand.",mythic,,Legendary,Planeswalker,"Will, Rowan"
-228,Savvy Hunter,"B, G",3.0,{1}{B}{G},3.0,3.0,,"Whenever Savvy Hunter attacks or blocks, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
+225,Savvy Hunter,"B, G",3.0,{1}{B}{G},3.0,3.0,,"Whenever Savvy Hunter attacks or blocks, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")
 Sacrifice two Foods: Draw a card.",uncommon,,,Creature,"Human, Warrior"
-229,Shinechaser,"U, W",3.0,{1}{W}{U},1.0,1.0,,"Flying, vigilance
+226,Shinechaser,"U, W",3.0,{1}{W}{U},1.0,1.0,,"Flying, vigilance
 Shinechaser gets +1/+1 as long as you control an artifact.
 Shinechaser gets +1/+1 as long as you control an enchantment.",uncommon,"Flying, Vigilance",,Creature,Faerie
-230,Steelclaw Lance,"B, R",2.0,{B}{R},,,,"Equipped creature gets +2/+2.
+227,Steelclaw Lance,"B, R",2.0,{B}{R},,,,"Equipped creature gets +2/+2.
 Equip Knight {1}
 Equip {3}",uncommon,Equip,,Artifact,Equipment
-231,Stormfist Crusader,"B, R",2.0,{B}{R},2.0,2.0,,"Menace
+228,Stormfist Crusader,"B, R",2.0,{B}{R},2.0,2.0,,"Menace
 At the beginning of your upkeep, each player draws a card and loses 1 life.",rare,Menace,,Creature,"Human, Knight"
-232,Wandermare,"G, W",3.0,{1}{G}{W},3.0,3.0,,"Whenever you cast a creature spell that has an Adventure, put a +1/+1 counter on Wandermare. (It doesn't need to have gone on the adventure first.)",uncommon,,,Creature,Horse
-233,Wintermoor Commander,"B, W",2.0,{W}{B},2.0,,,"Deathtouch
+229,Wandermare,"G, W",3.0,{1}{G}{W},3.0,3.0,,"Whenever you cast a creature spell that has an Adventure, put a +1/+1 counter on Wandermare. (It doesn't need to have gone on the adventure first.)",uncommon,,,Creature,Horse
+230,Wintermoor Commander,"B, W",2.0,{W}{B},2.0,,,"Deathtouch
 Wintermoor Commander's toughness is equal to the number of Knights you control.
 Whenever Wintermoor Commander attacks, another target Knight you control gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,Deathtouch,,Creature,"Human, Knight"
-234,Arcanist's Owl,"U, W",4.0,{W/U}{W/U}{W/U}{W/U},3.0,3.0,,"Flying
+231,Arcanist's Owl,"U, W",4.0,{W/U}{W/U}{W/U}{W/U},3.0,3.0,,"Flying
 When Arcanist's Owl enters the battlefield, look at the top four cards of your library. You may reveal an artifact or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",uncommon,Flying,,"Artifact, Creature",Bird
-235,Covetous Urge,"B, U",4.0,{U/B}{U/B}{U/B}{U/B},,,,"Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.",uncommon,,,Sorcery,
-236,Deathless Knight,"B, G",4.0,{B/G}{B/G}{B/G}{B/G},4.0,2.0,,"Haste
+232,Covetous Urge,"B, U",4.0,{U/B}{U/B}{U/B}{U/B},,,,"Target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.",uncommon,,,Sorcery,
+233,Deathless Knight,"B, G",4.0,{B/G}{B/G}{B/G}{B/G},4.0,2.0,,"Haste
 When you gain life for the first time each turn, return Deathless Knight from your graveyard to your hand.",uncommon,Haste,,Creature,"Skeleton, Knight"
-237,Elite Headhunter,"B, R",4.0,{B/R}{B/R}{B/R}{B/R},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
+234,Elite Headhunter,"B, R",4.0,{B/R}{B/R}{B/R}{B/R},2.0,3.0,,"Menace (This creature can't be blocked except by two or more creatures.)
 {B/R}{B/R}{B/R}, Sacrifice another creature or an artifact: Elite Headhunter deals 2 damage to target creature or planeswalker.",uncommon,Menace,,Creature,"Human, Knight"
-238,Fireborn Knight,"R, W",4.0,{R/W}{R/W}{R/W}{R/W},2.0,3.0,,"Double strike
+235,Fireborn Knight,"R, W",4.0,{R/W}{R/W}{R/W}{R/W},2.0,3.0,,"Double strike
 {R/W}{R/W}{R/W}{R/W}: Fireborn Knight gets +1/+1 until end of turn.",uncommon,Double strike,,Creature,"Human, Knight"
-239,Loch Dragon,"R, U",4.0,{U/R}{U/R}{U/R}{U/R},3.0,2.0,,"Flying
+236,Loch Dragon,"R, U",4.0,{U/R}{U/R}{U/R}{U/R},3.0,2.0,,"Flying
 Whenever Loch Dragon enters the battlefield or attacks, you may discard a card. If you do, draw a card.",uncommon,Flying,,Creature,Dragon
-240,Oakhame Ranger,"W, G",4.0,{G/W}{G/W}{G/W}{G/W},2.0,2.0,,{T}: Creatures you control get +1/+1 until end of turn.,uncommon,,,Creature,"Elf, Knight, Ranger"
-241,Bring Back,"W, G",4.0,{G/W}{G/W}{G/W}{G/W},,,,Create two 1/1 white Human creature tokens. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
-242,Rampart Smasher,"G, R",4.0,{R/G}{R/G}{R/G}{R/G},5.0,5.0,,Rampart Smasher can't be blocked by Knights or Walls.,uncommon,,,Creature,Giant
-243,Resolute Rider,"B, W",4.0,{W/B}{W/B}{W/B}{W/B},4.0,2.0,,"{W/B}{W/B}: Resolute Rider gains lifelink until end of turn.
+237,Oakhame Ranger,"W, G",4.0,{G/W}{G/W}{G/W}{G/W},2.0,2.0,,{T}: Creatures you control get +1/+1 until end of turn.,uncommon,,,Creature,"Elf, Knight, Ranger"
+238,Bring Back,"W, G",4.0,{G/W}{G/W}{G/W}{G/W},,,,Create two 1/1 white Human creature tokens. (Then exile this card. You may cast the creature later from exile.),uncommon,,,Sorcery,Adventure
+239,Rampart Smasher,"G, R",4.0,{R/G}{R/G}{R/G}{R/G},5.0,5.0,,Rampart Smasher can't be blocked by Knights or Walls.,uncommon,,,Creature,Giant
+240,Resolute Rider,"B, W",4.0,{W/B}{W/B}{W/B}{W/B},4.0,2.0,,"{W/B}{W/B}: Resolute Rider gains lifelink until end of turn.
 {W/B}{W/B}{W/B}: Resolute Rider gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)",uncommon,,,Creature,"Human, Knight"
-244,Thunderous Snapper,"G, U",4.0,{G/U}{G/U}{G/U}{G/U},4.0,4.0,,"Whenever you cast a spell with mana value 5 or greater, draw a card.",uncommon,,,Creature,"Turtle, Hydra"
-245,Clockwork Servant,C,3.0,{3},2.0,3.0,,"Adamant — When Clockwork Servant enters the battlefield, if at least three mana of the same color was spent to cast it, draw a card.",uncommon,Adamant,,"Artifact, Creature",Gnome
-246,Crashing Drawbridge,C,2.0,{2},0.0,4.0,,"Defender
+241,Thunderous Snapper,"G, U",4.0,{G/U}{G/U}{G/U}{G/U},4.0,4.0,,"Whenever you cast a spell with mana value 5 or greater, draw a card.",uncommon,,,Creature,"Turtle, Hydra"
+242,Clockwork Servant,C,3.0,{3},2.0,3.0,,"Adamant — When Clockwork Servant enters the battlefield, if at least three mana of the same color was spent to cast it, draw a card.",uncommon,Adamant,,"Artifact, Creature",Gnome
+243,Crashing Drawbridge,C,2.0,{2},0.0,4.0,,"Defender
 {T}: Creatures you control gain haste until end of turn.",common,Defender,,"Artifact, Creature",Wall
-247,Enchanted Carriage,C,5.0,{5},4.0,4.0,,"When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse creature tokens.
+244,Enchanted Carriage,C,5.0,{5},4.0,4.0,,"When Enchanted Carriage enters the battlefield, create two 1/1 white Mouse creature tokens.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",uncommon,Crew,,Artifact,Vehicle
-248,Gingerbrute,C,1.0,{1},1.0,1.0,,"Haste
+245,Gingerbrute,C,1.0,{1},1.0,1.0,,"Haste
 {1}: Gingerbrute can't be blocked this turn except by creatures with haste.
 {2}, {T}, Sacrifice Gingerbrute: You gain 3 life.",common,Haste,,"Artifact, Creature","Food, Golem"
-249,Golden Egg,C,2.0,{2},,,,"When Golden Egg enters the battlefield, draw a card.
+246,Golden Egg,C,2.0,{2},,,,"When Golden Egg enters the battlefield, draw a card.
 {1}, {T}, Sacrifice Golden Egg: Add one mana of any color.
 {2}, {T}, Sacrifice Golden Egg: You gain 3 life.",common,,,Artifact,Food
-250,Henge Walker,C,3.0,{3},2.0,2.0,,"Adamant — If at least three mana of the same color was spent to cast this spell, Henge Walker enters the battlefield with a +1/+1 counter on it.",common,Adamant,,"Artifact, Creature",Golem
-251,Heraldic Banner,C,3.0,{3},,,,"As Heraldic Banner enters the battlefield, choose a color.
+247,Henge Walker,C,3.0,{3},2.0,2.0,,"Adamant — If at least three mana of the same color was spent to cast this spell, Henge Walker enters the battlefield with a +1/+1 counter on it.",common,Adamant,,"Artifact, Creature",Golem
+248,Heraldic Banner,C,3.0,{3},,,,"As Heraldic Banner enters the battlefield, choose a color.
 Creatures you control of the chosen color get +1/+0.
 {T}: Add one mana of the chosen color.",uncommon,,,Artifact,
-252,Inquisitive Puppet,C,1.0,{1},0.0,2.0,,"When Inquisitive Puppet enters the battlefield, scry 1.
+249,Inquisitive Puppet,C,1.0,{1},0.0,2.0,,"When Inquisitive Puppet enters the battlefield, scry 1.
 Exile Inquisitive Puppet: Create a 1/1 white Human creature token.",uncommon,Scry,,"Artifact, Creature",Construct
-253,Jousting Dummy,C,2.0,{2},2.0,1.0,,{3}: Jousting Dummy gets +1/+0 until end of turn.,common,,,"Artifact, Creature","Scarecrow, Knight"
-254,Locthwain Gargoyle,C,1.0,{1},0.0,3.0,,{4}: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn.,common,,,"Artifact, Creature",Gargoyle
-255,Lucky Clover,C,2.0,{2},,,,"Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.",uncommon,,,Artifact,
-256,Prophet of the Peak,C,6.0,{6},5.0,5.0,,"When Prophet of the Peak enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,Scry,,"Artifact, Creature",Cat
-257,Roving Keep,C,7.0,{7},5.0,7.0,,"Defender
+250,Jousting Dummy,C,2.0,{2},2.0,1.0,,{3}: Jousting Dummy gets +1/+0 until end of turn.,common,,,"Artifact, Creature","Scarecrow, Knight"
+251,Locthwain Gargoyle,C,1.0,{1},0.0,3.0,,{4}: Locthwain Gargoyle gets +2/+0 and gains flying until end of turn.,common,,,"Artifact, Creature",Gargoyle
+252,Lucky Clover,C,2.0,{2},,,,"Whenever you cast an Adventure instant or sorcery spell, copy it. You may choose new targets for the copy.",uncommon,,,Artifact,
+253,Prophet of the Peak,C,6.0,{6},5.0,5.0,,"When Prophet of the Peak enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",common,Scry,,"Artifact, Creature",Cat
+254,Roving Keep,C,7.0,{7},5.0,7.0,,"Defender
 {7}: Roving Keep gets +2/+0 and gains trample until end of turn. It can attack this turn as though it didn't have defender.",common,Defender,,"Artifact, Creature",Wall
-258,Scalding Cauldron,C,1.0,{1},,,,"{3}, {T}, Sacrifice Scalding Cauldron: It deals 3 damage to target creature.",common,,,Artifact,
-259,Shambling Suit,C,3.0,{3},,3.0,,Shambling Suit's power is equal to the number of artifacts and/or enchantments you control.,uncommon,,,"Artifact, Creature",Construct
-260,Signpost Scarecrow,C,4.0,{4},2.0,4.0,,"Vigilance
+255,Scalding Cauldron,C,1.0,{1},,,,"{3}, {T}, Sacrifice Scalding Cauldron: It deals 3 damage to target creature.",common,,,Artifact,
+256,Shambling Suit,C,3.0,{3},,3.0,,Shambling Suit's power is equal to the number of artifacts and/or enchantments you control.,uncommon,,,"Artifact, Creature",Construct
+257,Signpost Scarecrow,C,4.0,{4},2.0,4.0,,"Vigilance
 {2}: Add one mana of any color.",common,Vigilance,,"Artifact, Creature",Scarecrow
-261,Sorcerer's Broom,C,2.0,{2},2.0,1.0,,"Whenever you sacrifice another permanent, you may pay {3}. If you do, create a token that's a copy of Sorcerer's Broom.",uncommon,,,"Artifact, Creature",Spirit
-262,Sorcerous Spyglass,C,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
+258,Sorcerer's Broom,C,2.0,{2},2.0,1.0,,"Whenever you sacrifice another permanent, you may pay {3}. If you do, create a token that's a copy of Sorcerer's Broom.",uncommon,,,"Artifact, Creature",Spirit
+259,Sorcerous Spyglass,C,2.0,{2},,,,"As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
 Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.",rare,,,Artifact,
-263,Spinning Wheel,C,3.0,{3},,,,"{T}: Add one mana of any color.
+260,Spinning Wheel,C,3.0,{3},,,,"{T}: Add one mana of any color.
 {5}, {T}: Tap target creature.",uncommon,,,Artifact,
-264,Stonecoil Serpent,C,0.0,{X},0.0,0.0,,"Reach, trample, protection from multicolored
-Stonecoil Serpent enters the battlefield with X +1/+1 counters on it.",rare,"Protection, Reach, Trample",,"Artifact, Creature",Snake
-265,Weapon Rack,C,4.0,{4},,,,"Weapon Rack enters the battlefield with three +1/+1 counters on it.
+261,Weapon Rack,C,4.0,{4},,,,"Weapon Rack enters the battlefield with three +1/+1 counters on it.
 {T}: Move a +1/+1 counter from Weapon Rack onto target creature. Activate only as a sorcery.",common,,,Artifact,
-266,Witch's Oven,C,1.0,{1},,,,"{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,,,Artifact,
-267,Castle Ardenvale,L,0.0,,,,,"Castle Ardenvale enters the battlefield tapped unless you control a Plains.
+262,Witch's Oven,C,1.0,{1},,,,"{T}, Sacrifice a creature: Create a Food token. If the sacrificed creature's toughness was 4 or greater, create two Food tokens instead. (They're artifacts with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",uncommon,,,Artifact,
+263,Castle Ardenvale,L,0.0,,,,,"Castle Ardenvale enters the battlefield tapped unless you control a Plains.
 {T}: Add {W}.
 {2}{W}{W}, {T}: Create a 1/1 white Human creature token.",rare,,,Land,
-268,Castle Embereth,L,0.0,,,,,"Castle Embereth enters the battlefield tapped unless you control a Mountain.
+264,Castle Embereth,L,0.0,,,,,"Castle Embereth enters the battlefield tapped unless you control a Mountain.
 {T}: Add {R}.
 {1}{R}{R}, {T}: Creatures you control get +1/+0 until end of turn.",rare,,,Land,
-269,Castle Garenbrig,L,0.0,,,,,"Castle Garenbrig enters the battlefield tapped unless you control a Forest.
+265,Castle Garenbrig,L,0.0,,,,,"Castle Garenbrig enters the battlefield tapped unless you control a Forest.
 {T}: Add {G}.
 {2}{G}{G}, {T}: Add six {G}. Spend this mana only to cast creature spells or activate abilities of creatures.",rare,,,Land,
-270,Castle Locthwain,L,0.0,,,,,"Castle Locthwain enters the battlefield tapped unless you control a Swamp.
+266,Castle Locthwain,L,0.0,,,,,"Castle Locthwain enters the battlefield tapped unless you control a Swamp.
 {T}: Add {B}.
 {1}{B}{B}, {T}: Draw a card, then you lose life equal to the number of cards in your hand.",rare,,,Land,
-271,Castle Vantress,L,0.0,,,,,"Castle Vantress enters the battlefield tapped unless you control an Island.
+267,Castle Vantress,L,0.0,,,,,"Castle Vantress enters the battlefield tapped unless you control an Island.
 {T}: Add {U}.
 {2}{U}{U}, {T}: Scry 2.",rare,Scry,,Land,
-272,Dwarven Mine,L,0.0,,,,,"({T}: Add {R}.)
+268,Dwarven Mine,L,0.0,,,,,"({T}: Add {R}.)
 Dwarven Mine enters the battlefield tapped unless you control three or more other Mountains.
 When Dwarven Mine enters the battlefield untapped, create a 1/1 red Dwarf creature token.",common,,,Land,Mountain
-273,Fabled Passage,L,0.0,,,,,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",rare,,,Land,
-274,Gingerbread Cabin,L,0.0,,,,,"({T}: Add {G}.)
+269,Fabled Passage,L,0.0,,,,,"{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",rare,,,Land,
+270,Gingerbread Cabin,L,0.0,,,,,"({T}: Add {G}.)
 Gingerbread Cabin enters the battlefield tapped unless you control three or more other Forests.
 When Gingerbread Cabin enters the battlefield untapped, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this artifact: You gain 3 life."")",common,,,Land,Forest
-275,Idyllic Grange,L,0.0,,,,,"({T}: Add {W}.)
+271,Idyllic Grange,L,0.0,,,,,"({T}: Add {W}.)
 Idyllic Grange enters the battlefield tapped unless you control three or more other Plains.
 When Idyllic Grange enters the battlefield untapped, put a +1/+1 counter on target creature you control.",common,,,Land,Plains
-276,Mystic Sanctuary,L,0.0,,,,,"({T}: Add {U}.)
+272,Mystic Sanctuary,L,0.0,,,,,"({T}: Add {U}.)
 Mystic Sanctuary enters the battlefield tapped unless you control three or more other Islands.
 When Mystic Sanctuary enters the battlefield untapped, you may put target instant or sorcery card from your graveyard on top of your library.",common,,,Land,Island
-277,Tournament Grounds,L,0.0,,,,,"{T}: Add {C}.
+273,Tournament Grounds,L,0.0,,,,,"{T}: Add {C}.
 {T}: Add {R}, {W}, or {B}. Spend this mana only to cast a Knight or Equipment spell.",uncommon,,,Land,
-278,Witch's Cottage,L,0.0,,,,,"({T}: Add {B}.)
+274,Witch's Cottage,L,0.0,,,,,"({T}: Add {B}.)
 Witch's Cottage enters the battlefield tapped unless you control three or more other Swamps.
 When Witch's Cottage enters the battlefield untapped, you may put target creature card from your graveyard on top of your library.",common,,,Land,Swamp
-279,"Rowan, Fearless Sparkmage",R,5.0,{3}{R}{R},,,5.0,"[+1]: Up to one target creature gets +3/+0 and gains first strike until end of turn.
+275,"Rowan, Fearless Sparkmage",R,5.0,{3}{R}{R},,,5.0,"[+1]: Up to one target creature gets +3/+0 and gains first strike until end of turn.
 [−2]: Rowan, Fearless Sparkmage deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.
 [−9]: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.",mythic,,Legendary,Planeswalker,Rowan
-280,Garrison Griffin,W,3.0,{2}{W},2.0,2.0,,"Flying
+276,Garrison Griffin,W,3.0,{2}{W},2.0,2.0,,"Flying
 Whenever Garrison Griffin attacks, target Knight you control gains flying until end of turn.",common,Flying,,Creature,Griffin
-281,Rowan's Battleguard,R,4.0,{3}{R},3.0,3.0,,"First strike
+277,Rowan's Battleguard,R,4.0,{3}{R},3.0,3.0,,"First strike
 As long as you control a Rowan planeswalker, Rowan's Battleguard gets +3/+0.",uncommon,First strike,,Creature,"Human, Knight"
-282,Rowan's Stalwarts,R,5.0,{4}{R},5.0,2.0,,"When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature,"Human, Knight"
-283,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
+278,Rowan's Stalwarts,R,5.0,{4}{R},5.0,2.0,,"When Rowan's Stalwarts enters the battlefield, you may search your library and/or graveyard for a card named Rowan, Fearless Sparkmage, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Creature,"Human, Knight"
+279,Wind-Scarred Crag,L,0.0,,,,,"Wind-Scarred Crag enters the battlefield tapped.
 When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 {T}: Add {R} or {W}.",common,,,Land,
-284,"Oko, the Trickster","G, U",6.0,{4}{G}{U},,,4.0,"[+1]: Put two +1/+1 counters on up to one target creature you control.
+280,"Oko, the Trickster","G, U",6.0,{4}{G}{U},,,4.0,"[+1]: Put two +1/+1 counters on up to one target creature you control.
 [0]: Until end of turn, Oko, the Trickster becomes a copy of target creature you control. Prevent all damage that would be dealt to him this turn.
 [−7]: Until end of turn, each creature you control has base power and toughness 10/10 and gains trample.",mythic,,Legendary,Planeswalker,Oko
-285,Oko's Accomplices,U,3.0,{2}{U},2.0,3.0,,Flying,common,Flying,,Creature,Faerie
-286,Bramblefort Fink,G,2.0,{1}{G},2.0,2.0,,{8}: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker.,uncommon,,,Creature,Ouphe
-287,Oko's Hospitality,"G, U",5.0,{3}{G}{U},,,,"Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Instant,
-288,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
+281,Oko's Accomplices,U,3.0,{2}{U},2.0,3.0,,Flying,common,Flying,,Creature,Faerie
+282,Bramblefort Fink,G,2.0,{1}{G},2.0,2.0,,{8}: Bramblefort Fink has base power and toughness 10/10 until end of turn. Activate only if you control an Oko planeswalker.,uncommon,,,Creature,Ouphe
+283,Oko's Hospitality,"G, U",5.0,{3}{G}{U},,,,"Creatures you control have base power and toughness 3/3 until end of turn. You may search your library and/or graveyard for a card named Oko, the Trickster, reveal it, and put it into your hand. If you search your library this way, shuffle.",rare,,,Instant,
+284,Thornwood Falls,L,0.0,,,,,"Thornwood Falls enters the battlefield tapped.
 When Thornwood Falls enters the battlefield, you gain 1 life.
 {T}: Add {G} or {U}.",common,,,Land,
